@@ -16,6 +16,20 @@ https://www.youtube.com/watch?v=9ohl-sQVgZU
 
 
 
+https://m.olx.ua/d/uk/obyavlenie/ecoflow-river-max-river-pro-korpus-IDYiJn5.html?search_reason=search%7Corganic
+
+https://m.olx.ua/d/uk/obyavlenie/ecoflow-delta-2-lipo4-rozbrka-IDYAufD.html?isPreviewActive=1
+
+---
+
+https://www.nkon.nl/ua/gotion-ifp53148115-104a-lifepo4-3-2v-grade-a.html
+
+
+
+
+
+
+
 # Introduction
 
 Welcome to the fuck-ecoflow documentation!
