@@ -1,6 +1,4 @@
-Done — I read the pasted chat and turned it into a concise, actionable project document you can drop into the repository. Below is a cleaned, structured specification + tasks list that converts the conversation into decisions to make, engineering steps, and immediate next actions.
 
-What I did: extracted goals, constraints, design options, open questions and turned them into an ordered plan with milestones, deliverables, acceptance criteria and concrete tasks for contributors. What’s next: confirm the missing numbers (battery chemistry, number per case, max input power) and create the repo files & issues I list at the end.
 
 ---
 Project: Portable Charging Station — FPV / LiFePO4 battery charger
@@ -131,6 +129,3 @@ Recommendation: prototype with Option A for first builds (5–10 cases). After f
 - Target number of batteries per case (recommended starting cap: 8 or 10)?
 - Do we want to accept direct 220 VAC input on-board, or supply an external AC→DC adapter first?
 - Do you want me to add this document to the repo at docs/charging-station/design-spec.md and open the starter GitHub issues automatically (I can do that if you confirm repo/branch and want me to run the calls)?
-
-If you want, I can:
-- Paste this into docs/charging-station/design-spec.md in the repo and open the initial issues (I’ll need confirmation of the repo path and whether to create issues).
