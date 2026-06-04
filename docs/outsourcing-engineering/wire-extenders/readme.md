@@ -22,7 +22,7 @@ Tasks:
 **Address to send the wiring to the recipient**
 
 Rivne region, Sarny district, village Selets,
-
+<!--
 Voitovych Oleksandr Pavlovych
 
 tel: 0507862507
@@ -35,6 +35,8 @@ Regarding shipment:
 0675207811
 Vilshanskyi Dmytro Oleksandrovych (private person)
 Kyiv branch 209
+
+-->
 
 ---
 
