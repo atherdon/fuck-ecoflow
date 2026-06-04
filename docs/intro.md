@@ -26,6 +26,9 @@ https://www.nkon.nl/ua/gotion-ifp53148115-104a-lifepo4-3-2v-grade-a.html
 
 
 
+Potreba Document
+https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/edit?gid=0#gid=0
+
 
 
 
