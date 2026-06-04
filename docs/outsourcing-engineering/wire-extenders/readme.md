@@ -10,10 +10,10 @@ Or, for example, we can make 20 pieces and distribute the remainder to other div
 
 Tasks:
 
-- [ ] merge the old extender document + add information and a ton of photos about the balancers.
-- [ ] create a list of what and how much we buy purely for the wiring/cables.
-- [ ] collect 14 thousand from Vuyko to Maksym's card.
-- [ ] order everything on Prom (prom.ua) and send with free delivery to the private recipient.
+- [x] merge the old extender document + add information and a ton of photos about the balancers.
+- [x] create a list of what and how much we buy purely for the wiring/cables.
+- [x] collect 14 thousand from Vuyko to Maksym's card.
+- [x] order everything on Prom (prom.ua) and send with free delivery to the private recipient.
 - [ ] let's not send everything to the recipient at once. We can first order the part that corresponds to the extenders [...]
 - [ ] we can send half of the goods (the balancers)
 
