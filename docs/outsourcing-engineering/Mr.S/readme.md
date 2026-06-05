@@ -1,10 +1,14 @@
-So, I don't know if you read this long document, the stupid one,
+So, I don't know if you read this long document, the stupid one...
 
 I probably will cut the bullshit from it and make it for normal people, make it like 15 pages or something.
 it will be less boring, more strict, etc.
 
 
-And, to give you more information, right now we're waiting for wires, other stuff.
+And, to give you more information, right now we're waiting for wires,circit boards and other stuff.
+If you interested, for details you can follow this document: 
+
+
+
 0:37 That Archaist collected 500 euro. I thought it will be about 350 euro, but for some reasons AliExpress decided to make more money from us. PlasticFantastic ordered them and we are waiting for the delivery into Ukraine.
 
  Again, I still need to see what will be delivered, etc.
