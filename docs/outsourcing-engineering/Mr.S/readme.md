@@ -28,18 +28,19 @@ I will try to make a horizontal organization with highly outsourced, motivated p
 
 At the moment we need to organize everything. I already made a lot of connections and I want to jumpstart many small, separate teams.
 
-My plan is:
+*My plan* is:
 - Give people very small, easy tasks to start with (e.g., take 2 wires, 2 connectors, solder/weld them together).
 - Establish a stable workflow under my rules.
 - Gradually expand what they do as processes stabilize.
 
-Example: we have Rostislav in Kyiv — https://www.facebook.com/RostUkr. He’s a great dude doing a lot for the army. He’s cool, but he’s burned out right now and still making the same small devices he built for us a year ago. That’s good, but not enough for me.
+## Example: we have Rostislav in Kyiv — https://www.facebook.com/RostUkr. 
+He’s a great dude doing a lot for the army. He’s cool, but he’s burned out right now and still making the same small devices he built for us a year ago. That’s good, but not enough for me.
 
 A year ago it was necessary to drop small power banks from Mavic, and that was working — he did his part well. Other guys, our pilots, delivered those power banks.
 
 Right now I don't need those small power banks from him, so he’s basically buying some circuit boards, finding batteries, gluing them together and sending power banks to the Army.
 
-My plan is to shift him (and other volunteers) from doing small one-off things into something bigger, more complete and more impactful. I think people want to help, but when you push them too hard they run away.
+My plan is to shift him (and other volunteers) from doing small one-off things into something bigger, more complex and more impactful. I think people want to help, but when you push them too hard they run away.
 
 ---
 
@@ -53,10 +54,3 @@ In order to do that, I need resources:
 
 After that, I will spread the workflow and scale distribution.
 
----
-
-## Notes / complaints
-
-{me complaining}
-
-I will cut the document down, make it clearer and more actionable. For now this is the status and the plan.
