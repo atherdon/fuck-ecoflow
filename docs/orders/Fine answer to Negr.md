@@ -1,4 +1,4 @@
-# Fine answer to African Негру
+# Fine answer
 
 Трохи деталей про те, що в нас зараз відбувається.
 
