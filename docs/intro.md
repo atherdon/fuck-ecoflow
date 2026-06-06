@@ -4,7 +4,9 @@ sidebar_position: 1
 
 
 
-https://www.drone-sitkomet.com/#kits
+https://www.drone-sitkomet.com/#kits telegram
+
+---
 
 
 
