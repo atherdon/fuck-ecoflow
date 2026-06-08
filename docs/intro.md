@@ -52,27 +52,6 @@ This documentation provides information about the fuck-ecoflow project.
 To get started with this project, please refer to the documentation sections below.
 
 
-3D
-
-- https://www.printables.com/model/506853-fpv-battery-divider-for-30-caliber-ammo-can
-- https://www.printables.com/model/660944-lightweight-21700-6s2p-6s3p-battery-holder
-- https://www.printables.com/model/477926-21700-battery-beer-crate
-- https://www.printables.com/model/603090-18650-21700-battery-dispenser-double-stack
-- https://www.printables.com/model/268606-21700-modular-battery-holder
-- https://www.printables.com/model/1544888-zigzagstack-battery-dispenser-parametric-18650-217
-- https://www.printables.com/model/1039777-fixing-21700-batteries-for-spot-welding
-- https://www.printables.com/model/535263-4-wire-cell-holder-for-battery-testing-18650-21700
-- https://www.printables.com/model/717313-18650-battery-holder
-- https://www.printables.com/model/280142-18650-3s6p-holder
-- https://www.printables.com/model/175596-18650-battery-holder
-- https://www.printables.com/model/493701-3x7-18650-holder
-
-
-- https://www.thingiverse.com/thing:366075#google_vignette
-- https://www.thingiverse.com/thing:3529284
-- https://www.thingiverse.com/thing:6414115
-
-- https://prom.ua/ua/p2627239119-xt60-parallelnyj-soedinitel.html
 
 ---
 
