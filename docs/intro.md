@@ -63,4 +63,3 @@ To get started with this project, please refer to the documentation sections bel
 
 - https://makerworld.com/en/models/2303157-xt60-to-65w-usb-c-charger-neo-2?from=search#profileId-2513809
 
-
