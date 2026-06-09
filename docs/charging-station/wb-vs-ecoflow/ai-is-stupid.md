@@ -53,7 +53,7 @@ Recommendation: prototype with Option A for first builds (5–10 cases). After f
 - Thermal: use case as radiator (metal) or include heatsinks + fan (plastic case).
 
 7) Cost & sizing (ballpark from chat)
-- Single-channel prototype board: hopeful target <$20 each at qty 100 (component costs not yet finalized).
+- Single-channel prototype board: hopeful target less than $20 each at qty 100 (component costs not yet finalized).
 - Multi-channel (8-ch) board: estimated 2×–3× cost to build vs one board (per chat) — need exact BOM to refine.
 - Enclosure: toolboxes or ammo boxes (donations possible). Source examples were shared in chat (AliExpress links).
 
