@@ -1,41 +1,44 @@
-I have a personal story about destroyed Dam in Khahovka 3 years ago.
+I have a personal story about the destroyed dam in Kakhovka. This happened three years ago.
 
-After a few months without a job and with a debt i finally obtained a postion of PO in a great German company.
+After several months without a job and deep in debt, I finally got a position as a Product Owner at a great German company.
 
-I want to do more work for my new company, but I didnt have enough power to do more on my own.
-So I start to ask for help. I was hiring assistants for some simple copy-paste, data entry work.
-Approach was very simple: to localize a promlem or a few during a week and act on that problem. But not by doing more work, instead actually doing less. I was optimizing "the flow" making it better, simpliear and collecting infromation from different channels into one stream of information that i can use later.
+I wanted to do more work for my new company. But I didn't have the power to do it alone.
 
-On a weekend I was writing a detailed explanation of what i actually want to accomplish - find a new person on a "test drive".
+So I started asking for help. I hired assistants for simple copy-paste and data entry work. The approach was straightforward: find one or two problems each week and fix them. But not by doing more work—by doing less. I was optimizing the flow, making it better.
 
-This helped me to optimize 7 processes during the 7 weeks. call it cheating, but i used my own money, still work my 168h per month.
+On weekends, I wrote detailed explanations of what I wanted to accomplish. This helped me find new people to test drive in the role.
 
-At one of the weeks - i started to reviewing candidates for a new simple work. 
-And I find one young girl. we started discussing the task - i gave her a long read of text, that was explaining what i want to accomplish and what she must do during the next week.
+Over seven weeks, I optimized seven different processes. I used my own money for this. I still worked 168 hours a month. You could call it cheating, but it worked.
 
-I know she can do it. But she refused to start the work. I had my mix of feelings - the task is easy - the money is ok - why not to start?
+One week, I reviewed candidates for a new position. I found a young girl and we started talking about the task. I gave her a long text explaining what I wanted to accomplish and what she needed to do that week.
+
+I knew she could do it. But she refused to start.
+
+I had mixed feelings. The task was easy. The money was fair. So why not?
+
+Then she told me her story.
+
+She was from Kakhovka. Whole city was flooded. Her street as well. a few houses on the other side of street were washed away completely. Her house got wet but survived.
+
+But her mother broke her leg. In one day, this girl became the main provider for her family. She also had to care for her mother.
+
+She was stressed and didn't know what to do next.
+
+I started pushing her to take money in advance. I wanted to give her a promise that people can help—even strangers like me. I told her: if you evacuate with your mother, we will find money and a place for your family to stay. For free.
+
+I cried after that conversation with her. After mobilization, I never spoke with her again.
+
+I just hope she and her mother are okay.
 
 
-And she told her story.
+I was crying after chatting with her. After mobilization, I didn't speak with her again.
+I just hope she and her mother are fine...
 
-She is from Kahovka. whole street was flooded with water. houses from the same street but on the other side was washed away.
-Her house was wet but "fine". Her mother broke her leg. And this girl in a day becoming the main provider of the family. 
-And she also mush help the mother.
+**My closing words:**
 
-She was very stressed and very unsure of what to do next.
+To those Ukrainians that still prefer Russian language, culture, and music:
+I want to remind you—the order to destroy that dam was given in Russian language. Those same people claiming to love Pushkin, Bulgakov, Tsoy, and Ariya can authorize the destruction of our homes.
 
-Me started push her to take money in advance, to give her some promise that people can help. Even strangers like me. 
-I told her that if she evacuate with her mother - we will find a money and a place to stay for her family for free.
+This catastrophe reminded me why this work matters. This is why I'm still fucking fighting.
 
-
-88ck i was crying after chatting with her. after mobilization i didnt spoke with her.
-I just hope she and her mother is fine...
-
-
-My closing words:
-
-To those Ukrainians that still prefer rus lang, culture, music:
-I want to remind you - an order to destroy that dam was done in russian language, those people(uhh) also loving Pushkin, Bulgakov, Tsoy and Ariya 
-
-I was reminded about this catastrophe by a post from Anastasia.
-
+I was reminded about this disaster by a post from Anastasia.
