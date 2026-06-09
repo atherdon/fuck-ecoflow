@@ -32,3 +32,10 @@ I told her that if she evacuate with her mother - we will find a money and a pla
 I just hope she and her mother is fine...
 
 
+My closing words:
+
+To those Ukrainians that still prefer rus lang, culture, music:
+I want to remind you - an order to destroy that dam was done in russian language, those people(uhh) also loving Pushkin, Bulgakov, Tsoy and Ariya 
+
+I was reminded about this catastrophe by a post from Anastasia.
+
