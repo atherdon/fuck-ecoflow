@@ -1,3 +1,7 @@
+---
+slug: /charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25
+---
+
 # Case #0 - Proof of concept - Mr.S 27.05.25
 
 Created: June 6, 2025 8:01 AM
