@@ -15,3 +15,10 @@
 https://m.olx.ua/d/uk/obyavlenie/korpus-lifepo4-105a-130a-230a-280a-314a-IDVgwdf.html
 
 [https://m.olx.ua/d/uk/obyavlenie/korpus-105-110-125-130-150-230-280-304-314-4s-16s-eve-lifepo4-IDViPUF.html](https://m.olx.ua/d/uk/obyavlenie/korpus-105-110-125-130-150-230-280-304-314-4s-16s-eve-lifepo4-IDViPUF.html). ?
+
+
+---
+
+
+Нижче кидаю дуже грамотний DIY проект який я вважаю можно взяти за основу якщо робити на lifepo4 [https://www.youtube.com/watch?v=rY3L94njINY](https://www.youtube.com/watch?v=rY3L94njINY) 
+
