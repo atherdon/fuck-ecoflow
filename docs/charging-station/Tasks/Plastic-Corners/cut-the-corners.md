@@ -3,6 +3,8 @@
 ## Objective
 Design and implement protective plastic corners for ammo box-based charging cases to absorb impact and improve durability during ground contact and drone delivery operations.
 
+[Current version that Rob created](https://www.dropbox.com/scl/fi/wcve8dc7q381cl6ltv94o/Part-Studio-1-Foot-1.stl?rlkey=qtqld8cz5xldf2m01145a37rl&st=6c0fzkhc&dl=0)
+
 ## Background & Context
 
 ### Challenge
