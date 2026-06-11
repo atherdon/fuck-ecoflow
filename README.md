@@ -6,4 +6,5 @@
 
 # fuck-ecoflow
 
-У третю річницю підриву Каховської ГЕС нагадаю, що команду її підірвати віддавали на зрозумілій мові любителі Пушкіна, Булгакова, Цоя і Лепса
+
+https://makerworld.com/ru/models/1976279-xt60-usb-qc3-0-charger-adapter-compact-version?from=search#profileId-2223088
