@@ -55,6 +55,14 @@ To get started with this project, please refer to the documentation sections bel
 
 ---
 
+
+
+
+
+
+
+
+
 - https://makerworld.com/en/models/1976279-xt60-usb-qc3-0-charger-adapter-compact-version?from=search#profileId-2223088
 
 - https://makerworld.com/en/search/models?keyword=XT60+%E2%86%92+USB+QC3.0
