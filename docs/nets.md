@@ -1,6 +1,11 @@
-[xxx](https://www.instagram.com/ptashka.drones/)
+[Ptashka Insta](https://www.instagram.com/ptashka.drones/)
+
+https://www.youtube.com/watch?v=1QNyyneW8iY
 
 
-[xxx](https://www.blue-bird.tech/)
+
+
+[BlueBird Tech](https://www.blue-bird.tech/)
 
 https://www.drone-sitkomet.com/#order
+
