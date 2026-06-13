@@ -1,6 +1,6 @@
 # Необхідне на закупку
 
-Трубки 30 метрів
+## Трубки 30 метрів
 
 https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba-alyuminiyeva-kruhla/truba-krugla-16mm/
 
@@ -10,14 +10,19 @@ https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba
 
 Ітого 2430 грн + порізка + доставка
 
-Батарея 66 для вампіра
+---
+
+## Батарея 66 для вампіра
 
 [https://rozetka.com.ua/ua/532058589/p532058589/](https://rozetka.com.ua/ua/532058589/p532058589/)
 *[https://aix.com.ua/index.php?route=product/product&product_id=100099](https://aix.com.ua/index.php?route=product/product&product_id=100099)*
 
 30к за одиницю
 
-Пропи для вампіра
+
+---
+
+## Пропи для вампіра
 
 https://fpv-market.com/shop/propelery-3011-dlya-hobbywing-x8plus/
 
@@ -33,37 +38,37 @@ https://prom.ua/ua/p744370379-provolochnyj-pripoj-100mm.html
 
 3584
 
-Болгарка
+## Болгарка
 
 [https://rozetka.com.ua/ua/rztk_ag_850s/p252140196/](https://rozetka.com.ua/ua/rztk_ag_850s/p252140196/)
 
 750
 
-Шуруповерт 2 шт.
+## Шуруповерт 2 шт.
 
 [https://rozetka.com.ua/ua/429668231/p429668231/](https://rozetka.com.ua/ua/429668231/p429668231/)
 
 2000
 
-Електровикрутка 2 шт.
+## Електровикрутка 2 шт.
 
 [https://dnipro-m.ua/ru/tovar/akkumulyatornaya-otvertka-csd-36x/](https://dnipro-m.ua/ru/tovar/akkumulyatornaya-otvertka-csd-36x/)
 
 3720
 
-Компресор ручний (турбовентилятор)
+## Компресор ручний (турбовентилятор)
 
 https://rozetka.com.ua/ua/xoko-fan-cl-02v/p497641239/
 
 2700 грн.
 
-Кутова шліфмашинка мала
+## Кутова шліфмашинка мала
 
 [https://rozetka.com.ua/ua/rztk-ag-500li-brushless/p548927367/](https://rozetka.com.ua/ua/rztk-ag-500li-brushless/p548927367/)
 
 1000
 
-Набір рожкових ключів
+## Набір рожкових ключів
 
 [https://rozetka.com.ua/ua/miol_51_710/p275302/](https://rozetka.com.ua/ua/miol_51_710/p275302/)
 
@@ -71,7 +76,7 @@ https://rozetka.com.ua/ua/xoko-fan-cl-02v/p497641239/
 
 502-536
 
-Набори викруток (шліц, хрест) 3 набори
+## Набори викруток (шліц, хрест) 3 набори
 
 [https://rozetka.com.ua/ua/wokin-wk200808/p513076139/](https://rozetka.com.ua/ua/wokin-wk200808/p513076139/)
 
@@ -81,7 +86,7 @@ https://rozetka.com.ua/ua/stark_502505000/p11884573/
 
 1073
 
-Свердла 3 набори
+## Свердла 3 набори
 
 https://rozetka.com.ua/ua/395472642/p395472642/comments/
 
@@ -89,37 +94,37 @@ https://rozetka.com.ua/ua/222394003/p222394003/
 
 1403
 
-Тріскачка мала з набором малих торцевих головок  (потрібні малі розміри від ?)
+## Тріскачка мала з набором малих торцевих головок  (потрібні малі розміри від ?)
 
 https://rozetka.com.ua/ua/364930797/p364930797/
 
 1019
 
-Ключі 6-гранні Г-подібні з кульовим наконечником (5 наборів)
+## Ключі 6-гранні Г-подібні з кульовим наконечником (5 наборів)
 
 [https://rozetka.com.ua/ua/yato-yt-0506/p425825526/](https://rozetka.com.ua/ua/yato-yt-0506/p425825526/)
 
 300*5=1500 грн.
 
-Led стрічка 30м
+## Led стрічка 30м
 
 [https://prom.ua/ua/p46131166-led-lenta-oem.html](https://prom.ua/ua/p46131166-led-lenta-oem.html)
 
 999
 
-Компресор стаціонарний
+## Компресор стаціонарний
 
 https://rozetka.com.ua/ua/werk_605116/p12739463/
 
 **4 949**
 
-Шланг, пістолет продувочний та для накачування шин
+## Шланг, пістолет продувочний та для накачування шин
 
 [https://rozetka.com.ua/ua/476650609/p476650609/](https://rozetka.com.ua/ua/476650609/p476650609/)
 
 596
 
-Стабілізатор напруги (1 - 2000VA, 1 - 3000+VA) 
+## Стабілізатор напруги (1 - 2000VA, 1 - 3000+VA) 
 
 https://rozetka.com.ua/ua/458557954/p458557954/
 
@@ -131,7 +136,7 @@ https://rozetka.com.ua/ua/ups-kemot-154729285/p556519107/
 
 3-5 к за один
 
-Кусачки різні 4 види
+## Кусачки різні 4 види
 
 [https://prom.ua/ua/p1442111467-kusachki-bokorezy-dlya.html](https://prom.ua/ua/p1442111467-kusachki-bokorezy-dlya.html)
 
@@ -143,13 +148,13 @@ https://rozetka.com.ua/ua/ups-kemot-154729285/p556519107/
 
 394
 
-Пасатижі
+## Пасатижі
 
 https://prom.ua/ua/p1270419394-pasatizhi-dnipro-dlya.html
 
 210
 
-Тонкогубці 2 види
+## Тонкогубці 2 види
 
 [https://prom.ua/ua/p1270419839-tonkogubtsi-dnipro-dlya.html](https://prom.ua/ua/p1270419839-tonkogubtsi-dnipro-dlya.html)
 
@@ -157,7 +162,7 @@ https://prom.ua/ua/p1270419394-pasatizhi-dnipro-dlya.html
 
 362
 
-Молоток 4 шт
+## Молоток 4 шт
 
 [https://prom.ua/ua/p1236281823-molotok-polax-slesarnyj.html](https://prom.ua/ua/p1236281823-molotok-polax-slesarnyj.html)
 
