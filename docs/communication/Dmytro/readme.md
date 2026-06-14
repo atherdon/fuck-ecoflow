@@ -5,3 +5,5 @@
 [Basic introduction](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro.md)
 
 [Simple products - stage 1 for jumpstart](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/01-outsourcing-engineering/simple-products/readme.md)
+
+[charging station](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/01-outsourcing-engineering/charging-station/physicist-ua.md)
