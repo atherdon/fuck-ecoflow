@@ -178,4 +178,18 @@ https://prom.ua/ua/p1270419394-pasatizhi-dnipro-dlya.html
 
 [https://prom.ua/ua/p1336827032-nozhovka-ruchnaya-metallu.html](https://prom.ua/ua/p1336827032-nozhovka-ruchnaya-metallu.html)
 
+
+| Item | Qty / Notes | Links | Price (UAH) | Comments |
+|---|---:|---|---:|---|
+| Трубки 30 метрів — тонкої 1.5mm (15 м) | 15 м | https://www.masters-tvk.com.ua/... | 855 | part of total 2430 + порізка + доставка |
+| Трубки 30 метрів — товстої 3mm (15 м) | 15 м | https://www.masters-tvk.com.ua/... | 1575 | part of total 2430 |
+| Трубки 30 метрів — загалом | 30 м | https://www.masters-tvk.com.ua/... | 2430 | + порізка + доставка |
+| Батарея 66 для вампіра | 1 шт | https://rozetka.com.ua/... , https://aix.com.ua/... | 30,000 | за одиницю |
+| Пропи для вампіра (пропелери) | пара | https://fpv-market.com/... , https://prom.ua/... | 1,200–2,500 | ціна за пару (діапазон) |
+| Припій CYNEL Sn60Pb40-SW26/2.5% Ø1.0, 1kg | 1 кг | https://prom.ua/... | 3,584 | проволочный припой |
+| Болгарка | 1 шт | https://rozetka.com.ua/... | 750 | |
+| Шуруповерт (2 шт.) | 2 шт | https://rozetka.com.ua/... | 2,000 | (в списку як 2000) |
+| Електровикрутка (2 шт.) | 2 шт | https://dnipro-m.ua/... | 3,720 | |
+| Компресор ручний (турбовентилятор) | 1 шт | https://rozetka.com.ua/... | 2,700 | грн. |
+
 756+
