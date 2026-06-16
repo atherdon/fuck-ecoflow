@@ -22,6 +22,9 @@
 
 [https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt60-4-usb-1-type-c-dc-5.52.1-mm](https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt60-4-usb-1-type-c-dc-5.52.1-mm)
 
+https://makerworld.com/models/2842849?appSharePlatform=copy 
+@arthur tkachenko my friend made this device, to power eg. Starlink from fpv batteries
+
 ---
 
 ![image.png](image%206.png)
