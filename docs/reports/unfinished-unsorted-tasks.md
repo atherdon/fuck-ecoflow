@@ -1,6 +1,4 @@
-Не закінченно
 
----
 
 Contact of Max from Odessa get from a Emanuelle
 
