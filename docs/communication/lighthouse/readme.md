@@ -16,7 +16,6 @@
 - batteries from NL
  
 
----
 
 ---
 
@@ -34,17 +33,8 @@
 - roc 4 old vampire antenna
 - сталинк и р2д2 які ми не змогли самі продати.
 
-
-- https://w1744115276-uzj984563.slack.com/archives/C0AT2PK9DPX/p1779366208572219
-- https://w1744115276-uzj984563.slack.com/archives/C0AT2PK9DPX/p1776281397460679?thread_ts=1776281397.460679&cid=C0AT2PK9DPX
-- https://w1744115276-uzj984563.slack.com/archives/C0AQN40BQBY/p1780352121571199?thread_ts=1780352121.571199&cid=C0AQN40BQBY
-- https://w1744115276-uzj984563.slack.com/archives/C0AUFF31X5J/p1779437403917889?thread_ts=1779367756.297169&cid=C0AUFF31X5J
-- https://w1744115276-uzj984563.slack.com/archives/C0AQLP41B29/p1780493477195769
-
----
-
+## кажанское майно
  
-
 ---
 
 ### НР Роман
@@ -58,7 +48,7 @@
 ### Lesnik
 - batteries from NL
 
-something else that we didnt need so can simply jumpstart things?
+- something else that we didnt need so can simply jumpstart things?
 
 ---
 
@@ -81,4 +71,4 @@ something else that we didnt need so can simply jumpstart things?
 Також треба добити підсумки у каналі витрати, щоб ....
 
 
-## кажанское майно
+
