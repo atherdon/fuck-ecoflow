@@ -54,7 +54,7 @@ Below are photos collected as reference for candidate nets and related hardware.
    _Caption: Packaging label and part number (for procurement)._
 
 9. ![Screenshot_20260611-182913.jpg](Screenshot_20260611-182913.jpg)  
-   _Caption: Net with quick-release attachments.
+   _Caption: Net with quick-release attachments._
 
 10. ![Screenshot_20260611-182921.jpg](Screenshot_20260611-182921.jpg)  
     _Caption: Stowage configuration used in launcher tests._
@@ -66,10 +66,10 @@ Below are photos collected as reference for candidate nets and related hardware.
     _Caption: Reinforcement stitching detail._
 
 13. ![Screenshot_20260611-182938.jpg](Screenshot_20260611-182938.jpg)  
-    _Caption: Net material close-up under different lighting.
+    _Caption: Net material close-up under different lighting._
 
 14. ![Screenshot_20260611-182941.jpg](Screenshot_20260611-182941.jpg)  
-    _Caption: Hardware (clips/fasteners) included with nets.
+    _Caption: Hardware (clips/fasteners) included with nets._
 
 15. ![Screenshot_20260611-182947.jpg](Screenshot_20260611-182947.jpg)  
     _Caption: Net deployed on ground (test setup)._
@@ -78,10 +78,18 @@ Below are photos collected as reference for candidate nets and related hardware.
     _Caption: Packaged nets ready for field deployment._
 
 17. ![Screenshot_20260611-182953_(1).jpg](Screenshot_20260611-182953_(1).jpg)  
-    _Caption: Alternate packaging/configuration.
+    _Caption: Alternate packaging/configuration._
+
+---
+
+## References & Links
+- Ptashka Instagram: https://www.instagram.com/ptashka.drones/
+- Demonstration video: https://www.youtube.com/watch?v=1QNyyneW8iY
+- BlueBird Tech: https://www.blue-bird.tech/
+- Drone Sitkomet (order): https://www.drone-sitkomet.com/#order
 
 ---
 
 Notes
-- Image filenames were preserved. If you want images moved into a dedicated subfolder (e.g., images/ or assets/nets/), I can reorganize them and update paths.
+- Image filenames were preserved and remain in this directory. If you want images moved into a dedicated subfolder (e.g., images/ or assets/nets/), I can reorganize them and update paths.
 - I preserved the original cost notes and added captions to make the combined document more usable.
