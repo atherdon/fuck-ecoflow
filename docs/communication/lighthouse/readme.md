@@ -14,3 +14,16 @@
 
 
 3 антенни та 3 бустера.
+
+
+---
+
+
+Max: batteries from NL
+ --> Lesnik
+--> Filin
+--> Physicist
+--> Dmytro Mohyla
+
+
+---
