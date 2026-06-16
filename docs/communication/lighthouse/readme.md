@@ -71,3 +71,6 @@ something else that we didnt need so can simply jumpstart things?
 
 
 Також треба добити підсумки у каналі витрати, щоб ....
+
+
+## кажанское майно
