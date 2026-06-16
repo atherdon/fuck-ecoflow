@@ -1,5 +1,7 @@
 # 4. «USB to XT60»
 
+<img src="./image.png" alt="USB to XT60" width="600" />
+
 ### A small cheap device. As a transitional option when there are no "zhabky" and so on. Allows converting an FPV battery[...]
 
 ![image.png](image.png)
@@ -16,11 +18,11 @@
 
 ![image.png](image%204.png)
 
-[https://vads.com.ua/adapter-xt60-usb-type-c-pd-65w-blok-zhyvlennia-vid-fpv-akumuliatora-3s7s-z-voltmetrom/](https://vads.com.ua/adapter-xt60-usb-type-c-pd-65w-blok-zhyvlennia-vid-fpv-akumuliatora-3s7s-z-voltmetrom/)
+[https://vads.com.ua/adapter-xt60-usb-type-c-pd-65w-blok-zhyvlennia-vid-fpv-akumuliatora-3s7s-z-voltmetrom/](https://vads.com.ua/adapter-xt60-usb-type-c-pd-65w-blok-zhyvlennia-vid-fpv-akumuliatora-3s7...)
 
 ![image.png](image%205.png)
 
-[https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt60-4-usb-1-type-c-dc-5.52.1-mm](https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt60-4-usb-1-type-c-dc-5.52.1-mm)
+[https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt60-4-usb-1-type-c-dc-5.52.1-mm](https://hazardous.com.ua/blok-zhyvlennia-perekhidnyk-vid-fpv-akumuliatora-3-8s-xt6...)
 
 https://makerworld.com/models/2842849?appSharePlatform=copy 
 @arthur tkachenko my friend made this device, to power eg. Starlink from fpv batteries
