@@ -26,12 +26,13 @@
 Бустери філіну, батарейки, штуки дрюки, дай контакт тех кто єтим будет заниматься - щоб я без тебе це вирішив.
 
 
-3 антенни 
-та 3 бустера.
-
-batteries from NL
-
-
+- 3 антенни 
+- 3 бустера білих
+- airunits, антенки
+- batteries from NL
+- in the third hangar we have old unused fpv antenna yaga
+- roc 4 old vampire antenna
+- сталинк и р2д2 які ми не змогли самі продати.
 
 
 - https://w1744115276-uzj984563.slack.com/archives/C0AT2PK9DPX/p1779366208572219
