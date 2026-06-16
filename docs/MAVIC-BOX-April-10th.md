@@ -44,8 +44,8 @@ https://prom.ua/ua/m-2443814618506127290-fpv-toolkitrc-adp200.html?p=2830610291
 ---
 NNada? - поки що ні бо їде кабель з голландії на 500 евро
 
-[https://www.audiojack.kiev.ua/ua/kabelna-produktsiya-ua/kabel-zhyvlennya-dc/kabel-u-sylikonoviy-izolyatsiyi-1-zhyla-18-awg-1c-x-0-75mm2-kolorovyy-6-x-4m.html](https://www.audiojack.kiev.ua/ua/kabelna-produktsiya-ua/kabel-zhyvlennya-dc/kabel-u-sylikonoviy-izolyatsiyi-1-zhyla-18-awg-1c-x-0-75mm2-kolorovyy-6-x-4m.html)
+[https://www.audiojack.kiev.ua/ua/kabelna-produktsiya-ua/kabel-zhyvlennya-dc/kabel-u-sylikonoviy-izolyatsiyi-1-zhyla-18-awg-1c-x-0-75mm2-kolorovyy-6-x-4m.html](https://www.audiojack.kiev.ua/ua/kabelna-produktsiya-ua/kabel-zhyvlennya-dc/kabel-u-sylikonoviy-izolyatsiyi-1-zhyla-18-awg-1c-x-0-75mm2-kolorovyy-6-x-4m.html) 
 
-[https://www.audiojack.kiev.ua/ua/knopki-pbs-tumblera-asw-sac/knopki-peremikachi-tymblera-12v-auto/peremykach-avto-kcd3-101n-vuzkyy-11mm-pidsvichuvannya-12v-25a-3pin.html](https://www.audiojack.kiev.ua/ua/knopki-pbs-tumblera-asw-sac/knopki-peremikachi-tymblera-12v-auto/peremykach-avto-kcd3-101n-vuzkyy-11mm-pidsvichuvannya-12v-25a-3pin.html)
+[https://www.audiojack.kiev.ua/ua/knopki-pbs-tumblera-asw-sac/knopki-peremikachi-tymblera-12v-auto/peremykach-avto-kcd3-101n-vuzkyy-11mm-pidsvichuvannya-12v-25a-3pin.html](https://www.audiojack.kiev.ua/ua/knopki-pbs-tumblera-asw-sac/knopki-peremikachi-tymblera-12v-auto/peremykach-avto-kcd3-101n-vuzkyy-11mm-pidsvichuvannya-12v-25a-3pin.html) 
 
 [https://energo-shop.com/catalog/elektronni-moduli-peretvoriuvachi-napruhy/moduli-zariadky-telefoniv-noutbukiv/filter/sort_price=ASC/](https://energo-shop.com/catalog/elektronni-moduli-peretvoriuvachi-napruhy/moduli-zariadky-telefoniv-noutbukiv/filter/sort_price=ASC/)
