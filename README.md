@@ -7,11 +7,6 @@
 # fuck-ecoflow
 
 
-https://makerworld.com/ru/models/1976279-xt60-usb-qc3-0-charger-adapter-compact-version?from=search#profileId-2223088
-
-
----
-
 ## Images from docs/images
 Below are the images that live in docs/images so you can view them directly from the repository root README. Each image below is displayed as a smaller thumbnail; click it to open the full-size file.
 

@@ -2,6 +2,9 @@
 
 ### Маленький дешевий девайс. Як перехідний варіант коли нема жабок і так далі. Дозволяє перетворити фпв батарейку на павербанк Вже відпрацьована схема, є перелік деталей, є 3д дізайн і т.і.
 
+
+https://makerworld.com/ru/models/1976279-xt60-usb-qc3-0-charger-adapter-compact-version?from=search#profileId-2223088
+
 ![image.png](image.png)
 
 ![image.png](image%201.png)
