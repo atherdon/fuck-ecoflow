@@ -3,7 +3,7 @@
 Below is a cleaned and readable version of the original list. Each entry keeps the original text; a short suggested English translation is provided where helpful.
 
 - 1 — Alice aka Eva aka Alice
-- 
+
 - 1 — 414
 
 - 1 — Alpha
