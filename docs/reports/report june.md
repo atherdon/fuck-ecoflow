@@ -1,21 +1,33 @@
-Write a text to Sjoerd
-created a separate group WB vs Ecoflow
-website is in progress. moving everything away from Notion, where i pay some money. all will be located in GitHub from now.
-Now its better to operated with a distributed chats to share my information, my vision, etc.
+# June Report
 
-Writing to African dude
-I made an offer to Physicist for mavic cases.
-Focusing on important discussion, instead of memes and jokes
-Thinking about moving from 30 cases into 100 cases producsed. ITS HARD.
+## Summary
 
-Progress:
-Case #2
-Case #3
-Case #4 in progress
+- Created a separate group: WB vs Ecoflow.
+- Website is in progress — migrating everything from Notion to GitHub to avoid ongoing Notion costs.
+- Moving to distributed chats to share information and vision more effectively.
 
-IM removing tasks and equipment from my engineer, including other people with hands and much more time.
+## Communications / Actions
 
-Counting how much it costs from 0 to hero
+- Write a text to Sjoerd.
+- Reached out to an African contact.
+- Made an offer to a physicist for Mavic cases.
+- Focusing on important discussions rather than memes and jokes.
 
-optimization of copy of my information.
-im doing them less personal. So i dont need to write a separated texts for others to rewrite
+## Production planning
+
+- Considering scaling production from 30 cases to 100 cases — this will be difficult.
+- Removing tasks and equipment responsibilities from my engineer and others who have more hands-on time.
+
+## Progress
+
+- Case #2 (completed)
+- Case #3 (completed)
+- Case #4 (in progress)
+
+## Financials / Costing
+
+- Counting how much it costs from zero to hero (detailed cost analysis in progress).
+
+## Optimization / Notes
+
+- Optimizing copies of my information; making them less personal so I don't need to write separate texts for others to rewrite.
