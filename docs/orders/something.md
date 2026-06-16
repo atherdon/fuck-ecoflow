@@ -10,3 +10,9 @@ https://www.amazon.nl/-/en/Yato-HERMETIC-TOOLBOX-232-192/dp/B08R73SQF1
 https://www.olx.ua/d/uk/obyavlenie/germetichniy-metaleviy-yaschik-dlya-nstrumentv-IDYMHnh.html
 
 https://yato.com.ua/iashchyk-dlia-instrumentu-yato-yt-08900
+
+
+FPV зарядка - штук 6 двухканальних та на основе вело батарейки зробити парочку павербанків.
+
+БМС на 5s та 6s
+
