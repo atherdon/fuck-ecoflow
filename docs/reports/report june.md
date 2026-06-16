@@ -8,9 +8,9 @@
 
 ## Communications / Actions
 
-- Write a text to Sjoerd.
-- Reached out to an African contact.
-- Made an offer to a physicist for Mavic cases.
+- Write a text to Mr.S.
+- Reached out to an African man.
+- Made an offer to a Mr.Physicist for Mavic cases.
 - Focusing on important discussions rather than memes and jokes.
 
 ## Production planning
