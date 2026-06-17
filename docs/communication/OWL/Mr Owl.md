@@ -28,7 +28,7 @@
 
 [https://goprokat.ua/pidsilyuvach-signalu-dlya-pulta-a134x-raptor-xr-for-xdynamics-evolve-2/](https://goprokat.ua/pidsilyuvach-signalu-dlya-pulta-a134x-raptor-xr-for-xdynamics-evolve-2/)
 
-[https://hotline.ua/ua/av-aksessuary-dlya-kvadrokopterov/4hawks-raptor-xr-antenna-dlya-drona-dji-mavic-3-rc-n1-2h10m-kabel-a133x-10m/](https://hotline.ua/ua/av-aksessuary-dlya-kvadrokopterov/4hawks-raptor-xr-antenna-dlya-drona-dji-mavic-3-rc-n1-2h10m-kabel-a133x-10m/)
+[https://hotline.ua/ua/av-aksessuary-dlya-kvadrokopterov/4hawks-raptor-xr-antenna-dlya-drona-dji-mavic-3-rc-n1-2h10m-kabel-a133x-10m/](https://hotline.ua/ua/av-aksessuary-dlya-kvadrokopterov/4hawk[...]
 
 [https://www.olx.ua/d/uk/obyavlenie/4hawks-raptor-xr-antenna-na-mavik-IDZvpUS.html](https://www.olx.ua/d/uk/obyavlenie/4hawks-raptor-xr-antenna-na-mavik-IDZvpUS.html)
 
@@ -62,42 +62,6 @@ airunits, антенки
 ## All images in this folder (imported) — captions added
 
 Below are every image from docs/communication/OWL with a short caption to help identify them.
-
-### IMG_20250119_204351_480.jpg
-![IMG_20250119_204351_480.jpg](IMG_20250119_204351_480.jpg)
-*Caption: White booster — front view.*
-
-### IMG_20250119_204402_212.jpg
-![IMG_20250119_204402_212.jpg](IMG_20250119_204402_212.jpg)
-*Caption: White booster — side/detail view.*
-
-### IMG_20250119_204423_812.jpg
-![IMG_20250119_204423_812.jpg](IMG_20250119_204423_812.jpg)
-*Caption: White booster — connector and cable visible.*
-
-### IMG_20250119_204429_668.jpg
-![IMG_20250119_204429_668.jpg](IMG_20250119_204429_668.jpg)
-*Caption: White booster — additional angle.*
-
-### IMG_20250119_204435_355.jpg
-![IMG_20250119_204435_355.jpg](IMG_20250119_204435_355.jpg)
-*Caption: White booster — pack/collection view.*
-
-### IMG_20250119_204347_353.jpg
-![IMG_20250119_204347_353.jpg](IMG_20250119_204347_353.jpg)
-*Caption: White boosters together — overview of units.*
-
-### 1000141399.jpg
-![1000141399.jpg](1000141399.jpg)
-*Caption: Antenna — model/photo 1.*
-
-### 1000141400.jpg
-![1000141400.jpg](1000141400.jpg)
-*Caption: Antenna — model/photo 2.*
-
-### 1000141398.jpg
-![1000141398.jpg](1000141398.jpg)
-*Caption: Antenna — model/photo 3.*
 
 ### IMG-20260520-WA0045.jpg
 ![IMG-20260520-WA0045.jpg](IMG-20260520-WA0045.jpg)
