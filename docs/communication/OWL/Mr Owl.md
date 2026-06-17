@@ -1,8 +1,8 @@
 # Mr.Owl
 
-штуки дрюки
+## штуки дрюки
 
-3 бустера білих
+## 3 бустера білих
 
 ![IMG_20250119_204351_480.jpg](IMG_20250119_204351_480.jpg)
 
@@ -16,7 +16,7 @@
 
 ![IMG_20250119_204347_353.jpg](IMG_20250119_204347_353.jpg)
 
-3 антенни
+## 3 антенни
 
 ![1000141399.jpg](1000141399.jpg)
 
@@ -24,7 +24,7 @@
 
 ![1000141398.jpg](1000141398.jpg)
 
-посилання на ціни
+## посилання на ціни
 
 [https://goprokat.ua/pidsilyuvach-signalu-dlya-pulta-a134x-raptor-xr-for-xdynamics-evolve-2/](https://goprokat.ua/pidsilyuvach-signalu-dlya-pulta-a134x-raptor-xr-for-xdynamics-evolve-2/)
 
@@ -34,7 +34,7 @@
 
 [https://click.ua/shop/pidsilyuvach-signalu-4hawks-raptor-xr-a151x-p191565](https://click.ua/shop/pidsilyuvach-signalu-4hawks-raptor-xr-a151x-p191565)
 
-airunits, антенки
+## airunits, антенки
 
 соберить пожалуйста ненужні airunits/ boosters with their wires та відправимо їх філіну можливо він придумає шо з цим робити.[...]
 
@@ -48,7 +48,7 @@ airunits, антенки
 
 - сталинк и р2д2 які ми не змогли самі продати.
 
-Адреса
+## Адреса
 
 Тітов Богдан 0968980645
 
