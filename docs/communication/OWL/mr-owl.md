@@ -1,6 +1,12 @@
 # Mr.Owl
 
-## штуки дрюки
+-- штуки дрюки
+- batteries from NL
+- in the third hangar we have old unused fpv antenna yaga
+- roc 4 old vampire antenna
+- старлинк и р2д2 які ми не змогли самі продати.
+
+
 
 ## 3 бустера білих
 
