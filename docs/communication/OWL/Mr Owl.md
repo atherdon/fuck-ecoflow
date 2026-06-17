@@ -59,34 +59,62 @@ airunits, антенки
 
 ---
 
-## All images in this folder (imported)
+## All images in this folder (imported) — captions added
 
-Below are markdown imports for every image present in docs/communication/OWL so they are available in this file and rendered by GitHub:
+Below are every image from docs/communication/OWL with a short caption to help identify them.
 
-![1000141398.jpg](1000141398.jpg)
-
-![1000141399.jpg](1000141399.jpg)
-
-![1000141400.jpg](1000141400.jpg)
-
-![IMG-20260520-WA0045.jpg](IMG-20260520-WA0045.jpg)
-
-![IMG-20260520-WA0046.jpg](IMG-20260520-WA0046.jpg)
-
-![IMG-20260520-WA0057.jpg](IMG-20260520-WA0057.jpg)
-
-![IMG-20260520-WA0063.jpg](IMG-20260520-WA0063.jpg)
-
-![IMG_20250119_204347_353.jpg](IMG_20250119_204347_353.jpg)
-
+### IMG_20250119_204351_480.jpg
 ![IMG_20250119_204351_480.jpg](IMG_20250119_204351_480.jpg)
+*Caption: White booster — front view.*
 
+### IMG_20250119_204402_212.jpg
 ![IMG_20250119_204402_212.jpg](IMG_20250119_204402_212.jpg)
+*Caption: White booster — side/detail view.*
 
+### IMG_20250119_204423_812.jpg
 ![IMG_20250119_204423_812.jpg](IMG_20250119_204423_812.jpg)
+*Caption: White booster — connector and cable visible.*
 
+### IMG_20250119_204429_668.jpg
 ![IMG_20250119_204429_668.jpg](IMG_20250119_204429_668.jpg)
+*Caption: White booster — additional angle.*
 
+### IMG_20250119_204435_355.jpg
 ![IMG_20250119_204435_355.jpg](IMG_20250119_204435_355.jpg)
+*Caption: White booster — pack/collection view.*
 
+### IMG_20250119_204347_353.jpg
+![IMG_20250119_204347_353.jpg](IMG_20250119_204347_353.jpg)
+*Caption: White boosters together — overview of units.*
+
+### 1000141399.jpg
+![1000141399.jpg](1000141399.jpg)
+*Caption: Antenna — model/photo 1.*
+
+### 1000141400.jpg
+![1000141400.jpg](1000141400.jpg)
+*Caption: Antenna — model/photo 2.*
+
+### 1000141398.jpg
+![1000141398.jpg](1000141398.jpg)
+*Caption: Antenna — model/photo 3.*
+
+### IMG-20260520-WA0045.jpg
+![IMG-20260520-WA0045.jpg](IMG-20260520-WA0045.jpg)
+*Caption: Equipment photo — context shot 1.*
+
+### IMG-20260520-WA0046.jpg
+![IMG-20260520-WA0046.jpg](IMG-20260520-WA0046.jpg)
+*Caption: Equipment photo — context shot 2.*
+
+### IMG-20260520-WA0057.jpg
+![IMG-20260520-WA0057.jpg](IMG-20260520-WA0057.jpg)
+*Caption: Equipment photo — close-up 1.*
+
+### IMG-20260520-WA0063.jpg
+![IMG-20260520-WA0063.jpg](IMG-20260520-WA0063.jpg)
+*Caption: Equipment photo — close-up 2.*
+
+### image.png
 ![image.png](image.png)
+*Caption: Diagram / additional image — illustration or screenshot.*
