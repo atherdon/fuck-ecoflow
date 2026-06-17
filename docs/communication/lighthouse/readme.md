@@ -32,7 +32,8 @@
 - roc 4 old vampire antenna
 - сталинк и р2д2 які ми не змогли самі продати.
 - кажанское майно
-  [детальна інформація в цьому файлі]()
+  
+  [детальна інформація в цьому файлі](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/communication/OWL/mr-owl.md)
  
 ---
 
