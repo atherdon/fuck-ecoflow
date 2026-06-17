@@ -65,3 +65,13 @@ stage 1 Spread the thing
 получать все майно на новую пошту - сложно
 организовивать всех - сложно
 просить голландцев придумать чтото сложно
+
+
+https://m.olx.ua/d/uk/obyavlenie/ecoflow-river-max-river-pro-korpus-IDYiJn5.html?search_reason=search%7Corganic
+[11:52 PM]https://m.olx.ua/d/uk/obyavlenie/ecoflow-delta-2-lipo4-rozbrka-IDYAufD.html?isPreviewActive=1
+
+
+Наклеечка
+[7:33 PM]Флаер продающий
+[7:34 PM]Хостинг с презой.
+[7:35 PM]Протонмейл для контактной связи
