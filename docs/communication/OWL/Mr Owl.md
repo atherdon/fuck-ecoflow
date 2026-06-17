@@ -38,7 +38,22 @@
 
 соберить пожалуйста ненужні airunits/ boosters with their wires та відправимо їх філіну можливо він придумає шо з цим робити.[...]
 
+бустрера бу
 ![image.png](image.png)
+
+### IMG-20260520-WA0045.jpg
+![IMG-20260520-WA0045.jpg](IMG-20260520-WA0045.jpg)
+*Caption: Equipment photo — context shot 1.*
+
+### IMG-20260520-WA0046.jpg
+![IMG-20260520-WA0046.jpg](IMG-20260520-WA0046.jpg)
+*Caption: Equipment photo — context shot 2.*
+
+
+### IMG-20260520-WA0057.jpg
+![IMG-20260520-WA0057.jpg](IMG-20260520-WA0057.jpg)
+*Caption: Equipment photo — close-up 1.*
+
 
 - batteries from NL
 
@@ -55,29 +70,14 @@
 Кривой рог Новая почта 10
 
 
-## кажанское майно
-
----
-
-## All images in this folder (imported) — captions added
-
-Below are every image from docs/communication/OWL with a short caption to help identify them.
-
-### IMG-20260520-WA0045.jpg
-![IMG-20260520-WA0045.jpg](IMG-20260520-WA0045.jpg)
-*Caption: Equipment photo — context shot 1.*
-
-### IMG-20260520-WA0046.jpg
-![IMG-20260520-WA0046.jpg](IMG-20260520-WA0046.jpg)
-*Caption: Equipment photo — context shot 2.*
-
-### IMG-20260520-WA0057.jpg
-![IMG-20260520-WA0057.jpg](IMG-20260520-WA0057.jpg)
-*Caption: Equipment photo — close-up 1.*
+## кажанская пассивная антенна та бустре та вампірский колхоз для посилення якості зв\язку
 
 ### IMG-20260520-WA0063.jpg
 ![IMG-20260520-WA0063.jpg](IMG-20260520-WA0063.jpg)
 *Caption: Equipment photo — close-up 2.*
+
+---
+
 
 ### image.png
 ![image.png](image.png)
