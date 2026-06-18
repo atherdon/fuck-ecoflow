@@ -44,3 +44,30 @@ There are no hard feelings. I'm still friends with the founders and continue to 
 
 - **Slides of my presentation**: [link](https://discord.com/channels/@me/1514378534846595102/1516166316988432516)
 - **Toolkit I propose to use**: [link](https://discord.com/channels/@me/1514378534846595102/1516934151088115975)
+
+
+
+### my past articles
+
+https://hackernoon.com/how-to-increase-your-newsletter-subscribers-7-proven-ways
+
+https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter
+
+https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy?ref=hackernoon.com
+
+Businesses have messy emails series
+- https://hackernoon.com/preview/6a333ddca0e03024af4035ec
+- https://hackernoon.com/preview/6a333c88a0e03024af4035b6
+
+
+---
+
+Content ownership for emails: https://hackernoon.com/preview/6a333fbfa0e03024af40362f
+
+---
+
+and muuuch more here: https://github.com/LLazyEmail/awesome-email-marketing
+
+
+
+https://pq.hosting/en/providers/serverspace
