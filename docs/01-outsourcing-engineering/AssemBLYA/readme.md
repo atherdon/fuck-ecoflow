@@ -18,3 +18,6 @@ https://nayavu.com.ua/ua/p2711870195-sbros-soul-eater.html
 4) napalm dropper
 5) mine dropper
 6) vampire-like system
+
+
+PLAN
