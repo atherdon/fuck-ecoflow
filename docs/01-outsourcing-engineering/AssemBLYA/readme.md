@@ -17,5 +17,6 @@ Types of drop systems
 4) napalm dropper
 5) mines dropper
 6) vampire-like system
+7) infantry packages
 
 
