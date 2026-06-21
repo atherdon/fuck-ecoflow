@@ -8,6 +8,13 @@ Then we model all parts
 Then we upload to github
 
 
+- https://steelhornets.com.ua/skyd-fpv-ds3/
+
+- https://steelhornets.com.ua/skyd-fpv-ds1/
+
+- https://steelhornets.com.ua/skyd-fpv-ds2/
+
+
 
 # Інструкція зі встановлення та налаштування скиду FPV-DS3 від «Steel Hornets»
 
