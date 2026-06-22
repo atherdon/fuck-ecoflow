@@ -18,10 +18,10 @@ Collect mone and order 3 drop systems to
 - Yuriy S***
 
 
-Zombie stealing money from Europeans on his Paypal zombieua2025@gmail.com
-Zombie convert money to UAH and send them to Max
-Max ordering 2 drop systems to FL address
-Max ordering 1 drop system to Yuriy address
+- Zombie stealing money from Europeans on his Paypal zombieua2025@gmail.com
+- Zombie convert money to UAH and send them to Max
+- Max ordering 2 drop systems to FL address
+- Max ordering 1 drop system to Yuriy address
 
 2 drop systems goes to Florida man into this address
 
@@ -32,3 +32,4 @@ Benjamin Hoerber
 Нова Пошта но. 107
 
 -->
+
