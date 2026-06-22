@@ -24,7 +24,7 @@ Collect mone and order 3 drop systems to
 - Max ordering 1 drop system to Yuriy address
 
 2 drop systems goes to Florida man into this address
-
+1 drop goes to 3d print-farm
 <!--
 Benjamin Hoerber
 380975827150 
