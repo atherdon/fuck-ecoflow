@@ -6,6 +6,8 @@
 - https://nayavu.com.ua/ua/p2711870195-sbros-soul-eater.html
 
 
+- https://steelhornets.com.ua/skyd-fpv-ds2/
+
 PLAN
 
 Types of drop systems
