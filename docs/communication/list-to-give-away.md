@@ -31,7 +31,7 @@ Below is a cleaned and readable version of the original list. Each entry keeps t
   (suggested translation: a heavier one for Holmes)
 
 - 1 - Один ящик ркбпаковцям можна
-
+- 1 - Один ящик ребовцям можна
 ---
 
 Goal / Note
