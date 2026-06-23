@@ -1,13 +1,4 @@
 
-- https://nayavu.com.ua/ua/p2711893576-kreplenie-dlya-sbrosa.html
-
-- https://nayavu.com.ua/ua/p2711292205-sbros-15kg-soul.html
-
-- https://nayavu.com.ua/ua/p2711870195-sbros-soul-eater.html
-
-
-- https://steelhornets.com.ua/skyd-fpv-ds2/
-
 ### PLAN
 
 Types of drop systems
@@ -30,8 +21,26 @@ Micro Arduino 230 uah clone
 
 evolution of files of drop systems
 
-dissasemble
-getting scales
-printing parts
-get some servos
+---
+
+- dissasemble
+- getting scales
+- printing parts
+- get some servos
+
+---
+
+- https://nayavu.com.ua/ua/p2711893576-kreplenie-dlya-sbrosa.html
+
+- https://nayavu.com.ua/ua/p2711292205-sbros-15kg-soul.html
+
+- https://nayavu.com.ua/ua/p2711870195-sbros-soul-eater.html
+
+
+- https://steelhornets.com.ua/skyd-fpv-ds2/
+
+---
+
+
+
 
