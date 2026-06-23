@@ -8,7 +8,7 @@
 
 - https://steelhornets.com.ua/skyd-fpv-ds2/
 
-PLAN
+### PLAN
 
 Types of drop systems
 
@@ -21,4 +21,17 @@ Types of drop systems
 6) vampire-like system
 7) infantry packages
 
+---
+
+Nano Arduion 80uah clone
+Micro Arduino 230 uah clone
+
+---
+
+evolution of files of drop systems
+
+dissasemble
+getting scales
+printing parts
+get some servos
 
