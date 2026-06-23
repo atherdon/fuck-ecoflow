@@ -3,10 +3,10 @@
 
 Types of drop systems
 
-1) 1kg bomb
-2) 2kg bomb
-3) 2.5kg bomb
-2) 2 small bombs - stupid version
+1) 1kg present
+2) 2kg present
+3) 2.5kg present
+2) 2 small presents - stupid version
 4) napalm dropper
 5) mines dropper
 6) vampire-like system
