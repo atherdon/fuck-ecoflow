@@ -14,6 +14,26 @@ Types of drop systems
 
 ---
 
+- 3d parts
+- drop system under the drone belly
+- Sensors, wires, activators
+
+---
+
+- steal and lower the costs down
+- scale to 10x, 30x, 50x
+
+- one servo - one present
+- different weights different sizes
+- - do our own 2 presents system
+- warm gel napalm
+- butterly and iqos droppers cage
+- vampire-like system but smaller
+- infantry packages(different sizes)
+
+
+---
+
 Nano Arduion 80uah clone
 Micro Arduino 230 uah clone
 
