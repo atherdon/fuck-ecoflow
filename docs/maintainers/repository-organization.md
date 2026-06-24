@@ -43,6 +43,8 @@ sidebar_position: 2
 ---
 ```
 
+CI checks added, copied, and renamed paths under `docs/` against these naming rules. Existing legacy paths are not blocked by the check; clean them up when touching nearby content.
+
 ## Media rules
 
 Use media intentionally:
