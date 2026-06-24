@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/cheap-steel-hornets-drop/
+---
+
 # Steel Hornets / Cheap Steel Hornets Drop
 
 ## Images

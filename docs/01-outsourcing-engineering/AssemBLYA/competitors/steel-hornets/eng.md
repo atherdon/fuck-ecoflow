@@ -1,3 +1,6 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/eng
+---
 
 # Installation and Setup Instructions
 

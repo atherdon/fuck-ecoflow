@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/dissasembling/03/
+---
+
 # Dissasembling / 03
 
 > Note: 12 source file(s) in this folder could not be decoded as images, so they were moved and renamed but not recompressed.

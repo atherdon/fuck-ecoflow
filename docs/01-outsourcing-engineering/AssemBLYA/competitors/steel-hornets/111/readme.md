@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/111/
+---
+
 # Steel Hornets / 111
 
 ## Images

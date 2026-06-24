@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/cheap-steal/
+---
+
 # Steel Hornets / Cheap Steal
 
 > Note: these source files are present in the repository, but the original blobs could not be decoded as JPEG images. They were moved and renamed consistently, but not recompressed.

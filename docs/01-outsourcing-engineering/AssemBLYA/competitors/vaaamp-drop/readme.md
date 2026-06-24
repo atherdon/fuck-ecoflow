@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/vaaamp-drop/
+---
+
 # Vaaamp Drop
 
 ## Images

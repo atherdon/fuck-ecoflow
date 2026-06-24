@@ -1,9 +1,6 @@
-
-
-
-
-
-
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/ua
+---
 
 # Інструкція зі встановлення та налаштування скиду FPV-DS3 від «Steel Hornets»
 

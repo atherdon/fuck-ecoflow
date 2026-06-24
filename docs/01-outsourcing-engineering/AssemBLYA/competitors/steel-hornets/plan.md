@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/plan
+---
+
 1. First we need the dropper
 2. Then we disassemble
 3. Then we measure all parts
