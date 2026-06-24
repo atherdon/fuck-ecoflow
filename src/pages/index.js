@@ -13,7 +13,7 @@ export default function Home() {
           team information, and product experiments.
         </p>
         <p>
-          <Link className="button button--primary button--lg" to="/docs/communication/intro">
+          <Link className="button button--primary button--lg" to="/docs/intro">
             Open documentation
           </Link>
         </p>

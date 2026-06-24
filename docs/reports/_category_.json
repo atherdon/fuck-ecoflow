@@ -1,5 +1,9 @@
 {
   "label": "Reports",
   "position": 7,
-  "collapsed": true
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "reports/readme"
+  }
 }

@@ -1,5 +1,9 @@
 {
   "label": "Team",
   "position": 5,
-  "collapsed": true
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "team/readme"
+  }
 }

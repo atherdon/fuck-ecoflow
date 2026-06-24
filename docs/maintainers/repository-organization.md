@@ -23,9 +23,34 @@ Use these top-level sections for published documentation:
 - `docs/team/` - team and lab information
 - `docs/communication/` - outreach, partners, and public communication
 - `docs/reports/` - progress reports and status summaries
+- `docs/14-3d-to-print/` - 3D printing notes
+- `docs/orders/` - order planning and procurement notes
 - `docs/maintainers/` - repository maintenance docs
 
 Keep raw exports, experiments, and temporary dumps out of published docs when possible. If a page is not ready to publish, mark it as a draft until it is cleaned.
+
+## Section layout
+
+Use a landing page plus topic buckets when a section has more than a few pages:
+
+```text
+docs/reports/
+├── readme.md
+├── status/
+├── projects/
+├── contributors/
+├── tasks/
+└── raw-notes/
+
+docs/team/
+├── readme.md
+├── images/
+└── our-lab/
+    ├── readme.md
+    └── images/
+```
+
+For dated reports, prefer sortable date folders such as `2026-06-22` instead of month-name folders.
 
 ## Naming rules
 
@@ -52,6 +77,7 @@ Use media intentionally:
 - Do not commit original phone-camera dumps directly into `docs/`.
 - Resize documentation images before publishing. A maximum edge of 1600 px is enough for most docs pages.
 - Prefer compressed JPG/WebP for photos and PNG only for screenshots or diagrams that need sharp text.
+- For page-specific media, keep files in a sibling `images/` folder with descriptive kebab-case names.
 - Store videos outside the docs site when possible and link to them.
 - Move MP4 files to external storage, such as Dropbox, and replace local video references with public links.
 
