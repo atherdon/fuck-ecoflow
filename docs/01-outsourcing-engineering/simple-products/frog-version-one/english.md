@@ -8,13 +8,13 @@ This allows our guys to charge the radios from power banks.
 
 Capacity: 40 pcs will go into operation at once. These things need to be made constantly. You need to order the boards in advance cod[...]
 
-![image.png](image.png)
+![image.png](./images/frog-version-one-img4.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/frog-version-one-img1.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/frog-version-one-img2.jpg)
 
-![image.png](image%203.png)
+![image.png](./images/frog-version-one-img3.jpg)
 
 Ready-made ones are sold for 200–400 UAH. For example, I can easily distribute 40 pcs to infantry companies.
 

@@ -79,11 +79,11 @@ HOTA GaN це сама дорога частина в цьому кейсі. П�
 
 Приклад як мій знайомий з Харкова нам робив кейс під живлення реба
 
-![image.png](image.png)
+![image.png](./images/charging-station-img3.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/charging-station-img1.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/charging-station-img2.jpg)
 
 ---
 

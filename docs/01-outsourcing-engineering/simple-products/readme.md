@@ -7,19 +7,19 @@
 - [frog-version-one/frog-v1.md](frog-version-one/frog-v1.md)
   
 ### 2. Жабка 2.0
-- [frog-version-two/Жабка-2-0-tbd.md](frog-version-two/Жабка-2-0-tbd.md)
+- [frog-version-two/frog-version-two-ua.md](frog-version-two/frog-version-two-ua.md)
 
 ### 3. Павербанки
 - [powerbanks/3 Павербанки.md](powerbanks/3%20Павербанки.md)
 
 ### USB to XT60
-- [usb-to-xt60/USB-to-XT60.md](usb-to-xt60/USB-to-XT60.md)
+- [usb-to-xt60/usb-to-xt60.md](usb-to-xt60/usb-to-xt60.md)
 
 ### 5. Павук
-- [spider/5 Павук.md](spider/5%20Павук.md)
+- [spider/spider.md](spider/spider.md)
 
 ### Подовжувачі для зарядних станцій
-- [wire-extenders/Подовжувачі-для-зарядних-станцій-20-подовжувачів.md](wire-extenders/Подовжувачі-для-зарядних-станцій-20-подовжувачів.md)
+- [wire-extenders/wire-extenders-ua.md](wire-extenders/wire-extenders-ua.md)
 
 
 

@@ -66,24 +66,24 @@ Information on creating extenders.
 
 ### Charging cable for Vampire batteries (small charging station)
 
-![image.png](image.png)
+![image.png](./images/wire-extenders-img9.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/wire-extenders-img2.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/wire-extenders-img3.jpg)
 
-![image.png](image%203.png)
+![image.png](./images/wire-extenders-img4.jpg)
 
-![image.png](image%204.png)
+![image.png](./images/wire-extenders-img5.jpg)
 
-![image.png](image%205.png)
+![image.png](./images/wire-extenders-img6.jpg)
 
-![image.png](image%206.png)
+![image.png](./images/wire-extenders-img7.jpg)
 
-![image.png](image%207.png)
+![image.png](./images/wire-extenders-img8.jpg)
 
 ---
 
 ### Complete set of the small charging station UP600+
 
-![1000069545.jpg](d11e2e88-6652-43e8-a0da-2a4a7f838a11.png)
+![1000069545.jpg](./images/wire-extenders-img1.jpg)

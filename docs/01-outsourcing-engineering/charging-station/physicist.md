@@ -76,11 +76,11 @@ I have been gathering information on this topic for over a year. So far we only 
 
 Example of how my acquaintance from Kharkiv made us a power case for a reba
 
-![image.png](image.png)
+![image.png](./images/charging-station-img3.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/charging-station-img1.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/charging-station-img2.jpg)
 
 ---
 

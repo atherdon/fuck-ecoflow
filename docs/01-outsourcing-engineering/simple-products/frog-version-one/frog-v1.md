@@ -8,13 +8,13 @@
 
 Об’єм: 40шт одразу підуть у роботу. такі штуки треба робити постійно. треба замовляти плати заздалегідь закодроном та робити це на постійній основі. якшо накопити запас у 200шт це вже результат на декілька місяців вперед
 
-![image.png](image.png)
+![image.png](./images/frog-version-one-img4.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/frog-version-one-img1.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/frog-version-one-img2.jpg)
 
-![image.png](image%203.png)
+![image.png](./images/frog-version-one-img3.jpg)
 
 Готові продають по 200-400грн. Наприклад я легко роздам 40шт у піхотні роти
 
