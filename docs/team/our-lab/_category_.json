@@ -1,0 +1,8 @@
+{
+  "label": "Our lab",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "team/our-lab/readme"
+  }
+}

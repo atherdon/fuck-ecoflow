@@ -15,6 +15,58 @@ const assemblyaDocsDir = path.join(
 
 const assemblyaRoutePrefix = '/docs/outsourcing-engineering/assemblya';
 
+const manualRedirects = [
+  {
+    to: '/docs/reports/status/current-status',
+    from: ['/docs/reports/unfinished-report-current-status'],
+  },
+  {
+    to: '/docs/reports/status/june-2026',
+    from: ['/docs/reports/report-june-2026'],
+  },
+  {
+    to: '/docs/reports/status/progress-cases',
+    from: ['/docs/reports/progress-cases'],
+  },
+  {
+    to: '/docs/reports/tasks/unfinished-unsorted-tasks',
+    from: ['/docs/reports/unfinished-unsorted-tasks'],
+  },
+  {
+    to: '/docs/reports/raw-notes/note-1',
+    from: ['/docs/reports/1'],
+  },
+  {
+    to: '/docs/reports/raw-notes/note-2',
+    from: ['/docs/reports/2'],
+  },
+  {
+    to: '/docs/reports/raw-notes/note-3',
+    from: ['/docs/reports/3'],
+  },
+  {
+    to: '/docs/reports/contributors/mr-s/2026-05',
+    from: ['/docs/reports/Mr.S/may-2026', '/docs/reports/mr.s/may-2026'],
+  },
+  {
+    to: '/docs/reports/plastic-fantastic/2026-06-22',
+    from: [
+      '/docs/reports/plastic-fantastic/June-22',
+      '/docs/reports/plastic-fantastic/June-22/readme',
+    ],
+  },
+  {
+    to: '/docs/team/our-lab',
+    from: [
+      '/docs/team/our-lab/Our-Distributed-Laboratory',
+    ],
+  },
+  {
+    to: '/docs/team/veteran-business',
+    from: ['/docs/team/english'],
+  },
+];
+
 function collectMarkdownFiles(directory) {
   return fs.readdirSync(directory, {withFileTypes: true}).flatMap((entry) => {
     const entryPath = path.join(directory, entry.name);
@@ -114,7 +166,7 @@ const config = {
     [
       '@docusaurus/plugin-client-redirects',
       {
-        redirects: getAssemblyaRedirects(),
+        redirects: [...manualRedirects, ...getAssemblyaRedirects()],
       },
     ],
   ],
@@ -169,7 +221,7 @@ const config = {
             items: [
               {
                 label: 'Documentation',
-                to: '/docs/communication/intro',
+                to: '/docs/intro',
               },
             ],
           },

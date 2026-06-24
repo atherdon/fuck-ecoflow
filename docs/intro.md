@@ -13,7 +13,7 @@ This repository is a Docusaurus documentation site for engineering notes, chargi
 - [Charging station notes](./charging-station/wb-vs-ecoflow/readme.md)
 - [Outsourcing engineering](./01-outsourcing-engineering/full-specification/readme.md)
 - [Team](./team/readme.md)
-- [Reports](./reports/unfinished-report-current-status.md)
+- [Reports](./reports/readme.md)
 
 ## Cleanup focus
 

@@ -1,0 +1,21 @@
+---
+sidebar_position: 1
+title: Raw note 1
+---
+
+Pending tasks
+
+- Charging circuit board -- ROb
+- 3d Corners -- Rob Teufel
+- Powercore
+- we got the package from Germany and Netherlands
+
+
+
+
+Шо ми, у себе на базі - нехочемо самі робити?
+Розбирати наприклад старі спарки на комплектуюючи?
+Ще ми нехочемо самі довго паяти
+Ми могли б просто швидко збирати ящик з однієї системи коли у нас є усе усе в одному місці. Просто підключив та все нормально працює
+
+----
