@@ -12,6 +12,6 @@ Instead of including a power bank - an FPV battery, or something similar, is pla
 
 Then, when we extract the cells from the FPV battery - we put them into the cases that the Dutch buy on Ali - we make “[...]
 
-![image.png](image.png)
+![image.png](./images/frog-version-two-img1.jpg)
 
 ---

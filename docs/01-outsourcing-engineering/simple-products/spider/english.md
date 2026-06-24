@@ -6,29 +6,29 @@ In situations when radio operators, rebovtsi and pilots are being taken apart by
 
 As I already said — this system is very simple. To make it by hand you don't need almost anything. Connectors are purchased, �[...]
 
-![image.png](image.png)
+![image.png](./images/spider-img12.jpg)
 
-![image.png](image%201.png)
+![image.png](./images/spider-img1.jpg)
 
-![image.png](image%202.png)
+![image.png](./images/spider-img2.jpg)
 
-![image.png](image%203.png)
+![image.png](./images/spider-img3.jpg)
 
-![image.png](image%204.png)
+![image.png](./images/spider-img4.jpg)
 
-![image.png](image%205.png)
+![image.png](./images/spider-img5.jpg)
 
-![image.png](image%206.png)
+![image.png](./images/spider-img6.jpg)
 
-![image.png](image%207.png)
+![image.png](./images/spider-img7.jpg)
 
-![image.png](image%208.png)
+![image.png](./images/spider-img8.jpg)
 
-![image.png](image%209.png)
+![image.png](./images/spider-img9.jpg)
 
-![image.png](image%2010.png)
+![image.png](./images/spider-img10.jpg)
 
-![image.png](image%2011.png)
+![image.png](./images/spider-img11.jpg)
 
 Russian videos
 
