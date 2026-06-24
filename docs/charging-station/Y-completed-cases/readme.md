@@ -2,4 +2,4 @@
 
 ## Images
 
-![y-completed-cases-img1](./images/y-completed-cases-img1.jpg)
+![y-completed-cases-img1](/img/y-completed-cases/y-completed-cases-img1.jpg)

@@ -7,22 +7,22 @@
 
 ## Images
 
-![03-number-three-img1](./images/03-number-three-img1.jpg)
+![03-number-three-img1](/img/y-completed-cases/03-number-three/03-number-three-img1.jpg)
 
-![03-number-three-img2](./images/03-number-three-img2.jpg)
+![03-number-three-img2](/img/y-completed-cases/03-number-three/03-number-three-img2.jpg)
 
-![03-number-three-img3](./images/03-number-three-img3.jpg)
+![03-number-three-img3](/img/y-completed-cases/03-number-three/03-number-three-img3.jpg)
 
-![03-number-three-img4](./images/03-number-three-img4.jpg)
+![03-number-three-img4](/img/y-completed-cases/03-number-three/03-number-three-img4.jpg)
 
-![03-number-three-img5](./images/03-number-three-img5.jpg)
+![03-number-three-img5](/img/y-completed-cases/03-number-three/03-number-three-img5.jpg)
 
-![03-number-three-img6](./images/03-number-three-img6.jpg)
+![03-number-three-img6](/img/y-completed-cases/03-number-three/03-number-three-img6.jpg)
 
-![03-number-three-img7](./images/03-number-three-img7.jpg)
+![03-number-three-img7](/img/y-completed-cases/03-number-three/03-number-three-img7.jpg)
 
-![03-number-three-img8](./images/03-number-three-img8.jpg)
+![03-number-three-img8](/img/y-completed-cases/03-number-three/03-number-three-img8.jpg)
 
-![03-number-three-img9](./images/03-number-three-img9.jpg)
+![03-number-three-img9](/img/y-completed-cases/03-number-three/03-number-three-img9.jpg)
 
-![03-number-three-img10](./images/03-number-three-img10.jpg)
+![03-number-three-img10](/img/y-completed-cases/03-number-three/03-number-three-img10.jpg)

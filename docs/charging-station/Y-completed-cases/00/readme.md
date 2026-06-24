@@ -2,7 +2,7 @@
 
 ## Images
 
-![00-img2](./images/00-img2.jpg)
+![00-img2](/img/y-completed-cases/00/00-img2.jpg)
 
 ## Files not displayed
 
