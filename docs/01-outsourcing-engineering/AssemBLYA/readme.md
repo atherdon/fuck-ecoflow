@@ -1,3 +1,6 @@
+---
+slug: /outsourcing-engineering/assemblya/
+---
 
 ### PLAN
 

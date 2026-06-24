@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/222/dissasembled
+---
+
 # xxx2
 
 <img src="IMG_20260621_233345_645.jpg" alt="IMG_20260621_233345_645.jpg" style={{maxWidth: '800px', height: 'auto', display: 'block', margin: '0 auto'}} />

@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/111/xxx
+---
+
 # xxx
 
 <img src="images/steel-hornets-111-img20.jpg" alt="Jun 21, 2026, 10_02_36 PM" width="400" />

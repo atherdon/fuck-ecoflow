@@ -5,6 +5,60 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const assemblyaDocsDir = path.join(
+  process.cwd(),
+  'docs/01-outsourcing-engineering/AssemBLYA',
+);
+
+const assemblyaRoutePrefix = '/docs/outsourcing-engineering/assemblya';
+
+function collectMarkdownFiles(directory) {
+  return fs.readdirSync(directory, {withFileTypes: true}).flatMap((entry) => {
+    const entryPath = path.join(directory, entry.name);
+
+    if (entry.isDirectory()) {
+      return collectMarkdownFiles(entryPath);
+    }
+
+    return entry.isFile() && entry.name.endsWith('.md') ? [entryPath] : [];
+  });
+}
+
+function getAssemblyaRoute(filePath) {
+  const relativePath = path
+    .relative(assemblyaDocsDir, filePath)
+    .split(path.sep)
+    .join('/');
+  const routePath = relativePath.replace(/\.md$/, '');
+
+  if (routePath === 'readme') {
+    return `${assemblyaRoutePrefix}/`;
+  }
+
+  if (routePath.endsWith('/readme')) {
+    return `${assemblyaRoutePrefix}/${routePath.slice(0, -'/readme'.length)}/`;
+  }
+
+  return `${assemblyaRoutePrefix}/${routePath}`;
+}
+
+function getAssemblyaRedirects() {
+  return collectMarkdownFiles(assemblyaDocsDir).map((filePath) => {
+    const route = getAssemblyaRoute(filePath);
+    const suffix = route.slice(assemblyaRoutePrefix.length);
+
+    return {
+      to: route,
+      from: [
+        `/docs/outsourcing-engineering/AssemBLYA${suffix}`,
+        `/docs/outsourcing-engineering/AssemBlya${suffix}`,
+      ],
+    };
+  });
+}
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -53,6 +107,15 @@ const config = {
           customCss: './src/css/custom.css',
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: getAssemblyaRedirects(),
+      },
     ],
   ],
 

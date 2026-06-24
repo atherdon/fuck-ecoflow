@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/GarryHudini/
+---
+
 # GarryHudini
 
 ## Images

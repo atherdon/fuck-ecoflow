@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/nayavu/
+---
+
 # Nayavu
 
 ## Images

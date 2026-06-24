@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/competitors/nazarium/
+---
+
 # Nazarium
 
 ## Images

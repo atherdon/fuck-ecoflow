@@ -1,3 +1,7 @@
+---
+slug: /outsourcing-engineering/assemblya/orders/
+---
+
 Different types of servos to try
 
 - https://www.aliexpress.com/item/1005009630706318.html
