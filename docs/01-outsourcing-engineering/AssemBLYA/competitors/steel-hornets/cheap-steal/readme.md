@@ -1,5 +1,7 @@
 # Steel Hornets / Cheap Steal
 
+> Note: these source files are present in the repository, but the original blobs could not be decoded as JPEG images. They were moved and renamed consistently, but not recompressed.
+
 ## Images
 
 ![steel-hornets-cheap-steal-img1](./images/steel-hornets-cheap-steal-img1.jpg)
