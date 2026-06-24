@@ -12,6 +12,9 @@
 ### 3. Павербанки
 - [powerbanks/3 Павербанки.md](powerbanks/3%20Павербанки.md)
 
+### DIY powerbanks for drops
+- [diy-powerbanks-for-drops/diy-powerbanks-for-drops.md](diy-powerbanks-for-drops/diy-powerbanks-for-drops.md)
+
 ### USB to XT60
 - [usb-to-xt60/usb-to-xt60.md](usb-to-xt60/usb-to-xt60.md)
 

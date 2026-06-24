@@ -1,4 +1,4 @@
-# List from an Owl - Філіна список 01.06.2025 [Processed]
+# Owl supply list 2025-06-01
 
 ## Инструмент
 

@@ -1,4 +1,9 @@
-# 3d models for corners
+---
+slug: /outsourcing-engineering/assemblya/3d/corner-brackets
+title: 3D Corner Brackets
+---
+
+# 3D corner brackets
 
 [https://www.thingiverse.com/thing:1445443](https://www.thingiverse.com/thing:1445443) 
 

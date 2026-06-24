@@ -1,4 +1,4 @@
-# Arthur having fun with looking for some provodulky
+# Arthur wiring parts list
 
 Треба розділити ящичек на складові:
 
