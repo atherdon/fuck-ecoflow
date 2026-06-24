@@ -1,7 +1,7 @@
 ---
+draft: true
 slug: /charging-station/13c82aa9-971d-40a/case-0-proof-of-concept-s-27-05-25
 ---
-
 # Case #0 - Proof of concept - Sjoerd 27.05.25
 
 Created: June 6, 2025 8:01 AM
