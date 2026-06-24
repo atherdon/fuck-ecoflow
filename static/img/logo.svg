@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Fuck Ecoflow docs logo</title>
+  <desc id="desc">A compact lightning bolt logo for the documentation site.</desc>
+  <rect width="160" height="160" rx="28" fill="#0f172a"/>
+  <path d="M88 14 35 90h37l-8 56 61-87H88l13-45Z" fill="#facc15"/>
+  <path d="M49 101h33l-4 28 30-43H78l8-27-37 42Z" fill="#fde68a"/>
+</svg>
