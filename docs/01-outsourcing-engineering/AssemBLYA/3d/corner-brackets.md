@@ -1,4 +1,4 @@
-# 3d models for corners
+# 3D corner brackets
 
 [https://www.thingiverse.com/thing:1445443](https://www.thingiverse.com/thing:1445443) 
 
