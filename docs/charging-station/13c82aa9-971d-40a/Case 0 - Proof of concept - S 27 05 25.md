@@ -39,4 +39,4 @@ I did not yet bother about how to charge the battery packs
 
 ## Sjoerd`s proof-of-concept May 23th
 
-[signal-2025-05-23-10-54-15-840.mp4](signal-2025-05-23-10-54-15-840.mp4)
+`signal-2025-05-23-10-54-15-840.mp4`

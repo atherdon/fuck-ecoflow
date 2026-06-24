@@ -1,10 +1,14 @@
+---
+slug: /charging-station/information/misc/trash-can/Videos - Old - Something Else Page
+---
+
 # Videos - Old - Something Else Page
 
-[Перше відео](1000062919.mp4)
+Перше відео: `1000062919.mp4`
 
 Перше відео
 
-[Друге відео](VID_20250421_131007.mp4)
+Друге відео: `VID_20250421_131007.mp4`
 
 Друге відео
 
@@ -14,4 +18,4 @@
 
 ![photo_2025-04-23_00-57-48.jpg](photo_2025-04-23_00-57-48.jpg)
 
-[video_2025-04-23_02-13-04.mp4](video_2025-04-23_02-13-04.mp4)
+`video_2025-04-23_02-13-04.mp4`

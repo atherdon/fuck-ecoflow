@@ -1,3 +1,7 @@
+---
+slug: /charging-station/batteries/ExportBlock-d3f3a/Batteries
+---
+
 # Batteries
 
 Arthur:
