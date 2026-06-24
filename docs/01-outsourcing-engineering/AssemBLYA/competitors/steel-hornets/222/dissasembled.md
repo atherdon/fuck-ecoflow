@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/222/dissasembled
+title: Steel Hornets Model 222 Disassembled
+sidebar_label: Disassembled
+sidebar_position: 20
 ---
 
 # xxx2

@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/
+title: Steel Hornets
+sidebar_label: Overview
+sidebar_position: 10
 ---
 
 # Steel Hornets

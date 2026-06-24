@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/111/xxx
+title: Steel Hornets Model 111 Details
+sidebar_label: Details
+sidebar_position: 20
 ---
 
 # xxx

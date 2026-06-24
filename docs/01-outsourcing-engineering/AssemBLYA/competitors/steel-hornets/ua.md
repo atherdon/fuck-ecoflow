@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/ua
+title: Steel Hornets Ukrainian Guide
+sidebar_label: Ukrainian Guide
+sidebar_position: 70
 ---
 
 # Інструкція зі встановлення та налаштування скиду FPV-DS3 від «Steel Hornets»

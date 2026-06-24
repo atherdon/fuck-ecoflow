@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/dissasembling/06/
+title: Disassembly 06
+sidebar_label: 06
+sidebar_position: 60
 ---
 
 # Dissasembling / 06

@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/eng
+title: Steel Hornets Installation Guide
+sidebar_label: English Guide
+sidebar_position: 50
 ---
 
 # Installation and Setup Instructions

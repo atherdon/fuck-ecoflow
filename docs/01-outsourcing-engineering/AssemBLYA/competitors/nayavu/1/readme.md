@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/nayavu/1/
+title: Nayavu Option 1
+sidebar_label: Overview
+sidebar_position: 10
 ---
 
 # Nayavu / 1

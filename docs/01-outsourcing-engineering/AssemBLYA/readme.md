@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/
+title: AssemBLYA Drop Systems
+sidebar_label: Overview
+sidebar_position: 1
 ---
 
 ### PLAN
