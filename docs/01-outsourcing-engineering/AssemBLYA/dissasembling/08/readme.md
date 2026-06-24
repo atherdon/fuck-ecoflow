@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/dissasembling/08/
+title: Disassembly 08
+sidebar_label: "08"
+sidebar_position: 80
 ---
 
 # Dissasembling / 08

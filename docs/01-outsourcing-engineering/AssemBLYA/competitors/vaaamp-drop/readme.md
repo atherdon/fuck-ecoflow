@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/vaaamp-drop/
+title: Vaaamp Drop
+sidebar_label: Vaaamp Drop
+sidebar_position: 40
 ---
 
 # Vaaamp Drop

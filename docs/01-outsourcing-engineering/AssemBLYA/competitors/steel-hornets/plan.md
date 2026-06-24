@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/plan
+title: Steel Hornets Plan
+sidebar_label: Plan
+sidebar_position: 60
 ---
 
 1. First we need the dropper

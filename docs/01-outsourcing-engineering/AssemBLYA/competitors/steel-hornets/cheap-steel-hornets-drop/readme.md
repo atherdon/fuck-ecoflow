@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/cheap-steel-hornets-drop/
+title: Cheap Steel Hornets Drop
+sidebar_label: Cheap Steel Hornets Drop
+sidebar_position: 10
 ---
 
 # Steel Hornets / Cheap Steel Hornets Drop

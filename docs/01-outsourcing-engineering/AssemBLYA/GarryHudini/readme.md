@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/GarryHudini/
+title: Garry Hudini
+sidebar_label: Garry Hudini
+sidebar_position: 10
 ---
 
 # GarryHudini

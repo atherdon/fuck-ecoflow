@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/dissasembling/
+title: Disassembly
+sidebar_label: Overview
+sidebar_position: 1
 ---
 
 # Dissasembling

@@ -1,5 +1,8 @@
 ---
 slug: /outsourcing-engineering/assemblya/222/dissasembled
+title: Disassembled 222 Drop System
+sidebar_label: Disassembled 222
+sidebar_position: 10
 ---
 
 # xxx2
