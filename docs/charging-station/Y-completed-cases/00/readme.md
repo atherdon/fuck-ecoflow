@@ -8,4 +8,4 @@
 
 The following 1 source file(s) were moved and renamed, but could not be decoded as images, so they are linked instead of embedded:
 
-- [00-img1.jpg](./images/00-img1.jpg)
+- [00-img1.bin](./images/00-img1.bin)

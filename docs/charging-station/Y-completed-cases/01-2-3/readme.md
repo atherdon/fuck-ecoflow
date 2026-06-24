@@ -14,6 +14,6 @@
 
 The following 3 source file(s) were moved and renamed, but could not be decoded as images, so they are linked instead of embedded:
 
-- [01-2-3-img4.jpg](./images/01-2-3-img4.jpg)
-- [01-2-3-img5.jpg](./images/01-2-3-img5.jpg)
-- [01-2-3-img6.jpg](./images/01-2-3-img6.jpg)
+- [01-2-3-img4.bin](./images/01-2-3-img4.bin)
+- [01-2-3-img5.bin](./images/01-2-3-img5.bin)
+- [01-2-3-img6.bin](./images/01-2-3-img6.bin)

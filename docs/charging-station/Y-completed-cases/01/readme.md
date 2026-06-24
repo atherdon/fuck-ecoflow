@@ -48,6 +48,6 @@
 
 The following 3 source file(s) were moved and renamed, but could not be decoded as images, so they are linked instead of embedded:
 
-- [01-img12.jpg](./images/01-img12.jpg)
-- [01-img13.jpg](./images/01-img13.jpg)
-- [01-img14.jpg](./images/01-img14.jpg)
+- [01-img12.bin](./images/01-img12.bin)
+- [01-img13.bin](./images/01-img13.bin)
+- [01-img14.bin](./images/01-img14.bin)
