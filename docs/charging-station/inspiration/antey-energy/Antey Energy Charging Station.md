@@ -1,3 +1,7 @@
+---
+slug: /charging-station/inspiration/antey-energy/antey-energy-charging-station
+---
+
 # Antey Energy Charging Station
 
 Created: April 1, 2026 9:36 AM

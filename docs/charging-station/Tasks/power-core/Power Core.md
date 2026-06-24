@@ -1,3 +1,7 @@
+---
+slug: /charging-station/tasks/power-core/power-core
+---
+
 # Power Core
 
 Idea is simple.

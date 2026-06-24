@@ -1,3 +1,7 @@
+---
+slug: /14-3d-to-print/3d-models-for-corners
+---
+
 # 3d models for corners
 
 [https://www.thingiverse.com/thing:1445443](https://www.thingiverse.com/thing:1445443) 

@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/Exp/Inventors For Different Use Cases
+slug: /charging-station/notes/exp/inventors-for-different-use-cases
 ---
 
 # Inventors For Different Use Cases

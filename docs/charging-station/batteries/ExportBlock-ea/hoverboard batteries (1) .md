@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/batteries/ExportBlock-ea/hoverboard batteries (1)
+slug: /charging-station/batteries/exportblock-ea/hoverboard-batteries-1
 ---
 
 # hoverboard batteries (1)

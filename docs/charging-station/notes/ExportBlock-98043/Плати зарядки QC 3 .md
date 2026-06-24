@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/ExportBlock-98043/Плати зарядки QC 3
+slug: /charging-station/notes/exportblock-98043/плати-зарядки-qc-3
 ---
 
 # Плати зарядки QC 3

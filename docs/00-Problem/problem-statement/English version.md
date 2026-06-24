@@ -1,3 +1,7 @@
+---
+slug: /00-problem/problem-statement/english-version
+---
+
 # English version
 
 # Life on the Pokrovsk Direction

@@ -1,5 +1,5 @@
 ---
-slug: /FLman/florida-man
+slug: /flman/florida-man
 ---
 
 # Florida Man

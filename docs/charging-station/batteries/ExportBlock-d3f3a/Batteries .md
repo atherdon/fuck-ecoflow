@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/batteries/ExportBlock-d3f3a/Batteries
+slug: /charging-station/batteries/exportblock-d3f3a/batteries
 ---
 
 # Batteries
