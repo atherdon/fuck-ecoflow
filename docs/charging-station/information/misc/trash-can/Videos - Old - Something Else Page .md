@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/misc/trash-can/Videos - Old - Something Else Page
+---
+
 # Videos - Old - Something Else Page
 
 [Перше відео](1000062919.mp4)
