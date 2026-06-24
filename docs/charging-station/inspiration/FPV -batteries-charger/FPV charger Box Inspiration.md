@@ -1,3 +1,7 @@
+---
+slug: /charging-station/inspiration/fpv-batteries-charger/fpv-charger-box-inspiration
+---
+
 # FPV charger Box Inspiration
 
 Created: April 3, 2026 8:57 PM

@@ -6,6 +6,19 @@
 
 # fuck-ecoflow
 
+This repository is a Docusaurus documentation site. The main maintenance problem is uncontrolled exported content: raw notes, duplicate pages, and large media files have been committed directly into the published docs tree.
+
+## Repository cleanup rules
+
+- Published docs live under `docs/`.
+- Keep section order and labels in `_category_.json` files.
+- Use lowercase kebab-case for new files and folders.
+- Avoid spaces, trailing spaces, UUID-only folders, and duplicate pages.
+- Run `npm run build` before publishing.
+- Run `npm run optimize:media` before committing batches of images.
+
+See [Repository organization](docs/maintainers/repository-organization.md) for the full structure and media policy.
+
 
 ## Images from docs/images
 Below are the images that live in docs/images so you can view them directly from the repository root README. Each image below is displayed as a smaller thumbnail; click it to open the full-size file.

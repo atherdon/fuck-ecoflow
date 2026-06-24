@@ -1,4 +1,5 @@
 ---
+draft: true
 slug: /charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25
 ---
 

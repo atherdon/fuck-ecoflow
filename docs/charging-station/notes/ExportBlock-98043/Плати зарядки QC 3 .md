@@ -1,3 +1,7 @@
+---
+slug: /charging-station/notes/exportblock-98043/плати-зарядки-qc-3
+---
+
 # Плати зарядки QC 3
 
 ![**Зарядка швидка , понижаючий перетворювач DC 2xUSB із 6-32V 9 V 12 V 24 V 5 V**](5239406514_w640_h640_zaryadka-shvidka-.webp)

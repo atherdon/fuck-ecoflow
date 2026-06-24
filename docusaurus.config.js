@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Fuck Ecoflow',
   tagline: 'Documentation for fuck-ecoflow',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://atherdon.github.io',
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.svg',
       navbar: {
         title: 'Fuck Ecoflow',
         logo: {

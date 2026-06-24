@@ -1,3 +1,7 @@
+---
+slug: /charging-station/notes/gitshop/gitshop
+---
+
 # GitShop
 
 ![image.png](image.png)

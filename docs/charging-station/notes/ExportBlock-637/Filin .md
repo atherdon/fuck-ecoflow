@@ -1,3 +1,7 @@
+---
+slug: /charging-station/notes/exportblock-637/filin
+---
+
 # Filin
 
 Created: May 22, 2026 10:41 AM

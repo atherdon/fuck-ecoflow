@@ -1,3 +1,7 @@
+---
+slug: /flman/florida-man
+---
+
 # Florida Man
 
 ![1000148074.jpg](1000148074.jpg)

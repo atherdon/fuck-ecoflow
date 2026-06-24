@@ -1,3 +1,7 @@
+---
+slug: /versions/versions
+---
+
 # Versions
 
 **нуль**
