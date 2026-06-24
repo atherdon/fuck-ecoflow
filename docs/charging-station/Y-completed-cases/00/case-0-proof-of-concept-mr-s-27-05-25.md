@@ -9,7 +9,7 @@ Created: June 6, 2025 8:01 AM
 
 ### **Proof of concept - 27.04.25 Артур - Sjoerd**
 
-![photo_2025-04-27_10-38-45.jpg](photo_2025-04-27_10-38-45.jpg)
+![photo_2025-04-27_10-38-45.jpg](./images/00-img2.jpg)
 
 I added this:
 
