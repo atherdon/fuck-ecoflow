@@ -2,7 +2,6 @@
 draft: true
 slug: /charging-station/13c82aa9-971d-40a/case-0-proof-of-concept-s-27-05-25
 ---
-
 # Case #0 - Proof of concept - Sjoerd 27.05.25
 
 Created: June 6, 2025 8:01 AM
@@ -44,4 +43,4 @@ I did not yet bother about how to charge the battery packs
 
 ## Sjoerd`s proof-of-concept May 23th
 
-[signal-2025-05-23-10-54-15-840.mp4](signal-2025-05-23-10-54-15-840.mp4)
+`signal-2025-05-23-10-54-15-840.mp4`

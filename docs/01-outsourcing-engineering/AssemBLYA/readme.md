@@ -20,6 +20,36 @@ Types of drop systems
 
 ---
 
+
+3d parts
+drop system under the drone belly
+Sensors, wires, activator
+
+
+- Steal and lower the costs down
+- scale to 10x-30x-50x
+- one servo-one present
+- different weights of different sizes of presents
+- do our own 2 presents system
+- warm gel delivery system
+- butterfly and iqos dropper cage
+- vampire like system(smaller)
+- infantry packages(different sizes)
+
+
+
+---
+
+
+I'm preparing images.
+I'm doing scales.
+I'm looking mone for servos.
+I'm talking with other units to partner with
+Our recon leader playing in 3d models
+Me running/walking/crying and thinking about Alexandra
+
+---
+
 - steal and lower the costs down
 - scale to 10x, 30x, 50x
 
