@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Fuck Ecoflow documentation</title>
+  <desc id="desc">Social preview card for the documentation site.</desc>
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <circle cx="1040" cy="120" r="220" fill="#1e293b"/>
+  <circle cx="180" cy="560" r="260" fill="#111827"/>
+  <path d="M610 96 410 384h144l-32 150 240-312H616l52-126Z" fill="#facc15"/>
+  <text x="96" y="154" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">Fuck Ecoflow</text>
+  <text x="100" y="232" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="34">Engineering notes, cases, and field documentation</text>
+</svg>
