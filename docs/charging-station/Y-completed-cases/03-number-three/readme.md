@@ -1,9 +1,11 @@
-- 45000 mAh
-- 576 Wh
 
 <!-- generated-image-gallery -->
 
-# Y Completed Cases / 03 Number Three
+# Completed Cases - Number Three (03)
+
+- 45000 mAh
+- 576 Wh
+
 
 ## Images
 
