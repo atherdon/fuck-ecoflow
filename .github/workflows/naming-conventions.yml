@@ -1,0 +1,28 @@
+name: Naming conventions
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'scripts/check-naming-conventions.mjs'
+      - 'package.json'
+      - '.github/workflows/naming-conventions.yml'
+
+jobs:
+  docs-paths:
+    name: Check docs path names
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check naming conventions
+        run: npm run check:naming -- --base "origin/${{ github.base_ref }}" --head HEAD
