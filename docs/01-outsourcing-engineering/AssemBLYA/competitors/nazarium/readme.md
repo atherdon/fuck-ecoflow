@@ -1,7 +1,7 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/nazarium/
 title: Nazarium
-sidebar_label: Overview
+sidebar_label: Nazarium
 sidebar_position: 20
 ---
 

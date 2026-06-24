@@ -1,7 +1,7 @@
 ---
 slug: /outsourcing-engineering/assemblya/competitors/steel-hornets/cheap-steal/
 title: Steel Hornets Cheap Steal
-sidebar_label: Overview
+sidebar_label: Cheap Steal
 sidebar_position: 10
 ---
 
