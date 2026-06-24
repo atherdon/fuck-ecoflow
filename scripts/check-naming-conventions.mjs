@@ -81,7 +81,7 @@ function getChangedDocsPaths(baseRef, headRef) {
   const output = git([
     'diff',
     '--name-status',
-    '--diff-filter=ACMR',
+    '--diff-filter=ACR',
     '--find-renames',
     `${baseRef}...${headRef}`,
     '--',
