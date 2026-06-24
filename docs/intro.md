@@ -10,7 +10,7 @@ This repository is a Docusaurus documentation site for engineering notes, chargi
 ## Main sections
 
 - [Problem statement](./00-Problem/problem-statement/English%20version.md)
-- [Charging station](./charging-station/readme.md)
+- [Charging station](/docs/category/charging-station)
 - [Outsourcing engineering](./01-outsourcing-engineering/full-specification/readme.md)
 - [Team](./team/readme.md)
 - [Reports](./reports/unfinished-report-current-status.md)
