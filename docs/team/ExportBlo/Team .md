@@ -1,5 +1,5 @@
 ---
-slug: /team/ExportBlo/Team
+slug: /team/exportblo/team
 ---
 
 # Team

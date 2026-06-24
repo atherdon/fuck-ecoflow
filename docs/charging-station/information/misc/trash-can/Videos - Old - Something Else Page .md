@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/information/misc/trash-can/Videos - Old - Something Else Page
+slug: /charging-station/information/misc/trash-can/videos-old-something-else-page
 ---
 
 # Videos - Old - Something Else Page

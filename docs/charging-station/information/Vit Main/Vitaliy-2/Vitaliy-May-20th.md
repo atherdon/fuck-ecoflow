@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/vit-main/vitaliy-2/vitaliy-may-20th
+---
+
 # Vitaliy, May 20th
 
 Created: May 20, 2026 10:36 PM

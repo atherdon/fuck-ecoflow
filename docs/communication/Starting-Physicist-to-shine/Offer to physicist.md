@@ -1,3 +1,7 @@
+---
+slug: /communication/starting-physicist-to-shine/offer-to-physicist
+---
+
 # Offer to physicist
 
 1. **Гроші**. 3000 за ящик 3 дні роботи - пайка елементів інклудед

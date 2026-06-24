@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/ExportBlock-637/Filin
+slug: /charging-station/notes/exportblock-637/filin
 ---
 
 # Filin

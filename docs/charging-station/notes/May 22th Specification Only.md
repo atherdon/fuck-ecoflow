@@ -1,3 +1,7 @@
+---
+slug: /charging-station/notes/may-22th-specification-only
+---
+
 # May 22th Specification Only
 
 ## **Situation**

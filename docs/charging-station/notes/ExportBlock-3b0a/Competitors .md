@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/ExportBlock-3b0a/Competitors
+slug: /charging-station/notes/exportblock-3b0a/competitors
 ---
 
 # Competitors

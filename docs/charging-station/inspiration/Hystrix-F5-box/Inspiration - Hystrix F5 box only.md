@@ -1,3 +1,7 @@
+---
+slug: /charging-station/inspiration/hystrix-f5-box/inspiration-hystrix-f5-box-only
+---
+
 # Inspiration - Hystrix F5 box only
 
 ![image.png](image.png)

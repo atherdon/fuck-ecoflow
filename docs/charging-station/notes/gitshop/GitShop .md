@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/gitshop/GitShop
+slug: /charging-station/notes/gitshop/gitshop
 ---
 
 # GitShop

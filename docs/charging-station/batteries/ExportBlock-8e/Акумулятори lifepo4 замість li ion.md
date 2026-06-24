@@ -1,3 +1,7 @@
+---
+slug: /charging-station/batteries/exportblock-8e/акумулятори-lifepo4-замість-li-ion
+---
+
 # Акумулятори lifepo4 замість li ion (1)
 
 **Акумулятори lifepo4 замість li ion.**

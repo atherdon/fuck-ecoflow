@@ -1,3 +1,7 @@
+---
+slug: /charging-station/inspiration/antey-energy/antey-energy-specification
+---
+
 # Antey Energy Specification
 
 ![](nse-1599373405874014403-1846630280.jpg)

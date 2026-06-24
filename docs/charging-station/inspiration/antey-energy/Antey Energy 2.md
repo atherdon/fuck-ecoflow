@@ -1,3 +1,7 @@
+---
+slug: /charging-station/inspiration/antey-energy/antey-energy-2
+---
+
 # Antey Energy 2
 
 ![](nse-4139730425181224935-2050489759.jpg)

@@ -1,5 +1,5 @@
 ---
-slug: /versions/Versions
+slug: /versions/versions
 ---
 
 # Versions

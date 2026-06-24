@@ -1,3 +1,7 @@
+---
+slug: /01-outsourcing-engineering/drone-net-gun/nets-information
+---
+
 # nets information
 
 ![Screenshot_20260611-182958.jpg](Screenshot_20260611-182958.jpg)
