@@ -52,7 +52,6 @@ const manualRedirects = [
     to: '/docs/reports/plastic-fantastic/2026-06-22',
     from: [
       '/docs/reports/plastic-fantastic/June-22',
-      '/docs/reports/plastic-fantastic/June-22/',
       '/docs/reports/plastic-fantastic/June-22/readme',
     ],
   },
@@ -60,7 +59,6 @@ const manualRedirects = [
     to: '/docs/team/our-lab',
     from: [
       '/docs/team/our-lab/Our-Distributed-Laboratory',
-      '/docs/team/our-lab/Our-Distributed-Laboratory/',
     ],
   },
   {
