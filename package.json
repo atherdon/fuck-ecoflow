@@ -6,6 +6,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "check:media": "node scripts/check-media-guardrails.mjs",
     "check:naming": "node scripts/check-naming-conventions.mjs",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
