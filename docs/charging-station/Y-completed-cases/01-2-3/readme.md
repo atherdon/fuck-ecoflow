@@ -2,13 +2,13 @@
 
 ## Images
 
-![01-2-3-img1](./images/01-2-3-img1.jpg)
+![01-2-3-img1](/img/y-completed-cases/01-2-3/01-2-3-img1.jpg)
 
-![01-2-3-img2](./images/01-2-3-img2.jpg)
+![01-2-3-img2](/img/y-completed-cases/01-2-3/01-2-3-img2.jpg)
 
-![01-2-3-img3](./images/01-2-3-img3.jpg)
+![01-2-3-img3](/img/y-completed-cases/01-2-3/01-2-3-img3.jpg)
 
-![01-2-3-img7](./images/01-2-3-img7.jpg)
+![01-2-3-img7](/img/y-completed-cases/01-2-3/01-2-3-img7.jpg)
 
 ## Files not displayed
 
