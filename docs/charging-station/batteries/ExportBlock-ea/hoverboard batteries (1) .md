@@ -1,3 +1,7 @@
+---
+slug: /charging-station/batteries/ExportBlock-ea/hoverboard batteries (1)
+---
+
 # hoverboard batteries (1)
 
 ## **26.04.25 Артур - Sjoerd**

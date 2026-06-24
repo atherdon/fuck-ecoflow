@@ -1,3 +1,7 @@
+---
+slug: /charging-station/notes/Exp/Inventors For Different Use Cases
+---
+
 # Inventors For Different Use Cases
 
 From Charging station that was created by Vadim
