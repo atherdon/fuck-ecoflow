@@ -1,11 +1,13 @@
 ---
 slug: /outsourcing-engineering/assemblya/GarryHudini/
-title: Garry Hudini
-sidebar_label: Garry Hudini
+title: Garry Houdini
+sidebar_label: Garry Houdini
 sidebar_position: 10
 ---
 
-# GarryHudini
+# GarryHoudini
+
+[Dua Lipa Houdini](https://www.youtube.com/watch?v=suAR1PYFNYA)
 
 # AssemBlya
 
