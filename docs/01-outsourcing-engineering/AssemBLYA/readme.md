@@ -132,6 +132,9 @@ AssemBlya — це ветеранський інженерний проєкт, �
 
 ---
 
+
+https://media.githubusercontent.com/media/atherdon/fuck-ecoflow/main/docs/01-outsourcing-engineering/AssemBLYA/master-plan-v1.png
+
 ### PLAN
 
 Types of drop systems
