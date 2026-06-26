@@ -133,6 +133,12 @@ AssemBlya — це ветеранський інженерний проєкт, �
 
 ### PLAN
 
+
+[xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
+
+
+[xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
+
 Types of drop systems
 
 1) 1kg present
