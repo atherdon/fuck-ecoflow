@@ -10,7 +10,7 @@
 - [frog-version-two/frog-version-two-ua.md](frog-version-two/frog-version-two-ua.md)
 
 ### 3. Павербанки
-- [powerbanks/3 Павербанки.md](powerbanks/3%20Павербанки.md)
+- [powerbanks/3 Павербанки.md](powerbanks/pb.md)
 
 ### DIY powerbanks for drops
 - [diy-powerbanks-for-drops/diy-powerbanks-for-drops.md](diy-powerbanks-for-drops/diy-powerbanks-for-drops.md)
