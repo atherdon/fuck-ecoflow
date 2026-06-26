@@ -1,3 +1,11 @@
+---
+slug: /outsourcing-engineering/assemblya/dissasembling/metal-parts/
+title: Disassembling metal holders
+sidebar_label: "Metal ONly"
+sidebar_position: 70
+---
+
+
 ![](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/diss2/IMG_20260623_211341_509.jpg)
 
 ![](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/diss2/IMG_20260623_211339_201.jpg)
