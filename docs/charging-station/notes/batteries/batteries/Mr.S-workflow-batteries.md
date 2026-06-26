@@ -1,6 +1,4 @@
-# Сьорд воркфлоу batteries
-
-Created: July 16, 2025 5:31 PM
+# SJ workflow batteries
 
 I am learning more about testing used 18650 cells
 
