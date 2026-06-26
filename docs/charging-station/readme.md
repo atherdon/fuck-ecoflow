@@ -11,5 +11,5 @@ Working notes, completed cases, tasks, component research, and inspiration for c
 
 - [Completed cases](./Y-completed-cases/01-2-3/readme.md)
 - [Tasks](./Tasks/matrice4-bypassing%20the%20HOTA/readme.md)
-- [Batteries](./batteries/batteries/Mr.S-workflow-batteries.md)
+<!-- - [Batteries](./batteries/batteries/Mr.S-workflow-batteries.md) -->
 - [White box vs EcoFlow](./wb-vs-ecoflow/readme.md)
