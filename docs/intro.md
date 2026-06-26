@@ -9,7 +9,7 @@ This repository is a Docusaurus documentation site for engineering notes, chargi
 
 ## Main sections
 
-- [Problem statement](./00-Problem/problem-statement/English%20version.md)
+<!-- - [Problem statement](./00-Problem/problem-statement/English%20version.md) -->
 - [Charging station notes](./charging-station/wb-vs-ecoflow/readme.md)
 - [Outsourcing engineering](./01-outsourcing-engineering/full-specification/readme.md)
 - [Team](./team/readme.md)
