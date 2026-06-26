@@ -1,3 +1,7 @@
+---
+slug: /01-outsourcing-engineering/simple-products/powerbanks/pb2
+---
+
 # 3. «Power Banks»
 
 There is also a need to solder and assemble simple products — for example, power banks for the infantry.
