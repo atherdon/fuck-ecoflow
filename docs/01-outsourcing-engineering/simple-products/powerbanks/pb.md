@@ -1,5 +1,5 @@
 ---
-slug: /01-outsourcing-engineering/simple-products/powerbanks/3-павербанки
+slug: /01-outsourcing-engineering/simple-products/powerbanks/pb
 ---
 
 # 3. «Павербанки»
