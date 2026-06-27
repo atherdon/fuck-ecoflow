@@ -1,4 +1,4 @@
-```markdown
+
 ![система-скидання](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/brav/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-%D1%81%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8F.png)
 
 ![кид-FPV-подвійний-до-10-kg5_AM](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/brav/%D0%BA%D0%B8%D0%B4-FPV-%D0%BF%D0%BE%D0%B4%D0%B2%D1%96%D0%B9%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BE-10-%D0%BA%D0%B35_AM.png)
@@ -50,4 +50,4 @@
 ![15-рам-гексакоптерів-Вампір-Кажан](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/brav/15-%D1%80%D0%B0%D0%BC-%D0%B3%D0%B5%D0%BA%D1%81%D0%B0%D0%BA%D0%BE%D0%BF%D1%82%D0%B5%D1%80%D1%96%D0%B2-%D0%92%D0%B0%D0%BC%D0%BF%D1%96%D1%80-%D0%9A%D0%B0%D0%B6%D0%B0%D0%BD.png)
 
 ![-25-2026_06_34_AM](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/brav/-25-2026_06_34_AM.png)
-```
+
