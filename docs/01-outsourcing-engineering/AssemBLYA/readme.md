@@ -134,10 +134,10 @@ AssemBlya — це ветеранський інженерний проєкт, �
 ### PLAN
 
 
-[xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
+![xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/plan.png)
 
 
-[xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
+![xxxx](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/Itterations-Plan.png)
 
 Types of drop systems
 
@@ -179,12 +179,12 @@ Sensors, wires, activator
 ---
 
 
-I'm preparing images.
-I'm doing scales.
-I'm looking mone for servos.
-I'm talking with other units to partner with
-Our recon leader playing in 3d models
-Me running/walking/crying and thinking about Alexandra
+- I'm preparing images.
+- I'm doing scales.
+- I'm looking mone for servos.
+- I'm talking with other units to partner with
+- Our recon leader playing in 3d models
+- Me running/walking/crying and thinking about Alexandra
 
 ---
 
@@ -231,6 +231,6 @@ evolution of files of drop systems
 
 ## Master Plan
 
-![AssemBLYA Master Plan v1](./master-plan-v1.png)
+<!-- ![AssemBLYA Master Plan v1](./master-plan-v1.png) -->
 
 ---
