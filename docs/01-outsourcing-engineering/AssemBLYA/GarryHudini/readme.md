@@ -14,6 +14,16 @@ sidebar_position: 10
 
 ## Images
 
+
+![IMG-20260626-WA0193](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/main/static/img/houdini/IMG-20260626-WA0193.jpg)
+
+![IMG-20260626-WA0194](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/main/static/img/houdini/IMG-20260626-WA0194.jpg)
+
+![IMG_20260626_200237_500](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/main/static/img/houdini/IMG_20260626_200237_500.jpg)
+
+
+
+
 ![hudini-drop-v1-img1](./images/hudini-drop-v1-img1.jpg)
 
 ![hudini-drop-v1-img2](./images/hudini-drop-v1-img2.jpg)
@@ -32,31 +42,10 @@ sidebar_position: 10
 
 ![hudini-drop-v1-img9](./images/hudini-drop-v1-img9.jpg)
 
+
+
+
 ---
-
-
-![IMG-20260625-WA0113](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0113.jpg)
-
-
-![IMG-20260625-WA0114](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0114.jpg)
-
-![IMG-20260625-WA0115](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0115.jpg)
-
-![IMG-20260625-WA0116](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0116.jpg)
-
-![IMG-20260625-WA0117](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0117.jpg)
-
-![IMG-20260625-WA0118](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0118.jpg)
-
-![IMG-20260625-WA0119](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0119.jpg)
-
-![IMG-20260625-WA0120](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0120.jpg)
-
-![IMG-20260625-WA0121](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0121.jpg)
-
-![IMG-20260625-WA0124](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0124.jpg)
-
-![IMG-20260625-WA0125](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0125-jpg-06-25-2026_11_29_PM.png)
 
 ![IMG-20260625-WA0126](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0126-jpg-06-25-2026_11_29_PM.png)
 
