@@ -1,5 +1,5 @@
 ---
-slug: /outsourcing-engineering/assemblya/competitors/butterfly-case/butterly
+slug: /outsourcing-engineering/assemblya/competitors/butterfly-case/
 title: Butterfly Mine
 sidebar_label: Butterfly Mine
 sidebar_position: 10
@@ -7,7 +7,7 @@ sidebar_position: 10
 
 
 
----
+
 
 
 ![IMG-20260625-WA0113](https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/houdini/IMG-20260625-WA0113.jpg)
