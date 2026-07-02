@@ -1,5 +1,5 @@
 ---
-slug: /outsourcing-engineering/assemblya/competitors/butterfly-case/
+slug: /outsourcing-engineering/assemblya/competitors/butterfly-case/butterly
 title: Butterfly Mine
 sidebar_label: Butterfly Mine
 sidebar_position: 10
