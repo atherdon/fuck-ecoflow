@@ -17,3 +17,5 @@ Different types of servos to try
 
 For the first batch we need to have 10-20 servos.
 Next move 100 servos.
+
+https://prom.ua/ua/p2747432436-servoprivod-dsservo-ds3218.html
