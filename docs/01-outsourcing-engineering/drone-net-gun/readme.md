@@ -26,6 +26,9 @@ Using disposable nets at $25 each can become costly at scale (e.g., $7.5k/month 
 
 ---
 
+https://www.youtube.com/watch?v=mRwCXhhpEX8
+
+
 ## Nets — Photo reference
 Below are photos collected as reference for candidate nets and related hardware. Captions are short notes to help identify each image.
 
