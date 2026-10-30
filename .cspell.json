@@ -1,0 +1,24 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "ecoflow",
+    "EcoFlow",
+    "LLazyEmail",
+    "atherdon",
+    "docusaurus",
+    "markdownlint",
+    "lychee",
+    "petroved",
+    "hassio",
+    "PowerOcean",
+    "Modbus"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "build/**",
+    "package-lock.json",
+    "static/**",
+    "docs/assets/**"
+  ]
+}
