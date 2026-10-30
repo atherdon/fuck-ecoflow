@@ -1,0 +1,18 @@
+# Lychee config for fuck-ecoflow docs
+timeout = 20
+max_concurrency = 8
+accept = [200, 204, 206, 403, 429]
+
+exclude_path = [
+  "node_modules",
+  "build",
+  ".git",
+  "abs-dont-look-here",
+]
+
+exclude = [
+  '^https://twitter\\.com/',
+  '^https://x\\.com/',
+  '^https://www\\.linkedin\\.com/',
+  '^https://linkedin\\.com/',
+]
