@@ -1,6 +1,8 @@
 name: Build docs
 
 # Build-only verification (PR + main). No GitHub Pages deploy — intentional for this fork.
+# Uses documentation-actions reusable-docs-ci (not legacy reusable-docusaurus-test-deploy).
+# Do NOT enable lfs: true — LFS objects 404 on this fork historically.
 on:
   pull_request:
   push:
@@ -8,11 +10,19 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
 jobs:
   build:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-test-deploy.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-ci.yml@v1
     with:
       working-directory: .
       cache-dependency-path: package-lock.json
       node-version: '24'
-      # LFS objects 404 on this fork historically; keep lfs false (default).
+      run-build: true
+      lfs: false
+      annotate-log: true
+    secrets: inherit
