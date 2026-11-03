@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions markdownlint [`#10`](https://github.com/LLazyEmail/fuck-ecoflow/pull/10)
 - ci: slim build.yml to documentation-actions test-deploy (no Pages) [`#59`](https://github.com/LLazyEmail/fuck-ecoflow/pull/59)
 - ci: adopt documentation-actions npm-script-check (media guardrails) [`#57`](https://github.com/LLazyEmail/fuck-ecoflow/pull/57)
 - ci: adopt documentation-actions npm-script-check (naming conventions) [`#58`](https://github.com/LLazyEmail/fuck-ecoflow/pull/58)
@@ -222,6 +223,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 9999 [`a826a25`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a826a2504d783fe4a16d30f2e48f989e6053f45e)
 - Document plastic corner protection implementation task [`3ebc201`](https://github.com/LLazyEmail/fuck-ecoflow/commit/3ebc201f77ecf871107ebee01cee65da6f9cc881)
 - 111 [`6539344`](https://github.com/LLazyEmail/fuck-ecoflow/commit/65393441816e1dc2ee4c73441f756cb19df6ddcb)
+- ci: add markdownlint config and switch build to reusable-docs-ci [`7000455`](https://github.com/LLazyEmail/fuck-ecoflow/commit/70004556708527b142982b3ed5862bd8349cd595)
 - Add captions for images in OWL/Mr Owl.md [`765c2b1`](https://github.com/LLazyEmail/fuck-ecoflow/commit/765c2b1aea6c35dbb588e31a92604b69b552cb32)
 - 3333 [`2e9440a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/2e9440ac87c4fa5e5c89561f797bdd0a3ef3ef48)
 - 11 [`e2bf1dd`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e2bf1ddbfcf3555f31f2eda29b7bc218bc1f788a)
@@ -518,6 +520,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- fix(docs): drop stray leading space on ordered-list items (MD005) [`8d99f45`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8d99f45cbe7b14d89b6785aef318c713007bd155)
 - fix: re-enable jpg/png paths in media-guardrails workflow [`e0417dd`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e0417dd651a13ebb140a9e20dfee636693d6835b)
 - Enable LFS for additional image formats [`9d828b6`](https://github.com/LLazyEmail/fuck-ecoflow/commit/9d828b633f6dd9488c40258089948d214aa793ae)
 - 1411 [`61ce07c`](https://github.com/LLazyEmail/fuck-ecoflow/commit/61ce07c82a83a4e32844fa0d85a8b7e7293659a6)
@@ -593,6 +596,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/LLazyEmail/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/LLazyEmail/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/LLazyEmail/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`988afc3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/988afc345a64eda93f9b2ac55e42bc958ee82ccc)
 - fix: require Node.js &gt;=20 in package engines (from #1) [`4800fb9`](https://github.com/LLazyEmail/fuck-ecoflow/commit/4800fb9be8c32f3bf55421555bc837cd940c122d)
 - 111 [`8b5838e`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8b5838e92ff8ceb70b0d2353c57d51825c13b9f2)
 - Update readme.md [`968c97a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/968c97ad65eff5a51d3a70e0c44ddd684ae2c99a)
