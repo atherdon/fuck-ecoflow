@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore: add static/robots.txt allowing crawl [`#40`](https://github.com/LLazyEmail/fuck-ecoflow/pull/40)
+- chore: recommend VS Code extensions for docs contributors [`#42`](https://github.com/LLazyEmail/fuck-ecoflow/pull/42)
 - chore: add Git LFS gitattributes for media [`#48`](https://github.com/LLazyEmail/fuck-ecoflow/pull/48)
 - chore: add CODEOWNERS for atherdon [`#24`](https://github.com/LLazyEmail/fuck-ecoflow/pull/24)
 - chore: add cspell dictionary stub [`#41`](https://github.com/LLazyEmail/fuck-ecoflow/pull/41)
@@ -619,6 +621,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/LLazyEmail/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/LLazyEmail/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/LLazyEmail/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`8d94aed`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8d94aed8d5c6ff1c9ceba7530967bd21fab0c6ce)
 - chore(changelog): regenerate after merged pull request [`456508b`](https://github.com/LLazyEmail/fuck-ecoflow/commit/456508bf0cf5c84ec039301b06a7f37f4ffebab2)
 - chore(changelog): regenerate after merged pull request [`40114b9`](https://github.com/LLazyEmail/fuck-ecoflow/commit/40114b93f3e743be3c626431f21b664264be7417)
 - chore(changelog): regenerate after merged pull request [`ced3fd2`](https://github.com/LLazyEmail/fuck-ecoflow/commit/ced3fd211bebfd8288125349b73ca9bdbb74a4b5)
