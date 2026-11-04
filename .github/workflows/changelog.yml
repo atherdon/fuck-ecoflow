@@ -1,0 +1,17 @@
+name: Update changelog
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['CHANGELOG.md']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  changelog:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-changelog.yml@v1
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      commit-paths: CHANGELOG.md
+      node-version: '24'
+    secrets: inherit

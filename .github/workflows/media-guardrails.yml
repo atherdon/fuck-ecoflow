@@ -5,11 +5,11 @@ on:
     paths:
       - '**/*.avif'
       - '**/*.gif'
- ##     - '**/*.jpeg'
- ##     - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.jpg'
       - '**/*.mov'
       - '**/*.mp4'
- ##     - '**/*.png'
+      - '**/*.png'
       - '**/*.webp'
       - 'scripts/check-media-guardrails.mjs'
       - 'package.json'
@@ -17,20 +17,11 @@ on:
 
 jobs:
   media:
-    name: Check media additions
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
-          lfs: true
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v7
-        with:
-          node-version: 24
-
-      - name: Check media guardrails
-        run: npm run check:media -- --base "origin/${{ github.base_ref }}" --head HEAD
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-script-check.yml@v1
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      node-version: '24'
+      lfs: true
+      job-name: Check media additions
+      run-command: npm run check:media -- --base "origin/${{ github.base_ref }}" --head HEAD

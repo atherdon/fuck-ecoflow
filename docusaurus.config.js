@@ -125,7 +125,7 @@ const config = {
   baseUrl: '/fuck-ecoflow/',
 
   // GitHub pages deployment config.
-  organizationName: 'atherdon',
+  organizationName: 'LLazyEmail',
   projectName: 'fuck-ecoflow',
 
   onBrokenLinks: 'throw',
@@ -207,7 +207,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/atherdon/fuck-ecoflow',
+            href: 'https://github.com/LLazyEmail/fuck-ecoflow',
             label: 'GitHub',
             position: 'right',
           },
@@ -230,7 +230,7 @@ const config = {
             items: [
               {
                 label: 'GitHub Issues',
-                href: 'https://github.com/atherdon/fuck-ecoflow/issues',
+                href: 'https://github.com/LLazyEmail/fuck-ecoflow/issues',
               },
             ],
           },

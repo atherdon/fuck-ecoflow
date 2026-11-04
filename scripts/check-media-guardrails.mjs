@@ -10,12 +10,17 @@ const DEFAULT_BASE = process.env.GITHUB_BASE_REF
 const DEFAULT_HEAD = 'HEAD';
 const VIDEO_EXTENSIONS = new Set(['.mp4', '.mov']);
 const IMAGE_EXTENSIONS = new Set([
-  '.avif', '.gif', 
-  //'.jpeg', '.jpg', '.png', 
-  '.webp'
+  '.avif',
+  '.gif',
+  '.jpeg',
+  '.jpg',
+  '.png',
+  '.webp',
 ]);
-const MAX_IMAGE_BYTES = Number(process.env.MAX_NEW_IMAGE_BYTES ?? 2 * 1024 * 1024 * 100);
-//const MAX_IMAGE_BYTES = Number(process.env.MAX_NEW_IMAGE_BYTES ?? 2 * 1024 * 1024);
+// Soft default: 200 MiB while legacy media is cleaned up; tighten via env in CI later.
+const MAX_IMAGE_BYTES = Number(
+  process.env.MAX_NEW_IMAGE_BYTES ?? 2 * 1024 * 1024 * 100,
+);
 
 
 const args = parseArgs(process.argv.slice(2));

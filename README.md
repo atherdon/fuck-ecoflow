@@ -1,4 +1,8 @@
 # Моя зброя розум. Мій дух сталевий. Мій код ПЕРЕМОГА. 
+
+<!-- fork-status -->
+> **Fork note:** This is the [LLazyEmail/fuck-ecoflow](https://github.com/LLazyEmail/fuck-ecoflow) working fork of [atherdon/fuck-ecoflow](https://github.com/atherdon/fuck-ecoflow). Prefer draft PRs against this fork's `main`. Never commit API keys.
+
 # Я Інтелект. Я Система.
 # Слава Україні!
 
@@ -24,3 +28,40 @@ Below are the images that live in docs/images so you can view them directly from
 
 ### Simple schema whiteboard
 <a href="static/img/simple-schema-whiteboard.png"><img src="static/img/simple-schema-whiteboard.png" width="360" alt="Simple schema whiteboard" /></a>
+
+
+## Setup (docs site)
+
+This repository is a **Docusaurus** documentation site (fork: [LLazyEmail/fuck-ecoflow](https://github.com/LLazyEmail/fuck-ecoflow)).
+
+```bash
+# Media uses Git LFS — install git-lfs before clone/pull for full images
+git lfs install
+npm install
+npm start
+npm run build
+npm run serve
+```
+
+Node.js **>= 20**. See [AGENTS.md](./AGENTS.md) once added.
+
+### Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm start` | Dev server |
+| `npm run build` | Production build |
+| `npm run check:media` | Media guardrails |
+| `npm run check:naming` | Naming conventions |
+| `npm run optimize:media` | Optimize doc media (sharp) |
+
+## Git LFS
+
+Many images and videos are stored with **Git LFS**. Without `git lfs pull`, files may be tiny pointer stubs and the site will show broken media (build may still succeed with warnings).
+
+```bash
+git lfs install
+git lfs pull
+```
+
+If LFS objects 404, ask a maintainer to restore the binaries — do not invent replacements in PRs.

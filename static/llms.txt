@@ -1,0 +1,12 @@
+# fuck-ecoflow docs (LLazyEmail fork)
+
+> EcoFlow field notes and reverse-engineering documentation (Docusaurus).
+
+## Primary
+
+- [GitHub](https://github.com/LLazyEmail/fuck-ecoflow): Source
+- Related research pages under `docs/maintainers/`
+
+## Notes for agents
+
+See AGENTS.md. Never commit EcoFlow API keys or pairing secrets.

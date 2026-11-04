@@ -1,0 +1,9 @@
+name: Star request comment
+on:
+  pull_request_target:
+    types: [opened]
+permissions:
+  pull-requests: write
+jobs:
+  comment:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-star-request.yml@v1
