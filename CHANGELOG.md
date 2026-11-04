@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: add static/llms.txt agent discovery stub [`#38`](https://github.com/LLazyEmail/fuck-ecoflow/pull/38)
 - chore: add static/robots.txt allowing crawl [`#40`](https://github.com/LLazyEmail/fuck-ecoflow/pull/40)
 - chore: recommend VS Code extensions for docs contributors [`#42`](https://github.com/LLazyEmail/fuck-ecoflow/pull/42)
 - chore: add Git LFS gitattributes for media [`#48`](https://github.com/LLazyEmail/fuck-ecoflow/pull/48)
@@ -696,6 +697,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename English version 3732d71d80698094be3ed814873789b2.md to English version.md [`2d268b3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/2d268b31e633625dc376a213ed948985f8c78e42)
 - Rename file for wire extenders documentation [`b246b8c`](https://github.com/LLazyEmail/fuck-ecoflow/commit/b246b8c1169a6ea408d701f4e314e2c55997ccf2)
 - Rename English version full but CRAP 3672d71d806980f5ad5cf3026b5a4d4a.md to english-version-full-but-cra[.md [`09b51ed`](https://github.com/LLazyEmail/fuck-ecoflow/commit/09b51ed4d8fa18b81ae5d485e76953a75f99b92d)
+- chore(changelog): regenerate after merged pull request [`46b7df9`](https://github.com/LLazyEmail/fuck-ecoflow/commit/46b7df970bd13c90a17c34319292d23ea32bd474)
 - chore(changelog): regenerate after merged pull request [`c298935`](https://github.com/LLazyEmail/fuck-ecoflow/commit/c298935dd2456eae4d8af6a0b8d1626c3887778b)
 - chore(changelog): regenerate after merged pull request [`7e26fd3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/7e26fd31ecb8458c489c28555e1b25b7720cfed1)
 - fix: enable Git LFS on media/naming workflow checkouts [`d12d410`](https://github.com/LLazyEmail/fuck-ecoflow/commit/d12d4104b1998a9e2214f4c4d9c2e363ffa6675d)
