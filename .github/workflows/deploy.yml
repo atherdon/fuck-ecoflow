@@ -1,0 +1,19 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+# contents: write required on caller until documentation-actions#33
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+jobs:
+  deploy:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@v1
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      artifact-path: build
+      node-version: '24'
+    secrets: inherit
