@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore: add pull request template [`#20`](https://github.com/LLazyEmail/fuck-ecoflow/pull/20)
 - ci: adopt documentation-actions Pages deploy [`#13`](https://github.com/LLazyEmail/fuck-ecoflow/pull/13)
 - docs: add CONTRIBUTING.md [`#15`](https://github.com/LLazyEmail/fuck-ecoflow/pull/15)
 - chore: add EditorConfig [`#19`](https://github.com/LLazyEmail/fuck-ecoflow/pull/19)
@@ -677,6 +678,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename English version 3732d71d80698094be3ed814873789b2.md to English version.md [`2d268b3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/2d268b31e633625dc376a213ed948985f8c78e42)
 - Rename file for wire extenders documentation [`b246b8c`](https://github.com/LLazyEmail/fuck-ecoflow/commit/b246b8c1169a6ea408d701f4e314e2c55997ccf2)
 - Rename English version full but CRAP 3672d71d806980f5ad5cf3026b5a4d4a.md to english-version-full-but-cra[.md [`09b51ed`](https://github.com/LLazyEmail/fuck-ecoflow/commit/09b51ed4d8fa18b81ae5d485e76953a75f99b92d)
+- chore(changelog): regenerate after merged pull request [`7e26fd3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/7e26fd31ecb8458c489c28555e1b25b7720cfed1)
 - fix: enable Git LFS on media/naming workflow checkouts [`d12d410`](https://github.com/LLazyEmail/fuck-ecoflow/commit/d12d4104b1998a9e2214f4c4d9c2e363ffa6675d)
 - Create кфаадуюьв [`4e6bdb2`](https://github.com/LLazyEmail/fuck-ecoflow/commit/4e6bdb2bcd0b8693177848b673f1291e96de0b7a)
 - Create Mr.S.md [`f7eff6e`](https://github.com/LLazyEmail/fuck-ecoflow/commit/f7eff6e0d69493b3308ab6d195c342cbfd998b49)
