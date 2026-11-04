@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions docs-index [`#37`](https://github.com/LLazyEmail/fuck-ecoflow/pull/37)
+- chore: add GitHub issue templates for docs and CI [`#39`](https://github.com/LLazyEmail/fuck-ecoflow/pull/39)
 - chore: gitignore build cache, logs, and .env files [`#23`](https://github.com/LLazyEmail/fuck-ecoflow/pull/23)
 - docs: add SECURITY.md (no secrets in repo) [`#22`](https://github.com/LLazyEmail/fuck-ecoflow/pull/22)
 - chore: add pull request template [`#20`](https://github.com/LLazyEmail/fuck-ecoflow/pull/20)
@@ -590,6 +592,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/LLazyEmail/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`8446fd3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8446fd32763c0d76ca94d28d1df10b7e120da87c)
 - chore(changelog): regenerate after merged pull request [`4f650a6`](https://github.com/LLazyEmail/fuck-ecoflow/commit/4f650a663f17ea0c500403ce265169981a3894e6)
 - chore(changelog): regenerate after merged pull request [`1f8ce06`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1f8ce067adcdd5a5664be39a2cf131fafaf79328)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/222/IMG_20260621_233121_089.jpg [`1fe6ba0`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1fe6ba030a840dcf0f71bd3bbf0221cd02bb6c21)
