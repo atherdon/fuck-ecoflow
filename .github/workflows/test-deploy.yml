@@ -2,6 +2,13 @@ name: Test deployment
 on:
   pull_request:
     branches: [main]
+# The reusable workflow declares pull-requests/issues: write; without a
+# matching caller grant GitHub rejects the run (startup_failure).
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
 jobs:
   test-deploy:
     uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-test-deploy.yml@v1
