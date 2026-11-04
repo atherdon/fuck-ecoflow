@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions Pages deploy [`#13`](https://github.com/LLazyEmail/fuck-ecoflow/pull/13)
+- docs: add CONTRIBUTING.md [`#15`](https://github.com/LLazyEmail/fuck-ecoflow/pull/15)
+- chore: add EditorConfig [`#19`](https://github.com/LLazyEmail/fuck-ecoflow/pull/19)
+- ci: adopt documentation-actions test-deploy [`#12`](https://github.com/LLazyEmail/fuck-ecoflow/pull/12)
 - ci: adopt documentation-actions auto-rebase [`#9`](https://github.com/LLazyEmail/fuck-ecoflow/pull/9)
 - chore: add .nvmrc pinning Node 24 [`#18`](https://github.com/LLazyEmail/fuck-ecoflow/pull/18)
 - chore: schedule Renovate weekly on Monday [`#7`](https://github.com/LLazyEmail/fuck-ecoflow/pull/7)
@@ -525,6 +529,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/LLazyEmail/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- chore(changelog): regenerate after merged pull request [`3c382ee`](https://github.com/LLazyEmail/fuck-ecoflow/commit/3c382ee3ca90be4392ae4b19b086c79364c2b4f6)
 - fix(docs): drop stray leading space on ordered-list items (MD005) [`8d99f45`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8d99f45cbe7b14d89b6785aef318c713007bd155)
 - fix: re-enable jpg/png paths in media-guardrails workflow [`e0417dd`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e0417dd651a13ebb140a9e20dfee636693d6835b)
 - Enable LFS for additional image formats [`9d828b6`](https://github.com/LLazyEmail/fuck-ecoflow/commit/9d828b633f6dd9488c40258089948d214aa793ae)
