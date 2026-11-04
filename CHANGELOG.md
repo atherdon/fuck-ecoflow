@@ -550,6 +550,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`6856c5c`](https://github.com/LLazyEmail/fuck-ecoflow/commit/6856c5c92cd9a694a7cf130cf7a50e0f4715bf43)
 - Update intro.md [`1e688e6`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1e688e606920f7b6345bd45376b3c573c1dea1b8)
 - Add renovate.json [`9f7af52`](https://github.com/LLazyEmail/fuck-ecoflow/commit/9f7af5226f1e30be09fddeb18627fcc04714b6a7)
+- chore(changelog): regenerate after merged pull request [`e870ab3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e870ab31f5833e39071c02c5aa8f4b57838aba4d)
 - Fix Assemblya 3D corner route [`f2bf8b8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/f2bf8b827637a749c2a540f572f33ee09c43f4d8)
 - Draft duplicate docs [`c84995e`](https://github.com/LLazyEmail/fuck-ecoflow/commit/c84995eb712fc7e7eb72a7cfc1d3e70282361e6d)
 - 111 [`22b89eb`](https://github.com/LLazyEmail/fuck-ecoflow/commit/22b89ebddce8f2be8d818eae755c098355a1c4d9)
