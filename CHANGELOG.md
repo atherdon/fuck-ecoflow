@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore: gitignore build cache, logs, and .env files [`#23`](https://github.com/LLazyEmail/fuck-ecoflow/pull/23)
+- docs: add SECURITY.md (no secrets in repo) [`#22`](https://github.com/LLazyEmail/fuck-ecoflow/pull/22)
 - chore: add pull request template [`#20`](https://github.com/LLazyEmail/fuck-ecoflow/pull/20)
 - ci: adopt documentation-actions Pages deploy [`#13`](https://github.com/LLazyEmail/fuck-ecoflow/pull/13)
 - docs: add CONTRIBUTING.md [`#15`](https://github.com/LLazyEmail/fuck-ecoflow/pull/15)
@@ -609,6 +611,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/LLazyEmail/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/LLazyEmail/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/LLazyEmail/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`e9959ed`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e9959ed6eb0c333ec12f33ca7f4341ba152b2c2c)
 - chore(changelog): regenerate after merged pull request [`988afc3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/988afc345a64eda93f9b2ac55e42bc958ee82ccc)
 - fix: require Node.js &gt;=20 in package engines (from #1) [`4800fb9`](https://github.com/LLazyEmail/fuck-ecoflow/commit/4800fb9be8c32f3bf55421555bc837cd940c122d)
 - 111 [`8b5838e`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8b5838e92ff8ceb70b0d2353c57d51825c13b9f2)
