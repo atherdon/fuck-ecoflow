@@ -1,0 +1,26 @@
+name: Update docs pages index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - '!docs/pages-index.md'
+      - 'scripts/generate-docs-index.mjs'
+      - '.github/workflows/docs-index.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  docs-index:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-index.yml@v1
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      node-version: '24'
+      generate-command: npm run generate:docs-index
+      commit-paths: docs/pages-index.md
+    secrets: inherit
