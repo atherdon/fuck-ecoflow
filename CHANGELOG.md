@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions auto-rebase [`#9`](https://github.com/LLazyEmail/fuck-ecoflow/pull/9)
+- chore: add .nvmrc pinning Node 24 [`#18`](https://github.com/LLazyEmail/fuck-ecoflow/pull/18)
+- chore: schedule Renovate weekly on Monday [`#7`](https://github.com/LLazyEmail/fuck-ecoflow/pull/7)
+- chore: add lychee.toml for soft link checking [`#6`](https://github.com/LLazyEmail/fuck-ecoflow/pull/6)
+- chore: add markdownlint config for docs CI [`#5`](https://github.com/LLazyEmail/fuck-ecoflow/pull/5)
 - ci: adopt documentation-actions markdownlint [`#10`](https://github.com/LLazyEmail/fuck-ecoflow/pull/10)
 - ci: slim build.yml to documentation-actions test-deploy (no Pages) [`#59`](https://github.com/LLazyEmail/fuck-ecoflow/pull/59)
 - ci: adopt documentation-actions npm-script-check (media guardrails) [`#57`](https://github.com/LLazyEmail/fuck-ecoflow/pull/57)
@@ -552,6 +557,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/LLazyEmail/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/LLazyEmail/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`2d0bd20`](https://github.com/LLazyEmail/fuck-ecoflow/commit/2d0bd2011794daa8ca739b7148931990bffa9f70)
 - chore: add npm test/ci scripts wrapping checks + build [`e42fdb8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e42fdb8e5f9b3cf734a073537bcfdfdecf397784)
 - chore: bump @mdx-js/react to ^3.1.0 [`3ec0863`](https://github.com/LLazyEmail/fuck-ecoflow/commit/3ec08634640d8bc706e8e4c9cbc03bce73928ece)
 - chore: bump clsx to ^2.1.1 [`5a86f67`](https://github.com/LLazyEmail/fuck-ecoflow/commit/5a86f679933ce0f3cc70e831d03a090ebfc992bf)
