@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(deps): update node.js to v26 [`#76`](https://github.com/atherdon/fuck-ecoflow/pull/76)
 - ci(test-deploy): grant permissions required by reusable workflow [`#78`](https://github.com/atherdon/fuck-ecoflow/pull/78)
 - updates [`#77`](https://github.com/atherdon/fuck-ecoflow/pull/77)
 - docs: add static/llms.txt agent discovery stub [`#38`](https://github.com/atherdon/fuck-ecoflow/pull/38)
@@ -625,6 +626,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`1af1fdc`](https://github.com/atherdon/fuck-ecoflow/commit/1af1fdc2900f834564d1f19f6d09e85d4713cc9f)
 - chore(changelog): regenerate after merged pull request [`fe972bb`](https://github.com/atherdon/fuck-ecoflow/commit/fe972bb17f717c985bd443c62f5db81d86313c1f)
 - chore(changelog): regenerate after merged pull request [`8d94aed`](https://github.com/atherdon/fuck-ecoflow/commit/8d94aed8d5c6ff1c9ceba7530967bd21fab0c6ce)
 - chore(changelog): regenerate after merged pull request [`456508b`](https://github.com/atherdon/fuck-ecoflow/commit/456508bf0cf5c84ec039301b06a7f37f4ffebab2)
