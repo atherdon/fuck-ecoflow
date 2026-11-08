@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci(test-deploy): grant permissions required by reusable workflow [`#78`](https://github.com/atherdon/fuck-ecoflow/pull/78)
 - updates [`#77`](https://github.com/atherdon/fuck-ecoflow/pull/77)
 - docs: add static/llms.txt agent discovery stub [`#38`](https://github.com/atherdon/fuck-ecoflow/pull/38)
 - chore: add static/robots.txt allowing crawl [`#40`](https://github.com/atherdon/fuck-ecoflow/pull/40)
@@ -107,6 +108,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`05aa9cb`](https://github.com/atherdon/fuck-ecoflow/commit/05aa9cbb92da2e811a296f46cab4cf8a9ffa7cdd)
 - Add files via upload [`96f7ff9`](https://github.com/atherdon/fuck-ecoflow/commit/96f7ff9f7bd83ab55e69b45603c6d2ef43ae72ad)
 - Add files via upload [`76e9953`](https://github.com/atherdon/fuck-ecoflow/commit/76e9953021276e086fbae3bbdfd56d381bd3d9f8)
+- chore(changelog): regenerate after merged pull request [`e4bfae8`](https://github.com/atherdon/fuck-ecoflow/commit/e4bfae8b337d8b1fc9a795def486d4c8241e8c20)
 - Sync cleanup PR with current main [`e2547c4`](https://github.com/atherdon/fuck-ecoflow/commit/e2547c48a3fd290c6b8fa6761d2fecfd58dc5629)
 - chore(changelog): regenerate after merged pull request [`1e04540`](https://github.com/atherdon/fuck-ecoflow/commit/1e045404e8b7f9e0992db93af974c9d4b4ea9e5a)
 - 111 [`2a1fd02`](https://github.com/atherdon/fuck-ecoflow/commit/2a1fd026edc693dbf8b960d754f2bccabd9b1766)
