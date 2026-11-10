@@ -1,6 +1,6 @@
 # 4. «USB to XT60»
 
-<img src="images/usb-to-xt60-img7.jpg" alt="USB to XT60" width="600" />
+<img src={require('./images/usb-to-xt60-img7.jpg').default} alt="USB to XT60" width="600" />
 
 ### A small cheap device. As a transitional option when there are no "zhabky" and so on. Allows converting an FPV battery[...]
 
