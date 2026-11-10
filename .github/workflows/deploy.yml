@@ -16,4 +16,7 @@ jobs:
       cache-dependency-path: package-lock.json
       artifact-path: build
       node-version: '24'
+      # Images are stored in Git LFS; without this the build inlines LFS pointer
+      # text instead of the real images.
+      lfs: true
     secrets: inherit
