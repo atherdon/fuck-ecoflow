@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci(deploy): check out Git LFS objects before building [`#82`](https://github.com/atherdon/fuck-ecoflow/pull/82)
+- fix(docs): restore broken images and fix image paths [`#81`](https://github.com/atherdon/fuck-ecoflow/pull/81)
 - chore(deps): update dependency auto-changelog to ^2.7.0 [`#79`](https://github.com/atherdon/fuck-ecoflow/pull/79)
 - chore(deps): update dependency prettier to ^3.9.10 [`#80`](https://github.com/atherdon/fuck-ecoflow/pull/80)
 - chore(deps): update node.js to v26 [`#76`](https://github.com/atherdon/fuck-ecoflow/pull/76)
@@ -121,6 +123,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reorganize docs and optimize media [`81133b0`](https://github.com/atherdon/fuck-ecoflow/commit/81133b04b7e46cb92970011405e2a12ea718294b)
 - Add docs media optimization tooling [`8f0d4d9`](https://github.com/atherdon/fuck-ecoflow/commit/8f0d4d9473829af5a1cd85c643aefa0ff880fa11)
 - 3333 [`fe618eb`](https://github.com/atherdon/fuck-ecoflow/commit/fe618eb23e3fcf0c8863f42fe70629f0be5c3710)
+- fix(docs): restore 159 broken images from git history [`ac120f8`](https://github.com/atherdon/fuck-ecoflow/commit/ac120f8ddb8f22c3b5a19e385b45e31eb87e8fa4)
 - 333 [`66d6778`](https://github.com/atherdon/fuck-ecoflow/commit/66d677813095c8620fb2f66445fbfecf4127ad0c)
 - 33333 [`9e37dc8`](https://github.com/atherdon/fuck-ecoflow/commit/9e37dc8b36467f9cdf6122ae6efedc7b1b8e3e05)
 - Enable local Docusaurus search [`b3c8eee`](https://github.com/atherdon/fuck-ecoflow/commit/b3c8eee0b5680b4da3b3f6a9260fc9028a97e1f7)
@@ -197,6 +200,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Format readme.md with improved markdown structure and readability [`a171b14`](https://github.com/atherdon/fuck-ecoflow/commit/a171b1476af5e4e557220fbeb1a6589607ee6ca4)
 - Update readme.md [`13accff`](https://github.com/atherdon/fuck-ecoflow/commit/13accff8d130ffd5d86708d4db9144bf41697840)
 - Remove detailed sections from GarryHudini readme [`a8b2d65`](https://github.com/atherdon/fuck-ecoflow/commit/a8b2d65bd20b1f8ae1044361f1ee7ea6f22b03ae)
+- fix(docs): fix image paths so Docusaurus bundles them [`b1d8957`](https://github.com/atherdon/fuck-ecoflow/commit/b1d89573552677687651a06d7b3be6be0c7bc7ae)
 - 333333 [`7cbce24`](https://github.com/atherdon/fuck-ecoflow/commit/7cbce2450b09800d1de81cf3812953b098ba3eb8)
 - 22222 [`36b7a2a`](https://github.com/atherdon/fuck-ecoflow/commit/36b7a2acf9d132010ce74a389096277308868b0a)
 - Add report on project discussions and logistics [`2cea317`](https://github.com/atherdon/fuck-ecoflow/commit/2cea317b34f41b66a4c0eb260b642ffc2525eff3)
@@ -428,6 +432,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`4ccc1c3`](https://github.com/atherdon/fuck-ecoflow/commit/4ccc1c3c27c9a42b746d1ac464eb1ffbf4d8d174)
 - Create english.md [`b9941b8`](https://github.com/atherdon/fuck-ecoflow/commit/b9941b8ec6d7d49874676fc1e8123853fb3fc37c)
 - Add files via upload [`acc6762`](https://github.com/atherdon/fuck-ecoflow/commit/acc6762ec4d440d4c1944446bb0bb7a9f287a619)
+- chore: drop unrelated image changes from this branch [`47f7133`](https://github.com/atherdon/fuck-ecoflow/commit/47f7133ad112c65e31facd9cfc68d3b53a308e83)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/readme.md [`4375a25`](https://github.com/atherdon/fuck-ecoflow/commit/4375a25c67814350ff5221e1af2193a3fa84860a)
 - 333 [`0aec323`](https://github.com/atherdon/fuck-ecoflow/commit/0aec323cd8edf6925ced9e9b3f90fd75a021f395)
 - 222 [`ab0c5ef`](https://github.com/atherdon/fuck-ecoflow/commit/ab0c5ef38ccc4269b1a38c6a7cc3664c1411f0fe)
@@ -628,6 +633,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`95c8ac0`](https://github.com/atherdon/fuck-ecoflow/commit/95c8ac095bbd0da59c34caded787b51b82d4efc4)
 - chore(changelog): regenerate after merged pull request [`f4080be`](https://github.com/atherdon/fuck-ecoflow/commit/f4080bec9c75269ab67d2457d4ec236e266ccaf3)
 - chore(changelog): regenerate after merged pull request [`43e1628`](https://github.com/atherdon/fuck-ecoflow/commit/43e1628ef3051400b1ededcb1a15fbce6b7fcede)
 - chore(changelog): regenerate after merged pull request [`1af1fdc`](https://github.com/atherdon/fuck-ecoflow/commit/1af1fdc2900f834564d1f19f6d09e85d4713cc9f)
