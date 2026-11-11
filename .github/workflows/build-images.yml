@@ -1,0 +1,15 @@
+name: Build images
+on:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  images:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-build-image-check.yml@v1
+    with:
+      base-url: /fuck-ecoflow/
+      node-version: '24'
+      cache-dependency-path: package-lock.json
+      # Images are in Git LFS; without this the check only sees LFS pointers.
+      lfs: true
