@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: add documentation-actions build image check [`#83`](https://github.com/atherdon/fuck-ecoflow/pull/83)
 - ci(deploy): check out Git LFS objects before building [`#82`](https://github.com/atherdon/fuck-ecoflow/pull/82)
 - fix(docs): restore broken images and fix image paths [`#81`](https://github.com/atherdon/fuck-ecoflow/pull/81)
 - chore(deps): update dependency auto-changelog to ^2.7.0 [`#79`](https://github.com/atherdon/fuck-ecoflow/pull/79)
@@ -551,6 +552,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/atherdon/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/atherdon/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/atherdon/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- chore(changelog): regenerate after merged pull request [`efaf5d9`](https://github.com/atherdon/fuck-ecoflow/commit/efaf5d9eb15f84b18f0b2c1163dce12a16aa9e24)
 - chore(changelog): regenerate after merged pull request [`3c382ee`](https://github.com/atherdon/fuck-ecoflow/commit/3c382ee3ca90be4392ae4b19b086c79364c2b4f6)
 - fix(docs): drop stray leading space on ordered-list items (MD005) [`8d99f45`](https://github.com/atherdon/fuck-ecoflow/commit/8d99f45cbe7b14d89b6785aef318c713007bd155)
 - fix: re-enable jpg/png paths in media-guardrails workflow [`e0417dd`](https://github.com/atherdon/fuck-ecoflow/commit/e0417dd651a13ebb140a9e20dfee636693d6835b)
@@ -633,6 +635,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- ci(build-images): check out Git LFS objects [`4404def`](https://github.com/atherdon/fuck-ecoflow/commit/4404defe18036d108c5eab188664c500fa7c1b11)
 - chore(changelog): regenerate after merged pull request [`95c8ac0`](https://github.com/atherdon/fuck-ecoflow/commit/95c8ac095bbd0da59c34caded787b51b82d4efc4)
 - chore(changelog): regenerate after merged pull request [`f4080be`](https://github.com/atherdon/fuck-ecoflow/commit/f4080bec9c75269ab67d2457d4ec236e266ccaf3)
 - chore(changelog): regenerate after merged pull request [`43e1628`](https://github.com/atherdon/fuck-ecoflow/commit/43e1628ef3051400b1ededcb1a15fbce6b7fcede)
