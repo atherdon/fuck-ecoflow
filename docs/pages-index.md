@@ -161,33 +161,38 @@ sidebar_position: 999
 | 147 | `communication/волонтери.md` | communication/волонтери |
 | 148 | `communication/кріс.md` | communication/кріс |
 | 149 | `intro.md` | intro |
-| 150 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| 151 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 152 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 153 | `orders/06-June-case.md` | orders/06-June-case |
-| 154 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 155 | `orders/Rob-is-great.md` | orders/Rob-is-great |
-| 156 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 157 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
-| 158 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 159 | `orders/something.md` | orders/something |
-| 160 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 161 | `orders/we-need-it.md` | orders/we-need-it |
-| 162 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 163 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 164 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 165 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 166 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 167 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 168 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 169 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 170 | `reports/readme.md` | reports/readme |
-| 171 | `reports/status/current-status.md` | reports/status/current-status |
-| 172 | `reports/status/june-2026.md` | June 2026 report |
-| 173 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 174 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 175 | `reports/wires/r.md` | reports/wires/r |
-| 176 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 177 | `team/partners-and-members.md` | Partners and members |
-| 178 | `team/readme.md` | team/readme |
-| 179 | `team/veteran-business.md` | Veteran business concept |
+| 150 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
+| 151 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
+| 152 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
+| 153 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
+| 154 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
+| 155 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
+| 156 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 157 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 158 | `orders/06-June-case.md` | orders/06-June-case |
+| 159 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 160 | `orders/Rob-is-great.md` | orders/Rob-is-great |
+| 161 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 162 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
+| 163 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 164 | `orders/something.md` | orders/something |
+| 165 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 166 | `orders/we-need-it.md` | orders/we-need-it |
+| 167 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 168 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 169 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 170 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 171 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 172 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 173 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 174 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 175 | `reports/readme.md` | reports/readme |
+| 176 | `reports/status/current-status.md` | reports/status/current-status |
+| 177 | `reports/status/june-2026.md` | June 2026 report |
+| 178 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 179 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 180 | `reports/wires/r.md` | reports/wires/r |
+| 181 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 182 | `team/partners-and-members.md` | Partners and members |
+| 183 | `team/readme.md` | team/readme |
+| 184 | `team/veteran-business.md` | Veteran business concept |
