@@ -47,6 +47,6 @@ sidebar_position: 90
 
 ![dissasembling-09-img18](./images/dissasembling-09-img18.jpg)
 
-![dissasembling-09-img19](./images/dissasembling-09-img19.jpg)
+<!-- Missing photo: dissasembling-09-img19.jpg (originally 09/445_62.jpg) was a 2-byte placeholder with no original in git history. Re-add the photo at ./images/dissasembling-09-img19.jpg and restore: ![dissasembling-09-img19](./images/dissasembling-09-img19.jpg) -->
 
 ![dissasembling-09-img20](./images/dissasembling-09-img20.jpg)
