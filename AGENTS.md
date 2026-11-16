@@ -7,7 +7,7 @@ This repository is the **LLazyEmail** fork of `fuck-ecoflow` — a Docusaurus do
 1. Keep `npm run build` green.
 2. Never delete existing docs content; annotate or extend.
 3. Prefer small single-purpose draft PRs on this fork's `main` (not upstream).
-4. Media is Git LFS — many historical pointers are incomplete; do not invent binaries.
+4. Media is Git LFS — do not invent binaries. As of 2026-11-16 all 520 LFS objects on `main` download; keep new binaries as LFS pointers (`git lfs fsck --pointers` must report nothing).
 
 ## Setup
 
@@ -20,14 +20,14 @@ npm run check:media
 npm run check:naming
 ```
 
-Node.js **>= 20** (CI uses 24).
+Node.js **>= 26.13.1** (`package.json` `engines`, `.nvmrc`); CI jobs currently run Node 24.
 
 ## Layout
 
 | Path | Purpose |
 | --- | --- |
 | `docs/` | Documentation (Ukrainian/English mixed content) |
-| `scripts/` | Media + naming guardrails |
+| `scripts/` | Media, naming and missing-image checks; docs index generator; media optimizer |
 | `static/` | Static assets |
 | `.github/workflows/` | CI — prefer `LLazyEmail/documentation-actions` `@v1` |
 

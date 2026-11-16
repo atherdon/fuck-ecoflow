@@ -43,7 +43,7 @@ npm run build
 npm run serve
 ```
 
-Node.js **>= 20**. See [AGENTS.md](./AGENTS.md) once added.
+Node.js **>= 26.13.1** (`engines` in `package.json`, pinned in `.nvmrc`; CI jobs currently run Node 24). See [AGENTS.md](./AGENTS.md) for the agent/contributor guide.
 
 ### Scripts
 
@@ -54,6 +54,10 @@ Node.js **>= 20**. See [AGENTS.md](./AGENTS.md) once added.
 | `npm run check:media` | Media guardrails |
 | `npm run check:naming` | Naming conventions |
 | `npm run optimize:media` | Optimize doc media (sharp) |
+| `npm run check:images` | Report markdown image refs whose files are missing (report-only) |
+| `npm run format:check` | Prettier check (`npm run format` to fix) |
+| `npm run generate:docs-index` | Regenerate `docs/pages-index.md` (CI does this on `main`) |
+| `npm run changelog` | Regenerate `CHANGELOG.md` (CI does this on `main`) |
 
 ## Git LFS
 
@@ -65,3 +69,26 @@ git lfs pull
 ```
 
 If LFS objects 404, ask a maintainer to restore the binaries — do not invent replacements in PRs.
+
+Every binary matching `.gitattributes` (`*.png`, `*.jpg`, `*.jpeg`, `*.gif`, `*.webp`, `*.mp4`, `*.mov`, `*.pdf`) must be committed as an LFS pointer. Files uploaded as plain blobs show up as "should have been pointers, but weren't" and break the CI jobs that commit to `main`. Check with `git lfs fsck --pointers`; fix with `git add --renormalize .`.
+
+## CI
+
+Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions).
+
+| Workflow | When | What it does |
+| --- | --- | --- |
+| Build docs | PRs, `main` | Docusaurus build without LFS objects (`lfs: false`) |
+| Test deployment | PRs to `main` | Docusaurus build |
+| Build images | PRs | build with LFS objects and verify every image in the output |
+| Media guardrails | PRs touching media | `npm run check:media` on added/renamed media |
+| Naming conventions | PRs touching docs | `npm run check:naming` on added/renamed paths |
+| Markdown lint | PRs, `main` | markdownlint |
+| Link check | PRs, weekly | lychee |
+| Star request comment | PR opened | one comment (`pull_request_target`) |
+| Update changelog | push to `main` | regenerates and commits `CHANGELOG.md` |
+| Update docs pages index | docs push to `main` | regenerates and commits `docs/pages-index.md` |
+| Deploy | push to `main` | builds with LFS objects and publishes the site |
+| Auto-rebase open PRs | every 6 hours | updates open PR branches that are behind `main` |
+
+`CHANGELOG.md` and `docs/pages-index.md` are generated; don't edit them by hand.
