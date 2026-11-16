@@ -29,7 +29,7 @@ Node.js **>= 20** (CI uses 24).
 | `docs/` | Documentation (Ukrainian/English mixed content) |
 | `scripts/` | Media + naming guardrails |
 | `static/` | Static assets |
-| `.github/workflows/` | CI — prefer `LLazyEmail/documentation-actions` `@v1` |
+| `.github/workflows/` | CI — prefer `LLazyEmail/documentation-actions` `@v2` |
 
 ## Related ecosystem (research starting points)
 
@@ -48,7 +48,7 @@ No EcoFlow cloud credentials are required for the **docs site** build. If demo s
 
 ## CI
 
-Adopt reusable workflows from `LLazyEmail/documentation-actions` pinned `@v1`. Pages deploy callers may need `permissions.contents: write` until documentation-actions#33.
+Adopt reusable workflows from `LLazyEmail/documentation-actions` pinned `@v2`. Pages deploy callers may need `permissions.contents: write` until documentation-actions#33.
 
 ## Commits
 
