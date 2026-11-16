@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(ci): bump documentation-actions to v2 [`#91`](https://github.com/atherdon/fuck-ecoflow/pull/91)
 - docs(lesnik): rotate photos upright and add captions [`#95`](https://github.com/atherdon/fuck-ecoflow/pull/95)
 - docs(outsourcing): add Lesnik page [`#90`](https://github.com/atherdon/fuck-ecoflow/pull/90)
 - chore(deps): update dependency sharp to ^0.35.5 [`#87`](https://github.com/atherdon/fuck-ecoflow/pull/87)
@@ -377,6 +378,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ci: adopt documentation-actions npm-script-check for naming conventions [`a3bff34`](https://github.com/atherdon/fuck-ecoflow/commit/a3bff34c829c8505db579d66bd88a88aa5450181)
 - Format and improve README into readable Markdown with cost breakdown and notes [`fb47fc3`](https://github.com/atherdon/fuck-ecoflow/commit/fb47fc31d9933e18efa2c75a27b132c41746e944)
 - Create кріс.md [`7aad9b8`](https://github.com/atherdon/fuck-ecoflow/commit/7aad9b8102b1b22145248441f999105c5329eed8)
+- chore(ci): bump documentation-actions pins from @v1 to @v2 [`29484b4`](https://github.com/atherdon/fuck-ecoflow/commit/29484b411fe8aabb53381d5c78969dca3c96abfa)
 - 111 [`707f1c2`](https://github.com/atherdon/fuck-ecoflow/commit/707f1c2eca8d9d52179dcd5048bccc96a16ae726)
 - Create progress-cases.md [`0440803`](https://github.com/atherdon/fuck-ecoflow/commit/0440803b7a8929808aa58da1cfac8b21d814e88f)
 - Add files via upload [`d25a3fe`](https://github.com/atherdon/fuck-ecoflow/commit/d25a3fed302d0f86a06c026d423e50356e1a1745)
@@ -519,6 +521,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 333 [`a23736f`](https://github.com/atherdon/fuck-ecoflow/commit/a23736fd95aababf95c5164d7392db8fe0cd49dd)
 - Update README.md [`26c5b01`](https://github.com/atherdon/fuck-ecoflow/commit/26c5b013926791a0090c06cc79801e4cfac7b2b8)
 - Add files via upload [`27cc49d`](https://github.com/atherdon/fuck-ecoflow/commit/27cc49de24789c3abd5257d55bc20cb344d228db)
+- chore(changelog): regenerate after merged pull request [`87373f4`](https://github.com/atherdon/fuck-ecoflow/commit/87373f4e6235c1836fc5a946e39c07af7017953f)
 - chore: bump prism-react-renderer to ^2.4.1 [`bd4cc6f`](https://github.com/atherdon/fuck-ecoflow/commit/bd4cc6f82c9b321a76e3aed101f29beae9433a0e)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/_category_.json [`a877fbc`](https://github.com/atherdon/fuck-ecoflow/commit/a877fbcb20e7a2c41e89176fd316324b0b437c59)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/cheap-steal/_category_.json [`18fe6bd`](https://github.com/atherdon/fuck-ecoflow/commit/18fe6bdfd2a9ebac44c2906d5b9b107c258af9b3)
