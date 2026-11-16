@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: refresh README/AGENTS (Node, scripts, LFS pointer rule, CI table) [`#94`](https://github.com/atherdon/fuck-ecoflow/pull/94)
+- fix(scripts): make check:images resolve refs like Docusaurus (136 false positives → 0) [`#93`](https://github.com/atherdon/fuck-ecoflow/pull/93)
 - chore(lfs): store 168 stray binaries as Git LFS pointers (fixes changelog/docs-index push failures) [`#92`](https://github.com/atherdon/fuck-ecoflow/pull/92)
 - chore(ci): bump documentation-actions to v2 [`#91`](https://github.com/atherdon/fuck-ecoflow/pull/91)
 - docs(lesnik): rotate photos upright and add captions [`#95`](https://github.com/atherdon/fuck-ecoflow/pull/95)
@@ -256,6 +258,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add repository organization guide [`11f3b63`](https://github.com/atherdon/fuck-ecoflow/commit/11f3b63b7fc85260d0733e463b306ee3bb8ced0f)
 - Create readme.md [`29bce11`](https://github.com/atherdon/fuck-ecoflow/commit/29bce118368a1d11095e0818d6c19249889fdd4b)
 - 111 [`8fbbec3`](https://github.com/atherdon/fuck-ecoflow/commit/8fbbec310a637ae65a7d49716b04913d4ed25068)
+- fix(scripts): resolve check:images refs the way Docusaurus does [`1492fa9`](https://github.com/atherdon/fuck-ecoflow/commit/1492fa999d5d04350a472d7ac8adf32ce46ca009)
 - 222 [`e41ce41`](https://github.com/atherdon/fuck-ecoflow/commit/e41ce41cce5a3f36bd396335a0fb8445e804b6d4)
 - re-organization 2 [`357969e`](https://github.com/atherdon/fuck-ecoflow/commit/357969ecee8c55fe6f4f5ce1069db0f981da4929)
 - chore(docs-index): regenerate all-pages markdown list [`0e8c538`](https://github.com/atherdon/fuck-ecoflow/commit/0e8c53894bb0443dfdc094d958587382aa738e2f)
@@ -347,6 +350,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create ффф [`a4643b0`](https://github.com/atherdon/fuck-ecoflow/commit/a4643b0be1d6773af5855a6e39f0f1c45d6312f5)
 - 111 [`f79ace5`](https://github.com/atherdon/fuck-ecoflow/commit/f79ace57307c8c0f57640c731abb80973b433995)
 - Update readme.md [`bd463c2`](https://github.com/atherdon/fuck-ecoflow/commit/bd463c22ca2925aa7fbffb0d24aa7480df9fc166)
+- docs: refresh README/AGENTS setup, scripts, LFS rules and CI table [`b3bb66d`](https://github.com/atherdon/fuck-ecoflow/commit/b3bb66d7f4032e599e19e3dd45defb0f0b937779)
 - Store invalid completed case media as bin files [`067efa5`](https://github.com/atherdon/fuck-ecoflow/commit/067efa5bd33e083b72fc109d1dd31b3e5c256b21)
 - Add README with image gallery for folder [`b5e04c2`](https://github.com/atherdon/fuck-ecoflow/commit/b5e04c27918d69e8de8d6247e7d9a1e5fbe0a52e)
 - Update readme.md [`9234fc6`](https://github.com/atherdon/fuck-ecoflow/commit/9234fc6d2070e46560ddae9874345cd0d844ab17)
@@ -628,6 +632,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`4762a90`](https://github.com/atherdon/fuck-ecoflow/commit/4762a900372a2c27f064bafd990cd20799d83d0c)
 - chore(changelog): regenerate after merged pull request [`3a8a31d`](https://github.com/atherdon/fuck-ecoflow/commit/3a8a31d18d7b279b0c801c3ef192178ba4e9c78b)
 - chore(changelog): regenerate after merged pull request [`105d282`](https://github.com/atherdon/fuck-ecoflow/commit/105d28238d4bf06fe37064c6a3cf754f538e61a2)
 - chore(changelog): regenerate after merged pull request [`afec0ce`](https://github.com/atherdon/fuck-ecoflow/commit/afec0ce65f64f41f3e7fbc80402b30bc3102bfb5)
