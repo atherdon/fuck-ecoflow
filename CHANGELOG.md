@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(lfs): store 168 stray binaries as Git LFS pointers (fixes changelog/docs-index push failures) [`#92`](https://github.com/atherdon/fuck-ecoflow/pull/92)
 - chore(ci): bump documentation-actions to v2 [`#91`](https://github.com/atherdon/fuck-ecoflow/pull/91)
 - docs(lesnik): rotate photos upright and add captions [`#95`](https://github.com/atherdon/fuck-ecoflow/pull/95)
 - docs(outsourcing): add Lesnik page [`#90`](https://github.com/atherdon/fuck-ecoflow/pull/90)
@@ -121,6 +122,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 33333 [`406b8e2`](https://github.com/atherdon/fuck-ecoflow/commit/406b8e2adc817570874fc188fc12c3b75f05e68c)
 - 1111 [`141d496`](https://github.com/atherdon/fuck-ecoflow/commit/141d4961cf278cc63e0a874627b1ba064cc01e6d)
 - Add files via upload [`65c7045`](https://github.com/atherdon/fuck-ecoflow/commit/65c704587761e4d82861149609a8fb5a57050daa)
+- chore(lfs): store 168 stray binaries as Git LFS pointers [`c31b3db`](https://github.com/atherdon/fuck-ecoflow/commit/c31b3db0ffd3dc182ecf49c5a122ea5ba62c3f9d)
 - 111 [`05aa9cb`](https://github.com/atherdon/fuck-ecoflow/commit/05aa9cbb92da2e811a296f46cab4cf8a9ffa7cdd)
 - Add files via upload [`96f7ff9`](https://github.com/atherdon/fuck-ecoflow/commit/96f7ff9f7bd83ab55e69b45603c6d2ef43ae72ad)
 - Add files via upload [`76e9953`](https://github.com/atherdon/fuck-ecoflow/commit/76e9953021276e086fbae3bbdfd56d381bd3d9f8)
@@ -626,6 +628,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`3a8a31d`](https://github.com/atherdon/fuck-ecoflow/commit/3a8a31d18d7b279b0c801c3ef192178ba4e9c78b)
 - chore(changelog): regenerate after merged pull request [`105d282`](https://github.com/atherdon/fuck-ecoflow/commit/105d28238d4bf06fe37064c6a3cf754f538e61a2)
 - chore(changelog): regenerate after merged pull request [`afec0ce`](https://github.com/atherdon/fuck-ecoflow/commit/afec0ce65f64f41f3e7fbc80402b30bc3102bfb5)
 - chore(changelog): regenerate after merged pull request [`86cb774`](https://github.com/atherdon/fuck-ecoflow/commit/86cb774b6be7e9702702424685108ce60c337caa)
