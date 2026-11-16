@@ -2,7 +2,8 @@ name: Build docs
 
 # Build-only verification (PR + main). No GitHub Pages deploy — intentional for this fork.
 # Uses documentation-actions reusable-docs-ci (not legacy reusable-docusaurus-test-deploy).
-# Do NOT enable lfs: true — LFS objects 404 on this fork historically.
+# LFS is on: all LFS objects download again (they 404'd here historically),
+# so the build uses real images instead of pointer files.
 on:
   pull_request:
   push:
@@ -23,6 +24,6 @@ jobs:
       cache-dependency-path: package-lock.json
       node-version: '24'
       run-build: true
-      lfs: false
+      lfs: true
       annotate-log: true
     secrets: inherit
