@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(lesnik): rotate photos upright and add captions [`#95`](https://github.com/atherdon/fuck-ecoflow/pull/95)
+- docs(outsourcing): add Lesnik page [`#90`](https://github.com/atherdon/fuck-ecoflow/pull/90)
 - chore(deps): update dependency sharp to ^0.35.5 [`#87`](https://github.com/atherdon/fuck-ecoflow/pull/87)
 - chore(deps): update node.js to v26.13.1 [`#88`](https://github.com/atherdon/fuck-ecoflow/pull/88)
 - fix(docs): drop missing dissasembling-09-img19 photo reference [`#86`](https://github.com/atherdon/fuck-ecoflow/pull/86)
@@ -107,6 +109,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Install Docusaurus and initial documentation setup [`#3`](https://github.com/atherdon/fuck-ecoflow/pull/3)
 - Configure Renovate [`#1`](https://github.com/atherdon/fuck-ecoflow/pull/1)
 
+### Fixed
+
+- docs(outsourcing): add Lesnik page with photos and video [`#89`](https://github.com/atherdon/fuck-ecoflow/issues/89)
+
 ### Commits
 
 - 333 [`057b172`](https://github.com/atherdon/fuck-ecoflow/commit/057b17260f0e396d1fc02fb995f2735e06061edd)
@@ -144,6 +150,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
 - 3333 [`8ff3eeb`](https://github.com/atherdon/fuck-ecoflow/commit/8ff3eeba5384209024424be231a2903b457aa174)
+- chore(docs-index): regenerate all-pages markdown list [`b605db5`](https://github.com/atherdon/fuck-ecoflow/commit/b605db539c8090742185eac205d01a274b445826)
 - 333 [`d1789c5`](https://github.com/atherdon/fuck-ecoflow/commit/d1789c5556943df7d3bcf0b7d11b43a730132059)
 - 111 [`bc9cd50`](https://github.com/atherdon/fuck-ecoflow/commit/bc9cd50d159a63d6c314d1e7ad5e05ff0a503245)
 - chore: add generate:docs-index script and pages-index scaffold [`f3a9f39`](https://github.com/atherdon/fuck-ecoflow/commit/f3a9f39e7976300a275019d31512ce5b05da935f)
@@ -578,6 +585,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`6856c5c`](https://github.com/atherdon/fuck-ecoflow/commit/6856c5c92cd9a694a7cf130cf7a50e0f4715bf43)
 - Update intro.md [`1e688e6`](https://github.com/atherdon/fuck-ecoflow/commit/1e688e606920f7b6345bd45376b3c573c1dea1b8)
 - Add renovate.json [`9f7af52`](https://github.com/atherdon/fuck-ecoflow/commit/9f7af5226f1e30be09fddeb18627fcc04714b6a7)
+- chore(changelog): regenerate after merged pull request [`542bc02`](https://github.com/atherdon/fuck-ecoflow/commit/542bc021d17817ea473954f34f4b8ebc7c1e4b0f)
 - chore(changelog): regenerate after merged pull request [`e870ab3`](https://github.com/atherdon/fuck-ecoflow/commit/e870ab31f5833e39071c02c5aa8f4b57838aba4d)
 - Fix Assemblya 3D corner route [`f2bf8b8`](https://github.com/atherdon/fuck-ecoflow/commit/f2bf8b827637a749c2a540f572f33ee09c43f4d8)
 - Draft duplicate docs [`c84995e`](https://github.com/atherdon/fuck-ecoflow/commit/c84995eb712fc7e7eb72a7cfc1d3e70282361e6d)
