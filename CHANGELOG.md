@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(deps): update dependency sharp to ^0.35.5 [`#87`](https://github.com/atherdon/fuck-ecoflow/pull/87)
+- chore(deps): update node.js to v26.13.1 [`#88`](https://github.com/atherdon/fuck-ecoflow/pull/88)
+- fix(docs): drop missing dissasembling-09-img19 photo reference [`#86`](https://github.com/atherdon/fuck-ecoflow/pull/86)
 - ci: add documentation-actions build image check [`#83`](https://github.com/atherdon/fuck-ecoflow/pull/83)
 - ci(deploy): check out Git LFS objects before building [`#82`](https://github.com/atherdon/fuck-ecoflow/pull/82)
 - fix(docs): restore broken images and fix image paths [`#81`](https://github.com/atherdon/fuck-ecoflow/pull/81)
@@ -245,6 +248,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`8fbbec3`](https://github.com/atherdon/fuck-ecoflow/commit/8fbbec310a637ae65a7d49716b04913d4ed25068)
 - 222 [`e41ce41`](https://github.com/atherdon/fuck-ecoflow/commit/e41ce41cce5a3f36bd396335a0fb8445e804b6d4)
 - re-organization 2 [`357969e`](https://github.com/atherdon/fuck-ecoflow/commit/357969ecee8c55fe6f4f5ce1069db0f981da4929)
+- chore(docs-index): regenerate all-pages markdown list [`0e8c538`](https://github.com/atherdon/fuck-ecoflow/commit/0e8c53894bb0443dfdc094d958587382aa738e2f)
 - Format docs/reports/progress-cases.md for readability [`c97471c`](https://github.com/atherdon/fuck-ecoflow/commit/c97471cebc3f962cb0d199c08d8308d27589bb3b)
 - Mark readme.md as merged; redirect to README.md [`90c3f57`](https://github.com/atherdon/fuck-ecoflow/commit/90c3f57960fa46cdba3bf529d13bdf5b65023350)
 - 111 [`b6897ed`](https://github.com/atherdon/fuck-ecoflow/commit/b6897ed58ce80aace6be0c52a6b87a73c382564d)
@@ -611,6 +615,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`105d282`](https://github.com/atherdon/fuck-ecoflow/commit/105d28238d4bf06fe37064c6a3cf754f538e61a2)
 - chore(changelog): regenerate after merged pull request [`afec0ce`](https://github.com/atherdon/fuck-ecoflow/commit/afec0ce65f64f41f3e7fbc80402b30bc3102bfb5)
 - chore(changelog): regenerate after merged pull request [`86cb774`](https://github.com/atherdon/fuck-ecoflow/commit/86cb774b6be7e9702702424685108ce60c337caa)
 - chore(changelog): regenerate after merged pull request [`8446fd3`](https://github.com/atherdon/fuck-ecoflow/commit/8446fd32763c0d76ca94d28d1df10b7e120da87c)
