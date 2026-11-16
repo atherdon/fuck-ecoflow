@@ -1,0 +1,26 @@
+name: Check images
+
+# Fails a PR when a doc references an image file that does not exist in the
+# repo. Uses scripts/check-missing-images.mjs in --strict mode (refs inside
+# HTML comments are reported as hidden and do not fail). Delete this file to
+# opt out.
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'scripts/check-missing-images.mjs'
+      - '.github/workflows/check-images.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  missing-images:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-script-check.yml@v2
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      node-version: '24'
+      job-name: Check missing images (strict)
+      run-command: npm run check:images -- --strict
