@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci(build): check out Git LFS objects in Build docs [`#96`](https://github.com/atherdon/fuck-ecoflow/pull/96)
 - docs: refresh README/AGENTS (Node, scripts, LFS pointer rule, CI table) [`#94`](https://github.com/atherdon/fuck-ecoflow/pull/94)
 - fix(scripts): make check:images resolve refs like Docusaurus (136 false positives → 0) [`#93`](https://github.com/atherdon/fuck-ecoflow/pull/93)
 - chore(lfs): store 168 stray binaries as Git LFS pointers (fixes changelog/docs-index push failures) [`#92`](https://github.com/atherdon/fuck-ecoflow/pull/92)
@@ -661,6 +662,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`a7846ae`](https://github.com/atherdon/fuck-ecoflow/commit/a7846ae3127fcb675bc4e264927a262054683ff3)
+- docs(readme): Build docs now uses LFS objects [`b041254`](https://github.com/atherdon/fuck-ecoflow/commit/b041254a54a2e1a34e43c226e832dc6f3178810b)
 - ci(build-images): check out Git LFS objects [`4404def`](https://github.com/atherdon/fuck-ecoflow/commit/4404defe18036d108c5eab188664c500fa7c1b11)
 - chore(changelog): regenerate after merged pull request [`95c8ac0`](https://github.com/atherdon/fuck-ecoflow/commit/95c8ac095bbd0da59c34caded787b51b82d4efc4)
 - chore(changelog): regenerate after merged pull request [`f4080be`](https://github.com/atherdon/fuck-ecoflow/commit/f4080bec9c75269ab67d2457d4ec236e266ccaf3)
