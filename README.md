@@ -78,7 +78,7 @@ Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/docu
 
 | Workflow | When | What it does |
 | --- | --- | --- |
-| Build docs | PRs, `main` | Docusaurus build without LFS objects (`lfs: false`) |
+| Build docs | PRs, `main` | Docusaurus build with LFS objects (`lfs: true`) |
 | Test deployment | PRs to `main` | Docusaurus build |
 | Build images | PRs | build with LFS objects and verify every image in the output |
 | Media guardrails | PRs touching media | `npm run check:media` on added/renamed media |
