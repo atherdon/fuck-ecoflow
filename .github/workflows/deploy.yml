@@ -10,7 +10,7 @@ permissions:
   id-token: write
 jobs:
   deploy:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-pages-deploy.yml@v2
     with:
       working-directory: .
       cache-dependency-path: package-lock.json

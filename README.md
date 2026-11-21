@@ -74,7 +74,7 @@ Every binary matching `.gitattributes` (`*.png`, `*.jpg`, `*.jpeg`, `*.gif`, `*.
 
 ## CI
 
-Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions).
+Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/documentation-actions`](https://github.com/LLazyEmail/documentation-actions). Where a short-name alias exists, the caller uses it and stays pinned at `@v2`: `reusable-test-deploy`, `reusable-pages-deploy`, and `reusable-image-check`. Each alias accepts the same inputs as the long name.
 
 | Workflow | When | What it does |
 | --- | --- | --- |
