@@ -6,7 +6,7 @@ permissions:
   contents: read
 jobs:
   images:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-build-image-check.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-image-check.yml@v2
     with:
       base-url: /fuck-ecoflow/
       node-version: '24'
