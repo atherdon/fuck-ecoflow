@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: prefer documentation-actions short-name aliases [`#98`](https://github.com/atherdon/fuck-ecoflow/pull/98)
 - ci(build): check out Git LFS objects in Build docs [`#96`](https://github.com/atherdon/fuck-ecoflow/pull/96)
 - docs: refresh README/AGENTS (Node, scripts, LFS pointer rule, CI table) [`#94`](https://github.com/atherdon/fuck-ecoflow/pull/94)
 - fix(scripts): make check:images resolve refs like Docusaurus (136 false positives → 0) [`#93`](https://github.com/atherdon/fuck-ecoflow/pull/93)
@@ -635,6 +636,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`91fa6b0`](https://github.com/atherdon/fuck-ecoflow/commit/91fa6b02a401795f89f319e4ab4cf3f231925124)
 - chore(changelog): regenerate after merged pull request [`4762a90`](https://github.com/atherdon/fuck-ecoflow/commit/4762a900372a2c27f064bafd990cd20799d83d0c)
 - chore(changelog): regenerate after merged pull request [`3a8a31d`](https://github.com/atherdon/fuck-ecoflow/commit/3a8a31d18d7b279b0c801c3ef192178ba4e9c78b)
 - chore(changelog): regenerate after merged pull request [`105d282`](https://github.com/atherdon/fuck-ecoflow/commit/105d28238d4bf06fe37064c6a3cf754f538e61a2)
