@@ -48,7 +48,7 @@ No EcoFlow cloud credentials are required for the **docs site** build. If demo s
 
 ## CI
 
-Adopt reusable workflows from `LLazyEmail/documentation-actions` pinned `@v2`. Prefer short-name aliases from [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) when they exist (`reusable-test-deploy`, `reusable-pages-deploy`, `reusable-image-check`). Pages deploy callers may need `permissions.contents: write` until documentation-actions#33.
+Adopt reusable workflows from `LLazyEmail/documentation-actions` pinned `@v2`. Prefer short-name aliases from [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) when they exist (`reusable-test-deploy`, `reusable-pages-deploy`, `reusable-image-check`, `reusable-auto-rebase`, `reusable-npm-check`). Pages deploy callers may need `permissions.contents: write` until documentation-actions#33.
 
 ## Commits
 
