@@ -20,3 +20,9 @@ A useful order to read this section:
 8. [Unfinished notes](./unfinished.md)
 
 The [Problem statement](../00-Problem/problem-statement/English-version.md) explains why this work exists.
+
+## Comment from the May 22 specification
+
+According to Arthur’s idea, a commercial prospect exists - mass production of cases for sale
+
+This note comes from [May 22th Specification Only](./notes/May%2022th%20Specification%20Only.md), where the rest of that specification remains.
