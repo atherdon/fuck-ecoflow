@@ -21,7 +21,7 @@ title: Progress on charging cases
 
 ## Інвентаризація
 Тут у нас інвентаризація матеріалів для ящиків:  
-https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/preview?gid=0#gid=0
+[Google Sheet](https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/preview?gid=0#gid=0)
 
 Ти казав, що можемо зібрати якісь кошти — інженер може зробити документ з посиланнями та порахувати, скіки чого потрібно [...].
 
@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7
 
 ---
 
-# English translation
+## English translation
 
 There is some interesting progress with the boxes.
 
@@ -51,7 +51,7 @@ We are still waiting for part of the wiring from AliExpress, so for now we are w
 
 ## Inventory
 Here we have an inventory of materials for the boxes:  
-https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/preview?gid=0#gid=0
+[Google Sheet](https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/preview?gid=0#gid=0)
 
 You said that we might be able to collect some funds, so the engineer can create a document with links and calculate how much of what is needed [...].
 
