@@ -121,7 +121,7 @@ sidebar_position: 999
 | 107 | `charging-station/notes/misc/readme.md` | Miscellaneous notes |
 | 108 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
 | 109 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
-| 110 | `charging-station/notes/pros-cons/pros-and-cons.md` | charging-station/notes/pros-cons/pros-and-cons |
+| 110 | `charging-station/notes/pros-cons/pros-and-cons.md` | Pros and Cons |
 | 111 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
 | 112 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
 | 113 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
