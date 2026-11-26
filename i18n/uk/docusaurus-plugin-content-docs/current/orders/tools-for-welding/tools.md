@@ -1,0 +1,45 @@
+# Ящік фізика TOOOLS 
+
+Created: April 28, 2026 7:30 PM
+
+# Инструмент
+
+- Мультиметр
+- Измеритель внутреннего сопротивления
+- [Зарядное устройство с отображением ёмкости](https://a.aliexpress.com/_EINR1Si)
+- [Аппарат точечной сварки](https://a.aliexpress.com/_EwsMdKE)
+- Кримпер
+- Стрипер
+
+**Расходные материалы**
+
+- [Провод 12AWG](https://a.aliexpress.com/_EySMhJG)
+- [Провод монтажный](https://a.aliexpress.com/_EGnzUKW)
+- [Никилированная шина 0.25мм](https://a.aliexpress.com/_EJTmOmA)
+- [Оконечники кабельные под болт](https://a.aliexpress.com/_EHRW0ty)
+- Термоусадка с клеем
+- Коннектор ХТ 60, ХТ90, SQ8
+- Холдеры для ячеек
+- Изоляционный материал для АКБ
+
+**Электронные компоненты**
+
+- BMS
+- Зарядное устройство для сборки АКБ
+- Кулера
+- Контроллер температуры/ [термореле](https://a.aliexpress.com/_EIwHtXM)
+- [Платы](https://a.aliexpress.com/_EJnOB9C) зарядных устройств или готовые в[страиваемые](https://a.aliexpress.com/_Ez2r8Am) [модуля](https://a.aliexpress.com/_EHFePqw)
+- ВОЗМОЖНО инвертор 12В-220В
+
+# Прочее
+
+- [Разъем](https://a.aliexpress.com/_Ex0XmOW) + сетевой кабель
+- [Индикатор](https://a.aliexpress.com/_EzVNhHC) состояния АКБ / вольтметр
+- [Автомобильная розетка](https://a.aliexpress.com/_EJJxoGK)
+- [USB лампа](https://a.aliexpress.com/_EGie9Hg)
+- Реле / мощный переключатель
+- Платы повышения/понижения напряжения
+- [Переключатели](https://a.aliexpress.com/_EI04kPu) или [кнопки](https://a.aliexpress.com/_EvU6aIm) с фиксацией (подсветка)
+- Компактный [держатель](https://a.aliexpress.com/_EvHrClk) для планшета
+- USB кабеля для зарядки
+- Компактные маломощные [диодные сборки](https://a.aliexpress.com/_EvOGg4S) (минимальная подсветка)

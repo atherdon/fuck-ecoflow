@@ -21,7 +21,8 @@
     "ci": "npm run check:naming && npm run check:media && npm run build",
     "test": "npm run check:naming && npm run check:media",
     "generate:docs-index": "node ./scripts/generate-docs-index.mjs",
-    "check:images": "node ./scripts/check-missing-images.mjs"
+    "check:images": "node ./scripts/check-missing-images.mjs",
+    "i18n:sync-uk": "node ./scripts/sync-uk-docs.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "^3.10.2",
