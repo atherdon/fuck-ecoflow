@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(communication): give untitled pages readable titles [`#120`](https://github.com/atherdon/fuck-ecoflow/pull/120)
+- docs(notes): add index pages for battery, Vitaliy, grants, and misc notes [`#119`](https://github.com/atherdon/fuck-ecoflow/pull/119)
+- docs(charging-station): add intros to each completed-case folder [`#118`](https://github.com/atherdon/fuck-ecoflow/pull/118)
+- docs(3d): add a section landing page [`#117`](https://github.com/atherdon/fuck-ecoflow/pull/117)
 - docs(outsourcing): add a section landing page [`#115`](https://github.com/atherdon/fuck-ecoflow/pull/115)
 - docs(communication): add a section landing page [`#114`](https://github.com/atherdon/fuck-ecoflow/pull/114)
 - docs: add a glossary of project terms [`#111`](https://github.com/atherdon/fuck-ecoflow/pull/111)
@@ -169,6 +173,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
 - 3333 [`8ff3eeb`](https://github.com/atherdon/fuck-ecoflow/commit/8ff3eeba5384209024424be231a2903b457aa174)
+- chore(docs-index): regenerate all-pages markdown list [`e7ccbb3`](https://github.com/atherdon/fuck-ecoflow/commit/e7ccbb385e56ddb3f7e87d9af4729bd6aaf41d68)
 - chore(docs-index): regenerate all-pages markdown list [`b605db5`](https://github.com/atherdon/fuck-ecoflow/commit/b605db539c8090742185eac205d01a274b445826)
 - docs(charging-station): reformat the smart-people chat for readability [`94149b1`](https://github.com/atherdon/fuck-ecoflow/commit/94149b12c1475f08fb4ecb9c0da01a0dea5176e8)
 - 333 [`d1789c5`](https://github.com/atherdon/fuck-ecoflow/commit/d1789c5556943df7d3bcf0b7d11b43a730132059)
@@ -258,6 +263,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore(docs-index): regenerate all-pages markdown list [`2f77716`](https://github.com/atherdon/fuck-ecoflow/commit/2f777168898f270ecfca4956e444f0becf9f158d)
 - Update and rename readme.md to english.md [`3c4ec6e`](https://github.com/atherdon/fuck-ecoflow/commit/3c4ec6e4bb6b3ea04d0eb579175c84576fb2ca9e)
 - Update readme.md [`ccd5fd6`](https://github.com/atherdon/fuck-ecoflow/commit/ccd5fd62ace44b6e26e916add76f45a9e2d53528)
+- chore(docs-index): regenerate all-pages markdown list [`e21ed2f`](https://github.com/atherdon/fuck-ecoflow/commit/e21ed2f1c34ca94f89da9fba27e23245a0549fd7)
 - Update readme.md [`4c4aedd`](https://github.com/atherdon/fuck-ecoflow/commit/4c4aedd1006de79ea5bc06715a828adf21c8567b)
 - 111 [`33a829a`](https://github.com/atherdon/fuck-ecoflow/commit/33a829ac570dc4c087e4599e22037ac3626ae105)
 - Add README.md to display images in docs/01-outsourcing-engineering/AssemBLYA/dissasembling/03 [`c20d6bf`](https://github.com/atherdon/fuck-ecoflow/commit/c20d6bf1c20232d886def03658862bfb2ae88066)
@@ -629,6 +635,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`52ffd1d`](https://github.com/atherdon/fuck-ecoflow/commit/52ffd1d9a6fbfed931361b7c2676684cd390b2af)
 - chore(changelog): regenerate after merged pull request [`c060baa`](https://github.com/atherdon/fuck-ecoflow/commit/c060baa56b1618ce74acd0aa224ae365ba6d9689)
 - chore(docs-index): regenerate all-pages markdown list [`a61526a`](https://github.com/atherdon/fuck-ecoflow/commit/a61526a6d339dd9db45e32660f015ee7ae2df747)
 - chore(changelog): regenerate after merged pull request [`2d0bd20`](https://github.com/atherdon/fuck-ecoflow/commit/2d0bd2011794daa8ca739b7148931990bffa9f70)
