@@ -33,11 +33,11 @@ sidebar_position: 999
 | 19 | `01-outsourcing-engineering/AssemBLYA/dissasembling/09/readme.md` | Disassembly 09 |
 | 20 | `01-outsourcing-engineering/AssemBLYA/dissasembling/metal-parts/readme.md` | 01-outsourcing-engineering/AssemBLYA/dissasembling/metal-parts/readme |
 | 21 | `01-outsourcing-engineering/AssemBLYA/dissasembling/readme.md` | Disassembly |
-| 22 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | 01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en |
-| 23 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro.md` | 01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro |
+| 22 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | Dmytro's notes (English) |
+| 23 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro.md` | Нотатки Dmytro (українською) |
 | 24 | `01-outsourcing-engineering/big-powerpunk/readme.md` | 01-outsourcing-engineering/big-powerpunk/readme |
-| 25 | `01-outsourcing-engineering/charging-station/physicist-ua.md` | 01-outsourcing-engineering/charging-station/physicist-ua |
-| 26 | `01-outsourcing-engineering/charging-station/physicist.md` | 01-outsourcing-engineering/charging-station/physicist |
+| 25 | `01-outsourcing-engineering/charging-station/physicist-ua.md` | Ящик «Фізика» (українською) |
+| 26 | `01-outsourcing-engineering/charging-station/physicist.md` | Box \"Physics\" (English) |
 | 27 | `01-outsourcing-engineering/charging-station/readme.md` | 01-outsourcing-engineering/charging-station/readme |
 | 28 | `01-outsourcing-engineering/drone-net-gun/archive/nets.md` | 01-outsourcing-engineering/drone-net-gun/archive/nets |
 | 29 | `01-outsourcing-engineering/drone-net-gun/nets-information.md` | 01-outsourcing-engineering/drone-net-gun/nets-information |
@@ -49,24 +49,24 @@ sidebar_position: 999
 | 35 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
 | 36 | `01-outsourcing-engineering/readme.md` | Outsourcing engineering |
 | 37 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
-| 38 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | 01-outsourcing-engineering/simple-products/frog-version-one/english |
-| 39 | `01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md` | 01-outsourcing-engineering/simple-products/frog-version-one/frog-v1 |
+| 38 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | Frog v1 (English) |
+| 39 | `01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md` | Frog v1 (українською) |
 | 40 | `01-outsourcing-engineering/simple-products/frog-version-one/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-one/readme |
-| 41 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | 01-outsourcing-engineering/simple-products/frog-version-two/english |
-| 42 | `01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md` | 01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua |
+| 41 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | Frog 2.0 (English) |
+| 42 | `01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md` | Жабка 2.0 (українською) |
 | 43 | `01-outsourcing-engineering/simple-products/frog-version-two/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-two/readme |
 | 44 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops |
 | 45 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
-| 46 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | 01-outsourcing-engineering/simple-products/powerbanks/english |
-| 47 | `01-outsourcing-engineering/simple-products/powerbanks/pb.md` | 01-outsourcing-engineering/simple-products/powerbanks/pb |
+| 46 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | Power Banks (English) |
+| 47 | `01-outsourcing-engineering/simple-products/powerbanks/pb.md` | 3. Powerbanks |
 | 48 | `01-outsourcing-engineering/simple-products/readme.md` | 01-outsourcing-engineering/simple-products/readme |
-| 49 | `01-outsourcing-engineering/simple-products/spider/english.md` | 01-outsourcing-engineering/simple-products/spider/english |
+| 49 | `01-outsourcing-engineering/simple-products/spider/english.md` | Spider (English) |
 | 50 | `01-outsourcing-engineering/simple-products/spider/readme.md` | 01-outsourcing-engineering/simple-products/spider/readme |
-| 51 | `01-outsourcing-engineering/simple-products/spider/spider.md` | 01-outsourcing-engineering/simple-products/spider/spider |
+| 51 | `01-outsourcing-engineering/simple-products/spider/spider.md` | Павук (українською) |
 | 52 | `01-outsourcing-engineering/simple-products/usb-to-xt60/readme.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/readme |
 | 53 | `01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60 |
-| 54 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | 01-outsourcing-engineering/simple-products/wire-extenders/readme |
-| 55 | `01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md` | 01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua |
+| 54 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | Wire extenders (English) |
+| 55 | `01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md` | Подовжувачі (українською) |
 | 56 | `14-3d-to-print/3d.md` | 3D notes |
 | 57 | `14-3d-to-print/3dmodelsforcorners.md` | 14-3d-to-print/3dmodelsforcorners |
 | 58 | `14-3d-to-print/readme.md` | 3D to print |
@@ -84,7 +84,7 @@ sidebar_position: 999
 | 70 | `charging-station/Y-completed-cases/01/readme.md` | Case 01 |
 | 71 | `charging-station/Y-completed-cases/02-number-two/number-two.md` | charging-station/Y-completed-cases/02-number-two/number-two |
 | 72 | `charging-station/Y-completed-cases/02-number-two/readme.md` | Case 02 — Number Two |
-| 73 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | charging-station/Y-completed-cases/03-number-three/number-three |
+| 73 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | Number Three |
 | 74 | `charging-station/Y-completed-cases/03-number-three/readme.md` | Case 03 — Number Three |
 | 75 | `charging-station/Y-completed-cases/prototype/prototype.md` | charging-station/Y-completed-cases/prototype/prototype |
 | 76 | `charging-station/Y-completed-cases/readme.md` | charging-station/Y-completed-cases/readme |
@@ -186,28 +186,29 @@ sidebar_position: 999
 | 172 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
 | 173 | `orders/06-June-case.md` | orders/06-June-case |
 | 174 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 175 | `orders/Rob-is-great.md` | orders/Rob-is-great |
+| 175 | `orders/Rob-is-great.md` | Rob is great |
 | 176 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 177 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
+| 177 | `orders/cool-bms-to-try.md` | Cool BMS to try |
 | 178 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 179 | `orders/something.md` | orders/something |
-| 180 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 181 | `orders/we-need-it.md` | orders/we-need-it |
-| 182 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 183 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 184 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 185 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 186 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 187 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 188 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 189 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 190 | `reports/readme.md` | reports/readme |
-| 191 | `reports/status/current-status.md` | reports/status/current-status |
-| 192 | `reports/status/june-2026.md` | June 2026 report |
-| 193 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 194 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 195 | `reports/wires/r.md` | reports/wires/r |
-| 196 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 197 | `team/partners-and-members.md` | Partners and members |
-| 198 | `team/readme.md` | team/readme |
-| 199 | `team/veteran-business.md` | Veteran business concept |
+| 179 | `orders/readme.md` | Orders |
+| 180 | `orders/something.md` | orders/something |
+| 181 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 182 | `orders/we-need-it.md` | orders/we-need-it |
+| 183 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 184 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 185 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 186 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 187 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 188 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 189 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 190 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 191 | `reports/readme.md` | reports/readme |
+| 192 | `reports/status/current-status.md` | reports/status/current-status |
+| 193 | `reports/status/june-2026.md` | June 2026 report |
+| 194 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 195 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 196 | `reports/wires/r.md` | reports/wires/r |
+| 197 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 198 | `team/partners-and-members.md` | Partners and members |
+| 199 | `team/readme.md` | team/readme |
+| 200 | `team/veteran-business.md` | Veteran business concept |
