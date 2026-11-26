@@ -136,16 +136,16 @@ sidebar_position: 999
 | 122 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
 | 123 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
 | 124 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
-| 125 | `charging-station/overview.md` | Overview |
-| 126 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
-| 127 | `charging-station/readme.md` | charging-station/readme |
-| 128 | `charging-station/unfinished.md` | Unfinished notes |
-| 129 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
-| 130 | `charging-station/versions/timeline.md` | Versions timeline |
-| 131 | `charging-station/wb-vs-ecoflow/ai-is-stupid.md` | AI is stupid |
+| 125 | `charging-station/overview/ai-is-stupid.md` | AI is stupid |
+| 126 | `charging-station/overview/readme.md` | Overview |
+| 127 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
+| 128 | `charging-station/readme.md` | charging-station/readme |
+| 129 | `charging-station/unfinished.md` | Unfinished notes |
+| 130 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
+| 131 | `charging-station/versions/timeline.md` | Versions timeline |
 | 132 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
 | 133 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
-| 134 | `communication/50-States-For-Ukraine/1.md` | communication/50-States-For-Ukraine/1 |
+| 134 | `communication/50-States-For-Ukraine/1.md` | Short version (will expand it later) |
 | 135 | `communication/50-States-For-Ukraine/a.md` | Історія по двох поранених |
 | 136 | `communication/50-States-For-Ukraine/colin.md` | Colin |
 | 137 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
@@ -187,16 +187,16 @@ sidebar_position: 999
 | 173 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
 | 174 | `maintainers/repository-organization.md` | maintainers/repository-organization |
 | 175 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 176 | `orders/06-June-case.md` | orders/06-June-case |
-| 177 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 176 | `orders/06-June-case.md` | June case |
+| 177 | `orders/MAVIC-BOX-April-10th.md` | Zamovlennya MAVIC BOX April 10th |
 | 178 | `orders/Rob-is-great.md` | Rob is great |
-| 179 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 179 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
 | 180 | `orders/cool-bms-to-try.md` | Cool BMS to try |
-| 181 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 181 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
 | 182 | `orders/readme.md` | Orders |
-| 183 | `orders/something.md` | orders/something |
+| 183 | `orders/something.md` | Замовлення / Примітки |
 | 184 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 185 | `orders/we-need-it.md` | orders/we-need-it |
+| 185 | `orders/we-need-it.md` | Необхідне на закупку |
 | 186 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
 | 187 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
 | 188 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
