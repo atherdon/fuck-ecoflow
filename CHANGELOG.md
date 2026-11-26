@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(notes): expand the competitors page with sourced specs [`#133`](https://github.com/atherdon/fuck-ecoflow/pull/133)
+- docs(charging-station): merge the two Case 02 Number Two pages [`#132`](https://github.com/atherdon/fuck-ecoflow/pull/132)
 - docs(charging-station): group Case 0 prototype and proof of concept [`#131`](https://github.com/atherdon/fuck-ecoflow/pull/131)
 - docs(maintainers): add a section landing page [`#130`](https://github.com/atherdon/fuck-ecoflow/pull/130)
 - docs(outsourcing): order and label the subsection folders [`#128`](https://github.com/atherdon/fuck-ecoflow/pull/128)
@@ -196,6 +198,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`bc9cd50`](https://github.com/atherdon/fuck-ecoflow/commit/bc9cd50d159a63d6c314d1e7ad5e05ff0a503245)
 - chore: add generate:docs-index script and pages-index scaffold [`f3a9f39`](https://github.com/atherdon/fuck-ecoflow/commit/f3a9f39e7976300a275019d31512ce5b05da935f)
 - 333 [`34a4007`](https://github.com/atherdon/fuck-ecoflow/commit/34a4007a6b13fc2c28dee12d096face8e5894488)
+- chore(docs-index): regenerate all-pages markdown list [`659c30f`](https://github.com/atherdon/fuck-ecoflow/commit/659c30f713cf7c12cf2656a5c345c22c050a23bb)
 - chore(docs-index): regenerate all-pages markdown list [`a67968d`](https://github.com/atherdon/fuck-ecoflow/commit/a67968d93c77574c6ceab6e5ad2881e58b67581f)
 - 111 [`e209b65`](https://github.com/atherdon/fuck-ecoflow/commit/e209b65d0059f4de40c87cd9aae6a00fe1d81891)
 - 1111 [`5245d88`](https://github.com/atherdon/fuck-ecoflow/commit/5245d886acdc73ce632a4c3256133ddc90b1e451)
@@ -310,6 +313,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Format docs/reports/progress-cases.md for readability [`c97471c`](https://github.com/atherdon/fuck-ecoflow/commit/c97471cebc3f962cb0d199c08d8308d27589bb3b)
 - Mark readme.md as merged; redirect to README.md [`90c3f57`](https://github.com/atherdon/fuck-ecoflow/commit/90c3f57960fa46cdba3bf529d13bdf5b65023350)
 - 111 [`b6897ed`](https://github.com/atherdon/fuck-ecoflow/commit/b6897ed58ce80aace6be0c52a6b87a73c382564d)
+- chore(docs-index): regenerate all-pages markdown list [`700f664`](https://github.com/atherdon/fuck-ecoflow/commit/700f664b5b39ff221bb8a638ad7447c573cb7cca)
 - 111 [`65072a6`](https://github.com/atherdon/fuck-ecoflow/commit/65072a67fa0b776ef4b4cc7eb5e5ee1cda522d60)
 - 3333 [`82a4189`](https://github.com/atherdon/fuck-ecoflow/commit/82a41898a22d204f15f1ebfee23bdbda84144067)
 - 123 [`acf519d`](https://github.com/atherdon/fuck-ecoflow/commit/acf519daa7b517b5b72f312f7fca529e723017fb)
@@ -357,6 +361,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add English translation below Ukrainian text [`ca62510`](https://github.com/atherdon/fuck-ecoflow/commit/ca62510399a1420274cc25e613e25bb6ec8bf98e)
 - 333 [`248fba9`](https://github.com/atherdon/fuck-ecoflow/commit/248fba9ce0be9700d326cc570c495d6d36ef3ffa)
 - 111 [`9674602`](https://github.com/atherdon/fuck-ecoflow/commit/967460281868a07428c6fece0dd00e1e099c3bb7)
+- docs: merge the two Case 02 Number Two pages into one [`1cca0d6`](https://github.com/atherdon/fuck-ecoflow/commit/1cca0d6589335a55833aee3eccfc2f69f60c70b5)
 - 111 [`22f2749`](https://github.com/atherdon/fuck-ecoflow/commit/22f27490ef10a6923137d41e2d02a4c8e42177ed)
 - Add README to display images in docs/01-outsourcing-engineering/AssemBLYA/dissasembling/02 [`dbf0ffb`](https://github.com/atherdon/fuck-ecoflow/commit/dbf0ffb445236530e6580caa5331955f9d6c230c)
 - 333 [`93f97cc`](https://github.com/atherdon/fuck-ecoflow/commit/93f97cc6919e74ebe64cba7c5f06c6917f4f0621)
@@ -575,6 +580,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 333 [`a23736f`](https://github.com/atherdon/fuck-ecoflow/commit/a23736fd95aababf95c5164d7392db8fe0cd49dd)
 - Update README.md [`26c5b01`](https://github.com/atherdon/fuck-ecoflow/commit/26c5b013926791a0090c06cc79801e4cfac7b2b8)
 - Add files via upload [`27cc49d`](https://github.com/atherdon/fuck-ecoflow/commit/27cc49de24789c3abd5257d55bc20cb344d228db)
+- chore(changelog): regenerate after merged pull request [`d965c92`](https://github.com/atherdon/fuck-ecoflow/commit/d965c9263aff4289de7aba5bb254d0bb935e0049)
 - chore(changelog): regenerate after merged pull request [`87373f4`](https://github.com/atherdon/fuck-ecoflow/commit/87373f4e6235c1836fc5a946e39c07af7017953f)
 - chore: bump prism-react-renderer to ^2.4.1 [`bd4cc6f`](https://github.com/atherdon/fuck-ecoflow/commit/bd4cc6f82c9b321a76e3aed101f29beae9433a0e)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/_category_.json [`a877fbc`](https://github.com/atherdon/fuck-ecoflow/commit/a877fbcb20e7a2c41e89176fd316324b0b437c59)
@@ -1053,6 +1059,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- merge the updated Case 0 branch [`7a02687`](https://github.com/atherdon/fuck-ecoflow/commit/7a0268728208ad835137491fbdcc0a07bb5b6e4d)
 - merge main after the completed-case intros landed [`625e41f`](https://github.com/atherdon/fuck-ecoflow/commit/625e41fe289768c515c485740c8f1643da21e801)
 - merge main into the 404 navigation branch [`6ddd064`](https://github.com/atherdon/fuck-ecoflow/commit/6ddd064a29374f893f084fd4b3419d03150439be)
 - merge main so the glossary link resolves [`db7e0af`](https://github.com/atherdon/fuck-ecoflow/commit/db7e0afedcf93c5b09cb43dfc1b416e7ed8c09fa)
