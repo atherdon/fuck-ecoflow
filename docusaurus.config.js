@@ -102,6 +102,54 @@ const manualRedirects = [
     from: ['/docs/charging-station/wb-vs-ecoflow/ai-is-stupid'],
   },
   {
+    to: '/docs/charging-station/inspiration#antey-energy-charging-station',
+    from: [
+      '/docs/charging-station/inspiration/antey-energy/antey-energy-charging-station',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#antey-energy-specification',
+    from: [
+      '/docs/charging-station/inspiration/antey-energy/antey-energy-specification',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#antey-energy-2',
+    from: ['/docs/charging-station/inspiration/antey-energy/antey-energy-2'],
+  },
+  {
+    to: '/docs/charging-station/inspiration#fpv-charger-box-inspiration',
+    from: [
+      '/docs/charging-station/inspiration/fpv-batteries-charger/fpv-charger-box-inspiration',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#inspiration-hystrix-f5-box-only',
+    from: [
+      '/docs/charging-station/inspiration/hystrix-f5-box/inspiration-hystrix-f5-box-only',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#як-роблять-інші-та-не-заморачиваються',
+    from: [
+      '/docs/charging-station/inspiration/lifepo4-charging-station/як-роблять-інші-та-не-заморачиваються',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#awesome-yt-tutorial',
+    from: [
+      '/docs/charging-station/inspiration/lifepo4-tutorial/awesome-yt-tutorial',
+    ],
+  },
+  {
+    to: '/docs/charging-station/inspiration#vadims-case-2',
+    from: ['/docs/charging-station/inspiration/vadim-battery/vadims-case-2'],
+  },
+  {
+    to: '/docs/charging-station/inspiration#flman',
+    from: ['/docs/charging-station/inspiration/FLMan/intro'],
+  },
+  {
     to: '/docs/outsourcing-engineering/drone-net-gun#nets--photo-reference',
     from: [
       '/docs/01-outsourcing-engineering/drone-net-gun/nets-information',
