@@ -8,15 +8,15 @@ slug: /charging-station/inspiration/vadim-battery/vadims-case-2
 
 Page 1
 
-![image.png](image.png)
+![Vadim's case, photo 1](image.png)
 
 **Unnesessary from the begining.**
 
-![image.png](image%201.png)
+![Vadim's case, photo 2](image%201.png)
 
 **Led indication is it good.**
 
-![image.png](image%202.png)
+![Vadim's case, photo 3](image%202.png)
 
 @Arthur Tkachenko we need to solve this question.
 
