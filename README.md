@@ -92,6 +92,8 @@ Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/docu
 | Update changelog | push to `main` | regenerates and commits `CHANGELOG.md` |
 | Update docs pages index | docs push to `main` | regenerates and commits `docs/pages-index.md` |
 | Deploy | push to `main` | builds with LFS objects and publishes the site |
-| Auto-rebase open PRs | every 6 hours | updates open PR branches that are behind `main` |
+| Auto-rebase open PRs | every 6 hours | updates open PR branches that are behind `main`; conflicting PRs get the `has-conflicts` label and turn the run red, PRs with failing checks get `checks-failing` |
+
+Auto-rebase ends with an overview table in the run summary (one row per PR, with a *Checks not green* column). Failing check names need the `AUTO_REBASE_TOKEN` secret (a personal access token that can read checks); without it the workflow uses GitHub's "unstable" merge state.
 
 `CHANGELOG.md` and `docs/pages-index.md` are generated; don't edit them by hand.
