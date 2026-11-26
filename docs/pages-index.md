@@ -42,10 +42,10 @@ sidebar_position: 999
 | 28 | `01-outsourcing-engineering/drone-net-gun/archive/nets.md` | 01-outsourcing-engineering/drone-net-gun/archive/nets |
 | 29 | `01-outsourcing-engineering/drone-net-gun/nets-information.md` | 01-outsourcing-engineering/drone-net-gun/nets-information |
 | 30 | `01-outsourcing-engineering/drone-net-gun/nets.md` | 01-outsourcing-engineering/drone-net-gun/nets |
-| 31 | `01-outsourcing-engineering/drone-net-gun/readme.md` | 01-outsourcing-engineering/drone-net-gun/readme |
+| 31 | `01-outsourcing-engineering/drone-net-gun/readme.md` | Drone — Net Launcher |
 | 32 | `01-outsourcing-engineering/full-specification/english-version-full-but-crap.md` | 01-outsourcing-engineering/full-specification/english-version-full-but-crap |
 | 33 | `01-outsourcing-engineering/full-specification/readme.md` | 01-outsourcing-engineering/full-specification/readme |
-| 34 | `01-outsourcing-engineering/lesnik/readme.md` | 01-outsourcing-engineering/lesnik/readme |
+| 34 | `01-outsourcing-engineering/lesnik/readme.md` | Lesnik |
 | 35 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
 | 36 | `01-outsourcing-engineering/readme.md` | Outsourcing engineering |
 | 37 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
@@ -59,7 +59,7 @@ sidebar_position: 999
 | 45 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
 | 46 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | Power Banks (English) |
 | 47 | `01-outsourcing-engineering/simple-products/powerbanks/pb.md` | 3. Powerbanks |
-| 48 | `01-outsourcing-engineering/simple-products/readme.md` | 01-outsourcing-engineering/simple-products/readme |
+| 48 | `01-outsourcing-engineering/simple-products/readme.md` | Simple Products |
 | 49 | `01-outsourcing-engineering/simple-products/spider/english.md` | Spider (English) |
 | 50 | `01-outsourcing-engineering/simple-products/spider/readme.md` | 01-outsourcing-engineering/simple-products/spider/readme |
 | 51 | `01-outsourcing-engineering/simple-products/spider/spider.md` | Павук (українською) |
