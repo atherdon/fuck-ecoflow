@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): reformat 'Chat with great and smart people' for readability [`#105`](https://github.com/atherdon/fuck-ecoflow/pull/105)
+- docs(charging-station): merge Information and Notes into one section [`#104`](https://github.com/atherdon/fuck-ecoflow/pull/104)
 - docs(charging-station): physicist page as landing, Versions second, Inspiration & side projects [`#103`](https://github.com/atherdon/fuck-ecoflow/pull/103)
 - ci: prefer documentation-actions short-name aliases [`#98`](https://github.com/atherdon/fuck-ecoflow/pull/98)
 - ci(build): check out Git LFS objects in Build docs [`#96`](https://github.com/atherdon/fuck-ecoflow/pull/96)
@@ -160,6 +162,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
 - 3333 [`8ff3eeb`](https://github.com/atherdon/fuck-ecoflow/commit/8ff3eeba5384209024424be231a2903b457aa174)
 - chore(docs-index): regenerate all-pages markdown list [`b605db5`](https://github.com/atherdon/fuck-ecoflow/commit/b605db539c8090742185eac205d01a274b445826)
+- docs(charging-station): reformat the smart-people chat for readability [`94149b1`](https://github.com/atherdon/fuck-ecoflow/commit/94149b12c1475f08fb4ecb9c0da01a0dea5176e8)
 - 333 [`d1789c5`](https://github.com/atherdon/fuck-ecoflow/commit/d1789c5556943df7d3bcf0b7d11b43a730132059)
 - 111 [`bc9cd50`](https://github.com/atherdon/fuck-ecoflow/commit/bc9cd50d159a63d6c314d1e7ad5e05ff0a503245)
 - chore: add generate:docs-index script and pages-index scaffold [`f3a9f39`](https://github.com/atherdon/fuck-ecoflow/commit/f3a9f39e7976300a275019d31512ce5b05da935f)
@@ -350,6 +353,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`b21a5d6`](https://github.com/atherdon/fuck-ecoflow/commit/b21a5d67c944af45e73e87d7dc42d83eaf7380b9)
 - Add English documentation for Spider system [`ff558ed`](https://github.com/atherdon/fuck-ecoflow/commit/ff558eda709132e2b73e162ed178deaff28e158e)
 - Add files via upload [`c6f6b1e`](https://github.com/atherdon/fuck-ecoflow/commit/c6f6b1e1d1eeacc0a988cb87359ed121a919df35)
+- docs(charging-station): merge information section into notes [`092002f`](https://github.com/atherdon/fuck-ecoflow/commit/092002f48a3e32eb7c0fa971e8f3bef799c49fd7)
 - Delete docs/communication/ффф [`b653dfa`](https://github.com/atherdon/fuck-ecoflow/commit/b653dfad1e18011e2ff3c4f3944d89b753751804)
 - Create ффф [`a4643b0`](https://github.com/atherdon/fuck-ecoflow/commit/a4643b0be1d6773af5855a6e39f0f1c45d6312f5)
 - 111 [`f79ace5`](https://github.com/atherdon/fuck-ecoflow/commit/f79ace57307c8c0f57640c731abb80973b433995)
@@ -614,6 +618,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(docs-index): regenerate all-pages markdown list [`a61526a`](https://github.com/atherdon/fuck-ecoflow/commit/a61526a6d339dd9db45e32660f015ee7ae2df747)
 - chore(changelog): regenerate after merged pull request [`2d0bd20`](https://github.com/atherdon/fuck-ecoflow/commit/2d0bd2011794daa8ca739b7148931990bffa9f70)
 - chore: add npm test/ci scripts wrapping checks + build [`e42fdb8`](https://github.com/atherdon/fuck-ecoflow/commit/e42fdb8e5f9b3cf734a073537bcfdfdecf397784)
 - chore: bump @mdx-js/react to ^3.1.0 [`3ec0863`](https://github.com/atherdon/fuck-ecoflow/commit/3ec08634640d8bc706e8e4c9cbc03bce73928ece)
@@ -638,6 +643,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`ffdd17d`](https://github.com/atherdon/fuck-ecoflow/commit/ffdd17dafdfd11af1d1eb22893cca0a2c5503f1e)
 - chore(changelog): regenerate after merged pull request [`91fa6b0`](https://github.com/atherdon/fuck-ecoflow/commit/91fa6b02a401795f89f319e4ab4cf3f231925124)
 - chore(changelog): regenerate after merged pull request [`4762a90`](https://github.com/atherdon/fuck-ecoflow/commit/4762a900372a2c27f064bafd990cd20799d83d0c)
 - chore(changelog): regenerate after merged pull request [`3a8a31d`](https://github.com/atherdon/fuck-ecoflow/commit/3a8a31d18d7b279b0c801c3ef192178ba4e9c78b)
