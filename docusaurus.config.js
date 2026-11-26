@@ -9,6 +9,7 @@ import {
   remarkUkDocsLinks,
   ukDocsLocalePlugin,
 } from './plugins/uk-docs-links.mjs';
+import { i18nStatusPlugin } from './plugins/i18n-status.mjs';
 
 const manualRedirects = [
   {
@@ -296,6 +297,7 @@ const config = {
 
   plugins: [
     ukDocsLocalePlugin,
+    i18nStatusPlugin,
     [
       '@docusaurus/plugin-client-redirects',
       {
