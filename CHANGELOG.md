@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Merge Inspiration & side projects into one page [`#149`](https://github.com/atherdon/fuck-ecoflow/pull/149)
 - Remove the AssemBLYA section and keep its images in static/ [`#150`](https://github.com/atherdon/fuck-ecoflow/pull/150)
 - Merge the drone net gun docs into one page [`#148`](https://github.com/atherdon/fuck-ecoflow/pull/148)
 - Tidy AI is stupid, remove item 13, and link the examples [`#147`](https://github.com/atherdon/fuck-ecoflow/pull/147)
@@ -198,9 +199,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`51ec446`](https://github.com/atherdon/fuck-ecoflow/commit/51ec446c88df03bd1ddd4ccab3e707043b70cea4)
 - 333 [`5ab8c5e`](https://github.com/atherdon/fuck-ecoflow/commit/5ab8c5e30ce3c6af1c906715cfc368c8b3c93df1)
 - Reorganize docs navigation structure [`198c771`](https://github.com/atherdon/fuck-ecoflow/commit/198c771a529e70024663dd3b6d58457f30d5b38b)
+- docs: merge Inspiration & side projects into one page [`795de98`](https://github.com/atherdon/fuck-ecoflow/commit/795de98e90f82f3ec889b960f7cc6ca526d585a0)
 - 3333 [`81aa956`](https://github.com/atherdon/fuck-ecoflow/commit/81aa95665f606fb49b5598ab8a538335ab03c635)
 - 111 [`eb8f195`](https://github.com/atherdon/fuck-ecoflow/commit/eb8f1957903bea656031c927087d0396a4335e36)
 - 1111 [`5a0f9ad`](https://github.com/atherdon/fuck-ecoflow/commit/5a0f9addce1f2c2368398867bfe886392b72464f)
+- chore(docs-index): regenerate all-pages markdown list [`9108969`](https://github.com/atherdon/fuck-ecoflow/commit/910896965f8f2d0a84bdfce22552c5216b667695)
 - chore(docs-index): regenerate all-pages markdown list [`b8a76ba`](https://github.com/atherdon/fuck-ecoflow/commit/b8a76baa96cf07dc1a6c9e1370dd5b262416241d)
 - 888 [`184ffc9`](https://github.com/atherdon/fuck-ecoflow/commit/184ffc9cf7947334fbd110890dcc30a28f2ab2ca)
 - 333 [`3259141`](https://github.com/atherdon/fuck-ecoflow/commit/3259141bfb57b348017de26e64174d791ed3605f)
@@ -709,6 +712,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`2d90e66`](https://github.com/atherdon/fuck-ecoflow/commit/2d90e66d46eb9332d4ad86e03fa5dfe553a14225)
 - chore(docs-index): regenerate all-pages markdown list [`5e1b5a4`](https://github.com/atherdon/fuck-ecoflow/commit/5e1b5a4786836357b4a6501240eab31094f429fa)
 - chore(changelog): regenerate after merged pull request [`57c7f71`](https://github.com/atherdon/fuck-ecoflow/commit/57c7f712c51aa605031e6843b9eb2f0a4d31fd9e)
 - docs: drop the 404 link to How to read this site until that PR lands [`c6fc3f7`](https://github.com/atherdon/fuck-ecoflow/commit/c6fc3f7cc915c6fb93a49cc9f8e66652024618d6)
@@ -1106,6 +1110,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- Merge main into docs/inspiration-one-page (keep both redirect lists) [`8cee1a0`](https://github.com/atherdon/fuck-ecoflow/commit/8cee1a0d9efb52ebfd5660f5a9eaf220cad4a04c)
 - merge the updated Case 0 branch [`7a02687`](https://github.com/atherdon/fuck-ecoflow/commit/7a0268728208ad835137491fbdcc0a07bb5b6e4d)
 - merge main after the completed-case intros landed [`625e41f`](https://github.com/atherdon/fuck-ecoflow/commit/625e41fe289768c515c485740c8f1643da21e801)
 - merge main into the 404 navigation branch [`6ddd064`](https://github.com/atherdon/fuck-ecoflow/commit/6ddd064a29374f893f084fd4b3419d03150439be)
