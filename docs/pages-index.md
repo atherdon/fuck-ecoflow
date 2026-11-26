@@ -157,32 +157,33 @@ sidebar_position: 999
 | 143 | `maintainers/readme.md` | Maintainers |
 | 144 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
 | 145 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 146 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 147 | `orders/06-June-case.md` | June case |
-| 148 | `orders/MAVIC-BOX-April-10th.md` | Zamovlennya MAVIC BOX April 10th |
-| 149 | `orders/Rob-is-great.md` | Rob is great |
-| 150 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
-| 151 | `orders/cool-bms-to-try.md` | Cool BMS to try |
-| 152 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
-| 153 | `orders/readme.md` | Orders |
-| 154 | `orders/something.md` | Замовлення / Примітки |
-| 155 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 156 | `orders/we-need-it.md` | Необхідне на закупку |
-| 157 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 158 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 159 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 160 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 161 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 162 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 163 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 164 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 165 | `reports/readme.md` | reports/readme |
-| 166 | `reports/status/current-status.md` | reports/status/current-status |
-| 167 | `reports/status/june-2026.md` | June 2026 report |
-| 168 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 169 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 170 | `reports/wires/r.md` | reports/wires/r |
-| 171 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 172 | `team/partners-and-members.md` | Partners and members |
-| 173 | `team/readme.md` | team/readme |
-| 174 | `team/veteran-business.md` | Veteran business concept |
+| 146 | `maintainers/translations.md` | maintainers/translations |
+| 147 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 148 | `orders/06-June-case.md` | June case |
+| 149 | `orders/MAVIC-BOX-April-10th.md` | Zamovlennya MAVIC BOX April 10th |
+| 150 | `orders/Rob-is-great.md` | Rob is great |
+| 151 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
+| 152 | `orders/cool-bms-to-try.md` | Cool BMS to try |
+| 153 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
+| 154 | `orders/readme.md` | Orders |
+| 155 | `orders/something.md` | Замовлення / Примітки |
+| 156 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 157 | `orders/we-need-it.md` | Необхідне на закупку |
+| 158 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 159 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 160 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 161 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 162 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 163 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 164 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 165 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 166 | `reports/readme.md` | reports/readme |
+| 167 | `reports/status/current-status.md` | reports/status/current-status |
+| 168 | `reports/status/june-2026.md` | June 2026 report |
+| 169 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 170 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 171 | `reports/wires/r.md` | reports/wires/r |
+| 172 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 173 | `team/partners-and-members.md` | Partners and members |
+| 174 | `team/readme.md` | team/readme |
+| 175 | `team/veteran-business.md` | Veteran business concept |
