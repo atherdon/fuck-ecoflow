@@ -25,7 +25,10 @@ This is the main build. A useful order to read it:
 2. [Versions](./charging-station/versions/Versions.md) — how the box is meant to evolve
 3. [Overview](./charging-station/overview.md) — starting points in the section
 4. [Completed cases](./charging-station/Y-completed-cases/readme.md)
-5. [Inspiration & side projects](./charging-station/inspiration/readme.md)
+5. [Tasks](./charging-station/Tasks/readme.md)
+6. [Information & notes](./charging-station/notes/readme.md)
+7. [White box vs EcoFlow](./charging-station/wb-vs-ecoflow/readme.md)
+8. [Inspiration & side projects](./charging-station/inspiration/readme.md)
 
 ## Other sections
 

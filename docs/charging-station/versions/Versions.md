@@ -1,5 +1,5 @@
 ---
-slug: /versions/versions
+slug: /charging-station/versions
 ---
 
 # Versions

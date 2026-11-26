@@ -1,3 +1,8 @@
 {
-  "position": 5
+  "label": "Completed cases",
+  "position": 5,
+  "link": {
+    "type": "doc",
+    "id": "charging-station/Y-completed-cases/readme"
+  }
 }

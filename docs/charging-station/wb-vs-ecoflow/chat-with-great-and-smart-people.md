@@ -1,3 +1,8 @@
+---
+title: Chat with great and smart people
+slug: /charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people
+---
+
 # Chat with great and smart people
 
 ## Summary
