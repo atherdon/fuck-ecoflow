@@ -182,34 +182,35 @@ sidebar_position: 999
 | 168 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
 | 169 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
 | 170 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
-| 171 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
-| 172 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 173 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 174 | `orders/06-June-case.md` | orders/06-June-case |
-| 175 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 176 | `orders/Rob-is-great.md` | Rob is great |
-| 177 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 178 | `orders/cool-bms-to-try.md` | Cool BMS to try |
-| 179 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 180 | `orders/readme.md` | Orders |
-| 181 | `orders/something.md` | orders/something |
-| 182 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 183 | `orders/we-need-it.md` | orders/we-need-it |
-| 184 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 185 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 186 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 187 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 188 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 189 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 190 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 191 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 192 | `reports/readme.md` | reports/readme |
-| 193 | `reports/status/current-status.md` | reports/status/current-status |
-| 194 | `reports/status/june-2026.md` | June 2026 report |
-| 195 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 196 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 197 | `reports/wires/r.md` | reports/wires/r |
-| 198 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 199 | `team/partners-and-members.md` | Partners and members |
-| 200 | `team/readme.md` | team/readme |
-| 201 | `team/veteran-business.md` | Veteran business concept |
+| 171 | `maintainers/readme.md` | Maintainers |
+| 172 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
+| 173 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 174 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 175 | `orders/06-June-case.md` | orders/06-June-case |
+| 176 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 177 | `orders/Rob-is-great.md` | Rob is great |
+| 178 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 179 | `orders/cool-bms-to-try.md` | Cool BMS to try |
+| 180 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 181 | `orders/readme.md` | Orders |
+| 182 | `orders/something.md` | orders/something |
+| 183 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 184 | `orders/we-need-it.md` | orders/we-need-it |
+| 185 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 186 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 187 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 188 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 189 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 190 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 191 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 192 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 193 | `reports/readme.md` | reports/readme |
+| 194 | `reports/status/current-status.md` | reports/status/current-status |
+| 195 | `reports/status/june-2026.md` | June 2026 report |
+| 196 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 197 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 198 | `reports/wires/r.md` | reports/wires/r |
+| 199 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 200 | `team/partners-and-members.md` | Partners and members |
+| 201 | `team/readme.md` | team/readme |
+| 202 | `team/veteran-business.md` | Veteran business concept |
