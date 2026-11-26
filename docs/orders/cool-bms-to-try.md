@@ -1,3 +1,8 @@
+---
+title: Cool BMS to try
+sidebar_label: Cool BMS to try
+---
+
 ### 2024 DALY BMS 3S 4S 6S 7S 10S 12S 13S 14S 15S 16S Li-ion And LiFePO4 32700 22650 18650 BMS Balance Function And NTC 15A To 100A
 https://www.aliexpress.com/item/1005007175648504.html
 

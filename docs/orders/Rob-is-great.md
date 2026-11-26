@@ -1,3 +1,8 @@
+---
+title: Rob is great
+sidebar_label: Rob is great
+---
+
 I just found this on AliExpress:
 2-way PD100W Fast Charging Module Type-C Interface Support PD3.0/2.0 QC3.0/2.0 SCP VOOC AFC Fast Quick Charger Circuit Board
 https://a.aliexpress.com/_mLlc38n
