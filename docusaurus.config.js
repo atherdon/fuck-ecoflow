@@ -67,6 +67,24 @@ const manualRedirects = [
     to: '/docs/charging-station',
     from: ['/docs/physicsist-main-page/ящик-фірми-фізік-і-друзі'],
   },
+  {
+    to: '/docs/charging-station/Y-completed-cases/case-0',
+    from: [
+      '/docs/charging-station/Y-completed-cases/00',
+      '/docs/charging-station/Y-completed-cases/00/readme',
+    ],
+  },
+  {
+    to: '/docs/charging-station/Y-completed-cases/case-0/prototype',
+    from: [
+      '/docs/charging-station/Y-completed-cases/prototype',
+      '/docs/charging-station/Y-completed-cases/prototype/prototype',
+    ],
+  },
+  {
+    to: '/docs/charging-station/Y-completed-cases/case-0/proof-of-concept',
+    from: ['/docs/charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25'],
+  },
 ];
 
 function collectMarkdownFiles(directory) {

@@ -15,7 +15,7 @@ Completed case 03, also called Number Three. The original notes list 45000 mAh a
 
 ## Other cases
 
-- [Case 00](../00/readme.md)
+- [Case 0](../case-0/readme.md)
 - [Case 01](../01/readme.md)
 - [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 02 — Number Two](../02-number-two/readme.md)
