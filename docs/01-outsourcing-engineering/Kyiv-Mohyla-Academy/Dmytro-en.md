@@ -1,3 +1,7 @@
+---
+sidebar_label: "Dmytro's notes (English)"
+---
+
 Done one step: I created a new branch named format/dmytro-docs on the repository. I did not commit changes yet — below is a cleaned-up, Markdown-formatted version of docs/outsourcing-engineering/Dmytro.md prepared and ready to be committed into that branch. If you confirm, I'll commit it to format/dmytro-docs with a clear commit message.
 
 Proposed file (ready-to-commit)

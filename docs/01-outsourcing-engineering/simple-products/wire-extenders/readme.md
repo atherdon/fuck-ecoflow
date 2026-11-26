@@ -1,3 +1,7 @@
+---
+sidebar_label: Wire extenders (English)
+---
+
 # Extenders for charging stations: 20 extenders + 20 balancers.
 
 For example, I have charging stations for charging large "Vampire" batteries. They have a very short power cable[...]

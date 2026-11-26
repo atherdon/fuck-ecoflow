@@ -1,6 +1,9 @@
 ---
 slug: /01-outsourcing-engineering/simple-products/powerbanks/pb
+sidebar_label: Павербанки (українською)
+title: 3. Powerbanks
 ---
+
 
 # 3. Powerbanks
 Також є необхідність паяти та збирати прості вироби — наприклад, павербанки для піхоти.
