@@ -5,15 +5,6 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
-import fs from 'node:fs';
-import path from 'node:path';
-
-const assemblyaDocsDir = path.join(
-  process.cwd(),
-  'docs/01-outsourcing-engineering/AssemBLYA',
-);
-
-const assemblyaRoutePrefix = '/docs/outsourcing-engineering/assemblya';
 
 const manualRedirects = [
   {
@@ -126,49 +117,44 @@ const manualRedirects = [
   },
 ];
 
-function collectMarkdownFiles(directory) {
-  return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
-    const entryPath = path.join(directory, entry.name);
+const assemblyaRedirectPrefixes = [
+  '/docs/outsourcing-engineering/assemblya',
+  '/docs/outsourcing-engineering/AssemBLYA',
+  '/docs/outsourcing-engineering/AssemBlya',
+];
 
-    if (entry.isDirectory()) {
-      return collectMarkdownFiles(entryPath);
-    }
-
-    return entry.isFile() && entry.name.endsWith('.md') ? [entryPath] : [];
-  });
-}
-
-function getAssemblyaRoute(filePath) {
-  const relativePath = path
-    .relative(assemblyaDocsDir, filePath)
-    .split(path.sep)
-    .join('/');
-  const routePath = relativePath.replace(/\.md$/, '');
-
-  if (routePath === 'readme') {
-    return `${assemblyaRoutePrefix}/`;
-  }
-
-  if (routePath.endsWith('/readme')) {
-    return `${assemblyaRoutePrefix}/${routePath.slice(0, -'/readme'.length)}/`;
-  }
-
-  return `${assemblyaRoutePrefix}/${routePath}`;
-}
+const assemblyaRedirectSuffixes = [
+  '',
+  '/competitors/steel-hornets/111',
+  '/competitors/steel-hornets/111/xxx',
+  '/competitors/steel-hornets/222',
+  '/competitors/steel-hornets/222/dissasembled',
+  '/dissasembling',
+  '/dissasembling/01',
+  '/dissasembling/02',
+  '/dissasembling/03',
+  '/dissasembling/04',
+  '/dissasembling/05',
+  '/dissasembling/06',
+  '/dissasembling/07',
+  '/dissasembling/08',
+  '/dissasembling/09',
+  '/dissasembling/010',
+  '/dissasembling/011',
+  '/dissasembling/metal-parts',
+];
 
 function getAssemblyaRedirects() {
-  return collectMarkdownFiles(assemblyaDocsDir).map((filePath) => {
-    const route = getAssemblyaRoute(filePath);
-    const suffix = route.slice(assemblyaRoutePrefix.length);
+  const from = assemblyaRedirectPrefixes.flatMap((prefix) =>
+    assemblyaRedirectSuffixes.map((suffix) => `${prefix}${suffix}`),
+  );
 
-    return {
-      to: route,
-      from: [
-        `/docs/outsourcing-engineering/AssemBLYA${suffix}`,
-        `/docs/outsourcing-engineering/AssemBlya${suffix}`,
-      ],
-    };
-  });
+  return [
+    {
+      to: '/docs/outsourcing-engineering',
+      from,
+    },
+  ];
 }
 
 /** @type {import('@docusaurus/types').Config} */
