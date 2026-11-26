@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks [`#151`](https://github.com/atherdon/fuck-ecoflow/pull/151)
 - Merge Inspiration & side projects into one page [`#149`](https://github.com/atherdon/fuck-ecoflow/pull/149)
 - Remove the AssemBLYA section and keep its images in static/ [`#150`](https://github.com/atherdon/fuck-ecoflow/pull/150)
 - Merge the drone net gun docs into one page [`#148`](https://github.com/atherdon/fuck-ecoflow/pull/148)
@@ -231,6 +232,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 123 [`c3d9b8d`](https://github.com/atherdon/fuck-ecoflow/commit/c3d9b8d80472bd2a3f0c7fd18a6523f05f0a9f5e)
 - 123 [`8222f31`](https://github.com/atherdon/fuck-ecoflow/commit/8222f31b9f2d6adaba3e3d4e936641598dd451e1)
 - 123 [`0996d9b`](https://github.com/atherdon/fuck-ecoflow/commit/0996d9b39ad53c3225b4a55468dc18c669b1783a)
+- chore(docs-index): regenerate all-pages markdown list [`43f6efb`](https://github.com/atherdon/fuck-ecoflow/commit/43f6efb9c5f82009737ca81647478b61ebca3cdc)
 - Wrap bare order-list URLs and add missing titles. [`aa68052`](https://github.com/atherdon/fuck-ecoflow/commit/aa68052a7f7a9cf86c2c1318698e9be86f8f7964)
 - 333 [`e38f328`](https://github.com/atherdon/fuck-ecoflow/commit/e38f328e415a517fcb03427181080eccf433c8bf)
 - 111 [`8911900`](https://github.com/atherdon/fuck-ecoflow/commit/891190029fb1b42b28d42a5c628e4d398f38b4ed)
@@ -696,6 +698,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`6856c5c`](https://github.com/atherdon/fuck-ecoflow/commit/6856c5c92cd9a694a7cf130cf7a50e0f4715bf43)
 - Update intro.md [`1e688e6`](https://github.com/atherdon/fuck-ecoflow/commit/1e688e606920f7b6345bd45376b3c573c1dea1b8)
 - Add renovate.json [`9f7af52`](https://github.com/atherdon/fuck-ecoflow/commit/9f7af5226f1e30be09fddeb18627fcc04714b6a7)
+- chore(changelog): regenerate after merged pull request [`6cc70dd`](https://github.com/atherdon/fuck-ecoflow/commit/6cc70ddfd1692b013a9b5c1aed77f9ed9c3aa6d7)
 - docs: leave the Case 02 write-up untagged here [`833e940`](https://github.com/atherdon/fuck-ecoflow/commit/833e940338994845d7d9dbd259ffed357cb5ccc0)
 - chore(changelog): regenerate after merged pull request [`be6c777`](https://github.com/atherdon/fuck-ecoflow/commit/be6c7773667187969430f4c1d4178b6860448241)
 - chore(changelog): regenerate after merged pull request [`542bc02`](https://github.com/atherdon/fuck-ecoflow/commit/542bc021d17817ea473954f34f4b8ebc7c1e4b0f)
