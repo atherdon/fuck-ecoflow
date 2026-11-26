@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): make the Power Core page easier to read [`#129`](https://github.com/atherdon/fuck-ecoflow/pull/129)
 - docs(notes): show the pros and cons notes as a table [`#134`](https://github.com/atherdon/fuck-ecoflow/pull/134)
 - docs(communication): give untitled pages readable titles [`#120`](https://github.com/atherdon/fuck-ecoflow/pull/120)
 - docs(notes): add index pages for battery, Vitaliy, grants, and misc notes [`#119`](https://github.com/atherdon/fuck-ecoflow/pull/119)
@@ -696,6 +697,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`7d49613`](https://github.com/atherdon/fuck-ecoflow/commit/7d496139b7e43d0b1ecbb485e169c6618d4aa59a)
+- chore(docs-index): regenerate all-pages markdown list [`28be7b8`](https://github.com/atherdon/fuck-ecoflow/commit/28be7b8a198226b0a86c8a9c49db8cba9b6d5b4f)
 - chore(changelog): regenerate after merged pull request [`cfb3a89`](https://github.com/atherdon/fuck-ecoflow/commit/cfb3a8964e5b7f7bfaf9c95cbaf74d47bfcc78ea)
 - chore(changelog): regenerate after merged pull request [`270eaf6`](https://github.com/atherdon/fuck-ecoflow/commit/270eaf655fd590f7cc25dfee2a2c657a18a3e99b)
 - chore(docs-index): regenerate all-pages markdown list [`0e249d8`](https://github.com/atherdon/fuck-ecoflow/commit/0e249d8ea3ed723c1fd49a4ca11881f7ff8c7834)
