@@ -43,4 +43,4 @@ Some pages are in Ukrainian, some in English, and some mix both. The sidebar lab
 ## Other useful pages
 
 - [Glossary](./glossary.md) — terms used in these docs
-- [Feedback](./feedback.md) — how to ask a question or suggest a change
+- [GitHub issues](https://github.com/atherdon/fuck-ecoflow/issues) — how to ask a question or suggest a change
