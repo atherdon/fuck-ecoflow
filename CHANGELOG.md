@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- fix(deps): update react monorepo to ^19.3.1 [`#100`](https://github.com/atherdon/fuck-ecoflow/pull/100)
 - Add titles and labeled links on Filin and charger notes [`#146`](https://github.com/atherdon/fuck-ecoflow/pull/146)
 - Single H1 on the Physics box pages and metal-parts gallery [`#145`](https://github.com/atherdon/fuck-ecoflow/pull/145)
 - Add a heading and labeled links on the 3D notes page [`#144`](https://github.com/atherdon/fuck-ecoflow/pull/144)
@@ -582,6 +583,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`75306c5`](https://github.com/atherdon/fuck-ecoflow/commit/75306c504d81728a8469f54eab6303094db7c661)
 - Add files via upload [`7e27ec7`](https://github.com/atherdon/fuck-ecoflow/commit/7e27ec7b35866d1d586b02580d694df19d391c8e)
 - Add files via upload [`6a42940`](https://github.com/atherdon/fuck-ecoflow/commit/6a42940ee7f3d551a45349cb5d4606303e3d2ad5)
+- chore(changelog): regenerate after merged pull request [`4fc7919`](https://github.com/atherdon/fuck-ecoflow/commit/4fc79197d13508610441690ef6abc16cf7ba407d)
 - chore(changelog): regenerate after merged pull request [`cb227a5`](https://github.com/atherdon/fuck-ecoflow/commit/cb227a51a0978244a5ccba86401c67428fa939c4)
 - Update readme.md [`f7c8d8d`](https://github.com/atherdon/fuck-ecoflow/commit/f7c8d8d5793ad534405b4bd9a7a2c6ae8e140846)
 - chore: regenerate package-lock after combine [`45c81cc`](https://github.com/atherdon/fuck-ecoflow/commit/45c81cce514ebdba4f7245a21964b0b6eab53ed6)
@@ -699,6 +701,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(docs-index): regenerate all-pages markdown list [`5e1b5a4`](https://github.com/atherdon/fuck-ecoflow/commit/5e1b5a4786836357b4a6501240eab31094f429fa)
 - chore(changelog): regenerate after merged pull request [`57c7f71`](https://github.com/atherdon/fuck-ecoflow/commit/57c7f712c51aa605031e6843b9eb2f0a4d31fd9e)
 - docs: drop the 404 link to How to read this site until that PR lands [`c6fc3f7`](https://github.com/atherdon/fuck-ecoflow/commit/c6fc3f7cc915c6fb93a49cc9f8e66652024618d6)
 - chore(changelog): regenerate after merged pull request [`52ffd1d`](https://github.com/atherdon/fuck-ecoflow/commit/52ffd1d9a6fbfed931361b7c2676684cd390b2af)
