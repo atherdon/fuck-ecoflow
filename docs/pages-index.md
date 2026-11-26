@@ -23,7 +23,7 @@ sidebar_position: 999
 | 9 | `01-outsourcing-engineering/charging-station/physicist.md` | Box \"Physics\" (English) |
 | 10 | `01-outsourcing-engineering/charging-station/readme.md` | 01-outsourcing-engineering/charging-station/readme |
 | 11 | `01-outsourcing-engineering/drone-net-gun/readme.md` | Drone — Net Launcher |
-| 12 | `01-outsourcing-engineering/full-specification/english-version-full-but-crap.md` | 01-outsourcing-engineering/full-specification/english-version-full-but-crap |
+| 12 | `01-outsourcing-engineering/full-specification/english-specification.md` | Full specification (English) |
 | 13 | `01-outsourcing-engineering/full-specification/readme.md` | 01-outsourcing-engineering/full-specification/readme |
 | 14 | `01-outsourcing-engineering/lesnik/readme.md` | Lesnik |
 | 15 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
