@@ -156,4 +156,4 @@ Additional space should be reserved for extra needs
 
 **Potential**
 
-According to Arthur’s idea, a commercial prospect exists - mass production of cases for sale
+The comment on commercial potential now lives on the [Overview](/docs/charging-station/overview) page.
