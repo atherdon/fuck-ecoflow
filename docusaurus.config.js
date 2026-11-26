@@ -65,6 +65,10 @@ const manualRedirects = [
     to: '/docs/team/veteran-business',
     from: ['/docs/team/english'],
   },
+  {
+    to: '/docs/charging-station',
+    from: ['/docs/physicsist-main-page/ящик-фірми-фізік-і-друзі'],
+  },
 ];
 
 function collectMarkdownFiles(directory) {
