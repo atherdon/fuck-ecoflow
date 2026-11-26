@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(problem): give the Problem section an index and real titles [`#108`](https://github.com/atherdon/fuck-ecoflow/pull/108)
 - docs: give first-time readers a clear Start here path [`#106`](https://github.com/atherdon/fuck-ecoflow/pull/106)
 - docs(charging-station): reformat 'Chat with great and smart people' for readability [`#105`](https://github.com/atherdon/fuck-ecoflow/pull/105)
 - docs(charging-station): merge Information and Notes into one section [`#104`](https://github.com/atherdon/fuck-ecoflow/pull/104)
@@ -622,6 +623,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`c060baa`](https://github.com/atherdon/fuck-ecoflow/commit/c060baa56b1618ce74acd0aa224ae365ba6d9689)
 - chore(docs-index): regenerate all-pages markdown list [`a61526a`](https://github.com/atherdon/fuck-ecoflow/commit/a61526a6d339dd9db45e32660f015ee7ae2df747)
 - chore(changelog): regenerate after merged pull request [`2d0bd20`](https://github.com/atherdon/fuck-ecoflow/commit/2d0bd2011794daa8ca739b7148931990bffa9f70)
 - chore: add npm test/ci scripts wrapping checks + build [`e42fdb8`](https://github.com/atherdon/fuck-ecoflow/commit/e42fdb8e5f9b3cf734a073537bcfdfdecf397784)
@@ -676,6 +678,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(docs-index): regenerate all-pages markdown list [`0e249d8`](https://github.com/atherdon/fuck-ecoflow/commit/0e249d8ea3ed723c1fd49a4ca11881f7ff8c7834)
 - chore(changelog): regenerate after merged pull request [`f7affec`](https://github.com/atherdon/fuck-ecoflow/commit/f7affec04764c557041286ea711742a1875e2a1c)
 - chore(changelog): regenerate after merged pull request [`a7846ae`](https://github.com/atherdon/fuck-ecoflow/commit/a7846ae3127fcb675bc4e264927a262054683ff3)
 - docs(readme): Build docs now uses LFS objects [`b041254`](https://github.com/atherdon/fuck-ecoflow/commit/b041254a54a2e1a34e43c226e832dc6f3178810b)
