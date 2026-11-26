@@ -60,6 +60,12 @@ Node.js **>= 26.13.1** (`engines` in `package.json`, pinned in `.nvmrc`; CI jobs
 | `npm run format:check` | Prettier check (`npm run format` to fix) |
 | `npm run generate:docs-index` | Regenerate `docs/pages-index.md` (CI does this on `main`) |
 | `npm run changelog` | Regenerate `CHANGELOG.md` (CI does this on `main`) |
+| `npm run write-translations -- --locale uk` | Add new UI strings to `i18n/uk/*.json` |
+| `npm run i18n:sync-uk` | Copy the Ukrainian pages from `docs/` into the uk locale (`-- --check` reports stale copies) |
+
+## Languages
+
+The site is built in English (default, `/fuck-ecoflow/`) and Ukrainian (`/fuck-ecoflow/uk/`). `npm start -- --locale uk` runs the Ukrainian dev server. See [Translations](docs/maintainers/translations.md) for how to add or update a translation.
 
 ## Git LFS
 
