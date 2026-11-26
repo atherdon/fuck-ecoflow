@@ -8,7 +8,7 @@ title: Ящик «Фізика» (українською)
 
 Цій ідеї вже приблизно рік. Є багато інформації, багато матеріалів, але прогресу дуже мало.
 
-### Концепція:
+## Концепція:
 
 - кейс від дрона Mavic 3T;
 - всередині 3–4 FPV-батареї;
@@ -22,19 +22,19 @@ title: Ящик «Фізика» (українською)
 
 HOTA GaN це сама дорога частина в цьому кейсі. Працює добре - вирішує багато проблем одним девайсом. 
 
-Посилання [https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey](https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey) 
+Посилання [HOTA P24 PD charger](https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey) 
 
 ---
 
-Концепт від хлопців з європи. Вже протестован [https://www.dropbox.com/scl/fi/cspe7l0vlwsd1uf9xz83f/Charging-station-concept.mp4?rlkey=x7tm1f6nsd6jo7pfb4qe0k1w7&st=jyc3iml6&dl=0](https://www.dropbox.com/scl/fi/cspe7l0vlwsd1uf9xz83f/Charging-station-concept.mp4?rlkey=x7tm1f6nsd6jo7pfb4qe0k1w7&st=jyc3iml6&dl=0)
+Концепт від хлопців з європи. Вже протестован [Charging station concept](https://www.dropbox.com/scl/fi/cspe7l0vlwsd1uf9xz83f/Charging-station-concept.mp4?rlkey=x7tm1f6nsd6jo7pfb4qe0k1w7&st=jyc3iml6&dl=0)
 
 Тобто навіть якщо просто забезпечити наші пости такими зарядними станціями — це вже треба зробити щонайменше 10 ящиків. І робити їх треба вже зараз, щоб вони були готові.
 
-# Причина
+## Причина
 
 Нам волонтери з Німеччини збирають на «Екофлоу», яка коштує 649 євро. Але на деяких постах такі зарядні станції живуть максимум місяць. Потім пост розбирають росіяни, хлопці змушені тікати, а важке майно залишають, щоб вижити.
 
-# Як це працює зараз
+## Як це працює зараз
 
 Зараз німці купують нам нові EcoFlow.
 
@@ -48,7 +48,7 @@ HOTA GaN це сама дорога частина в цьому кейсі. П�
 
 ---
 
-# Як могло б бути
+## Як могло б бути
 
 Замість готових EcoFlow:
 

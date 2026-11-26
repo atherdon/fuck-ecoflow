@@ -7,7 +7,7 @@ title: "Box \"Physics\" (English)"
 
 This idea is already about a year old. There is a lot of information, many materials, but very little progress.
 
-### Concept:
+## Concept:
 
 - a case from a Mavic 3T drone;
 - 3–4 FPV batteries inside;
@@ -21,17 +21,17 @@ This idea is already about a year old. There is a lot of information, many mater
 
 HOTA GaN is the most expensive part in this case. It works well — it solves many problems with a single device.
 
-Link: [https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey](https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey) 
+Link: [HOTA P24 PD charger](https://pyrodrone.com/products/hota-p24-pd-charger-248w-usb-w-xt60-input-grey) 
 
 ---
 
 A concept from the guys in Europe. Already tested [https://www.dropbox.com/scl/fi/cspe7l0vlwsd1uf9xz83f/Charging-station-concept.mp4?rlkey=x7tm1f6nsd6jo7pfb4qe0k1w7&s[...] So even if we simply provide our posts with such charging stations — it's already necessary to do at least[...]
 
-# Reason
+## Reason
 
 Volunteers from Germany are collecting an "EcoFlow" for us, which costs €649. But at some posts such charging stations[...]
 
-# How it works now
+## How it works now
 
 Right now the Germans buy new EcoFlow units for us.
 
@@ -45,7 +45,7 @@ Then:
 
 ---
 
-# How it could be
+## How it could be
 
 Instead of ready-made EcoFlow units:
 
