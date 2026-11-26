@@ -20,9 +20,7 @@ export default function NotFoundContent({ className }) {
               <Link to="/docs/intro">Start here</Link>
             </li>
             <li>
-              <Link to="/docs/how-to-read-this-site">
-                How to read this site
-              </Link>
+              <Link to="/docs/glossary">Glossary</Link>
             </li>
             <li>
               <Link to="/docs/charging-station">Charging station</Link>
