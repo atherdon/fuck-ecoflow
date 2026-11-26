@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- fix(deps): update dependency @mdx-js/react to ^3.1.1 [`#99`](https://github.com/atherdon/fuck-ecoflow/pull/99)
 - fix(deps): update react monorepo to ^19.3.1 [`#100`](https://github.com/atherdon/fuck-ecoflow/pull/100)
 - Add titles and labeled links on Filin and charger notes [`#146`](https://github.com/atherdon/fuck-ecoflow/pull/146)
 - Single H1 on the Physics box pages and metal-parts gallery [`#145`](https://github.com/atherdon/fuck-ecoflow/pull/145)
@@ -732,6 +733,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`e9a76bc`](https://github.com/atherdon/fuck-ecoflow/commit/e9a76bc097c11beb233b8e90a4eda7c75d0277f1)
 - chore(changelog): regenerate after merged pull request [`8ebc3fd`](https://github.com/atherdon/fuck-ecoflow/commit/8ebc3fd52802be1d05c59f94814cea3b5b4555c6)
 - chore(changelog): regenerate after merged pull request [`c4b3985`](https://github.com/atherdon/fuck-ecoflow/commit/c4b3985fe6fed8de308335c516ebe4687ec96ab6)
 - chore(changelog): regenerate after merged pull request [`f83bae5`](https://github.com/atherdon/fuck-ecoflow/commit/f83bae5d44fcd3f887b9d7be3e3d581878daf63d)
