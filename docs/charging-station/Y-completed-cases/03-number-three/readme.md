@@ -1,30 +1,45 @@
+---
+title: Case 03 — Number Three
+sidebar_label: Case 03 — Number Three
+description: Photos and capacity notes for completed charging case 03 (Number Three).
+---
 
 <!-- generated-image-gallery -->
 
-# Completed Cases - Number Three (03)
+# Case 03 — Number Three
+
+Completed case 03, also called Number Three. The original notes list 45000 mAh and 576 Wh.
 
 - 45000 mAh
 - 576 Wh
 
+## Other cases
+
+- [Case 00](../00/readme.md)
+- [Case 01](../01/readme.md)
+- [Case 01 / 2 / 3](../01-2-3/readme.md)
+- [Case 02 — Number Two](../02-number-two/readme.md)
+- [Case 03 — Number Three](../03-number-three/readme.md)
+
 
 ## Images
 
-![03-number-three-img1](/img/y-completed-cases/03-number-three/03-number-three-img1.jpg)
+![Case 03 — Number Three, photo 1](/img/y-completed-cases/03-number-three/03-number-three-img1.jpg)
 
-![03-number-three-img2](/img/y-completed-cases/03-number-three/03-number-three-img2.jpg)
+![Case 03 — Number Three, photo 2](/img/y-completed-cases/03-number-three/03-number-three-img2.jpg)
 
-![03-number-three-img3](/img/y-completed-cases/03-number-three/03-number-three-img3.jpg)
+![Case 03 — Number Three, photo 3](/img/y-completed-cases/03-number-three/03-number-three-img3.jpg)
 
-![03-number-three-img4](/img/y-completed-cases/03-number-three/03-number-three-img4.jpg)
+![Case 03 — Number Three, photo 4](/img/y-completed-cases/03-number-three/03-number-three-img4.jpg)
 
-![03-number-three-img5](/img/y-completed-cases/03-number-three/03-number-three-img5.jpg)
+![Case 03 — Number Three, photo 5](/img/y-completed-cases/03-number-three/03-number-three-img5.jpg)
 
-![03-number-three-img6](/img/y-completed-cases/03-number-three/03-number-three-img6.jpg)
+![Case 03 — Number Three, photo 6](/img/y-completed-cases/03-number-three/03-number-three-img6.jpg)
 
-![03-number-three-img7](/img/y-completed-cases/03-number-three/03-number-three-img7.jpg)
+![Case 03 — Number Three, photo 7](/img/y-completed-cases/03-number-three/03-number-three-img7.jpg)
 
-![03-number-three-img8](/img/y-completed-cases/03-number-three/03-number-three-img8.jpg)
+![Case 03 — Number Three, photo 8](/img/y-completed-cases/03-number-three/03-number-three-img8.jpg)
 
-![03-number-three-img9](/img/y-completed-cases/03-number-three/03-number-three-img9.jpg)
+![Case 03 — Number Three, photo 9](/img/y-completed-cases/03-number-three/03-number-three-img9.jpg)
 
-![03-number-three-img10](/img/y-completed-cases/03-number-three/03-number-three-img10.jpg)
+![Case 03 — Number Three, photo 10](/img/y-completed-cases/03-number-three/03-number-three-img10.jpg)

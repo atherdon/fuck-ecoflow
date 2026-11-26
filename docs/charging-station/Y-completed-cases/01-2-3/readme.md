@@ -1,14 +1,30 @@
-# Y Completed Cases / 01 2 3
+---
+title: Case 01 / 2 / 3
+sidebar_label: Case 01 / 2 / 3
+description: Photos from completed cases 01, 02 and 03, including the case 0 proof of concept.
+---
+
+# Case 01 / 2 / 3
+
+Photos from the 01 / 2 / 3 case set. The write-up for [Case #0 — Proof of concept — Mr.S 27.05.25](./case-0-proof-of-concept-mr-s-27-05-25.md) lives in this folder.
+
+## Other cases
+
+- [Case 00](../00/readme.md)
+- [Case 01](../01/readme.md)
+- [Case 01 / 2 / 3](../01-2-3/readme.md)
+- [Case 02 — Number Two](../02-number-two/readme.md)
+- [Case 03 — Number Three](../03-number-three/readme.md)
 
 ## Images
 
-![01-2-3-img1](/img/y-completed-cases/01-2-3/01-2-3-img1.jpg)
+![Case 01 / 2 / 3, photo 1](/img/y-completed-cases/01-2-3/01-2-3-img1.jpg)
 
-![01-2-3-img2](/img/y-completed-cases/01-2-3/01-2-3-img2.jpg)
+![Case 01 / 2 / 3, photo 2](/img/y-completed-cases/01-2-3/01-2-3-img2.jpg)
 
-![01-2-3-img3](/img/y-completed-cases/01-2-3/01-2-3-img3.jpg)
+![Case 01 / 2 / 3, photo 3](/img/y-completed-cases/01-2-3/01-2-3-img3.jpg)
 
-![01-2-3-img7](/img/y-completed-cases/01-2-3/01-2-3-img7.jpg)
+![Case 01 / 2 / 3, photo 4](/img/y-completed-cases/01-2-3/01-2-3-img7.jpg)
 
 ## Files not displayed
 

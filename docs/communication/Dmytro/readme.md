@@ -1,3 +1,8 @@
+---
+title: Dmytro
+sidebar_label: Dmytro
+---
+
 
 
 [Problem statement](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/00-Problem/problem-statement/UA%20version.md)
