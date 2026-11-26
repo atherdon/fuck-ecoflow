@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- i18n 1/4: add Ukrainian locale and language switcher [`#153`](https://github.com/atherdon/fuck-ecoflow/pull/153)
 - docs(outsourcing): full English translation of the Ukrainian specification [`#155`](https://github.com/atherdon/fuck-ecoflow/pull/155)
 - ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks [`#151`](https://github.com/atherdon/fuck-ecoflow/pull/151)
 - Merge Inspiration & side projects into one page [`#149`](https://github.com/atherdon/fuck-ecoflow/pull/149)
@@ -508,6 +509,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 1111 [`56da5ca`](https://github.com/atherdon/fuck-ecoflow/commit/56da5ca7b20c7c663c1d3bb34ab1905a433ba199)
 - Create english.md [`134e6ac`](https://github.com/atherdon/fuck-ecoflow/commit/134e6ac84ec646719fa8c48edb39685fb7483edf)
 - Add files via upload [`7611b48`](https://github.com/atherdon/fuck-ecoflow/commit/7611b48e7b9d03a6299d329bc05b4fd2ee7630f1)
+- feat(i18n): add Ukrainian locale and language switcher [`86528c8`](https://github.com/atherdon/fuck-ecoflow/commit/86528c8c60f4d346c1616b015634d77a4a49b487)
 - 111 [`9e566b8`](https://github.com/atherdon/fuck-ecoflow/commit/9e566b886ab48f6ec46876c2da9f43628e7ed576)
 - 333 [`3071b30`](https://github.com/atherdon/fuck-ecoflow/commit/3071b30e1efbb9e6bfd2407d450655340e0e36d0)
 - Update readme.md [`edd0d85`](https://github.com/atherdon/fuck-ecoflow/commit/edd0d85420d9e1c3c2a6b3f8e674ac347469c89b)
@@ -749,6 +751,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`050be73`](https://github.com/atherdon/fuck-ecoflow/commit/050be73b84c4520204ea25c6b388f44513fc2314)
 - chore(changelog): regenerate after merged pull request [`dc8de95`](https://github.com/atherdon/fuck-ecoflow/commit/dc8de95680752ada8319ad06dbfc4b01fdc9785a)
 - chore(changelog): regenerate after merged pull request [`3ad199e`](https://github.com/atherdon/fuck-ecoflow/commit/3ad199ec4b39b1360edff96709080c83cff08a8f)
 - chore(changelog): regenerate after merged pull request [`6e0363f`](https://github.com/atherdon/fuck-ecoflow/commit/6e0363f7a7cc37de31b82b9ab4d1881fb401db2b)
