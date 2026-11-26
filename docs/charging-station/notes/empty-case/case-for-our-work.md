@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/empty-case/кейс-для-наш-работи
+---
+
 # Кейс для наш работи
 
 Created: July 6, 2025 6:43 PM

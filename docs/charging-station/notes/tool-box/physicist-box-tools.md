@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/tool-box/Ящік-фізика-інструменти
+---
+
 # Ящік фізика - інструменти
 
 Created: April 28, 2026 7:30 PM

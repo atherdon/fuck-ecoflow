@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/pros-cons/pros-and-cons
+---
+
 # Pros and Cons
 
 Created: May 20, 2026 10:28 PM
