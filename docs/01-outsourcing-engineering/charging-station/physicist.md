@@ -1,3 +1,8 @@
+---
+sidebar_label: "Box \"Physics\" (English)"
+title: "Box \"Physics\" (English)"
+---
+
 # Box "Physics"
 
 This idea is already about a year old. There is a lot of information, many materials, but very little progress.

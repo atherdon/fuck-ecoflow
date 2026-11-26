@@ -1,3 +1,7 @@
+---
+sidebar_label: Frog v1 (English)
+---
+
 # Frog v1.
 
 ### 1. "Frog"

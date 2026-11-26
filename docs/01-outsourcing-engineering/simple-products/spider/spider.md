@@ -1,6 +1,8 @@
 ---
 slug: /01-outsourcing-engineering/simple-products/spider/5-павук
+sidebar_label: Павук (українською)
 ---
+
 
 # 5. «Павук»
 

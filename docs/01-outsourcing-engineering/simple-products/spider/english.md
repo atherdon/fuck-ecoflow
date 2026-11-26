@@ -1,3 +1,7 @@
+---
+sidebar_label: Spider (English)
+---
+
 # 5. «Spider»
 
 The Spider is an indispensable thing at the position when working with a radio station. The problem is — buying them constantly is n[...]

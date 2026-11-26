@@ -1,3 +1,7 @@
+---
+sidebar_label: Frog 2.0 (English)
+---
+
 # 2. Frog 2.0. TBD
 
 A very interesting device that is currently very hard to find. It's the same frog, but besides Type-C there is a current step-down �[...]
