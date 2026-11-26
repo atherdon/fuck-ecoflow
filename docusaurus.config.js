@@ -237,12 +237,22 @@ const config = {
     },
   },
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is in Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // English is the default locale and keeps the current URLs.
+  // Ukrainian is served under /uk/ (for example /fuck-ecoflow/uk/docs/intro).
+  // Translations live in i18n/uk/ — see https://docusaurus.io/docs/i18n/tutorial
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'uk'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+      uk: {
+        label: 'Українська',
+        htmlLang: 'uk-UA',
+      },
+    },
   },
 
   presets: [
@@ -316,6 +326,10 @@ const config = {
             to: '/docs/00-problem/problem-statement/english-version',
             label: 'Problem',
             position: 'left',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/LLazyEmail/fuck-ecoflow',
