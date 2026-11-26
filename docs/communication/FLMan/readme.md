@@ -1,3 +1,8 @@
+---
+title: FLMan
+sidebar_label: FLMan
+---
+
 Here’s a cleaner and easier-to-read version:
 I got sick, so I only just got back to my laptop.
 Right now everyone is running around like crazy. On the 1st, we’re starting the second position for the large drones.

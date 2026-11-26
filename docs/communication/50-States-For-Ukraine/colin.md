@@ -1,3 +1,8 @@
+---
+title: Colin
+sidebar_label: Colin
+---
+
 
 
 A few years ago, after my first startup failed, I started writing software engineering articles on HackerNoon. 
