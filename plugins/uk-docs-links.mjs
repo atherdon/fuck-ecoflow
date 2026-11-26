@@ -1,8 +1,8 @@
 /**
  * Keep relative Markdown links working in the Ukrainian (uk) build.
  *
- * Pages listed in scripts/i18n-uk-docs.json have a copy in
- * i18n/uk/docusaurus-plugin-content-docs/current/. In the uk build Docusaurus
+ * Some pages have a uk file in i18n/uk/docusaurus-plugin-content-docs/current/
+ * (a copy of a Ukrainian page, or a translation of an English one). In the uk build Docusaurus
  * only knows that copy, so a relative link such as `./волонтери.md` written in
  * an untranslated page under docs/ no longer resolves and the build fails
  * with "broken links".
@@ -11,7 +11,7 @@
  * - `ukDocsLocalePlugin`: a tiny Docusaurus plugin that records which locale
  *   is being built (Docusaurus builds the locales one after another).
  * - `remarkUkDocsLinks`: a remark plugin that, only in the uk build and only
- *   for files under docs/, points links to a listed page at its uk copy
+ *   for files under docs/, points links to a page that has a uk file at that file
  *   (as an `@site/...` path, which Docusaurus resolves to the right URL).
  *
  * The English build and the Markdown files themselves are not changed.
@@ -29,12 +29,6 @@ export function ukDocsLocalePlugin(context) {
   return { name: 'uk-docs-locale' };
 }
 
-function loadListedPages(siteDir) {
-  const listPath = path.join(siteDir, 'scripts/i18n-uk-docs.json');
-  const { pages } = JSON.parse(fs.readFileSync(listPath, 'utf8'));
-  return new Set(pages);
-}
-
 function visitLinks(node, callback) {
   if (node.type === 'link' || node.type === 'definition') callback(node);
   if (node.children) {
@@ -44,12 +38,10 @@ function visitLinks(node, callback) {
 
 export function remarkUkDocsLinks({ siteDir = SITE_DIR } = {}) {
   const docsDir = path.join(siteDir, 'docs');
-  let listed = null;
 
   return (tree, file) => {
     if (process.env[LOCALE_ENV] !== 'uk') return;
     if (!file.path || !file.path.startsWith(`${docsDir}${path.sep}`)) return;
-    listed ??= loadListedPages(siteDir);
 
     visitLinks(tree, (node) => {
       const url = node.url;
@@ -67,7 +59,8 @@ export function remarkUkDocsLinks({ siteDir = SITE_DIR } = {}) {
       }
       const target = path.resolve(path.dirname(file.path), decoded);
       const relative = path.relative(docsDir, target).split(path.sep).join('/');
-      if (relative.startsWith('..') || !listed.has(relative)) return;
+      if (relative.startsWith('..')) return;
+      if (!fs.existsSync(path.join(siteDir, UK_DOCS_DIR, relative))) return;
 
       node.url = `@site/${UK_DOCS_DIR}/${encodeURI(relative)}${suffix}`;
     });

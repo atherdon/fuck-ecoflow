@@ -1,8 +1,8 @@
 ---
-slug: /00-problem/problem-statement/ua-version
-title: Проблема (українською)
-sidebar_label: Проблема (українською)
-sidebar_position: 2
+slug: /00-problem/problem-statement/english-version
+title: Проблема
+sidebar_label: Проблема
+sidebar_position: 1
 ---
 
 # Проблема (українською)
@@ -56,6 +56,6 @@ sidebar_position: 2
 
 ## Інші сторінки
 
-- [Problem statement (English)](../../../../../../docs/00-Problem/problem-statement/English-version.md)
+- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
 - [Situation](../situation/Situation.md)
 - [Charging station](../../charging-station/readme.md)

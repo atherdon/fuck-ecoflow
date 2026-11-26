@@ -28,7 +28,7 @@ Do not delete local MP4 files until each file has a reviewed external URL and an
 These docs already point to Dropbox and do not require local video storage:
 
 - `docs/01-outsourcing-engineering/charging-station/physicist.md`
-- `docs/01-outsourcing-engineering/charging-station/physicist-ua.md`
+- `i18n/uk/docusaurus-plugin-content-docs/current/01-outsourcing-engineering/charging-station/physicist.md` (Ukrainian version, was `docs/01-outsourcing-engineering/charging-station/physicist-ua.md`)
 - `docs/01-outsourcing-engineering/AssemBLYA/GarryHudini/readme.md`
 
 ## Migration checklist
