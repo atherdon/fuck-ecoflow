@@ -158,7 +158,7 @@ From [chat](../wb-vs-ecoflow/chat-with-great-and-smart-people.md):
 - [Case examples (AliExpress)](https://www.aliexpress.com/item/1005007922241712.html)
 - Repo inspiration and case images:
   - [Number Three](../Y-completed-cases/03-number-three/number-three.md) (originally cited as `docs/charging-station/03-number-three/Number Three 3752d71d806980068346fc6cad4f6dde.md`)
-  - [Antey Energy Charging Station](../inspiration/antey-energy/Antey%20Energy%20Charging%20Station.md)
+  - [Antey Energy Charging Station](../inspiration/readme.md#antey-energy-charging-station)
 - [Google doc shared in chat](https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk)
 
 ## 14. Suggested README blurb {#suggested-readme-blurb}
