@@ -82,49 +82,49 @@ sidebar_position: 999
 | 68 | `charging-station/Y-completed-cases/03-number-three/readme.md` | charging-station/Y-completed-cases/03-number-three/readme |
 | 69 | `charging-station/Y-completed-cases/prototype/prototype.md` | charging-station/Y-completed-cases/prototype/prototype |
 | 70 | `charging-station/Y-completed-cases/readme.md` | charging-station/Y-completed-cases/readme |
-| 71 | `charging-station/information/Vit Main/Vitaliy-2/Vitaliy-May-20th.md` | charging-station/information/Vit Main/Vitaliy-2/Vitaliy-May-20th |
-| 72 | `charging-station/information/Vit Main/Vitaliy-3/Віталій-25-05-2025.md` | charging-station/information/Vit Main/Vitaliy-3/Віталій-25-05-2025 |
-| 73 | `charging-station/information/Vit Main/Vitaliy/Віталій-25-05-2025.md` | charging-station/information/Vit Main/Vitaliy/Віталій-25-05-2025 |
-| 74 | `charging-station/information/charging-station/Charging-LiPo-Batteries in the Field for FPV Drone.md` | charging-station/information/charging-station/Charging-LiPo-Batteries in the Field for FPV Drone |
-| 75 | `charging-station/information/empty-case/кейс-для-наш-работи.md` | charging-station/information/empty-case/кейс-для-наш-работи |
-| 76 | `charging-station/information/falsh-line/фальш-кришка.md` | charging-station/information/falsh-line/фальш-кришка |
-| 77 | `charging-station/information/main-concept/загальна-концепція-кейса.md` | charging-station/information/main-concept/загальна-концепція-кейса |
-| 78 | `charging-station/information/misc/Tsikavo.md` | charging-station/information/misc/Tsikavo |
-| 79 | `charging-station/information/misc/trash-can/Videos-OldSomethingElsePage.md` | charging-station/information/misc/trash-can/Videos-OldSomethingElsePage |
-| 80 | `charging-station/information/pros-cons/pros-and-cons.md` | charging-station/information/pros-cons/pros-and-cons |
-| 81 | `charging-station/information/tool-box/Ящік-фізика-інструменти.md` | charging-station/information/tool-box/Ящік-фізика-інструменти |
-| 82 | `charging-station/information/Контроль-заряду-розряду/Контроль-Заряду-Разряду.md` | charging-station/information/Контроль-заряду-розряду/Контроль-Заряду-Разряду |
-| 83 | `charging-station/inspiration/FLMan/intro.md` | charging-station/inspiration/FLMan/intro |
-| 84 | `charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration.md` | charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration |
-| 85 | `charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only.md` | charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only |
-| 86 | `charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються.md` | charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються |
-| 87 | `charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial.md` | charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial |
-| 88 | `charging-station/inspiration/Vadim-battery/Vadims case 2.md` | charging-station/inspiration/Vadim-battery/Vadims case 2 |
-| 89 | `charging-station/inspiration/antey-energy/Antey Energy 2.md` | charging-station/inspiration/antey-energy/Antey Energy 2 |
-| 90 | `charging-station/inspiration/antey-energy/Antey Energy Charging Station.md` | charging-station/inspiration/antey-energy/Antey Energy Charging Station |
-| 91 | `charging-station/inspiration/antey-energy/Antey Energy Specification.md` | charging-station/inspiration/antey-energy/Antey Energy Specification |
-| 92 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
-| 93 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
-| 94 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
-| 95 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
-| 96 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
-| 97 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
-| 98 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
-| 99 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ |
-| 100 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
-| 101 | `charging-station/notes/competitors/Competitors .md` | charging-station/notes/competitors/Competitors  |
-| 102 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
-| 103 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
-| 104 | `charging-station/notes/filin/Filin .md` | charging-station/notes/filin/Filin  |
-| 105 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
-| 106 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
-| 107 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
-| 108 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
-| 109 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
-| 110 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
-| 111 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
-| 112 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
-| 113 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
+| 71 | `charging-station/inspiration/FLMan/intro.md` | charging-station/inspiration/FLMan/intro |
+| 72 | `charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration.md` | charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration |
+| 73 | `charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only.md` | charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only |
+| 74 | `charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються.md` | charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються |
+| 75 | `charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial.md` | charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial |
+| 76 | `charging-station/inspiration/Vadim-battery/Vadims case 2.md` | charging-station/inspiration/Vadim-battery/Vadims case 2 |
+| 77 | `charging-station/inspiration/antey-energy/Antey Energy 2.md` | charging-station/inspiration/antey-energy/Antey Energy 2 |
+| 78 | `charging-station/inspiration/antey-energy/Antey Energy Charging Station.md` | charging-station/inspiration/antey-energy/Antey Energy Charging Station |
+| 79 | `charging-station/inspiration/antey-energy/Antey Energy Specification.md` | charging-station/inspiration/antey-energy/Antey Energy Specification |
+| 80 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
+| 81 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
+| 82 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
+| 83 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
+| 84 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
+| 85 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
+| 86 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
+| 87 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
+| 88 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ |
+| 89 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
+| 90 | `charging-station/notes/competitors/Competitors .md` | charging-station/notes/competitors/Competitors  |
+| 91 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
+| 92 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
+| 93 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
+| 94 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
+| 95 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
+| 96 | `charging-station/notes/filin/Filin .md` | charging-station/notes/filin/Filin  |
+| 97 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
+| 98 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
+| 99 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
+| 100 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
+| 101 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
+| 102 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
+| 103 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
+| 104 | `charging-station/notes/pros-cons/pros-and-cons.md` | charging-station/notes/pros-cons/pros-and-cons |
+| 105 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
+| 106 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
+| 107 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
+| 108 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
+| 109 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
+| 110 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
+| 111 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
+| 112 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
+| 113 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
 | 114 | `charging-station/overview.md` | Overview |
 | 115 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
 | 116 | `charging-station/readme.md` | charging-station/readme |
