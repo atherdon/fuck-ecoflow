@@ -13,23 +13,23 @@ Git
 
 Firestarter
 
-[https://www.linkedin.com/in/arthurtkachenko/](https://www.linkedin.com/in/arthurtkachenko/) 
+[arthurtkachenko](https://www.linkedin.com/in/arthurtkachenko/) 
 
 Vitalii Goi
 
 Advisor
 
-[https://www.linkedin.com/in/vitalii-goi-451004178/](https://www.linkedin.com/in/vitalii-goi-451004178/) 
+[vitalii-goi](https://www.linkedin.com/in/vitalii-goi-451004178/) 
 
 reGREEN
 
-[https://www.linkedin.com/company/regreen-incorporated_2/](https://www.linkedin.com/company/regreen-incorporated_2/) 
+[reGREEN](https://www.linkedin.com/company/regreen-incorporated_2/) 
 
 ![reGREEN logo](./images/team-partners-01.png)
 
 Eyes On Ukraine
 
-[https://www.linkedin.com/company/eyesonukraine/posts/?feedView=all](https://www.linkedin.com/company/eyesonukraine/posts/?feedView=all) 
+[Eyes On Ukraine](https://www.linkedin.com/company/eyesonukraine/posts/?feedView=all) 
 
 ![Eyes On Ukraine logo](./images/team-partners-02.png)
 
@@ -45,13 +45,13 @@ Wild Bees BeNeLux
 
 Very important person that always supports AFU
 
-[https://www.linkedin.com/in/christine-khariv-qris/](https://www.linkedin.com/in/christine-khariv-qris/) 
+[christine-khariv-qris](https://www.linkedin.com/in/christine-khariv-qris/) 
 
 Yuriy Sakhno
 
 Bright Mind behind everything
 
-[https://www.linkedin.com/in/yurii-sakhno/](https://www.linkedin.com/in/yurii-sakhno/)
+[yurii-sakhno](https://www.linkedin.com/in/yurii-sakhno/)
 
 Vadim
 
@@ -60,7 +60,7 @@ Lighthouse
 Physicist
 
 
-# Команда
+## Команда
 
 У мене є троє поранених побратимів, яким я хочу знайти роботу в цьому проєкті.
 
