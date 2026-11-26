@@ -1,7 +1,9 @@
 ---
 title: Case 02 — Number Two
 sidebar_label: Case 02 — Number Two
+slug: /charging-station/Y-completed-cases/number-two
 description: Photos from completed charging case 02 (Number Two).
+tags: [completed-case, case-02]
 ---
 
 # Case 02 — Number Two

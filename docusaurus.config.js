@@ -85,6 +85,10 @@ const manualRedirects = [
     to: '/docs/charging-station/Y-completed-cases/case-0/proof-of-concept',
     from: ['/docs/charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25'],
   },
+  {
+    to: '/docs/charging-station/Y-completed-cases/number-two',
+    from: ['/docs/charging-station/Y-completed-cases/number-two/number-two'],
+  },
 ];
 
 function collectMarkdownFiles(directory) {
