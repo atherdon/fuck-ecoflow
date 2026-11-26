@@ -1,3 +1,8 @@
+---
+title: Number Three
+tags: [completed-case, case-03]
+---
+
 # Number Three
 
 ![1000236456.jpg](/img/y-completed-cases/03-number-three/03-number-three-img5.jpg)
