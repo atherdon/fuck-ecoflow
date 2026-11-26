@@ -161,7 +161,7 @@ sidebar_position: 999
 | 147 | `communication/zombie/questions.md` | communication/zombie/questions |
 | 148 | `communication/волонтери.md` | communication/волонтери |
 | 149 | `communication/кріс.md` | communication/кріс |
-| 150 | `intro.md` | intro |
+| 150 | `intro.md` | Start here |
 | 151 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
 | 152 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
 | 153 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
