@@ -1,3 +1,9 @@
+---
+title: Situation
+sidebar_label: Situation
+sidebar_position: 3
+---
+
 # Situation
 
 ### Ситуація

@@ -1,8 +1,11 @@
 ---
 slug: /00-problem/problem-statement/english-version
+title: Problem statement (English)
+sidebar_label: Problem statement (English)
+sidebar_position: 1
 ---
 
-# English version
+# Problem statement (English)
 
 # Life on the Pokrovsk Direction
 

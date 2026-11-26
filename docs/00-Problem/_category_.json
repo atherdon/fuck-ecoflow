@@ -1,5 +1,9 @@
 {
   "label": "Problem",
   "position": 2,
-  "collapsed": false
+  "collapsed": false,
+  "link": {
+    "type": "doc",
+    "id": "Problem/readme"
+  }
 }
