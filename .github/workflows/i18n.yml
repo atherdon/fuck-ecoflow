@@ -1,0 +1,49 @@
+name: i18n
+
+# Multi-language checks for the English + Ukrainian (uk) site.
+# - Check uk translations: uk copies are up to date (npm run i18n:sync-uk -- --check),
+#   no orphan uk files, translations list matches the files.
+# - Build Ukrainian site: builds only the uk locale, so broken links in /uk/
+#   pages fail with a uk-specific check (onBrokenLinks: 'throw').
+# The English locale is built by "Build docs".
+
+on:
+  pull_request:
+    paths:
+      - 'docs/**'
+      - 'i18n/**'
+      - 'plugins/**'
+      - 'src/**'
+      - 'scripts/sync-uk-docs.mjs'
+      - 'scripts/check-i18n.mjs'
+      - 'scripts/i18n-uk-docs.json'
+      - 'docusaurus.config.js'
+      - 'sidebars.js'
+      - 'package.json'
+      - '.github/workflows/i18n.yml'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  translations:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-check.yml@v2
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      node-version: '24'
+      job-name: Check uk translations
+      run-command: npm run check:i18n
+
+  build-uk:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-check.yml@v2
+    with:
+      working-directory: .
+      cache-dependency-path: package-lock.json
+      node-version: '24'
+      lfs: true
+      job-name: Build Ukrainian site (broken links)
+      run-command: npm run build -- --locale uk
