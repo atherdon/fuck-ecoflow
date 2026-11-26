@@ -1,10 +1,7 @@
 {
-  "_comment": "Docs pages already written in Ukrainian. npm run i18n:sync-uk copies each one from docs/ into i18n/uk/docusaurus-plugin-content-docs/current/ (same relative path), so the /uk/ locale serves them. Edit the original in docs/, then re-run the script.",
+  "_comment": "pages: docs pages already written in Ukrainian. npm run i18n:sync-uk copies each one from docs/ into i18n/uk/docusaurus-plugin-content-docs/current/ (same relative path), so the /uk/ locale serves them. Edit the original in docs/, then re-run the script. translations: English pages in docs/ whose Ukrainian version lives only in i18n/uk at the same path (edit it there); from = the old separate Ukrainian page, now redirected to the English page.",
   "pages": [
-    "00-Problem/problem-statement/UA-version.md",
     "00-Problem/situation/Situation.md",
-    "01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro.md",
-    "01-outsourcing-engineering/charging-station/physicist-ua.md",
     "01-outsourcing-engineering/lesnik/readme.md",
     "01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md",
     "01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md",
@@ -37,5 +34,19 @@
     "communication/shotgun-with-nets.md",
     "communication/волонтери.md",
     "orders/tools-for-welding/tools.md"
+  ],
+  "translations": [
+    {
+      "page": "00-Problem/problem-statement/English-version.md",
+      "from": "00-Problem/problem-statement/UA-version.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md",
+      "from": "01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/charging-station/physicist.md",
+      "from": "01-outsourcing-engineering/charging-station/physicist-ua.md"
+    }
   ]
 }

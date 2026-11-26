@@ -9,6 +9,7 @@ import {
   remarkUkDocsLinks,
   ukDocsLocalePlugin,
 } from './plugins/uk-docs-links.mjs';
+import { i18nStatusPlugin } from './plugins/i18n-status.mjs';
 
 const manualRedirects = [
   {
@@ -174,6 +175,20 @@ const manualRedirects = [
       '/docs/01-outsourcing-engineering/full-specification/english-version-full-but-crap',
     ],
   },
+  // Separate Ukrainian pages merged into their English page as its uk
+  // translation (switch language to read them). See scripts/i18n-uk-docs.json.
+  {
+    to: '/docs/00-problem/problem-statement/english-version',
+    from: ['/docs/00-problem/problem-statement/ua-version'],
+  },
+  {
+    to: '/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en',
+    from: ['/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro'],
+  },
+  {
+    to: '/docs/outsourcing-engineering/charging-station/physicist',
+    from: ['/docs/outsourcing-engineering/charging-station/physicist-ua'],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
@@ -282,6 +297,7 @@ const config = {
 
   plugins: [
     ukDocsLocalePlugin,
+    i18nStatusPlugin,
     [
       '@docusaurus/plugin-client-redirects',
       {
