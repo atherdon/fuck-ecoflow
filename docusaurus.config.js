@@ -110,6 +110,20 @@ const manualRedirects = [
     to: '/docs/charging-station/overview/ai-is-stupid',
     from: ['/docs/charging-station/wb-vs-ecoflow/ai-is-stupid'],
   },
+  {
+    to: '/docs/outsourcing-engineering/drone-net-gun#nets--photo-reference',
+    from: [
+      '/docs/01-outsourcing-engineering/drone-net-gun/nets-information',
+      '/docs/outsourcing-engineering/drone-net-gun/nets-information',
+    ],
+  },
+  {
+    to: '/docs/outsourcing-engineering/drone-net-gun#archive-nets',
+    from: [
+      '/docs/outsourcing-engineering/drone-net-gun/nets',
+      '/docs/outsourcing-engineering/drone-net-gun/archive/nets',
+    ],
+  },
 ];
 
 function collectMarkdownFiles(directory) {

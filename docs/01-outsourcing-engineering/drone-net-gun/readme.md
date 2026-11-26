@@ -7,6 +7,17 @@ title: Drone — Net Launcher
 
 Status: Draft — cost-focused notes and reference photos for early-stage evaluation.
 
+## Contents
+
+- [Summary](#summary)
+- [Assumptions](#assumptions)
+- [Cost breakdown](#cost-breakdown)
+- [Notes & Risks](#notes--risks)
+- [Conclusion](#conclusion)
+- [Nets — Photo reference](#nets--photo-reference)
+- [References & Links](#references--links)
+- [Archive: nets](#archive-nets)
+
 ## Summary
 This document combines a simple cost estimate for using disposable nets with a drone-mounted launcher and a photo reference of candidate nets. These are rough figures and images for budgeting, evaluation, and record-keeping only.
 
@@ -101,3 +112,15 @@ Below are photos collected as reference for candidate nets and related hardware.
 Notes
 - Image filenames were preserved and remain in this directory. If you want images moved into a dedicated subfolder (e.g., images/ or assets/nets/), I can reorganize them and update paths.
 - I preserved the original cost notes and added captions to make the combined document more usable.
+
+## Archive: nets {#archive-nets}
+
+[Ptashka Insta](https://www.instagram.com/ptashka.drones/)
+
+https://www.youtube.com/watch?v=1QNyyneW8iY
+
+
+
+[BlueBird Tech](https://www.blue-bird.tech/)
+
+https://www.drone-sitkomet.com/#order
