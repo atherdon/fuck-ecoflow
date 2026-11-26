@@ -17,7 +17,7 @@ on:
 
 jobs:
   media:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-script-check.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-npm-check.yml@v2
     with:
       working-directory: .
       cache-dependency-path: package-lock.json

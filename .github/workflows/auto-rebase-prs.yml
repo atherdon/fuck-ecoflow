@@ -8,5 +8,5 @@ permissions:
   pull-requests: write
 jobs:
   rebase:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase.yml@v2
     secrets: inherit
