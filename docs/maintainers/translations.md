@@ -53,6 +53,8 @@ The pages that get copied are listed in `scripts/i18n-uk-docs.json`. Add a path 
 
 Don't edit the copies by hand. The next sync overwrites them.
 
+In the uk build, Docusaurus only sees the copy of a listed page. Relative links to it from other pages in `docs/` are pointed at the copy by `plugins/uk-docs-links.mjs`, so no link has to change.
+
 ## Add a Ukrainian translation of an English page
 
 1. Copy the page to the same path under `i18n/uk/docusaurus-plugin-content-docs/current/`. For `docs/team/readme.md`, that is `i18n/uk/docusaurus-plugin-content-docs/current/team/readme.md`.
