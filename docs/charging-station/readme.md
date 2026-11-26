@@ -5,7 +5,7 @@ slug: /charging-station
 
 # Ящик фірми Фізік і друзі.
 
-> Section overview and useful starting points: [Overview](./overview.md).
+> Section overview and useful starting points: [Overview](/docs/charging-station/overview).
 
 # Building a network
 

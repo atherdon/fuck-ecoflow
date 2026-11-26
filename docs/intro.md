@@ -23,7 +23,7 @@ This is the main build. A useful order to read it:
 
 1. [Ящик фірми Фізік і друзі](./charging-station/readme.md) — the main page
 2. [Versions](./charging-station/versions/Versions.md) — how the box is meant to evolve
-3. [Overview](./charging-station/overview.md) — starting points in the section
+3. [Overview](/docs/charging-station/overview) — starting points in the section
 4. [Completed cases](./charging-station/Y-completed-cases/readme.md)
 5. [Tasks](./charging-station/Tasks/readme.md)
 6. [Information & notes](./charging-station/notes/readme.md)

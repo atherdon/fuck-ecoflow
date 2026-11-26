@@ -99,6 +99,10 @@ const manualRedirects = [
     to: '/docs/charging-station/versions',
     from: ['/docs/versions/versions'],
   },
+  {
+    to: '/docs/charging-station/overview/ai-is-stupid',
+    from: ['/docs/charging-station/wb-vs-ecoflow/ai-is-stupid'],
+  },
 ];
 
 function collectMarkdownFiles(directory) {
