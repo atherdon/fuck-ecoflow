@@ -1,1 +1,0 @@
-[Ptashka I
