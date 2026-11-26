@@ -1,65 +1,77 @@
 # Chat with great and smart people
 
+## Summary
+
+A chat about building a cheap charging circuit for FPV batteries inside the charging-station cases, with Robherc (circuit design) and plasticisfantastic.
+
+- **Idea:** one DC-to-DC circuit that converts the voltage only once, instead of several conversions, to be cheaper and more efficient than a ~$100 RC charging toolkit, and to stay inside the waterproof case.
+- **Process:** model the inductor coil from the power numbers, pick the other components around it, design and verify the PCB in 1–3 days, then send the files to a manufacturer.
+- **Cost:** no components priced yet; the hope is below $20 per unit in batches of 100.
+- **Power source:** a 220V gasoline inverter generator (earlier idea: a cheap Dell laptop charger).
+- **Board size:** one board that can charge anything from 1 to 10 batteries is cheaper to produce than several board types. plasticisfantastic suggests 3 versions: Light, Medium, Heavy.
+- **CE:** no full CE verification; Robherc intends the design to probably meet the standards without paying for independent lab testing.
+- **Cooling and cases:** metal ammo boxes can work as a radiator; plastic cases need fans. Ammo boxes are hard to get.
+- **Batteries:** the FPV batteries are damaged ones taken from FPV units. LiFePO4 is easier to repair, swap and build, and burns less.
+- **Lifetime:** a case may not work more than 1–2 months; battery cycles matter only for positions outside the killzone.
+- **Open inputs for the design:** series count, peak current per battery, max number of batteries, and the max available input power.
+
+:::note How to read this page
+
+Names are shown only where the copied chat had them. Messages without a name were unnamed in the original copy and are left unattributed rather than guessed. Times are as copied ("59m", "54m" and "53m" were relative times). Reactions are shown as _reaction_. The headings are added for navigation; the message text is unchanged.
+
+:::
+
+## The idea: one DC-to-DC charging circuit
+
 Can you elaborate more of your idea/process for building this charger for FPV batteries?
 I wanna record everything in github, to make it more managable and visible to donors?
 
 im also preparing some information about the text task that i want to give you to brainstorm
 
-In common terms, I would be making a DC to DC converter to achieve maximum efficiency in moving power from the internal battery packs to the fpv packs while monitoring for the correct charging parameters to maximize battery life. 
+In common terms, I would be making a DC to DC converter to achieve maximum efficiency in moving power from the internal battery packs to the fpv packs while monitoring for the correct charging parameters to maximize battery life.
 
-But the basic intent is to make one circuit do all of the work with only one time converting the voltage, rather than having to go through the energy losses of multiple conversions. This should make it cheaper to make and make it run more efficiently so the charge pack can last for charging more fpv batteries. 
+But the basic intent is to make one circuit do all of the work with only one time converting the voltage, rather than having to go through the energy losses of multiple conversions. This should make it cheaper to make and make it run more efficiently so the charge pack can last for charging more fpv batteries.
 
-so there is a fancy rc toolkit for charging batteries. costs about $100. you want to simplify it, make it stand alone an something?[https://www.aliexpress.com/item/1005006294893307.html](https://www.aliexpress.com/item/1005006294893307.html)
+so there is a fancy rc toolkit for charging batteries. costs about $100. you want to simplify it, make it stand alone an something? [https://www.aliexpress.com/item/1005006294893307.html](https://www.aliexpress.com/item/1005006294893307.html)
 
-Can you make it sound good that I'm making it hopefully cost 1/5 as much per unit, and be more reliable and rugged because it can stay inside your waterproof case instead of having the screen and everything exposed to take damage from dirt mud and rain? 
+Can you make it sound good that I'm making it hopefully cost 1/5 as much per unit, and be more reliable and rugged because it can stay inside your waterproof case instead of having the screen and everything exposed to take damage from dirt mud and rain?
 
-yeah - we dont need all fanciness. it just should work 
+yeah - we dont need all fanciness. it just should work
 
-you wanna build a curcuit board from scratch?
-10:54 PM
+you wanna build a curcuit board from scratch? _(10:54 PM)_
 
-💯
+_reaction: 💯_
 
-⁨Robherc⁩
-I prefer to make things so, it. Just. Works.
-10:54 PM
+**Robherc:** I prefer to make things so, it. Just. Works. _(10:54 PM)_
 
-elaborate the process, when you got all the details from Max Lighthouse. is this some sort of modeling in software and then you upload your schema into some device...
-10:55 PM
+## Design process and the PCB
 
-⁨Robherc⁩
-My process is once I know exactly what power numbers I have to work with, I do modeling on the inductor coil that will do it be doing most of the work, and select the most available and lowest cost coil that will be able to do everything we need; then I choose the other components to support it based on that coil. After that it usually takes me 1 to 3 days working in my electronics design software to make and verify all of the circuits for the PCB that I then send off the PCB files to a manufacturer to make in large quantities for us to solder the components on once they are finished
-10:57 PM
+elaborate the process, when you got all the details from Max Lighthouse. is this some sort of modeling in software and then you upload your schema into some device... _(10:55 PM)_
 
-PCB is?
-10:58 PM
+**Robherc:** My process is once I know exactly what power numbers I have to work with, I do modeling on the inductor coil that will do it be doing most of the work, and select the most available and lowest cost coil that will be able to do everything we need; then I choose the other components to support it based on that coil. After that it usually takes me 1 to 3 days working in my electronics design software to make and verify all of the circuits for the PCB that I then send off the PCB files to a manufacturer to make in large quantities for us to solder the components on once they are finished _(10:57 PM)_
 
-⁨Robherc⁩
-Printed circuit board, it's the green board with copper on it inside most everything you own that is electronic
-10:58 PM
+PCB is? _(10:58 PM)_
 
-so you can build an Iphone for me, right?
-10:59 PM
+**Robherc:** Printed circuit board, it's the green board with copper on it inside most everything you own that is electronic _(10:58 PM)_
 
-⁨Robherc⁩
-Sorry, that has too many components that are way too small for me to work on without more complex machinery LOL
-10:59 PM
+so you can build an Iphone for me, right? _(10:59 PM)_
 
-❤️
+**Robherc:** Sorry, that has too many components that are way too small for me to work on without more complex machinery LOL _(10:59 PM)_
+
+_reaction: ❤️_
+
+## Cost per board
 
 But it costs the money, how much do you think will cost one board, imagining that we have costs for 100+ items.
-just a ballpark price will be fine. i want to have some sort of an estimate
-11:00 PM
+just a ballpark price will be fine. i want to have some sort of an estimate _(11:00 PM)_
 
-⁨Robherc⁩
-I haven't priced out any components yet, because I don't have all the numbers. But I am hoping for below $20 per unit if we are making in groups of 100
-11:00 PM
+**Robherc:** I haven't priced out any components yet, because I don't have all the numbers. But I am hoping for below $20 per unit if we are making in groups of 100 _(11:00 PM)_
 
-I assume each battery should have a separated PCB, so for example, for a case with 8 batteries we will use 8 PCBs
-11:01 PM
+I assume each battery should have a separated PCB, so for example, for a case with 8 batteries we will use 8 PCBs _(11:01 PM)_
 
-⁨Robherc⁩
-Are we charging the batteries inside the case, or is this for charging batteries for the pilots to use outside of the case?
+## Two types of cases and where the power comes from
+
+**Robherc:** Are we charging the batteries inside the case, or is this for charging batteries for the pilots to use outside of the case?
 
 great question.
 there will be 2 type of cases in the future.
@@ -67,35 +79,29 @@ there will be 2 type of cases in the future.
 - One for supporting reconaissance teams (charging batteries inside the case)
 - Second for supporting fpv teams (case is basically a charger for FPV batteries)
 
-but it's a long road so my focus right now is the first option
-11:03 PM
+but it's a long road so my focus right now is the first option _(11:03 PM)_
 
-⁨Robherc⁩
-Okay, so where is the power coming from then
+**Robherc:** Okay, so where is the power coming from then
 
-I guess I misunderstood and thought we were working on something to charge fpv batteries from an internal battery pack
-11:04 PM
+I guess I misunderstood and thought we were working on something to charge fpv batteries from an internal battery pack _(11:04 PM)_
 
-before our idea was to have some sort of cheap dell laptop charger
-11:05 PM
+before our idea was to have some sort of cheap dell laptop charger _(11:05 PM)_
 
-⁨Robherc⁩
-So then the power is coming from 220v ac?
-11:06 PM
+**Robherc:** So then the power is coming from 220v ac? _(11:06 PM)_
 
 ![image.png](image.png)
 
-yes, power will come from 220 gasoline inverter generator
-11:06 PM
+yes, power will come from 220 gasoline inverter generator _(11:06 PM)_
 
-⁨Robherc⁩
-Okay, then that will change my design a little bit, but I should be able to make one board that just take a regular 220v plug and converts that to charge as many batteries as you tell me to put connectors on it for
+**Robherc:** Okay, then that will change my design a little bit, but I should be able to make one board that just take a regular 220v plug and converts that to charge as many batteries as you tell me to put connectors on it for
 
- have alot of these ! For freeee 
+have alot of these ! For freeee
 
 I mean, if that charger will charge all of your battery packs at once, while keeping your cells balanced and not overcharging any, then I guess go ahead and use it as and you don't need a separate charging circuit. However, if it won't handle directly charging the batteries without needing more circuits, I don't see much benefit to adding another thing that can break as well as another thing that uses up some of the power in the process.
 
-Yes, I pay more attention to driving than messages which is why I made the mistake LOL 
+Yes, I pay more attention to driving than messages which is why I made the mistake LOL
+
+## One board for many batteries, or several versions
 
 The good news there is, I should be able to make a circuit to charge eight batteries for maybe 2x to 3x as much cost as it would take to make a circuit to charge One battery. So it is definitely better to make a single circuit to charge all eight batteries instead of using eight single battery circuits for more money.
 
@@ -125,182 +131,112 @@ But if we don't know how many batteries will fit in each case, can we pick a num
 
 sure we can, we have a lot of limitations. like price, like weight and a space inside of the case.
 
-im asking Mr.S for checking if we can buy cheap plastic cases with handles with a smaller size. with the latest case from max, where we put inside 3 batteries inside - there too much free room inside
-11:22 PM
+im asking Mr.S for checking if we can buy cheap plastic cases with handles with a smaller size. with the latest case from max, where we put inside 3 batteries inside - there too much free room inside _(11:22 PM)_
 
-⁨Robherc⁩
-Because I think if we make one charging board for ideally all of our different cases that we're going to make, it hurts nothing to plug in fewer batteries on a large board , but it can make production a lot more expensive and difficult to try to make three different boards instead of just making three times as many of one board.
-Edited11:24 PM
+**Robherc:** Because I think if we make one charging board for ideally all of our different cases that we're going to make, it hurts nothing to plug in fewer batteries on a large board , but it can make production a lot more expensive and difficult to try to make three different boards instead of just making three times as many of one board. _(Edited 11:24 PM)_
 
-p
-
-⁨plasticisfantastic⁩
-You should make 3 versions.
+**plasticisfantastic:** You should make 3 versions.
 Light
 Medium
-Heavy
-11:26 PM
+Heavy _(11:26 PM)_
 
-❤️
+_reaction: ❤️_
 
-⁨plasticisfantastic⁩
-I've made 1 kWh under 10 kg
+**plasticisfantastic:** I've made 1 kWh under 10 kg
 
-p
+And under 178€ _(11:27 PM)_
 
-And under 178€
-11:27 PM
+## CE certification
 
-⁨Robherc⁩
-One question I must ask though, is it important that these be able to pass a CE inspection? Because if we have it use the 220v AC directly, then many European countries would say it cannot be used unless it goes through the full CE verification process.
-11:27 PM
+**Robherc:** One question I must ask though, is it important that these be able to pass a CE inspection? Because if we have it use the 220v AC directly, then many European countries would say it cannot be used unless it goes through the full CE verification process. _(11:27 PM)_
 
-p
+**plasticisfantastic:** Lol , fuck CE label _(11:27 PM)_
 
-⁨plasticisfantastic⁩
-Lol , fuck CE label
-11:27 PM
+_reaction: ❤️_
 
-❤️
+**plasticisfantastic:** Means nothing _(11:27 PM)_
 
-p
+**Robherc:** That's what I was assuming, but I wanted to make sure that it wasn't assumed that I was talking about making something that was fully compliant and it was not _(11:28 PM)_
 
-⁨plasticisfantastic⁩
-Means nothing
-11:27 PM
+**plasticisfantastic:** As long the powerstation doesnt feed the grid, ya good 🤣 _(11:28 PM)_
 
-⁨Robherc⁩
-That's what I was assuming, but I wanted to make sure that it wasn't assumed that I was talking about making something that was fully compliant and it was not
-11:28 PM
+## Cooling and case material
 
-p
+btw, what about cooling and something. will it require having some radiators, fans inside too? _(11:29 PM)_
 
-⁨plasticisfantastic⁩
-As long the powerstation doesnt feed the grid, ya good 🤣
-11:28 PM
+**Robherc:** Yes, and I intend to make it so it's still probably meets all the standards.. just that we don't really want to spend the time and money having an independent lab do all of the required testing I don't think _(11:29 PM)_
 
-btw, what about cooling and something. will it require having some radiators, fans inside too?
-11:29 PM
+**plasticisfantastic:** [https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk](https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk) _(11:29 PM)_
 
-⁨Robherc⁩
-Yes, and I intend to make it so it's still probably meets all the standards.. just that we don't really want to spend the time and money having an independent lab do all of the required testing I don't think
-11:29 PM
+_reaction: ❤️_
 
-p
-
-⁨plasticisfantastic⁩
-[https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk](https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk)
-11:29 PM
-
-❤️
-
-⁨plasticisfantastic⁩
-Don't know you guys can see this
-
-p
+**plasticisfantastic:** Don't know you guys can see this
 
 This was my list
 
-Yes, even if only for the batteries
-11:30 PM
+Yes, even if only for the batteries _(11:30 PM)_
 
-p
+**plasticisfantastic:** Using ammo boxes or toolboxes _(11:32 PM)_
 
-⁨plasticisfantastic⁩
-Using ammo boxes or toolboxes
-11:32 PM
+**Robherc:** If we're using metal ammo boxes, we can get rid of a lot of heat through the box itself using it as a radiator. _(11:33 PM)_
 
-⁨Robherc⁩
-If we're using metal ammo boxes, we can get rid of a lot of heat through the box itself using it as a radiator.
-11:33 PM
+**plasticisfantastic:** I used a plastic. Cheap as fuck and very stronkkk
 
-⁨plasticisfantastic⁩
-I used a plastic. Cheap as fuck and very stronkkk
+But metal is also good _(11:33 PM)_
 
-p
-
-But metal is also good
-11:33 PM
-
-⁨Robherc⁩
-Plastic is fine too, just then we have to use fans for certain because plastic doesn't get rid of heat very well for us
+**Robherc:** Plastic is fine too, just then we have to use fans for certain because plastic doesn't get rid of heat very well for us
 
 here are images for the 3rd case: [https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/03-number-three/Number Three 3752d71d806980068346fc6cad4f6dde.md](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/03-number-three/Number%20Three%203752d71d806980068346fc6cad4f6dde.md)
 
-i think there a lot of space inside, so maybe using a smaller toolboxes will be  betterhttps://www.aliexpress.com/item/1005007922241712.html
-11:34 PM
+i think there a lot of space inside, so maybe using a smaller toolboxes will be better https://www.aliexpress.com/item/1005007922241712.html _(11:34 PM)_
 
-⁨plasticisfantastic⁩
-Those are too small
+**plasticisfantastic:** Those are too small
 
-p
+Been there done that _(11:36 PM)_
 
-Been there done that
-11:36 PM
+_reaction: ❗_
 
-❗
+## Ammo boxes and what the cases are for
 
-⁨Robherc⁩
-Okay, just to get rid of any continuing confusion I might have.. can someone please paint me a full picture of what we are doing with the cases. I understand now that what we're discussing in the moment is a circuit to charge fpv batteries inside the case. Once the fpv batteries inside the case are charged, what are we doing with the power then?
+**Robherc:** Okay, just to get rid of any continuing confusion I might have.. can someone please paint me a full picture of what we are doing with the cases. I understand now that what we're discussing in the moment is a circuit to charge fpv batteries inside the case. Once the fpv batteries inside the case are charged, what are we doing with the power then?
 
 we dont have a lot of ammoboxes. usually soldiers picking them as souvenirs, and dont want to share a lot.
 
 Rn i have only one box in my hands, others i gave away for making a charging station by Antey Energy boiz.
 Wanna establish a solid contact with them, but still they are bizi and dont want to get me inside:
-[https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/inspiration/antey-energy/Antey Energy Charging Station.md](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/inspiration/antey-energy/Antey%20Energy%20Charging%20Station.md)
-11:36 PM
+[https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/inspiration/antey-energy/Antey Energy Charging Station.md](https://github.com/atherdon/fuck-ecoflow/blob/main/docs/charging-station/inspiration/antey-energy/Antey%20Energy%20Charging%20Station.md) _(11:36 PM)_
 
-p
-
-⁨plasticisfantastic⁩
-[https://amerikaantje.be/product-category/uitrusting/jacht/munitiekoffers/](https://amerikaantje.be/product-category/uitrusting/jacht/munitiekoffers/)
+**plasticisfantastic:** [https://amerikaantje.be/product-category/uitrusting/jacht/munitiekoffers/](https://amerikaantje.be/product-category/uitrusting/jacht/munitiekoffers/)
 
 How to charge them is our problem for now. I can ask @Lighthouse about that - but this is what we recently figure out.
 
 from the begingng we were welding 21700 batteries together and applying some magic for charging that.
 
-but as we are lazy and get some fancy batteries - this problem appears
-11:38 PM
+but as we are lazy and get some fancy batteries - this problem appears _(11:38 PM)_
 
-p
-
-⁨plasticisfantastic⁩
-Check these prices
-11:38 PM
+**plasticisfantastic:** Check these prices _(11:38 PM)_
 
 still too much, but can be our go to option for sure
 
-I can get a whole pallet of ammo boxes and take them to the port if someone can get them moved to you by ship LOL
-11:39 PM
+I can get a whole pallet of ammo boxes and take them to the port if someone can get them moved to you by ship LOL _(11:39 PM)_
 
-p
+**plasticisfantastic:** Eyes on Ukraine pay for it
 
-⁨plasticisfantastic⁩
-Eyes on Ukraine pay for it
+same prices here, i though about asking Emanuelle to buy some of them https://military.eu/ua/c/taktichne-sporjadzhennja/jaschiki
 
-same prices here, i though about asking Emanuelle to buy some of themhttps://military.eu/ua/c/taktichne-sporjadzhennja/jaschiki 
+can work, but not sure if its still the best option. but at least we can give them away to Antey Energy and melt the ice... _(11:41 PM)_
 
-can work, but not sure if its still the best option. but at least we can give them away to Antey Energy and melt the ice...
-11:41 PM
+**plasticisfantastic:** Don't think about money to hard right now. We need progress first, and after that we can cut down prices _(11:41 PM)_
 
-p
+## Why FPV batteries, and LiFePO4
 
-⁨plasticisfantastic⁩
-Don't think about money to hard right now. We need progress first, and after that we can cut down prices
-11:41 PM
+**Robherc:** Can I ask what is the reason we are using fpv batteries?
 
-⁨Robherc⁩
-Can I ask what is the reason we are using fpv batteries?
+Are they being taken out of the case to use for flying drones, or are they just saving us from having to weld 18650 batteries together?
 
-Are they being taken out of the case to use for flying drones, or are they just saving us from having to weld 18650 batteries together? 
+elaborate it. you want to jump start the normal LiFePo batteries? _(11:43 PM)_
 
-elaborate it. you want to jump start the normal LiFePo batteries?
-11:43 PM
-
-p
-
-⁨plasticisfantastic⁩
-Lifepo is easier to repair, swap,build, etc 
+**plasticisfantastic:** Lifepo is easier to repair, swap,build, etc
 
 I like the big ones that we would only have to use maybe 12 of and they come with M6 or M8 bolts to make the connections
 
@@ -319,21 +255,17 @@ im fine with any changes in the future
 See, that's the answer I was waiting for. I asked why we were using fpv batteries, if you said then because they are free from people damaging them that would explain LOL
 
 I just found this on AliExpress:
-1-8pcs LiitoKala 60145 60140 3.2V 50Ah LifePo4 battery for diy 12V 24V 48V 50Ah solar Inverter electric vehicle coach golf carthttps://a.aliexpress.com/_mPkQRYF
+1-8pcs LiitoKala 60145 60140 3.2V 50Ah LifePo4 battery for diy 12V 24V 48V 50Ah solar Inverter electric vehicle coach golf cart https://a.aliexpress.com/_mPkQRYF
 
 Those might or might not be the best option to use that particular battery cell, but it shows what I mean by being able to make a power pack with no welding using lifepo4 batteries and it be easier to make it work and easier to fix it when a cell gets damaged.
 
-Yes. Makes it more expensive but if we got donations, hell is open for building
-59m
+Yes. Makes it more expensive but if we got donations, hell is open for building _(59m)_
 
-while you think about batteries - dont think like this case will work more than 1-2 months. so only for positions that outside the killzone it's important to count battery cycles
-59m
+## Case lifetime, cost and keywords
 
-p
+while you think about batteries - dont think like this case will work more than 1-2 months. so only for positions that outside the killzone it's important to count battery cycles _(59m)_
 
-⁨plasticisfantastic⁩
-It's gonna be cheaper in the end as regular stations
-59m
+**plasticisfantastic:** It's gonna be cheaper in the end as regular stations _(59m)_
 
 for positions like mavic - they are in a deep shit. so when they will be exposed - they will run away and destroy the case
 
@@ -342,16 +274,16 @@ Especially since a regular station with $150 worth of batteries is costing $470
 In that situation I very much prefer that they destroy the case than get themselves killed trying to protect a piece of plastic with batteries in it!
 
 Key words are upscaling, ergonomic, safe, and cheap
-And usefull ofc
-54m
+And usefull ofc _(54m)_
 
-⁨Robherc⁩
-My keywords are series count, Peak current required per battery, and max number of batteries LOL
-53m
+**Robherc:** My keywords are series count, Peak current required per battery, and max number of batteries LOL _(53m)_
 
-Today
+_Today_
 
-⁨Robherc⁩
-.. knowing the maximum available input power wouldn't hurt either hehehe
+**Robherc:** .. knowing the maximum available input power wouldn't hurt either hehehe
 
 ( because it would not be good for my charging circuit to try to pull 20 amps from a 2kw generator)
+
+---
+
+The original unformatted copy of this chat is in the [git history](https://github.com/atherdon/fuck-ecoflow/blob/f7affec/docs/charging-station/wb-vs-ecoflow/%D1%81hat-with-great-and-smart-people.md).
