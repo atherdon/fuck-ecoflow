@@ -13,8 +13,8 @@ The published documentation is at [atherdon.github.io/fuck-ecoflow](https://athe
 
 ## Why it exists
 
-- [Problem statement (English)](./00-Problem/problem-statement/English-version.md)
-- [Проблема (українською)](./00-Problem/problem-statement/UA-version.md)
+- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
+- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
 - [Situation](./00-Problem/situation/Situation.md)
 
 ## Charging station

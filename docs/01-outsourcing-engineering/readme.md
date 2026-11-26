@@ -12,12 +12,12 @@ Notes from partner engineering and small product ideas that sit beside the main 
 
 ## Start here
 
-- [Box "Physics"](./charging-station/physicist.md) — English write-up of the case
-- [Ящик «Фізика»](./charging-station/physicist-ua.md) — the same write-up in Ukrainian
+- [Box "Physics"](pathname:///fuck-ecoflow/docs/outsourcing-engineering/charging-station/physicist) — English write-up of the case
+- [Ящик «Фізика»](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/charging-station/physicist) — the same write-up in Ukrainian
 - [Simple products](./simple-products/readme.md) — frogs, powerbanks, USB-to-XT60, spider, wire extenders
 - [Lesnik](./lesnik/readme.md)
-- [Dmytro's notes (English)](./Kyiv-Mohyla-Academy/Dmytro-en.md)
-- [Нотатки Dmytro (українською)](./Kyiv-Mohyla-Academy/Dmytro.md)
+- [Dmytro's notes (English)](pathname:///fuck-ecoflow/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en)
+- [Нотатки Dmytro (українською)](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en)
 
 ## Other pages in this section
 

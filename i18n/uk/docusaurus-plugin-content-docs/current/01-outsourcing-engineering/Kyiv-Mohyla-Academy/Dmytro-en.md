@@ -1,5 +1,5 @@
 ---
-sidebar_label: Нотатки Dmytro (українською)
+sidebar_label: Нотатки Dmytro
 ---
 
 # Аутсорсинг та інжиніринг — нотатки (Dmytro)

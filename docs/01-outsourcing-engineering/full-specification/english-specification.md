@@ -408,6 +408,6 @@ All of this would let us start assembling:
 
 ## Related pages
 
-- [Box "Physics" (English)](../charging-station/physicist.md) · [Ящик «Фізика» (українською)](../charging-station/physicist-ua.md)
+- [Box "Physics" (English)](pathname:///fuck-ecoflow/docs/outsourcing-engineering/charging-station/physicist) · [Ящик «Фізика» (українською)](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/charging-station/physicist)
 - [Simple products](../simple-products/readme.md)
 - [Dmytro's notes (English)](../Kyiv-Mohyla-Academy/Dmytro-en.md)

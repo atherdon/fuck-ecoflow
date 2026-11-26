@@ -72,6 +72,6 @@ I will tell the story of my "Vampire Laboratory" project in a separate document.
 
 ## Related pages
 
-- [Проблема (українською)](./UA-version.md)
+- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
 - [Situation](../situation/Situation.md)
 - [Charging station](../../charging-station/readme.md)
