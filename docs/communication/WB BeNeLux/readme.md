@@ -1,3 +1,8 @@
+---
+title: WB BeNeLux
+sidebar_label: WB BeNeLux
+---
+
 Side story: when I was 22, I started my own outsourcing company.
 
 We didn't steal clients. We didn't overprice or fool anyone.

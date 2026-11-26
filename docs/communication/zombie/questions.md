@@ -1,3 +1,8 @@
+---
+title: Fundraising campaign questions
+sidebar_label: Fundraising campaign questions
+---
+
 fundraising campaign
 
 OPENING
