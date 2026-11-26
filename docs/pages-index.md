@@ -47,154 +47,158 @@ sidebar_position: 999
 | 33 | `01-outsourcing-engineering/full-specification/readme.md` | 01-outsourcing-engineering/full-specification/readme |
 | 34 | `01-outsourcing-engineering/lesnik/readme.md` | 01-outsourcing-engineering/lesnik/readme |
 | 35 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
-| 36 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
-| 37 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | 01-outsourcing-engineering/simple-products/frog-version-one/english |
-| 38 | `01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md` | 01-outsourcing-engineering/simple-products/frog-version-one/frog-v1 |
-| 39 | `01-outsourcing-engineering/simple-products/frog-version-one/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-one/readme |
-| 40 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | 01-outsourcing-engineering/simple-products/frog-version-two/english |
-| 41 | `01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md` | 01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua |
-| 42 | `01-outsourcing-engineering/simple-products/frog-version-two/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-two/readme |
-| 43 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops |
-| 44 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
-| 45 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | 01-outsourcing-engineering/simple-products/powerbanks/english |
-| 46 | `01-outsourcing-engineering/simple-products/powerbanks/pb.md` | 01-outsourcing-engineering/simple-products/powerbanks/pb |
-| 47 | `01-outsourcing-engineering/simple-products/readme.md` | 01-outsourcing-engineering/simple-products/readme |
-| 48 | `01-outsourcing-engineering/simple-products/spider/english.md` | 01-outsourcing-engineering/simple-products/spider/english |
-| 49 | `01-outsourcing-engineering/simple-products/spider/readme.md` | 01-outsourcing-engineering/simple-products/spider/readme |
-| 50 | `01-outsourcing-engineering/simple-products/spider/spider.md` | 01-outsourcing-engineering/simple-products/spider/spider |
-| 51 | `01-outsourcing-engineering/simple-products/usb-to-xt60/readme.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/readme |
-| 52 | `01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60 |
-| 53 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | 01-outsourcing-engineering/simple-products/wire-extenders/readme |
-| 54 | `01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md` | 01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua |
-| 55 | `14-3d-to-print/3d.md` | 14-3d-to-print/3d |
-| 56 | `14-3d-to-print/3dmodelsforcorners.md` | 14-3d-to-print/3dmodelsforcorners |
-| 57 | `14-3d-to-print/stltoprint/STLstoprint.md` | 14-3d-to-print/stltoprint/STLstoprint |
-| 58 | `charging-station/Tasks/Plastic-Corners/cut-the-corners.md` | charging-station/Tasks/Plastic-Corners/cut-the-corners |
-| 59 | `charging-station/Tasks/matrice4-bypassing the HOTA/readme.md` | charging-station/Tasks/matrice4-bypassing the HOTA/readme |
-| 60 | `charging-station/Tasks/power-core/Power Core.md` | charging-station/Tasks/power-core/Power Core |
-| 61 | `charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25 |
-| 62 | `charging-station/Y-completed-cases/00/readme.md` | charging-station/Y-completed-cases/00/readme |
-| 63 | `charging-station/Y-completed-cases/01-2-3/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/01-2-3/case-0-proof-of-concept-mr-s-27-05-25 |
-| 64 | `charging-station/Y-completed-cases/01-2-3/readme.md` | charging-station/Y-completed-cases/01-2-3/readme |
-| 65 | `charging-station/Y-completed-cases/01/readme.md` | charging-station/Y-completed-cases/01/readme |
-| 66 | `charging-station/Y-completed-cases/02-number-two/number-two.md` | charging-station/Y-completed-cases/02-number-two/number-two |
-| 67 | `charging-station/Y-completed-cases/02-number-two/readme.md` | charging-station/Y-completed-cases/02-number-two/readme |
-| 68 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | charging-station/Y-completed-cases/03-number-three/number-three |
-| 69 | `charging-station/Y-completed-cases/03-number-three/readme.md` | charging-station/Y-completed-cases/03-number-three/readme |
-| 70 | `charging-station/Y-completed-cases/prototype/prototype.md` | charging-station/Y-completed-cases/prototype/prototype |
-| 71 | `charging-station/Y-completed-cases/readme.md` | charging-station/Y-completed-cases/readme |
-| 72 | `charging-station/inspiration/FLMan/intro.md` | charging-station/inspiration/FLMan/intro |
-| 73 | `charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration.md` | charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration |
-| 74 | `charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only.md` | charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only |
-| 75 | `charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються.md` | charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються |
-| 76 | `charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial.md` | charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial |
-| 77 | `charging-station/inspiration/Vadim-battery/Vadims case 2.md` | charging-station/inspiration/Vadim-battery/Vadims case 2 |
-| 78 | `charging-station/inspiration/antey-energy/Antey Energy 2.md` | charging-station/inspiration/antey-energy/Antey Energy 2 |
-| 79 | `charging-station/inspiration/antey-energy/Antey Energy Charging Station.md` | charging-station/inspiration/antey-energy/Antey Energy Charging Station |
-| 80 | `charging-station/inspiration/antey-energy/Antey Energy Specification.md` | charging-station/inspiration/antey-energy/Antey Energy Specification |
-| 81 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
-| 82 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
-| 83 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
-| 84 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
-| 85 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
-| 86 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
-| 87 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
-| 88 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
-| 89 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ |
-| 90 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
-| 91 | `charging-station/notes/competitors/Competitors .md` | charging-station/notes/competitors/Competitors  |
-| 92 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
-| 93 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
-| 94 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
-| 95 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
-| 96 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
-| 97 | `charging-station/notes/filin/Filin .md` | charging-station/notes/filin/Filin  |
-| 98 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
-| 99 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
-| 100 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
-| 101 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
-| 102 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
-| 103 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
-| 104 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
-| 105 | `charging-station/notes/pros-cons/pros-and-cons.md` | charging-station/notes/pros-cons/pros-and-cons |
-| 106 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
-| 107 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
-| 108 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
-| 109 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
-| 110 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
-| 111 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
-| 112 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
-| 113 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
-| 114 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
-| 115 | `charging-station/overview.md` | Overview |
-| 116 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
-| 117 | `charging-station/readme.md` | charging-station/readme |
-| 118 | `charging-station/unfinished.md` | charging-station/unfinished |
-| 119 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
-| 120 | `charging-station/wb-vs-ecoflow/ai-is-stupid.md` | charging-station/wb-vs-ecoflow/ai-is-stupid |
-| 121 | `charging-station/wb-vs-ecoflow/readme.md` | charging-station/wb-vs-ecoflow/readme |
-| 122 | `charging-station/wb-vs-ecoflow/сhat-with-great-and-smart-people.md` | charging-station/wb-vs-ecoflow/сhat-with-great-and-smart-people |
-| 123 | `communication/50-States-For-Ukraine/1.md` | communication/50-States-For-Ukraine/1 |
-| 124 | `communication/50-States-For-Ukraine/a.md` | communication/50-States-For-Ukraine/a |
-| 125 | `communication/50-States-For-Ukraine/colin.md` | communication/50-States-For-Ukraine/colin |
-| 126 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
-| 127 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
-| 128 | `communication/African-guy/negr.md` | communication/African-guy/negr |
-| 129 | `communication/African-guy/star.md` | communication/African-guy/star |
-| 130 | `communication/Christine/christine.md` | communication/Christine/christine |
-| 131 | `communication/Dmytro/readme.md` | communication/Dmytro/readme |
-| 132 | `communication/FLMan/readme.md` | communication/FLMan/readme |
-| 133 | `communication/FLman/Florida Man.md` | communication/FLman/Florida Man |
-| 134 | `communication/Mr.S.md` | communication/Mr.S |
-| 135 | `communication/OWL/1.md` | communication/OWL/1 |
-| 136 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
-| 137 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
-| 138 | `communication/WB BeNeLux/readme.md` | communication/WB BeNeLux/readme |
-| 139 | `communication/dam.md` | communication/dam |
-| 140 | `communication/em.md` | communication/em |
-| 141 | `communication/intro.md` | communication/intro |
-| 142 | `communication/lighthouse/readme.md` | communication/lighthouse/readme |
-| 143 | `communication/list-to-give-away.md` | communication/list-to-give-away |
-| 144 | `communication/master-plan-unfinished.md` | communication/master-plan-unfinished |
-| 145 | `communication/monstrik-not-done.md` | communication/monstrik-not-done |
-| 146 | `communication/newsletters/readme.md` | communication/newsletters/readme |
-| 147 | `communication/shotgun-with-nets.md` | communication/shotgun-with-nets |
-| 148 | `communication/zombie/questions.md` | communication/zombie/questions |
-| 149 | `communication/волонтери.md` | communication/волонтери |
-| 150 | `communication/кріс.md` | communication/кріс |
-| 151 | `intro.md` | Start here |
-| 152 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
-| 153 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
-| 154 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
-| 155 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| 156 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
-| 157 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
-| 158 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 159 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 160 | `orders/06-June-case.md` | orders/06-June-case |
-| 161 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 162 | `orders/Rob-is-great.md` | orders/Rob-is-great |
-| 163 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 164 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
-| 165 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 166 | `orders/something.md` | orders/something |
-| 167 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 168 | `orders/we-need-it.md` | orders/we-need-it |
-| 169 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 170 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 171 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 172 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 173 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 174 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 175 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 176 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 177 | `reports/readme.md` | reports/readme |
-| 178 | `reports/status/current-status.md` | reports/status/current-status |
-| 179 | `reports/status/june-2026.md` | June 2026 report |
-| 180 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 181 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 182 | `reports/wires/r.md` | reports/wires/r |
-| 183 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 184 | `team/partners-and-members.md` | Partners and members |
-| 185 | `team/readme.md` | team/readme |
-| 186 | `team/veteran-business.md` | Veteran business concept |
+| 36 | `01-outsourcing-engineering/readme.md` | Outsourcing engineering |
+| 37 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
+| 38 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | 01-outsourcing-engineering/simple-products/frog-version-one/english |
+| 39 | `01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md` | 01-outsourcing-engineering/simple-products/frog-version-one/frog-v1 |
+| 40 | `01-outsourcing-engineering/simple-products/frog-version-one/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-one/readme |
+| 41 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | 01-outsourcing-engineering/simple-products/frog-version-two/english |
+| 42 | `01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md` | 01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua |
+| 43 | `01-outsourcing-engineering/simple-products/frog-version-two/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-two/readme |
+| 44 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops |
+| 45 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
+| 46 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | 01-outsourcing-engineering/simple-products/powerbanks/english |
+| 47 | `01-outsourcing-engineering/simple-products/powerbanks/pb.md` | 01-outsourcing-engineering/simple-products/powerbanks/pb |
+| 48 | `01-outsourcing-engineering/simple-products/readme.md` | 01-outsourcing-engineering/simple-products/readme |
+| 49 | `01-outsourcing-engineering/simple-products/spider/english.md` | 01-outsourcing-engineering/simple-products/spider/english |
+| 50 | `01-outsourcing-engineering/simple-products/spider/readme.md` | 01-outsourcing-engineering/simple-products/spider/readme |
+| 51 | `01-outsourcing-engineering/simple-products/spider/spider.md` | 01-outsourcing-engineering/simple-products/spider/spider |
+| 52 | `01-outsourcing-engineering/simple-products/usb-to-xt60/readme.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/readme |
+| 53 | `01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60 |
+| 54 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | 01-outsourcing-engineering/simple-products/wire-extenders/readme |
+| 55 | `01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md` | 01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua |
+| 56 | `14-3d-to-print/3d.md` | 3D notes |
+| 57 | `14-3d-to-print/3dmodelsforcorners.md` | 14-3d-to-print/3dmodelsforcorners |
+| 58 | `14-3d-to-print/readme.md` | 3D to print |
+| 59 | `14-3d-to-print/stltoprint/STLstoprint.md` | 14-3d-to-print/stltoprint/STLstoprint |
+| 60 | `charging-station/Tasks/Plastic-Corners/cut-the-corners.md` | charging-station/Tasks/Plastic-Corners/cut-the-corners |
+| 61 | `charging-station/Tasks/matrice4-bypassing the HOTA/readme.md` | charging-station/Tasks/matrice4-bypassing the HOTA/readme |
+| 62 | `charging-station/Tasks/power-core/Power Core.md` | charging-station/Tasks/power-core/Power Core |
+| 63 | `charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25 |
+| 64 | `charging-station/Y-completed-cases/00/readme.md` | Case 00 |
+| 65 | `charging-station/Y-completed-cases/01-2-3/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/01-2-3/case-0-proof-of-concept-mr-s-27-05-25 |
+| 66 | `charging-station/Y-completed-cases/01-2-3/readme.md` | Case 01 / 2 / 3 |
+| 67 | `charging-station/Y-completed-cases/01/readme.md` | Case 01 |
+| 68 | `charging-station/Y-completed-cases/02-number-two/number-two.md` | charging-station/Y-completed-cases/02-number-two/number-two |
+| 69 | `charging-station/Y-completed-cases/02-number-two/readme.md` | Case 02 — Number Two |
+| 70 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | charging-station/Y-completed-cases/03-number-three/number-three |
+| 71 | `charging-station/Y-completed-cases/03-number-three/readme.md` | Case 03 — Number Three |
+| 72 | `charging-station/Y-completed-cases/prototype/prototype.md` | charging-station/Y-completed-cases/prototype/prototype |
+| 73 | `charging-station/Y-completed-cases/readme.md` | charging-station/Y-completed-cases/readme |
+| 74 | `charging-station/inspiration/FLMan/intro.md` | charging-station/inspiration/FLMan/intro |
+| 75 | `charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration.md` | charging-station/inspiration/FPV -batteries-charger/FPV charger Box Inspiration |
+| 76 | `charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only.md` | charging-station/inspiration/Hystrix-F5-box/Inspiration - Hystrix F5 box only |
+| 77 | `charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються.md` | charging-station/inspiration/LiFePo4-charging-station/Як роблять Інші та не заморачиваються |
+| 78 | `charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial.md` | charging-station/inspiration/LiFePo4-tutorial/Awesome YT tutorial |
+| 79 | `charging-station/inspiration/Vadim-battery/Vadims case 2.md` | charging-station/inspiration/Vadim-battery/Vadims case 2 |
+| 80 | `charging-station/inspiration/antey-energy/Antey Energy 2.md` | charging-station/inspiration/antey-energy/Antey Energy 2 |
+| 81 | `charging-station/inspiration/antey-energy/Antey Energy Charging Station.md` | charging-station/inspiration/antey-energy/Antey Energy Charging Station |
+| 82 | `charging-station/inspiration/antey-energy/Antey Energy Specification.md` | charging-station/inspiration/antey-energy/Antey Energy Specification |
+| 83 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
+| 84 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
+| 85 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
+| 86 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
+| 87 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
+| 88 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
+| 89 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
+| 90 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
+| 91 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ |
+| 92 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
+| 93 | `charging-station/notes/competitors/Competitors .md` | charging-station/notes/competitors/Competitors  |
+| 94 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
+| 95 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
+| 96 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
+| 97 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
+| 98 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
+| 99 | `charging-station/notes/filin/Filin .md` | charging-station/notes/filin/Filin  |
+| 100 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
+| 101 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
+| 102 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
+| 103 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
+| 104 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
+| 105 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
+| 106 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
+| 107 | `charging-station/notes/pros-cons/pros-and-cons.md` | charging-station/notes/pros-cons/pros-and-cons |
+| 108 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
+| 109 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
+| 110 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
+| 111 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
+| 112 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
+| 113 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
+| 114 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
+| 115 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
+| 116 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
+| 117 | `charging-station/overview.md` | Overview |
+| 118 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
+| 119 | `charging-station/readme.md` | charging-station/readme |
+| 120 | `charging-station/unfinished.md` | charging-station/unfinished |
+| 121 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
+| 122 | `charging-station/wb-vs-ecoflow/ai-is-stupid.md` | charging-station/wb-vs-ecoflow/ai-is-stupid |
+| 123 | `charging-station/wb-vs-ecoflow/readme.md` | charging-station/wb-vs-ecoflow/readme |
+| 124 | `charging-station/wb-vs-ecoflow/сhat-with-great-and-smart-people.md` | charging-station/wb-vs-ecoflow/сhat-with-great-and-smart-people |
+| 125 | `communication/50-States-For-Ukraine/1.md` | communication/50-States-For-Ukraine/1 |
+| 126 | `communication/50-States-For-Ukraine/a.md` | communication/50-States-For-Ukraine/a |
+| 127 | `communication/50-States-For-Ukraine/colin.md` | communication/50-States-For-Ukraine/colin |
+| 128 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
+| 129 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
+| 130 | `communication/African-guy/negr.md` | communication/African-guy/negr |
+| 131 | `communication/African-guy/star.md` | communication/African-guy/star |
+| 132 | `communication/Christine/christine.md` | communication/Christine/christine |
+| 133 | `communication/Dmytro/readme.md` | communication/Dmytro/readme |
+| 134 | `communication/FLMan/readme.md` | communication/FLMan/readme |
+| 135 | `communication/FLman/Florida Man.md` | communication/FLman/Florida Man |
+| 136 | `communication/Mr.S.md` | communication/Mr.S |
+| 137 | `communication/OWL/1.md` | communication/OWL/1 |
+| 138 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
+| 139 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
+| 140 | `communication/WB BeNeLux/readme.md` | communication/WB BeNeLux/readme |
+| 141 | `communication/dam.md` | communication/dam |
+| 142 | `communication/em.md` | communication/em |
+| 143 | `communication/intro.md` | communication/intro |
+| 144 | `communication/lighthouse/readme.md` | communication/lighthouse/readme |
+| 145 | `communication/list-to-give-away.md` | communication/list-to-give-away |
+| 146 | `communication/master-plan-unfinished.md` | communication/master-plan-unfinished |
+| 147 | `communication/monstrik-not-done.md` | communication/monstrik-not-done |
+| 148 | `communication/newsletters/readme.md` | communication/newsletters/readme |
+| 149 | `communication/readme.md` | Communication |
+| 150 | `communication/shotgun-with-nets.md` | communication/shotgun-with-nets |
+| 151 | `communication/zombie/questions.md` | communication/zombie/questions |
+| 152 | `communication/волонтери.md` | communication/волонтери |
+| 153 | `communication/кріс.md` | communication/кріс |
+| 154 | `glossary.md` | Glossary |
+| 155 | `intro.md` | Start here |
+| 156 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
+| 157 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
+| 158 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
+| 159 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
+| 160 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
+| 161 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
+| 162 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 163 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 164 | `orders/06-June-case.md` | orders/06-June-case |
+| 165 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 166 | `orders/Rob-is-great.md` | orders/Rob-is-great |
+| 167 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 168 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
+| 169 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 170 | `orders/something.md` | orders/something |
+| 171 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 172 | `orders/we-need-it.md` | orders/we-need-it |
+| 173 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 174 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 175 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 176 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 177 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 178 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 179 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 180 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 181 | `reports/readme.md` | reports/readme |
+| 182 | `reports/status/current-status.md` | reports/status/current-status |
+| 183 | `reports/status/june-2026.md` | June 2026 report |
+| 184 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 185 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 186 | `reports/wires/r.md` | reports/wires/r |
+| 187 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 188 | `team/partners-and-members.md` | Partners and members |
+| 189 | `team/readme.md` | team/readme |
+| 190 | `team/veteran-business.md` | Veteran business concept |

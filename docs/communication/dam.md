@@ -1,3 +1,8 @@
+---
+title: Kakhovka dam
+sidebar_label: Kakhovka dam
+---
+
 I have a personal story about the destroyed dam in Kakhovka. This happened three years ago.
 
 After several months without a job and deep in debt, I finally got a position as a Product Owner at a great German company.

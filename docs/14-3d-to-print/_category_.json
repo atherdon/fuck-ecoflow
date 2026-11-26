@@ -1,5 +1,9 @@
 {
   "label": "3D to print",
   "position": 8,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "14-3d-to-print/readme"
+  }
 }
