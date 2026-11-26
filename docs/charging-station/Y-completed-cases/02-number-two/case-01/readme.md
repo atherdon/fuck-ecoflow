@@ -1,20 +1,22 @@
 ---
 title: Case 01
 sidebar_label: Case 01
+sidebar_position: 2
+slug: /charging-station/Y-completed-cases/number-two/case-01
 description: Photos from completed charging case 01.
 ---
 
 # Case 01
 
-Photos from completed case 01.
+Photos from completed case 01. This page now lives under [Case 02 — Number Two](../readme.md).
 
 ## Other cases
 
-- [Case 0](../case-0/readme.md)
-- [Case 01](../01/readme.md)
-- [Case 01 / 2 / 3](../01-2-3/readme.md)
-- [Case 02 — Number Two](../02-number-two/readme.md)
-- [Case 03 — Number Three](../03-number-three/readme.md)
+- [Case 0](../../case-0/readme.md)
+- [Case 01](./readme.md)
+- [Case 01 / 2 / 3](../../01-2-3/readme.md)
+- [Case 02 — Number Two](../readme.md)
+- [Case 03 — Number Three](../../03-number-three/readme.md)
 
 ## Images
 
