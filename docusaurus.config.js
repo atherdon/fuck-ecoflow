@@ -163,6 +163,13 @@ const manualRedirects = [
       '/docs/outsourcing-engineering/drone-net-gun/archive/nets',
     ],
   },
+  {
+    to: '/docs/outsourcing-engineering/full-specification/english-specification',
+    from: [
+      '/docs/outsourcing-engineering/full-specification/english-version-full-but-crap',
+      '/docs/01-outsourcing-engineering/full-specification/english-version-full-but-crap',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
