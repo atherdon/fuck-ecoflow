@@ -3,11 +3,6 @@
   "pages": [
     "00-Problem/situation/Situation.md",
     "01-outsourcing-engineering/lesnik/readme.md",
-    "01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md",
-    "01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md",
-    "01-outsourcing-engineering/simple-products/powerbanks/pb.md",
-    "01-outsourcing-engineering/simple-products/spider/spider.md",
-    "01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md",
     "charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md",
     "charging-station/notes/batteries/batteries2/Batteries.md",
     "charging-station/notes/charge-control/charge-discharge-control.md",
@@ -47,6 +42,26 @@
     {
       "page": "01-outsourcing-engineering/charging-station/physicist.md",
       "from": "01-outsourcing-engineering/charging-station/physicist-ua.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/simple-products/frog-version-one/english.md",
+      "from": "01-outsourcing-engineering/simple-products/frog-version-one/frog-v1.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/simple-products/frog-version-two/english.md",
+      "from": "01-outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/simple-products/powerbanks/english.md",
+      "from": "01-outsourcing-engineering/simple-products/powerbanks/pb.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/simple-products/spider/english.md",
+      "from": "01-outsourcing-engineering/simple-products/spider/spider.md"
+    },
+    {
+      "page": "01-outsourcing-engineering/simple-products/wire-extenders/readme.md",
+      "from": "01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md"
     }
   ]
 }

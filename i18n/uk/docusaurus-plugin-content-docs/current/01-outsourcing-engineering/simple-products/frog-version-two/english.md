@@ -1,5 +1,5 @@
 ---
-sidebar_label: Жабка 2.0 (українською)
+sidebar_label: Жабка 2.0
 ---
 
 # 2. Жабка 2.0. TBD
@@ -16,6 +16,6 @@ sidebar_label: Жабка 2.0 (українською)
 
 Тоді коли ми витягуємо комірки з батарейки фпв - кладемо їх у кейси які купляють голландці на але - ми робимо “дурну” працю - при умові шо у нас таких виробів удосталь
 
-![image.png](./images/frog-version-two-img1.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/frog-version-two/images/frog-version-two-img1.jpg)
 
 ---

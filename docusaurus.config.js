@@ -189,6 +189,32 @@ const manualRedirects = [
     to: '/docs/outsourcing-engineering/charging-station/physicist',
     from: ['/docs/outsourcing-engineering/charging-station/physicist-ua'],
   },
+  {
+    to: '/docs/outsourcing-engineering/simple-products/frog-version-one/english',
+    from: [
+      '/docs/outsourcing-engineering/simple-products/frog-version-one/frog-v1',
+    ],
+  },
+  {
+    to: '/docs/outsourcing-engineering/simple-products/frog-version-two/english',
+    from: [
+      '/docs/outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua',
+    ],
+  },
+  {
+    to: '/docs/01-outsourcing-engineering/simple-products/powerbanks/pb2',
+    from: ['/docs/01-outsourcing-engineering/simple-products/powerbanks/pb'],
+  },
+  {
+    to: '/docs/outsourcing-engineering/simple-products/spider/english',
+    from: ['/docs/01-outsourcing-engineering/simple-products/spider/5-павук'],
+  },
+  {
+    to: '/docs/outsourcing-engineering/simple-products/wire-extenders/',
+    from: [
+      '/docs/outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [

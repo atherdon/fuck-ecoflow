@@ -1,5 +1,5 @@
 ---
-sidebar_label: Frog v1 (українською)
+sidebar_label: Frog v1
 ---
 
 # Frog v1.
