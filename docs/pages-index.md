@@ -80,7 +80,7 @@ sidebar_position: 999
 | 66 | `charging-station/Tasks/readme.md` | Tasks |
 | 67 | `charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25 |
 | 68 | `charging-station/Y-completed-cases/01-2-3/readme.md` | Case 01 / 2 / 3 |
-| 69 | `charging-station/Y-completed-cases/01/readme.md` | Case 01 |
+| 69 | `charging-station/Y-completed-cases/02-number-two/case-01/readme.md` | Case 01 |
 | 70 | `charging-station/Y-completed-cases/02-number-two/readme.md` | Case 02 — Number Two |
 | 71 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | Number Three |
 | 72 | `charging-station/Y-completed-cases/03-number-three/readme.md` | Case 03 — Number Three |
