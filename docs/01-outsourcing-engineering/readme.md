@@ -23,4 +23,4 @@ Notes from partner engineering and small product ideas that sit beside the main 
 
 - [Drone — Net Launcher](./drone-net-gun/readme.md)
 - [Big Powerpunk](./big-powerpunk/readme.md)
-- [English specification (long draft)](./full-specification/english-version-full-but-crap.md)
+- [Full specification (English)](./full-specification/english-specification.md)
