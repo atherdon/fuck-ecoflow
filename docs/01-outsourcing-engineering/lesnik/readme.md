@@ -1,3 +1,8 @@
+---
+description: Lesnik engineering notes related to the charging-case work.
+title: Lesnik
+---
+
 # Lesnik
 
 ---

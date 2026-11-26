@@ -1,3 +1,8 @@
+---
+description: "Small product notes: frogs, powerbanks, USB-to-XT60 leads, spider, and wire extenders."
+title: Simple Products
+---
+
 # Simple Products
 
 

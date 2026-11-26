@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 slug: /team
+description: People, partner organizations, and the distributed lab behind the charging-case project.
 ---
+
 
 # Team
 
