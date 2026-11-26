@@ -1,0 +1,26 @@
+{
+  "link.title.Docs": {
+    "message": "Документація",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Спільнота",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.item.label.Start here": {
+    "message": "Почати тут",
+    "description": "The label of footer link with label=Start here linking to /docs/intro"
+  },
+  "link.item.label.Charging station": {
+    "message": "Зарядна станція",
+    "description": "The label of footer link with label=Charging station linking to /docs/charging-station"
+  },
+  "link.item.label.Problem statement": {
+    "message": "Опис проблеми",
+    "description": "The label of footer link with label=Problem statement linking to /docs/00-problem/problem-statement/english-version"
+  },
+  "link.item.label.GitHub Issues": {
+    "message": "Задачі на GitHub",
+    "description": "The label of footer link with label=GitHub Issues linking to https://github.com/LLazyEmail/fuck-ecoflow/issues"
+  }
+}

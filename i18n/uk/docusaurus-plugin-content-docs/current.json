@@ -1,0 +1,354 @@
+{
+  "version.label": {
+    "message": "Поточна",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Problem": {
+    "message": "Проблема",
+    "description": "The label for category 'Problem' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.problem-statement": {
+    "message": "Опис проблеми",
+    "description": "The label for category 'problem-statement' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Charging station": {
+    "message": "Зарядна станція",
+    "description": "The label for category 'Charging station' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Versions": {
+    "message": "Версії",
+    "description": "The label for category 'Versions' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "Огляд",
+    "description": "The label for category 'Overview' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.charging-station-tasks": {
+    "message": "Задачі",
+    "description": "The label for category 'Tasks' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Power Core": {
+    "message": "Power Core",
+    "description": "The label for category 'Power Core' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Plastic-Corners": {
+    "message": "Пластикові кути",
+    "description": "The label for category 'Plastic-Corners' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Completed cases": {
+    "message": "Завершені кейси",
+    "description": "The label for category 'Completed cases' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Case 0": {
+    "message": "Кейс 0",
+    "description": "The label for category 'Case 0' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Case 02 — Number Two": {
+    "message": "Кейс 02 — Номер два",
+    "description": "The label for category 'Case 02 — Number Two' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Case 03 — Number Three": {
+    "message": "Кейс 03 — Номер три",
+    "description": "The label for category 'Case 03 — Number Three' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.00": {
+    "message": "00",
+    "description": "The label for category '00' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Information & notes": {
+    "message": "Інформація та нотатки",
+    "description": "The label for category 'Information & notes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Batteries": {
+    "message": "Акумулятори",
+    "description": "The label for category 'Batteries' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.akb": {
+    "message": "АКБ",
+    "description": "The label for category 'akb' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.batteries": {
+    "message": "Акумулятори",
+    "description": "The label for category 'batteries' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.batteries2": {
+    "message": "Акумулятори 2",
+    "description": "The label for category 'batteries2' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.hoverboard": {
+    "message": "Гіроборд",
+    "description": "The label for category 'hoverboard' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Grants": {
+    "message": "Гранти",
+    "description": "The label for category 'Grants' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.grant-vadim": {
+    "message": "Грант (Вадим)",
+    "description": "The label for category 'grant-vadim' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Miscellaneous notes": {
+    "message": "Різні нотатки",
+    "description": "The label for category 'Miscellaneous notes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.trash-can": {
+    "message": "Кошик",
+    "description": "The label for category 'trash-can' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Vitaliy notes": {
+    "message": "Нотатки Віталія",
+    "description": "The label for category 'Vitaliy notes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.vitaliy": {
+    "message": "Віталій",
+    "description": "The label for category 'vitaliy' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.vitaliy-2": {
+    "message": "Віталій 2",
+    "description": "The label for category 'vitaliy-2' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.vitaliy-3": {
+    "message": "Віталій 3",
+    "description": "The label for category 'vitaliy-3' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.SJ": {
+    "message": "SJ",
+    "description": "The label for category 'SJ' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.charge-control": {
+    "message": "Контроль заряду",
+    "description": "The label for category 'charge-control' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.charger": {
+    "message": "Зарядний пристрій",
+    "description": "The label for category 'charger' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.charger-for-batteries": {
+    "message": "Зарядний пристрій для АКБ",
+    "description": "The label for category 'charger-for-batteries' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.competitors": {
+    "message": "Конкуренти",
+    "description": "The label for category 'competitors' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.cooling": {
+    "message": "Охолодження",
+    "description": "The label for category 'cooling' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.dc-car-inventor": {
+    "message": "Автомобільний DC-інвертор",
+    "description": "The label for category 'dc-car-inventor' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.empty-case": {
+    "message": "Порожній кейс",
+    "description": "The label for category 'empty-case' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.falsh-line": {
+    "message": "Фальш-кришка",
+    "description": "The label for category 'falsh-line' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.field-charging": {
+    "message": "Зарядка в полі",
+    "description": "The label for category 'field-charging' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.filin": {
+    "message": "filin",
+    "description": "The label for category 'filin' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.inventors": {
+    "message": "Інвертори",
+    "description": "The label for category 'inventors' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.main-concept": {
+    "message": "Загальна концепція",
+    "description": "The label for category 'main-concept' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.pros-cons": {
+    "message": "Плюси та мінуси",
+    "description": "The label for category 'pros-cons' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.quick-charge-boards": {
+    "message": "Плати швидкої зарядки",
+    "description": "The label for category 'quick-charge-boards' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.sockets": {
+    "message": "Вихідні роз'єми",
+    "description": "The label for category 'sockets' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.solar-addon": {
+    "message": "Сонячний модуль",
+    "description": "The label for category 'solar-addon' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1": {
+    "message": "ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1",
+    "description": "The label for category 'ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.tool-box": {
+    "message": "Інструменти",
+    "description": "The label for category 'tool-box' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.vadim": {
+    "message": "Вадим",
+    "description": "The label for category 'vadim' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.vadim1": {
+    "message": "Вадим 1",
+    "description": "The label for category 'vadim1' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.White box vs EcoFlow": {
+    "message": "Білий ящик проти EcoFlow",
+    "description": "The label for category 'White box vs EcoFlow' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.proof-of-concept": {
+    "message": "Proof of concept",
+    "description": "The label for category 'proof-of-concept' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Outsourcing engineering": {
+    "message": "Аутсорс-інженерія",
+    "description": "The label for category 'Outsourcing engineering' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Charging station (outsourcing notes)": {
+    "message": "Зарядна станція (нотатки аутсорсу)",
+    "description": "The label for category 'Charging station (outsourcing notes)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Simple products": {
+    "message": "Прості вироби",
+    "description": "The label for category 'Simple products' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Frog Version One": {
+    "message": "Жабка, версія 1",
+    "description": "The label for category 'Frog Version One' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Frog Version Two": {
+    "message": "Жабка, версія 2",
+    "description": "The label for category 'Frog Version Two' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.One Use Diy Powerbanks": {
+    "message": "Одноразові саморобні павербанки",
+    "description": "The label for category 'One Use Diy Powerbanks' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.simple-products-powerbanks": {
+    "message": "Павербанки",
+    "description": "The label for category 'powerbanks' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Spider": {
+    "message": "Павук",
+    "description": "The label for category 'Spider' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.4. «USB to XT60»": {
+    "message": "4. «USB to XT60»",
+    "description": "The label for category '4. «USB to XT60»' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Wire extenders (English)": {
+    "message": "Подовжувачі (English)",
+    "description": "The label for category 'Wire extenders (English)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Kyiv-Mohyla Academy": {
+    "message": "Києво-Могилянська академія",
+    "description": "The label for category 'Kyiv-Mohyla Academy' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Full specification": {
+    "message": "Повна специфікація",
+    "description": "The label for category 'Full specification' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Powerbank": {
+    "message": "Павербанк",
+    "description": "The label for category 'Powerbank' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Team": {
+    "message": "Команда",
+    "description": "The label for category 'Team' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Communication": {
+    "message": "Комунікація",
+    "description": "The label for category 'Communication' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.readme": {
+    "message": "readme",
+    "description": "The label for category 'readme' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.African-guy": {
+    "message": "Африканець",
+    "description": "The label for category 'African-guy' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.FLman": {
+    "message": "FLman",
+    "description": "The label for category 'FLman' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.OWL": {
+    "message": "OWL",
+    "description": "The label for category 'OWL' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Starting-Physicist-to-shine": {
+    "message": "Старт для Фізика",
+    "description": "The label for category 'Starting-Physicist-to-shine' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.zombie": {
+    "message": "Зомбі",
+    "description": "The label for category 'zombie' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Reports": {
+    "message": "Звіти",
+    "description": "The label for category 'Reports' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Status": {
+    "message": "Статус",
+    "description": "The label for category 'Status' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Projects": {
+    "message": "Проєкти",
+    "description": "The label for category 'Projects' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Plastic Fantastic": {
+    "message": "Plastic Fantastic",
+    "description": "The label for category 'Plastic Fantastic' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Contributors": {
+    "message": "Учасники",
+    "description": "The label for category 'Contributors' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Mr.S": {
+    "message": "Mr.S",
+    "description": "The label for category 'Mr.S' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.reports-tasks": {
+    "message": "Задачі",
+    "description": "The label for category 'Tasks' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Raw notes": {
+    "message": "Чорнові нотатки",
+    "description": "The label for category 'Raw notes' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.reports-powerbanks": {
+    "message": "Павербанки",
+    "description": "The label for category 'powerbanks' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.wires": {
+    "message": "Дроти",
+    "description": "The label for category 'wires' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.3D to print": {
+    "message": "3D-друк",
+    "description": "The label for category '3D to print' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.stltoprint": {
+    "message": "STL для друку",
+    "description": "The label for category 'stltoprint' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Orders": {
+    "message": "Замовлення",
+    "description": "The label for category 'Orders' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.tools-for-welding": {
+    "message": "Інструменти для зварювання",
+    "description": "The label for category 'tools-for-welding' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.ордер1": {
+    "message": "Замовлення 1",
+    "description": "The label for category 'ордер1' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Maintainers": {
+    "message": "Для мейнтейнерів",
+    "description": "The label for category 'Maintainers' in sidebar 'tutorialSidebar'"
+  }
+}
