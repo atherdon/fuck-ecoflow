@@ -56,7 +56,7 @@ Node.js **>= 26.13.1** (`engines` in `package.json`, pinned in `.nvmrc`; CI jobs
 | `npm run check:media` | Media guardrails |
 | `npm run check:naming` | Naming conventions |
 | `npm run optimize:media` | Optimize doc media (sharp) |
-| `npm run check:images` | Report markdown image refs whose files are missing (report-only) |
+| `npm run check:images` | Report markdown image refs whose files are missing (report-only; `-- --strict` exits 1, as CI runs it) |
 | `npm run format:check` | Prettier check (`npm run format` to fix) |
 | `npm run generate:docs-index` | Regenerate `docs/pages-index.md` (CI does this on `main`) |
 | `npm run changelog` | Regenerate `CHANGELOG.md` (CI does this on `main`) |
@@ -85,6 +85,7 @@ Workflows in `.github/workflows/` call reusable workflows from [`LLazyEmail/docu
 | Build images | PRs | build with LFS objects and verify every image in the output |
 | Media guardrails | PRs touching media | `npm run check:media` on added/renamed media |
 | Naming conventions | PRs touching docs | `npm run check:naming` on added/renamed paths |
+| Check images | PRs touching docs | `npm run check:images -- --strict`; fails when a doc references a missing image |
 | Markdown lint | PRs, `main` | markdownlint |
 | Link check | PRs, weekly | lychee |
 | Star request comment | PR opened | one comment (`pull_request_target`) |
