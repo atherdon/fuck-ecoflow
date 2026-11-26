@@ -1,5 +1,6 @@
-
-
+---
+title: AI is stupid
+---
 ---
 Project: Portable Charging Station — FPV / LiFePO4 battery charger
 Suggested file: docs/charging-station/design-spec.md

@@ -1,5 +1,8 @@
 ---
 slug: /charging-station/tasks/matrice4-bypassing-the-hota
+title: Matrice 4 — bypassing the HOTA
+sidebar_label: Matrice 4 — bypassing the HOTA
+
 ---
 
 - зарядне type c - зарядне matrice

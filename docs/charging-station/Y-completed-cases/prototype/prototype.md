@@ -1,4 +1,9 @@
-# prototype
+---
+title: Prototype
+sidebar_label: Prototype
+---
+
+# Prototype
 
 ![IMG_20250902_185024_460.jpg](IMG_20250902_185024_460.jpg)
 
