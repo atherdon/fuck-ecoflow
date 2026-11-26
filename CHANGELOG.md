@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Tidy AI is stupid, remove item 13, and link the examples [`#147`](https://github.com/atherdon/fuck-ecoflow/pull/147)
 - fix(deps): update dependency @mdx-js/react to ^3.1.1 [`#99`](https://github.com/atherdon/fuck-ecoflow/pull/99)
 - fix(deps): update react monorepo to ^19.3.1 [`#100`](https://github.com/atherdon/fuck-ecoflow/pull/100)
 - Add titles and labeled links on Filin and charger notes [`#146`](https://github.com/atherdon/fuck-ecoflow/pull/146)
@@ -280,6 +281,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - fix(docs): fix image paths so Docusaurus bundles them [`b1d8957`](https://github.com/atherdon/fuck-ecoflow/commit/b1d89573552677687651a06d7b3be6be0c7bc7ae)
 - 333333 [`7cbce24`](https://github.com/atherdon/fuck-ecoflow/commit/7cbce2450b09800d1de81cf3812953b098ba3eb8)
 - 22222 [`36b7a2a`](https://github.com/atherdon/fuck-ecoflow/commit/36b7a2acf9d132010ce74a389096277308868b0a)
+- Tidy the AI is stupid page, drop item 13, and link the examples. [`6f6b0dd`](https://github.com/atherdon/fuck-ecoflow/commit/6f6b0ddc85e8aff286b5e90db0eadd9f0fca9d33)
 - Add report on project discussions and logistics [`2cea317`](https://github.com/atherdon/fuck-ecoflow/commit/2cea317b34f41b66a4c0eb260b642ffc2525eff3)
 - Add files via upload [`7c6ffde`](https://github.com/atherdon/fuck-ecoflow/commit/7c6ffde3f27fe366d4be87c34cdd22c85f36112b)
 - Create Dmytro.md for engineering project details [`01425b3`](https://github.com/atherdon/fuck-ecoflow/commit/01425b390486997edadd14dd55a9930f022ea637)
@@ -766,6 +768,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`ae6ad36`](https://github.com/atherdon/fuck-ecoflow/commit/ae6ad364edf9d6b4ef178d464748cf71c655f3f5)
 - chore(docs-index): regenerate all-pages markdown list [`e906a34`](https://github.com/atherdon/fuck-ecoflow/commit/e906a345631151c78a452b91ae7738fce01244da)
 - chore(docs-index): regenerate all-pages markdown list [`1763899`](https://github.com/atherdon/fuck-ecoflow/commit/176389926d1caadb60d1e8f21691dde2f69e631f)
 - chore(changelog): regenerate after merged pull request [`7d49613`](https://github.com/atherdon/fuck-ecoflow/commit/7d496139b7e43d0b1ecbb485e169c6618d4aa59a)
