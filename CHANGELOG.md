@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: use short DA aliases for auto-rebase and npm-check [`#101`](https://github.com/atherdon/fuck-ecoflow/pull/101)
 - ci: add strict missing-image check on PRs [`#97`](https://github.com/atherdon/fuck-ecoflow/pull/97)
 - docs(problem): give the Problem section an index and real titles [`#108`](https://github.com/atherdon/fuck-ecoflow/pull/108)
 - docs: give first-time readers a clear Start here path [`#106`](https://github.com/atherdon/fuck-ecoflow/pull/106)
@@ -651,6 +652,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`c4b3985`](https://github.com/atherdon/fuck-ecoflow/commit/c4b3985fe6fed8de308335c516ebe4687ec96ab6)
 - chore(changelog): regenerate after merged pull request [`f83bae5`](https://github.com/atherdon/fuck-ecoflow/commit/f83bae5d44fcd3f887b9d7be3e3d581878daf63d)
 - chore(changelog): regenerate after merged pull request [`ffdd17d`](https://github.com/atherdon/fuck-ecoflow/commit/ffdd17dafdfd11af1d1eb22893cca0a2c5503f1e)
 - chore(changelog): regenerate after merged pull request [`91fa6b0`](https://github.com/atherdon/fuck-ecoflow/commit/91fa6b02a401795f89f319e4ab4cf3f231925124)
