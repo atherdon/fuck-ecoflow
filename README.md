@@ -10,6 +10,8 @@
 
 # fuck-ecoflow
 
+Published documentation: [https://atherdon.github.io/fuck-ecoflow/](https://atherdon.github.io/fuck-ecoflow/)
+
 
 ## Images from docs/images
 Below are the images that live in docs/images so you can view them directly from the repository root README. Each image below is displayed as a smaller thumbnail; click it to open the full-size file.

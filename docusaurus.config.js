@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -57,9 +57,7 @@ const manualRedirects = [
   },
   {
     to: '/docs/team/our-lab',
-    from: [
-      '/docs/team/our-lab/Our-Distributed-Laboratory',
-    ],
+    from: ['/docs/team/our-lab/Our-Distributed-Laboratory'],
   },
   {
     to: '/docs/team/veteran-business',
@@ -72,7 +70,7 @@ const manualRedirects = [
 ];
 
 function collectMarkdownFiles(directory) {
-  return fs.readdirSync(directory, {withFileTypes: true}).flatMap((entry) => {
+  return fs.readdirSync(directory, { withFileTypes: true }).flatMap((entry) => {
     const entryPath = path.join(directory, entry.name);
 
     if (entry.isDirectory()) {
@@ -119,7 +117,8 @@ function getAssemblyaRedirects() {
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Fuck Ecoflow',
-  tagline: 'Documentation for fuck-ecoflow',
+  tagline:
+    'Field charging cases, so positions do not have to depend on EcoFlow',
   favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
@@ -211,6 +210,16 @@ const config = {
             label: 'Docs',
           },
           {
+            to: '/docs/charging-station',
+            label: 'Charging station',
+            position: 'left',
+          },
+          {
+            to: '/docs/00-problem/problem-statement/english-version',
+            label: 'Problem',
+            position: 'left',
+          },
+          {
             href: 'https://github.com/LLazyEmail/fuck-ecoflow',
             label: 'GitHub',
             position: 'right',
@@ -224,8 +233,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentation',
+                label: 'Start here',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Charging station',
+                to: '/docs/charging-station',
+              },
+              {
+                label: 'Problem statement',
+                to: '/docs/00-problem/problem-statement/english-version',
               },
             ],
           },
