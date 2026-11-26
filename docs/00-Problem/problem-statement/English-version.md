@@ -7,7 +7,7 @@ sidebar_position: 1
 
 # Problem statement (English)
 
-# Life on the Pokrovsk Direction
+## Life on the Pokrovsk Direction
 
 On the Pokrovsk front, we have once again found ourselves inside a pocket. We are being hit from three sides. As always, we are holding our ground, but it comes at a heavy cost — in energy, blood, and equipment.
 
@@ -69,3 +69,9 @@ If I can establish local production of large power banks in Ukraine, the process
 The most expensive part of any power station is the battery cells. We already have many damaged battery packs available. They simply need to be sorted, tested, recharged, and rebuilt into a form factor that better suits military needs.
 
 I will tell the story of my "Vampire Laboratory" project in a separate document.
+
+## Related pages
+
+- [Проблема (українською)](./UA-version.md)
+- [Situation](../situation/Situation.md)
+- [Charging station](../../charging-station/readme.md)
