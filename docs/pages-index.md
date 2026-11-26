@@ -106,7 +106,7 @@ sidebar_position: 999
 | 92 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
 | 93 | `charging-station/notes/batteries/readme.md` | Batteries |
 | 94 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
-| 95 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ |
+| 95 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | Зарядний пристрій для АКБ |
 | 96 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
 | 97 | `charging-station/notes/competitors/Competitors .md` | Competitors |
 | 98 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
@@ -114,7 +114,7 @@ sidebar_position: 999
 | 100 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
 | 101 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
 | 102 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
-| 103 | `charging-station/notes/filin/Filin .md` | charging-station/notes/filin/Filin  |
+| 103 | `charging-station/notes/filin/Filin .md` | Filin |
 | 104 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
 | 105 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
 | 106 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
