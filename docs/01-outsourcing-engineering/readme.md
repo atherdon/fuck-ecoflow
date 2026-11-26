@@ -3,12 +3,12 @@ title: Outsourcing engineering
 sidebar_label: Overview
 sidebar_position: 0
 slug: /outsourcing-engineering
-description: Partner engineering notes, simple products, and disassembly records related to the charging case.
+description: Partner engineering notes and simple products related to the charging case.
 ---
 
 # Outsourcing engineering
 
-Notes from partner engineering, small product ideas, and disassembly work that sit beside the main charging-station build.
+Notes from partner engineering and small product ideas that sit beside the main charging-station build.
 
 ## Start here
 
@@ -21,7 +21,6 @@ Notes from partner engineering, small product ideas, and disassembly work that s
 
 ## Other pages in this section
 
-- [Disassembly](./AssemBLYA/dissasembling/readme.md) — AssemBLYA teardown notes
 - [Drone — Net Launcher](./drone-net-gun/readme.md)
 - [Big Powerpunk](./big-powerpunk/readme.md)
 - [English specification (long draft)](./full-specification/english-version-full-but-crap.md)

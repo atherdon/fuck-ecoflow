@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Remove the AssemBLYA section and keep its images in static/ [`#150`](https://github.com/atherdon/fuck-ecoflow/pull/150)
+- Merge the drone net gun docs into one page [`#148`](https://github.com/atherdon/fuck-ecoflow/pull/148)
 - Tidy AI is stupid, remove item 13, and link the examples [`#147`](https://github.com/atherdon/fuck-ecoflow/pull/147)
 - fix(deps): update dependency @mdx-js/react to ^3.1.1 [`#99`](https://github.com/atherdon/fuck-ecoflow/pull/99)
 - fix(deps): update react monorepo to ^19.3.1 [`#100`](https://github.com/atherdon/fuck-ecoflow/pull/100)
@@ -185,6 +187,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`05028d1`](https://github.com/atherdon/fuck-ecoflow/commit/05028d1932773efab1c835424ec9a8dd58561758)
 - Add files via upload [`de1391e`](https://github.com/atherdon/fuck-ecoflow/commit/de1391eab2732d963efb6841371c51231f4c3963)
 - Reorganize docs and optimize media [`81133b0`](https://github.com/atherdon/fuck-ecoflow/commit/81133b04b7e46cb92970011405e2a12ea718294b)
+- docs: remove the AssemBLYA section and keep its images [`e2facb9`](https://github.com/atherdon/fuck-ecoflow/commit/e2facb9c5b6bdc50811d959c3d126446ff1ea9d7)
 - Add docs media optimization tooling [`8f0d4d9`](https://github.com/atherdon/fuck-ecoflow/commit/8f0d4d9473829af5a1cd85c643aefa0ff880fa11)
 - 3333 [`fe618eb`](https://github.com/atherdon/fuck-ecoflow/commit/fe618eb23e3fcf0c8863f42fe70629f0be5c3710)
 - fix(docs): restore 159 broken images from git history [`ac120f8`](https://github.com/atherdon/fuck-ecoflow/commit/ac120f8ddb8f22c3b5a19e385b45e31eb87e8fa4)
@@ -203,6 +206,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 333 [`3259141`](https://github.com/atherdon/fuck-ecoflow/commit/3259141bfb57b348017de26e64174d791ed3605f)
 - docs(charging-station): physicist page as landing, versions second, inspiration as side projects [`6daaca1`](https://github.com/atherdon/fuck-ecoflow/commit/6daaca106587d71b81a0a1d3e1dd0e6e04512b5f)
 - Add files via upload [`6f9b052`](https://github.com/atherdon/fuck-ecoflow/commit/6f9b052f41ecd2bc5c280f129421e6558e19ddc2)
+- chore(docs-index): regenerate all-pages markdown list [`b4c13e8`](https://github.com/atherdon/fuck-ecoflow/commit/b4c13e8522c77d5b47047c5cb6955d056619636a)
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
 - 3333 [`8ff3eeb`](https://github.com/atherdon/fuck-ecoflow/commit/8ff3eeba5384209024424be231a2903b457aa174)
@@ -291,6 +295,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create transcript [`d0682bc`](https://github.com/atherdon/fuck-ecoflow/commit/d0682bc1112d82d2ddea648c999e18d813c9cdc2)
 - 333 [`94c26a6`](https://github.com/atherdon/fuck-ecoflow/commit/94c26a6488df5a7af2295c90dbace52a554cec83)
 - docs: give first-time readers a clear start here path [`4437ae5`](https://github.com/atherdon/fuck-ecoflow/commit/4437ae566aba49bb0bd320e414ba97bc3c312a8d)
+- docs: merge the drone net gun pages into one [`6d06bee`](https://github.com/atherdon/fuck-ecoflow/commit/6d06beee9bacc20fe06f9841f0de4e96f1ebcd28)
 - Update physicist-ua.md [`2a5ed7e`](https://github.com/atherdon/fuck-ecoflow/commit/2a5ed7e902cf1c3e13104a155669e5e83cea8661)
 - 33 [`804d3a6`](https://github.com/atherdon/fuck-ecoflow/commit/804d3a61e415297c80e118f131ffb6c612ad7ab4)
 - Add files via upload [`9f66eec`](https://github.com/atherdon/fuck-ecoflow/commit/9f66eec5ef700917ed465aa5ae8ed2d83aa1e9d1)
@@ -735,6 +740,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`3ad199e`](https://github.com/atherdon/fuck-ecoflow/commit/3ad199ec4b39b1360edff96709080c83cff08a8f)
+- chore(changelog): regenerate after merged pull request [`6e0363f`](https://github.com/atherdon/fuck-ecoflow/commit/6e0363f7a7cc37de31b82b9ab4d1881fb401db2b)
 - chore(changelog): regenerate after merged pull request [`e9a76bc`](https://github.com/atherdon/fuck-ecoflow/commit/e9a76bc097c11beb233b8e90a4eda7c75d0277f1)
 - chore(changelog): regenerate after merged pull request [`8ebc3fd`](https://github.com/atherdon/fuck-ecoflow/commit/8ebc3fd52802be1d05c59f94814cea3b5b4555c6)
 - chore(changelog): regenerate after merged pull request [`c4b3985`](https://github.com/atherdon/fuck-ecoflow/commit/c4b3985fe6fed8de308335c516ebe4687ec96ab6)
