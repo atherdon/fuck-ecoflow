@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
+title: Communication links
+sidebar_label: Communication links
 ---
+
 
 
 

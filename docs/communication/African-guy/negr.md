@@ -1,3 +1,8 @@
+---
+title: Situation update
+sidebar_label: Situation update
+---
+
 немного деталей про то шо у нас зараз происходит
 
 у нас уже 3 своих поста(жестяк)

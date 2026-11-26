@@ -1,3 +1,8 @@
+---
+title: Shotgun with nets
+sidebar_label: Shotgun with nets
+---
+
 ще таке питання
 
 

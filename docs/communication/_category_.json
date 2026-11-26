@@ -1,5 +1,9 @@
 {
   "label": "Communication",
   "position": 6,
-  "collapsed": true
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "communication/readme"
+  }
 }

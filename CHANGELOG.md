@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(outsourcing): add a section landing page [`#115`](https://github.com/atherdon/fuck-ecoflow/pull/115)
+- docs(communication): add a section landing page [`#114`](https://github.com/atherdon/fuck-ecoflow/pull/114)
+- docs: add a glossary of project terms [`#111`](https://github.com/atherdon/fuck-ecoflow/pull/111)
 - ci: use short DA aliases for auto-rebase and npm-check [`#101`](https://github.com/atherdon/fuck-ecoflow/pull/101)
 - ci: add strict missing-image check on PRs [`#97`](https://github.com/atherdon/fuck-ecoflow/pull/97)
 - docs(problem): give the Problem section an index and real titles [`#108`](https://github.com/atherdon/fuck-ecoflow/pull/108)
@@ -683,6 +686,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`270eaf6`](https://github.com/atherdon/fuck-ecoflow/commit/270eaf655fd590f7cc25dfee2a2c657a18a3e99b)
 - chore(docs-index): regenerate all-pages markdown list [`0e249d8`](https://github.com/atherdon/fuck-ecoflow/commit/0e249d8ea3ed723c1fd49a4ca11881f7ff8c7834)
 - chore(changelog): regenerate after merged pull request [`f7affec`](https://github.com/atherdon/fuck-ecoflow/commit/f7affec04764c557041286ea711742a1875e2a1c)
 - chore(changelog): regenerate after merged pull request [`a7846ae`](https://github.com/atherdon/fuck-ecoflow/commit/a7846ae3127fcb675bc4e264927a262054683ff3)
