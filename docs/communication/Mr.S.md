@@ -1,3 +1,8 @@
+---
+title: Mr.S — press release
+sidebar_label: Mr.S — press release
+---
+
 ⁨📷⁩ ⁨---press release---
 A new 7 kWh power station for Ukraine
 
