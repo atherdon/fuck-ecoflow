@@ -158,43 +158,45 @@ sidebar_position: 999
 | 144 | `communication/master-plan-unfinished.md` | communication/master-plan-unfinished |
 | 145 | `communication/monstrik-not-done.md` | communication/monstrik-not-done |
 | 146 | `communication/newsletters/readme.md` | communication/newsletters/readme |
-| 147 | `communication/shotgun-with-nets.md` | communication/shotgun-with-nets |
-| 148 | `communication/zombie/questions.md` | communication/zombie/questions |
-| 149 | `communication/волонтери.md` | communication/волонтери |
-| 150 | `communication/кріс.md` | communication/кріс |
-| 151 | `intro.md` | Start here |
-| 152 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
-| 153 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
-| 154 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
-| 155 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| 156 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
-| 157 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
-| 158 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 159 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 160 | `orders/06-June-case.md` | orders/06-June-case |
-| 161 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 162 | `orders/Rob-is-great.md` | orders/Rob-is-great |
-| 163 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 164 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
-| 165 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 166 | `orders/something.md` | orders/something |
-| 167 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 168 | `orders/we-need-it.md` | orders/we-need-it |
-| 169 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 170 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 171 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 172 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 173 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 174 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 175 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 176 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 177 | `reports/readme.md` | reports/readme |
-| 178 | `reports/status/current-status.md` | reports/status/current-status |
-| 179 | `reports/status/june-2026.md` | June 2026 report |
-| 180 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 181 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 182 | `reports/wires/r.md` | reports/wires/r |
-| 183 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 184 | `team/partners-and-members.md` | Partners and members |
-| 185 | `team/readme.md` | team/readme |
-| 186 | `team/veteran-business.md` | Veteran business concept |
+| 147 | `communication/readme.md` | Communication |
+| 148 | `communication/shotgun-with-nets.md` | communication/shotgun-with-nets |
+| 149 | `communication/zombie/questions.md` | communication/zombie/questions |
+| 150 | `communication/волонтери.md` | communication/волонтери |
+| 151 | `communication/кріс.md` | communication/кріс |
+| 152 | `glossary.md` | Glossary |
+| 153 | `intro.md` | Start here |
+| 154 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
+| 155 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
+| 156 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
+| 157 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
+| 158 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
+| 159 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
+| 160 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 161 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 162 | `orders/06-June-case.md` | orders/06-June-case |
+| 163 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 164 | `orders/Rob-is-great.md` | orders/Rob-is-great |
+| 165 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 166 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
+| 167 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 168 | `orders/something.md` | orders/something |
+| 169 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 170 | `orders/we-need-it.md` | orders/we-need-it |
+| 171 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 172 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 173 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 174 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 175 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 176 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 177 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 178 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 179 | `reports/readme.md` | reports/readme |
+| 180 | `reports/status/current-status.md` | reports/status/current-status |
+| 181 | `reports/status/june-2026.md` | June 2026 report |
+| 182 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 183 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 184 | `reports/wires/r.md` | reports/wires/r |
+| 185 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 186 | `team/partners-and-members.md` | Partners and members |
+| 187 | `team/readme.md` | team/readme |
+| 188 | `team/veteran-business.md` | Veteran business concept |
