@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: give first-time readers a clear Start here path [`#106`](https://github.com/atherdon/fuck-ecoflow/pull/106)
 - docs(charging-station): reformat 'Chat with great and smart people' for readability [`#105`](https://github.com/atherdon/fuck-ecoflow/pull/105)
 - docs(charging-station): merge Information and Notes into one section [`#104`](https://github.com/atherdon/fuck-ecoflow/pull/104)
 - docs(charging-station): physicist page as landing, Versions second, Inspiration & side projects [`#103`](https://github.com/atherdon/fuck-ecoflow/pull/103)
@@ -234,6 +235,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create Dmytro's notes on engineering and logistics [`d573f3a`](https://github.com/atherdon/fuck-ecoflow/commit/d573f3a3f58d4e926fa44a1b57d8cb1cdb59b0f0)
 - Create transcript [`d0682bc`](https://github.com/atherdon/fuck-ecoflow/commit/d0682bc1112d82d2ddea648c999e18d813c9cdc2)
 - 333 [`94c26a6`](https://github.com/atherdon/fuck-ecoflow/commit/94c26a6488df5a7af2295c90dbace52a554cec83)
+- docs: give first-time readers a clear start here path [`4437ae5`](https://github.com/atherdon/fuck-ecoflow/commit/4437ae566aba49bb0bd320e414ba97bc3c312a8d)
 - Update physicist-ua.md [`2a5ed7e`](https://github.com/atherdon/fuck-ecoflow/commit/2a5ed7e902cf1c3e13104a155669e5e83cea8661)
 - 33 [`804d3a6`](https://github.com/atherdon/fuck-ecoflow/commit/804d3a61e415297c80e118f131ffb6c612ad7ab4)
 - Add files via upload [`9f66eec`](https://github.com/atherdon/fuck-ecoflow/commit/9f66eec5ef700917ed465aa5ae8ed2d83aa1e9d1)
@@ -246,6 +248,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add README.md (merged, reformatted, with captions) [`bbc3077`](https://github.com/atherdon/fuck-ecoflow/commit/bbc3077800a41e662092777af1c709e52e5a6435)
 - Add files via upload [`c3f0c32`](https://github.com/atherdon/fuck-ecoflow/commit/c3f0c3295485c2d0e29306026accf0167a756d90)
 - Add files via upload [`d3b4e64`](https://github.com/atherdon/fuck-ecoflow/commit/d3b4e64da6c94ebb1744a2505cf09389c65facc7)
+- chore(docs-index): regenerate all-pages markdown list [`2f77716`](https://github.com/atherdon/fuck-ecoflow/commit/2f777168898f270ecfca4956e444f0becf9f158d)
 - Update and rename readme.md to english.md [`3c4ec6e`](https://github.com/atherdon/fuck-ecoflow/commit/3c4ec6e4bb6b3ea04d0eb579175c84576fb2ca9e)
 - Update readme.md [`ccd5fd6`](https://github.com/atherdon/fuck-ecoflow/commit/ccd5fd62ace44b6e26e916add76f45a9e2d53528)
 - Update readme.md [`4c4aedd`](https://github.com/atherdon/fuck-ecoflow/commit/4c4aedd1006de79ea5bc06715a828adf21c8567b)
@@ -581,6 +584,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/atherdon/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/atherdon/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/atherdon/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- chore(changelog): regenerate after merged pull request [`9e13a46`](https://github.com/atherdon/fuck-ecoflow/commit/9e13a46bb4b19fc2c1c5658b5e10cf27d2e2a59e)
 - chore(changelog): regenerate after merged pull request [`efaf5d9`](https://github.com/atherdon/fuck-ecoflow/commit/efaf5d9eb15f84b18f0b2c1163dce12a16aa9e24)
 - chore(changelog): regenerate after merged pull request [`3c382ee`](https://github.com/atherdon/fuck-ecoflow/commit/3c382ee3ca90be4392ae4b19b086c79364c2b4f6)
 - fix(docs): drop stray leading space on ordered-list items (MD005) [`8d99f45`](https://github.com/atherdon/fuck-ecoflow/commit/8d99f45cbe7b14d89b6785aef318c713007bd155)
