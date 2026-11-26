@@ -5,8 +5,7 @@ sidebar_label: "Metal ONly"
 sidebar_position: 70
 ---
 
-
-
+# Disassembling metal holders
 
 <img src="https://raw.githubusercontent.com/atherdon/fuck-ecoflow/refs/heads/main/static/img/assemblya/diss2/IMG_20260623_211341_509.jpg" width="350" loading="lazy" />
 
