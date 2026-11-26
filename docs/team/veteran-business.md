@@ -3,6 +3,7 @@ sidebar_position: 4
 title: Veteran business concept
 ---
 
+
 # Team
 
 I have three wounded comrades whom I want to find work on this project.
@@ -33,3 +34,9 @@ If this thing "takes off" — I want to try to start a veterans' business where 
 ---
 
 For communication — Slack or Signal, where there are already people from different countries.
+
+## Related pages
+
+- [Team](./readme.md) — people, partners, and the lab
+- [Charging station](../charging-station/readme.md) — the main build
+- [Start here](../intro.md)

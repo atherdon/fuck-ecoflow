@@ -4,6 +4,7 @@ sidebar_position: 2
 title: Partners and members
 ---
 
+
 # Team
 
 Created: May 20, 2026 10:40 PM
@@ -89,3 +90,9 @@ PhD з фізики. Головний інженер FPV-підрозділу.
 ---
 
 Для комунікації — Slack або Signal, де вже є люди з різних країн.
+
+## Related pages
+
+- [Team](./readme.md) — people, partners, and the lab
+- [Charging station](../charging-station/readme.md) — the main build
+- [Start here](../intro.md)

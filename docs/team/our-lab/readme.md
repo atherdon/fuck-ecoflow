@@ -3,6 +3,7 @@ sidebar_position: 1
 slug: /team/our-lab
 ---
 
+
 # Our Distributed Laboratory
 
 The laboratory photos are kept in the local `images/` folder so the page is easy to browse in GitHub and renders cleanly on GitHub Pages.
@@ -88,3 +89,9 @@ The laboratory photos are kept in the local `images/` folder so the page is easy
 ![Lab Signal photo 2026-06-04 150532 004](./images/lab-signal-2026-06-04-150532-004.jpeg)
 
 ![Lab Signal photo 2026-06-04 150532 005](./images/lab-signal-2026-06-04-150532-005.jpeg)
+
+## Related pages
+
+- [Team](../readme.md) — people, partners, and the lab
+- [Charging station](../../charging-station/readme.md) — the main build
+- [Start here](../../intro.md)
