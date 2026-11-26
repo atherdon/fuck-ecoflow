@@ -90,6 +90,13 @@ const manualRedirects = [
     from: ['/docs/charging-station/Y-completed-cases/number-two/number-two'],
   },
   {
+    to: '/docs/charging-station/Y-completed-cases/number-two/case-01',
+    from: [
+      '/docs/charging-station/Y-completed-cases/01',
+      '/docs/charging-station/Y-completed-cases/01/readme',
+    ],
+  },
+  {
     to: '/docs/charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people',
     from: [
       '/docs/charging-station/wb-vs-ecoflow/\u0441hat-with-great-and-smart-people',
