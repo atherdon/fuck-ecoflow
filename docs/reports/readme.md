@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 slug: /reports
+description: Project status, contributor reports, and raw working notes.
 ---
+
 
 # Reports
 

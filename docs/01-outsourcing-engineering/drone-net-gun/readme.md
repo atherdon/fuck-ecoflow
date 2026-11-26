@@ -1,3 +1,8 @@
+---
+description: Notes on a drone-mounted net launcher, a side project collected with the engineering docs.
+title: Drone — Net Launcher
+---
+
 # Drone — Net Launcher
 
 Status: Draft — cost-focused notes and reference photos for early-stage evaluation.
