@@ -16,20 +16,8 @@ Photos from the 01 / 2 / 3 case set. The Case 0 proof-of-concept write-up now li
 - [Case 02 — Number Two](../02-number-two/readme.md)
 - [Case 03 — Number Three](../03-number-three/readme.md)
 
+The photos and source files that also appear on [Case 01](../02-number-two/case-01/readme.md) are not repeated here. Those matches were 01-2-3-img1.jpg (same as Case 01 photo 9), 01-2-3-img2.jpg (photo 10), 01-2-3-img3.jpg (photo 11), and the three undecoded source files 01-2-3-img4.bin, 01-2-3-img5.bin, and 01-2-3-img6.bin.
+
 ## Images
 
-![Case 01 / 2 / 3, photo 1](/img/y-completed-cases/01-2-3/01-2-3-img1.jpg)
-
-![Case 01 / 2 / 3, photo 2](/img/y-completed-cases/01-2-3/01-2-3-img2.jpg)
-
-![Case 01 / 2 / 3, photo 3](/img/y-completed-cases/01-2-3/01-2-3-img3.jpg)
-
 ![Case 01 / 2 / 3, photo 4](/img/y-completed-cases/01-2-3/01-2-3-img7.jpg)
-
-## Files not displayed
-
-The following 3 source file(s) were moved and renamed, but could not be decoded as images, so they are linked instead of embedded:
-
-- [01-2-3-img4.bin](./images/01-2-3-img4.bin)
-- [01-2-3-img5.bin](./images/01-2-3-img5.bin)
-- [01-2-3-img6.bin](./images/01-2-3-img6.bin)
