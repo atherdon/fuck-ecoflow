@@ -12,30 +12,29 @@ This page is a design-spec style note for the project "Portable Charging Station
 
 ## Contents
 
-- [Summary](#summary)
-- [Goals and success criteria](#goals-and-success-criteria)
-- [Constraints and assumptions](#constraints-and-assumptions)
-- [Open technical questions](#open-technical-questions)
-- [High-level architecture options](#high-level-architecture-options)
-- [Technical approach and design notes](#technical-approach-and-design-notes)
-- [Cost and sizing](#cost-and-sizing)
-- [Prototype and development roadmap](#prototype-and-development-roadmap)
-- [Testing and validation plan](#testing-and-validation-plan)
-- [Repository structure suggestion](#repository-structure-suggestion)
-- [Concrete contributor tasks](#concrete-contributor-tasks)
-- [Short-term next actions](#short-term-next-actions)
-- [Notes on CE / regulatory](#notes-on-ce--regulatory)
-- [References](#references)
-- [Suggested README blurb](#suggested-readme-blurb)
-- [Questions](#questions)
+- [1. Summary](#summary)
+- [2. Goals and success criteria](#goals-and-success-criteria)
+- [3. Constraints and assumptions](#constraints-and-assumptions)
+- [4. Open technical questions](#open-technical-questions)
+- [5. High-level architecture options](#high-level-architecture-options)
+- [6. Technical approach and design notes](#technical-approach-and-design-notes)
+- [7. Cost and sizing](#cost-and-sizing)
+- [8. Prototype and development roadmap](#prototype-and-development-roadmap)
+- [9. Testing and validation plan](#testing-and-validation-plan)
+- [10. Repository structure suggestion](#repository-structure-suggestion)
+- [11. Concrete contributor tasks](#concrete-contributor-tasks)
+- [12. Short-term next actions](#short-term-next-actions)
+- [13. References](#references)
+- [14. Suggested README blurb](#suggested-readme-blurb)
+- [15. Questions](#questions)
 
-## Summary {#summary}
+## 1. Summary {#summary}
 
 - Build a low-cost, rugged charging station to charge FPV / LiFePO4 packs from a generator (220 VAC) or from an internal powerpack.
-- Goal: simple, reliable, in-case installation (waterproof case), cheap to produce (target ~1/5 cost of commercial RC toolkits), scalable (multiple product tiers).
+- Goal: simple, reliable, in-case installation (waterproof case), cheap to produce (target ~1/5 cost of commercial [RC toolkits](https://www.aliexpress.com/item/1005006294893307.html)), scalable (multiple product tiers).
 - Initial strategy: prototype separate PCB per battery (1 PCB = 1 battery channel) for the first 5–10 cases, then consolidate into multi-channel designs.
 
-## Goals and success criteria {#goals-and-success-criteria}
+## 2. Goals and success criteria {#goals-and-success-criteria}
 
 - Functional: charge n batteries simultaneously while keeping cell balancing and correct charge parameters (no overcharge).
 - Cost: target < $20 per unit for single-channel PCBs at 100+ qty (early estimate) OR multi-channel cost ~2–3× per 8-channel board vs single.
@@ -43,16 +42,16 @@ This page is a design-spec style note for the project "Portable Charging Station
 - Ergonomics: compact, lightweight, easy to use (plug-in, push-button or simple indicator LEDs).
 - Safety: avoid feeding grid; reasonably safe for field use (lab certification optional but not required initially).
 
-## Constraints and assumptions {#constraints-and-assumptions}
+## 3. Constraints and assumptions {#constraints-and-assumptions}
 
-From chat:
+From [chat](../wb-vs-ecoflow/chat-with-great-and-smart-people.md):
 
 - Input: 220 VAC from gasoline inverter/generator (primary); possible internal DC battery pack in later versions.
 - Batteries: initially salvaged FPV batteries (LiPo) and LiFePO4 options discussed — must clarify chemistry and cell counts.
-- Enclosures: ammo/tool boxes (metal or plastic). Metal helps passive cooling; plastic requires fans.
+- Enclosures: ammo/tool boxes (metal or plastic). Metal helps passive cooling; plastic requires fans. Examples: [case examples on AliExpress](https://www.aliexpress.com/item/1005007922241712.html).
 - Production: low budget, expect ~100+ units eventually; first prototypes cheap and easy to build.
 
-## Open technical questions {#open-technical-questions}
+## 4. Open technical questions {#open-technical-questions}
 
 Must resolve before detailed design:
 
@@ -64,7 +63,7 @@ Must resolve before detailed design:
 - CE / regulatory requirements (do we pursue formal certification or treat as donor-crafted gear for field use only?)
 - Cooling policy: passive only vs forced airflow.
 
-## High-level architecture options {#high-level-architecture-options}
+## 5. High-level architecture options {#high-level-architecture-options}
 
 | Option | Notes | Pros | Cons |
 | --- | --- | --- | --- |
@@ -74,7 +73,7 @@ Must resolve before detailed design:
 
 Recommendation: prototype with Option A for first builds (5–10 cases). After field testing, design consolidated multi-channel boards for production.
 
-## Technical approach and design notes {#technical-approach-and-design-notes}
+## 6. Technical approach and design notes {#technical-approach-and-design-notes}
 
 - Input stage: AC mains (220 VAC) → isolated AC/DC converter or switch-mode PSU sized for max expected input power. Optionally external laptop-style chargers can be used.
 - Distribution: DC bus sized to feed up to N channels; include inrush and current limiting.
@@ -84,15 +83,15 @@ Recommendation: prototype with Option A for first builds (5–10 cases). After f
 - Protection: over-voltage, under-voltage, over-current, temperature cutoff, reverse polarity, short circuit protection.
 - Thermal: use case as radiator (metal) or include heatsinks + fan (plastic case).
 
-## Cost and sizing {#cost-and-sizing}
+## 7. Cost and sizing {#cost-and-sizing}
 
-Ballpark from chat:
+Ballpark from [chat](../wb-vs-ecoflow/chat-with-great-and-smart-people.md):
 
 - Single-channel prototype board: hopeful target less than $20 each at qty 100 (component costs not yet finalized).
 - Multi-channel (8-ch) board: estimated 2×–3× cost to build vs one board (per chat) — need exact BOM to refine.
-- Enclosure: toolboxes or ammo boxes (donations possible). Source examples were shared in chat (AliExpress links).
+- Enclosure: toolboxes or ammo boxes (donations possible). Source examples were shared in chat: [RC toolkit (AliExpress)](https://www.aliexpress.com/item/1005006294893307.html), [case examples (AliExpress)](https://www.aliexpress.com/item/1005007922241712.html).
 
-## Prototype and development roadmap {#prototype-and-development-roadmap}
+## 8. Prototype and development roadmap {#prototype-and-development-roadmap}
 
 Milestones and acceptance criteria:
 
@@ -105,7 +104,7 @@ Milestones and acceptance criteria:
 | M4 — Consolidated multi-channel design & pilot run | 4–8 weeks | multi-channel PCB + 10 pilot units, BOM optimization for volume manufacture. | pilot units meet cost, size and reliability goals. |
 | M5 — Documentation, BOM, assembly instructions, deployment | ongoing | final documentation, build guide, test scripts, photos. | |
 
-## Testing and validation plan {#testing-and-validation-plan}
+## 9. Testing and validation plan {#testing-and-validation-plan}
 
 - Bench tests: verify CC/CV behavior, current limits, balancing, thermal profile, efficiency.
 - Environmental test: vibration, drop test, humidity (as appropriate for field use).
@@ -113,49 +112,47 @@ Milestones and acceptance criteria:
 - Field test: charging cycles in realistic usage; check durability over multiple cycles.
 - Optional: EMC and CE testing if certification becomes a hard requirement.
 
-## Repository structure suggestion {#repository-structure-suggestion}
+## 10. Repository structure suggestion {#repository-structure-suggestion}
 
 Create these files:
 
-- docs/charging-station/design-spec.md (this document)
-- docs/charging-station/requirements.md (filled from M0)
-- schematics/ (KiCad/Altium files)
-- pcb/ (Gerbers)
-- bom/ (BOM.csv)
-- firmware/ (if any MCU code for monitoring / balancing)
-- tests/ (test procedures, logs)
-- photos/ (integration photos)
-- README.md (high level)
+- `docs/charging-station/design-spec.md` (this document)
+- `docs/charging-station/requirements.md` (filled from M0)
+- `schematics/` (KiCad/Altium files)
+- `pcb/` (Gerbers)
+- `bom/` (BOM.csv)
+- `firmware/` (if any MCU code for monitoring / balancing)
+- `tests/` (test procedures, logs)
+- `photos/` (integration photos)
+- `README.md` (high level)
 - ISSUES: create issues for each M0-M5 task and for missing decisions
 
-## Concrete contributor tasks {#concrete-contributor-tasks}
+## 11. Concrete contributor tasks {#concrete-contributor-tasks}
 
 Convert to GitHub issues:
 
-- Task 1: Confirm battery chemistry and typical cell counts used in field (owner: @someone) — due 3 days.
-- Task 2: Define max number of batteries per case and target case models (owner: @someone) — due 3 days.
-- Task 3: Measure available generator power & worst-case input capability at field sites (owner: @someone) — due 1 week.
-- Task 4: Produce schematic draft for single-channel CC/CV module and simulation of inductor (owner: electronics engineer) — due 2 weeks.
-- Task 5: Draft BOM estimate and cost-per-unit at qty 100 (owner: purchasing) — due 2 weeks.
-- Task 6: Source candidate plastic and metal enclosures and list dimensions (owner: logistics) — due 1 week.
-- Task 7: Create a GitHub repo skeleton and add this design-spec.md (owner: @atherdon or repo admin) — due now.
+| Task | Owner | Due |
+| --- | --- | --- |
+| Task 1: Confirm battery chemistry and typical cell counts used in field | @someone | 3 days |
+| Task 2: Define max number of batteries per case and target case models | @someone | 3 days |
+| Task 3: Measure available generator power & worst-case input capability at field sites | @someone | 1 week |
+| Task 4: Produce schematic draft for single-channel CC/CV module and simulation of inductor | electronics engineer | 2 weeks |
+| Task 5: Draft BOM estimate and cost-per-unit at qty 100 | purchasing | 2 weeks |
+| Task 6: Source candidate plastic and metal enclosures and list dimensions | logistics | 1 week |
+| Task 7: Create a GitHub repo skeleton and add this design-spec.md | @atherdon or repo admin | now |
 
-## Short-term next actions {#short-term-next-actions}
+## 12. Short-term next actions {#short-term-next-actions}
 
 Do these now:
 
-- Confirm answers for the Open technical questions section (post in chat or GitHub issue).
-- Create docs/charging-station/design-spec.md with this content.
+- Confirm answers for the [Open technical questions](#open-technical-questions) section (post in [chat](../wb-vs-ecoflow/chat-with-great-and-smart-people.md) or GitHub issue).
+- Create `docs/charging-station/design-spec.md` with this content.
 - Open GitHub issues for Task 1, Task 2, Task 3 and assign owners.
 - Mark “prototype one-board-per-battery” as the current plan and order parts for a single-channel prototype once specs confirmed.
 
-## Notes on CE / regulatory {#notes-on-ce--regulatory}
+## 13. References {#references}
 
-- If connecting directly to 220 VAC and selling in EU/other markets later, CE or equivalent testing may be required; for field/donation usage, team opted to defer formal certification. Document this decision and required mitigations (clear no-grid-feed, user instructions, warnings).
-
-## References {#references}
-
-From chat:
+From [chat](../wb-vs-ecoflow/chat-with-great-and-smart-people.md):
 
 - [RC toolkit example (AliExpress)](https://www.aliexpress.com/item/1005006294893307.html)
 - [Case examples (AliExpress)](https://www.aliexpress.com/item/1005007922241712.html)
@@ -164,13 +161,13 @@ From chat:
   - [Antey Energy Charging Station](../inspiration/antey-energy/Antey%20Energy%20Charging%20Station.md)
 - [Google doc shared in chat](https://docs.google.com/document/d/1UMfly0OfGN5JFdITxgCq4EVsNlpK3LJ0mGq1wbi26cs/edit?usp=drivesdk)
 
-## Suggested README blurb {#suggested-readme-blurb}
+## 14. Suggested README blurb {#suggested-readme-blurb}
 
 One-liner to add to repo:
 
 - "This project designs a low-cost, rugged charging station for FPV and LiFePO4 batteries for field use. The initial plan is to prototype per-battery PCBs for modular charging, integrate those into waterproof cases, then consolidate into production multi-channel units."
 
-## Questions {#questions}
+## 15. Questions {#questions}
 
 Choose answers to continue:
 
