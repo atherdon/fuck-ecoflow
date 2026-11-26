@@ -399,5 +399,17 @@
   "theme.tags.tagsPageTitle": {
     "message": "Теги",
     "description": "The title of the tag list page"
+  },
+  "languageNotice.en.translated": {
+    "message": "Ця сторінка є також українською."
+  },
+  "languageNotice.en.ukrainianOnly": {
+    "message": "Ця сторінка написана українською. Англійської версії поки немає."
+  },
+  "languageNotice.uk.translated": {
+    "message": "Ця сторінка є також англійською."
+  },
+  "languageNotice.uk.notTranslated": {
+    "message": "Українського перекладу цієї сторінки ще немає, тому показано оригінал."
   }
 }
