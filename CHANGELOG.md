@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): add a Versions timeline page [`#123`](https://github.com/atherdon/fuck-ecoflow/pull/123)
+- docs(charging-station): add tags to completed-case write-ups [`#122`](https://github.com/atherdon/fuck-ecoflow/pull/122)
 - docs: label English and Ukrainian versions in the sidebar [`#121`](https://github.com/atherdon/fuck-ecoflow/pull/121)
 - docs(orders): add a section landing page [`#116`](https://github.com/atherdon/fuck-ecoflow/pull/116)
 - docs: give the 404 page useful starting links [`#113`](https://github.com/atherdon/fuck-ecoflow/pull/113)
@@ -277,6 +279,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`33a829a`](https://github.com/atherdon/fuck-ecoflow/commit/33a829ac570dc4c087e4599e22037ac3626ae105)
 - Add README.md to display images in docs/01-outsourcing-engineering/AssemBLYA/dissasembling/03 [`c20d6bf`](https://github.com/atherdon/fuck-ecoflow/commit/c20d6bf1c20232d886def03658862bfb2ae88066)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/222/dissasembled.md [`3dedbdc`](https://github.com/atherdon/fuck-ecoflow/commit/3dedbdc210419edda7dbdb0fa0c339c0712e4386)
+- chore(docs-index): regenerate all-pages markdown list [`a1572d4`](https://github.com/atherdon/fuck-ecoflow/commit/a1572d431dee9951512bd717d223d1e59022b566)
 - Update cut-the-corners.md [`87234ae`](https://github.com/atherdon/fuck-ecoflow/commit/87234ae887f4b995a33d001041e489527de5add3)
 - 333 [`599da35`](https://github.com/atherdon/fuck-ecoflow/commit/599da356d3e08a2eb3cd403d03b3ae269679ab91)
 - Update Dmytro-en.md [`672578e`](https://github.com/atherdon/fuck-ecoflow/commit/672578e2f071fb6f581297fb2600f501e773b5ae)
@@ -532,6 +535,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial report document in Ukrainian [`96cd292`](https://github.com/atherdon/fuck-ecoflow/commit/96cd2924cdcb2f8ace32aa23faba495393246c70)
 - Update Oksana-Titova.md [`bdbf3f7`](https://github.com/atherdon/fuck-ecoflow/commit/bdbf3f7ea4c6ac0592b509db0e62830afe3aef05)
 - Add files via upload [`c146f0b`](https://github.com/atherdon/fuck-ecoflow/commit/c146f0b67a5b61c7c2538827f1b71706eb584311)
+- chore(changelog): regenerate after merged pull request [`774339d`](https://github.com/atherdon/fuck-ecoflow/commit/774339dffa64554c8332a99fa545c34fa0690ead)
 - Update 1.md [`74db0e1`](https://github.com/atherdon/fuck-ecoflow/commit/74db0e1306285eed0f868104ec408201f5a21c6b)
 - 111 [`018c760`](https://github.com/atherdon/fuck-ecoflow/commit/018c7604c46cc9653168889b6c2db53c334f5751)
 - 111 [`37563a1`](https://github.com/atherdon/fuck-ecoflow/commit/37563a197a35d40eeb939c3891c0c0e817c6dfe7)
@@ -607,6 +611,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/atherdon/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/atherdon/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/atherdon/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- docs: leave Case 0 proof-of-concept files untagged here [`763aa16`](https://github.com/atherdon/fuck-ecoflow/commit/763aa16c990c6ee46b9c1db6198e32c25888d282)
 - chore(changelog): regenerate after merged pull request [`9e13a46`](https://github.com/atherdon/fuck-ecoflow/commit/9e13a46bb4b19fc2c1c5658b5e10cf27d2e2a59e)
 - chore(changelog): regenerate after merged pull request [`efaf5d9`](https://github.com/atherdon/fuck-ecoflow/commit/efaf5d9eb15f84b18f0b2c1163dce12a16aa9e24)
 - chore(changelog): regenerate after merged pull request [`3c382ee`](https://github.com/atherdon/fuck-ecoflow/commit/3c382ee3ca90be4392ae4b19b086c79364c2b4f6)
@@ -630,6 +635,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`6856c5c`](https://github.com/atherdon/fuck-ecoflow/commit/6856c5c92cd9a694a7cf130cf7a50e0f4715bf43)
 - Update intro.md [`1e688e6`](https://github.com/atherdon/fuck-ecoflow/commit/1e688e606920f7b6345bd45376b3c573c1dea1b8)
 - Add renovate.json [`9f7af52`](https://github.com/atherdon/fuck-ecoflow/commit/9f7af5226f1e30be09fddeb18627fcc04714b6a7)
+- docs: leave the Case 02 write-up untagged here [`833e940`](https://github.com/atherdon/fuck-ecoflow/commit/833e940338994845d7d9dbd259ffed357cb5ccc0)
 - chore(changelog): regenerate after merged pull request [`be6c777`](https://github.com/atherdon/fuck-ecoflow/commit/be6c7773667187969430f4c1d4178b6860448241)
 - chore(changelog): regenerate after merged pull request [`542bc02`](https://github.com/atherdon/fuck-ecoflow/commit/542bc021d17817ea473954f34f4b8ebc7c1e4b0f)
 - chore(changelog): regenerate after merged pull request [`e870ab3`](https://github.com/atherdon/fuck-ecoflow/commit/e870ab31f5833e39071c02c5aa8f4b57838aba4d)
