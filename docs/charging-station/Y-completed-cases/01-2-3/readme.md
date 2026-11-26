@@ -1,16 +1,16 @@
 ---
 title: Case 01 / 2 / 3
 sidebar_label: Case 01 / 2 / 3
-description: Photos from completed cases 01, 02 and 03, including the case 0 proof of concept.
+description: Photos from completed cases 01, 02 and 03.
 ---
 
 # Case 01 / 2 / 3
 
-Photos from the 01 / 2 / 3 case set. The write-up for [Case #0 — Proof of concept — Mr.S 27.05.25](./case-0-proof-of-concept-mr-s-27-05-25.md) lives in this folder.
+Photos from the 01 / 2 / 3 case set. The Case 0 proof-of-concept write-up now lives with [Case 0](../case-0/readme.md).
 
 ## Other cases
 
-- [Case 00](../00/readme.md)
+- [Case 0](../case-0/readme.md)
 - [Case 01](../01/readme.md)
 - [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 02 — Number Two](../02-number-two/readme.md)

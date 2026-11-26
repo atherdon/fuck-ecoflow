@@ -1,6 +1,11 @@
 ---
-slug: /charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25
+title: Case #0 - Proof of concept - Mr.S 27.05.25
+sidebar_label: Proof of concept
+sidebar_position: 3
+slug: /charging-station/Y-completed-cases/case-0/proof-of-concept
+description: Proof-of-concept notes for completed case 0 (Mr.S, 27.05.25).
 ---
+
 
 # Case #0 - Proof of concept - Mr.S 27.05.25
 
@@ -44,3 +49,9 @@ I did not yet bother about how to charge the battery packs
 ## Sjoerd`s proof-of-concept May 23th
 
 `signal-2025-05-23-10-54-15-840.mp4`
+
+## Related pages
+
+- [Case 0](./readme.md) — photos and the other Case 0 pages
+- [Prototype](./prototype.md)
+
