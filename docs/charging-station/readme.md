@@ -89,7 +89,7 @@ slug: /charging-station
 
 [https://www.instructables.com/Parallel-Lipo-batteries-charging/](https://www.instructables.com/Parallel-Lipo-batteries-charging/) 
 
-![image.png](./physicist-main-page/image.png)
+![Ящик фірми Фізік і друзі, photo 1](./physicist-main-page/image.png)
 
 ---
 
@@ -139,6 +139,6 @@ slug: /charging-station
 
 ниже пока что мусорник
 
-![image.png](./physicist-main-page/346c3128-35ca-446f-999d-99621bf60472.png)
+![Ящик фірми Фізік і друзі, photo 2](./physicist-main-page/346c3128-35ca-446f-999d-99621bf60472.png)
 
-![image.png](./physicist-main-page/3c630db2-f323-4ffd-9726-6e3329a74ef5.png)
+![Ящик фірми Фізік і друзі, photo 3](./physicist-main-page/3c630db2-f323-4ffd-9726-6e3329a74ef5.png)
