@@ -172,40 +172,42 @@ sidebar_position: 999
 | 158 | `communication/zombie/questions.md` | Fundraising campaign questions |
 | 159 | `communication/волонтери.md` | Волонтери |
 | 160 | `communication/кріс.md` | Кріс |
-| 161 | `glossary.md` | Glossary |
-| 162 | `intro.md` | Start here |
-| 163 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
-| 164 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
-| 165 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
-| 166 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| 167 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
-| 168 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
-| 169 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 170 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 171 | `orders/06-June-case.md` | orders/06-June-case |
-| 172 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
-| 173 | `orders/Rob-is-great.md` | orders/Rob-is-great |
-| 174 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
-| 175 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
-| 176 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
-| 177 | `orders/something.md` | orders/something |
-| 178 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
-| 179 | `orders/we-need-it.md` | orders/we-need-it |
-| 180 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 181 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 182 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 183 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 184 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 185 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 186 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 187 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 188 | `reports/readme.md` | reports/readme |
-| 189 | `reports/status/current-status.md` | reports/status/current-status |
-| 190 | `reports/status/june-2026.md` | June 2026 report |
-| 191 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 192 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 193 | `reports/wires/r.md` | reports/wires/r |
-| 194 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 195 | `team/partners-and-members.md` | Partners and members |
-| 196 | `team/readme.md` | team/readme |
-| 197 | `team/veteran-business.md` | Veteran business concept |
+| 161 | `feedback.md` | Feedback |
+| 162 | `glossary.md` | Glossary |
+| 163 | `how-to-read-this-site.md` | How to read this site |
+| 164 | `intro.md` | Start here |
+| 165 | `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
+| 166 | `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
+| 167 | `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
+| 168 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
+| 169 | `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
+| 170 | `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
+| 171 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 172 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 173 | `orders/06-June-case.md` | orders/06-June-case |
+| 174 | `orders/MAVIC-BOX-April-10th.md` | orders/MAVIC-BOX-April-10th |
+| 175 | `orders/Rob-is-great.md` | orders/Rob-is-great |
+| 176 | `orders/arthur-wiring-parts-list.md` | orders/arthur-wiring-parts-list |
+| 177 | `orders/cool-bms-to-try.md` | orders/cool-bms-to-try |
+| 178 | `orders/owl-supply-list-2025-06-01.md` | orders/owl-supply-list-2025-06-01 |
+| 179 | `orders/something.md` | orders/something |
+| 180 | `orders/tools-for-welding/tools.md` | orders/tools-for-welding/tools |
+| 181 | `orders/we-need-it.md` | orders/we-need-it |
+| 182 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 183 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 184 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 185 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 186 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 187 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 188 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 189 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 190 | `reports/readme.md` | reports/readme |
+| 191 | `reports/status/current-status.md` | reports/status/current-status |
+| 192 | `reports/status/june-2026.md` | June 2026 report |
+| 193 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 194 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 195 | `reports/wires/r.md` | reports/wires/r |
+| 196 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 197 | `team/partners-and-members.md` | Partners and members |
+| 198 | `team/readme.md` | team/readme |
+| 199 | `team/veteran-business.md` | Veteran business concept |
