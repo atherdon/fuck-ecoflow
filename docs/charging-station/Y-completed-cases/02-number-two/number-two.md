@@ -1,8 +1,3 @@
----
-title: Number Two
-tags: [completed-case, case-02]
----
-
 # Number Two
 
 ![1000235290.jpg](/img/y-completed-cases/02-number-two/02-number-two-img8.jpg)
