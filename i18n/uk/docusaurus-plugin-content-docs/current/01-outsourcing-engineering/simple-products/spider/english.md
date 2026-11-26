@@ -1,6 +1,5 @@
 ---
-slug: /01-outsourcing-engineering/simple-products/spider/5-павук
-sidebar_label: Павук (українською)
+sidebar_label: Павук
 ---
 
 
@@ -12,29 +11,29 @@ sidebar_label: Павук (українською)
 
 Як я вже сказав - система ця дуже проста. Щоб її зробити руками - не треба майже нічого. Купляються коннектори, купляється бухта цього коаксикального кабеля, обжимка і воно вже буде працювати. 
 
-![image.png](./images/spider-img12.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img12.jpg)
 
-![image.png](./images/spider-img1.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img1.jpg)
 
-![image.png](./images/spider-img2.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img2.jpg)
 
-![image.png](./images/spider-img3.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img3.jpg)
 
-![image.png](./images/spider-img4.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img4.jpg)
 
-![image.png](./images/spider-img5.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img5.jpg)
 
-![image.png](./images/spider-img6.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img6.jpg)
 
-![image.png](./images/spider-img7.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img7.jpg)
 
-![image.png](./images/spider-img8.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img8.jpg)
 
-![image.png](./images/spider-img9.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img9.jpg)
 
-![image.png](./images/spider-img10.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img10.jpg)
 
-![image.png](./images/spider-img11.jpg)
+![image.png](../../../../../../../docs/01-outsourcing-engineering/simple-products/spider/images/spider-img11.jpg)
 
 відео русаків
 
