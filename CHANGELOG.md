@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): land the sidebar and section-index work on main [`#135`](https://github.com/atherdon/fuck-ecoflow/pull/135)
 - docs(notes): expand the competitors page with sourced specs [`#133`](https://github.com/atherdon/fuck-ecoflow/pull/133)
 - docs(charging-station): merge the two Case 02 Number Two pages [`#132`](https://github.com/atherdon/fuck-ecoflow/pull/132)
 - docs(charging-station): group Case 0 prototype and proof of concept [`#131`](https://github.com/atherdon/fuck-ecoflow/pull/131)
@@ -214,6 +215,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add naming convention CI check [`bc2e9c0`](https://github.com/atherdon/fuck-ecoflow/commit/bc2e9c027ec7b65effb39ad417ff8ab98c446160)
 - chore(docs-index): regenerate all-pages markdown list [`ed1e6aa`](https://github.com/atherdon/fuck-ecoflow/commit/ed1e6aa003fd7f5277bf6505e18c403023176e9b)
 - 111 [`45e72e7`](https://github.com/atherdon/fuck-ecoflow/commit/45e72e76f8cbfb2d69118b727c517fd49230f9a5)
+- docs(charging-station): make the section readable from the sidebar [`6851963`](https://github.com/atherdon/fuck-ecoflow/commit/68519636df7bcc21070feaff38e89d7fd4e6d174)
 - Add files via upload [`0f41a88`](https://github.com/atherdon/fuck-ecoflow/commit/0f41a88a73bc1a85e43209a7ba126a68c3888333)
 - 111 [`1288b5e`](https://github.com/atherdon/fuck-ecoflow/commit/1288b5e8f29ae886175cafba2af87913605a41bf)
 - 3333 [`d617538`](https://github.com/atherdon/fuck-ecoflow/commit/d617538ad67d3b88318e8595af605a82cb64dee5)
@@ -608,6 +610,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`65587f6`](https://github.com/atherdon/fuck-ecoflow/commit/65587f6a0d367baa849d2d5bc9a98ee74ae3648f)
 - Mark tasks as completed in readme.md [`c8a36aa`](https://github.com/atherdon/fuck-ecoflow/commit/c8a36aab3a226735d726953f570d20ac3a1dd717)
 - Update intro.md [`a58f28d`](https://github.com/atherdon/fuck-ecoflow/commit/a58f28dd137f827a8dda6c3fb2894303425e71e1)
+- chore(changelog): regenerate after merged pull request [`2db9579`](https://github.com/atherdon/fuck-ecoflow/commit/2db9579745802f985ecdd231e71e9f05842e4657)
 - chore(changelog): regenerate after merged pull request [`c055dbb`](https://github.com/atherdon/fuck-ecoflow/commit/c055dbb3d5dcbb6a5a736535d204d5f8248fc700)
 - chore(changelog): regenerate after merged pull request [`0a03619`](https://github.com/atherdon/fuck-ecoflow/commit/0a036193f4f6b0176707a3e79d8cdc8c808080b5)
 - Restrict Pages permissions to deploy job [`7a807e8`](https://github.com/atherdon/fuck-ecoflow/commit/7a807e89ecfc9bd01fcc860fc5bb589cf255c2cf)
@@ -731,6 +734,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(docs-index): regenerate all-pages markdown list [`1763899`](https://github.com/atherdon/fuck-ecoflow/commit/176389926d1caadb60d1e8f21691dde2f69e631f)
 - chore(changelog): regenerate after merged pull request [`7d49613`](https://github.com/atherdon/fuck-ecoflow/commit/7d496139b7e43d0b1ecbb485e169c6618d4aa59a)
 - chore(docs-index): regenerate all-pages markdown list [`28be7b8`](https://github.com/atherdon/fuck-ecoflow/commit/28be7b8a198226b0a86c8a9c49db8cba9b6d5b4f)
 - chore(changelog): regenerate after merged pull request [`cfb3a89`](https://github.com/atherdon/fuck-ecoflow/commit/cfb3a8964e5b7f7bfaf9c95cbaf74d47bfcc78ea)
