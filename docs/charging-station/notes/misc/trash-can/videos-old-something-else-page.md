@@ -14,8 +14,8 @@ slug: /charging-station/information/misc/trash-can/videos-old-something-else-pag
 
 ![1000062876.jpg](1000062876.jpg)
 
-![photo_2025-04-23_00-57-47.jpg](photo_2025-04-23_00-57-47.jpg)
+![photo_2025-04-23_00-57-47.jpg](photo-2025-04-23-00-57-47.jpg)
 
-![photo_2025-04-23_00-57-48.jpg](photo_2025-04-23_00-57-48.jpg)
+![photo_2025-04-23_00-57-48.jpg](photo-2025-04-23-00-57-48.jpg)
 
 `video_2025-04-23_02-13-04.mp4`

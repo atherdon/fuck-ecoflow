@@ -1,3 +1,7 @@
+---
+slug: /charging-station/information/misc/Tsikavo
+---
+
 # Tsikavo
 
 Targan
