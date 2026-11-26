@@ -103,7 +103,7 @@ sidebar_position: 999
 | 89 | `charging-station/inspiration/antey-energy/Antey Energy 2.md` | charging-station/inspiration/antey-energy/Antey Energy 2 |
 | 90 | `charging-station/inspiration/antey-energy/Antey Energy Charging Station.md` | charging-station/inspiration/antey-energy/Antey Energy Charging Station |
 | 91 | `charging-station/inspiration/antey-energy/Antey Energy Specification.md` | charging-station/inspiration/antey-energy/Antey Energy Specification |
-| 92 | `charging-station/inspiration/readme.md` | charging-station/inspiration/readme |
+| 92 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
 | 93 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
 | 94 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
 | 95 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
@@ -125,7 +125,7 @@ sidebar_position: 999
 | 111 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
 | 112 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
 | 113 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
-| 114 | `charging-station/physicsist main page/Ящик фірми Фізік і друзі.md` | charging-station/physicsist main page/Ящик фірми Фізік і друзі |
+| 114 | `charging-station/overview.md` | Overview |
 | 115 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
 | 116 | `charging-station/readme.md` | charging-station/readme |
 | 117 | `charging-station/unfinished.md` | charging-station/unfinished |
