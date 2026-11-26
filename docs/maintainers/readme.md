@@ -18,3 +18,4 @@ Technical notes for people who maintain this documentation site and its media. T
 - [Local Modbus PowerOcean](./local-modbus-powerocean.md)
 - [MP4 media manifest](./mp4-media-manifest.md)
 - [Unreferenced media audit](./unreferenced-media-audit.md)
+- [Translations (English and Ukrainian)](./translations.md)

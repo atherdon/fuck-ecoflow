@@ -2,6 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import Link from '@docusaurus/Link';
+import Translate from '@docusaurus/Translate';
 
 export default function NotFoundContent({ className }) {
   return (
@@ -9,32 +10,48 @@ export default function NotFoundContent({ className }) {
       <div className="row">
         <div className="col col--6 col--offset-3">
           <Heading as="h1" className="hero__title">
-            Page not found
+            <Translate id="theme.NotFound.title">Page not found</Translate>
           </Heading>
           <p>
-            That address is not a page on this site. These starting points may
-            help:
+            <Translate id="notFound.intro">
+              That address is not a page on this site. These starting points may
+              help:
+            </Translate>
           </p>
           <ul>
             <li>
-              <Link to="/docs/intro">Start here</Link>
-            </li>
-            <li>
-              <Link to="/docs/glossary">Glossary</Link>
-            </li>
-            <li>
-              <Link to="/docs/charging-station">Charging station</Link>
-            </li>
-            <li>
-              <Link to="/docs/00-problem/problem-statement/english-version">
-                Problem statement
+              <Link to="/docs/intro">
+                <Translate id="notFound.link.startHere">Start here</Translate>
               </Link>
             </li>
             <li>
-              <Link to="/docs/team">Team</Link>
+              <Link to="/docs/glossary">
+                <Translate id="notFound.link.glossary">Glossary</Translate>
+              </Link>
             </li>
             <li>
-              <Link to="/docs/reports">Reports</Link>
+              <Link to="/docs/charging-station">
+                <Translate id="notFound.link.chargingStation">
+                  Charging station
+                </Translate>
+              </Link>
+            </li>
+            <li>
+              <Link to="/docs/00-problem/problem-statement/english-version">
+                <Translate id="notFound.link.problemStatement">
+                  Problem statement
+                </Translate>
+              </Link>
+            </li>
+            <li>
+              <Link to="/docs/team">
+                <Translate id="notFound.link.team">Team</Translate>
+              </Link>
+            </li>
+            <li>
+              <Link to="/docs/reports">
+                <Translate id="notFound.link.reports">Reports</Translate>
+              </Link>
             </li>
           </ul>
         </div>

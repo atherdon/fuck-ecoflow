@@ -5,6 +5,10 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import { themes as prismThemes } from 'prism-react-renderer';
+import {
+  remarkUkDocsLinks,
+  ukDocsLocalePlugin,
+} from './plugins/uk-docs-links.mjs';
 
 const manualRedirects = [
   {
@@ -262,6 +266,9 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
+          // Keeps links from untranslated docs/ pages to pages with a uk
+          // copy working in the uk build. See plugins/uk-docs-links.mjs.
+          beforeDefaultRemarkPlugins: [remarkUkDocsLinks],
         },
         blog: {
           showReadingTime: true,
@@ -274,6 +281,7 @@ const config = {
   ],
 
   plugins: [
+    ukDocsLocalePlugin,
     [
       '@docusaurus/plugin-client-redirects',
       {

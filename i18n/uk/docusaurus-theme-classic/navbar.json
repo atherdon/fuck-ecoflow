@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Fuck Ecoflow",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Логотип Fuck Ecoflow",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Docs": {
+    "message": "Документація",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Charging station": {
+    "message": "Зарядна станція",
+    "description": "Navbar item with label Charging station"
+  },
+  "item.label.Problem": {
+    "message": "Проблема",
+    "description": "Navbar item with label Problem"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
