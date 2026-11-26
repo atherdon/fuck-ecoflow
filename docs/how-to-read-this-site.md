@@ -28,7 +28,7 @@ Some pages are in Ukrainian, some in English, and some mix both. The sidebar lab
 
 - **Problem** — the field situation that the case is meant to improve
 - **Charging station** — the main build: versions, completed cases, tasks, notes, and side projects
-- **Outsourcing engineering** — related products, disassembly notes, and partner engineering
+- **Outsourcing engineering** — related products and partner engineering
 - **Team**, **Communication**, **Reports**, **Orders**, and **3D to print** — people, outreach, status, parts lists, and print files
 - **Information & notes** (inside Charging station) — background research and conversation records, not the build plan itself
 - **Inspiration & side projects** — reference builds, not the main design
