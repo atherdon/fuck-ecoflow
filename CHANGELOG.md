@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): physicist page as landing, Versions second, Inspiration & side projects [`#103`](https://github.com/atherdon/fuck-ecoflow/pull/103)
 - ci: prefer documentation-actions short-name aliases [`#98`](https://github.com/atherdon/fuck-ecoflow/pull/98)
 - ci(build): check out Git LFS objects in Build docs [`#96`](https://github.com/atherdon/fuck-ecoflow/pull/96)
 - docs: refresh README/AGENTS (Node, scripts, LFS pointer rule, CI table) [`#94`](https://github.com/atherdon/fuck-ecoflow/pull/94)
@@ -153,6 +154,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 1111 [`5a0f9ad`](https://github.com/atherdon/fuck-ecoflow/commit/5a0f9addce1f2c2368398867bfe886392b72464f)
 - 888 [`184ffc9`](https://github.com/atherdon/fuck-ecoflow/commit/184ffc9cf7947334fbd110890dcc30a28f2ab2ca)
 - 333 [`3259141`](https://github.com/atherdon/fuck-ecoflow/commit/3259141bfb57b348017de26e64174d791ed3605f)
+- docs(charging-station): physicist page as landing, versions second, inspiration as side projects [`6daaca1`](https://github.com/atherdon/fuck-ecoflow/commit/6daaca106587d71b81a0a1d3e1dd0e6e04512b5f)
 - Add files via upload [`6f9b052`](https://github.com/atherdon/fuck-ecoflow/commit/6f9b052f41ecd2bc5c280f129421e6558e19ddc2)
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
@@ -664,6 +666,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`f7affec`](https://github.com/atherdon/fuck-ecoflow/commit/f7affec04764c557041286ea711742a1875e2a1c)
 - chore(changelog): regenerate after merged pull request [`a7846ae`](https://github.com/atherdon/fuck-ecoflow/commit/a7846ae3127fcb675bc4e264927a262054683ff3)
 - docs(readme): Build docs now uses LFS objects [`b041254`](https://github.com/atherdon/fuck-ecoflow/commit/b041254a54a2e1a34e43c226e832dc6f3178810b)
 - ci(build-images): check out Git LFS objects [`4404def`](https://github.com/atherdon/fuck-ecoflow/commit/4404defe18036d108c5eab188664c500fa7c1b11)
