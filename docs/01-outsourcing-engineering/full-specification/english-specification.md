@@ -121,7 +121,7 @@ Ready-made ones sell for 200–400 UAH. For example, I could easily hand out 40 
 
 [Frog adapter on Rozetka](https://rozetka.com.ua/ua/522259339/p522259339)
 
-More details: [Frog v1](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-one/english).
+More details: [Frog v1](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-v1).
 
 ### 2. Frog 2.0 (TBD)
 
@@ -139,7 +139,7 @@ Then, when we take the cells out of the FPV batteries and put them into the case
 
 ![Frog 2.0 adapter with an XT60 connector](image%204.png)
 
-More details: [Frog 2.0](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-two/english) (Ukrainian).
+More details: [Frog 2.0](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-20) (Ukrainian).
 
 ### 3. "Power banks"
 
