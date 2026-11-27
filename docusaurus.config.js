@@ -223,6 +223,16 @@ const manualRedirects = [
     to: '/docs/charging-station/specification-only',
     from: ['/docs/charging-station/notes/may-22th-specification-only'],
   },
+  {
+    to: '/docs/maintainers',
+    from: [
+      '/docs/maintainers/related-ecoflow-projects',
+      '/docs/maintainers/ecoflow-api-credentials',
+      '/docs/maintainers/ble-reverse-engineering',
+      '/docs/maintainers/mqtt-and-official-api',
+      '/docs/maintainers/local-modbus-powerocean',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
