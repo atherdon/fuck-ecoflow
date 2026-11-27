@@ -18,7 +18,6 @@ sidebar_position: 999
 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | Dmytro's notes |
 | `01-outsourcing-engineering/big-powerpunk/readme.md` | 01-outsourcing-engineering/big-powerpunk/readme |
 | `01-outsourcing-engineering/charging-station/physicist.md` | Box \"Physics\" |
-| `01-outsourcing-engineering/charging-station/readme.md` | 01-outsourcing-engineering/charging-station/readme |
 | `01-outsourcing-engineering/drone-net-gun/readme.md` | Drone — Net Launcher |
 | `01-outsourcing-engineering/full-specification/english-specification.md` | Full specification |
 | `01-outsourcing-engineering/full-specification/readme.md` | 01-outsourcing-engineering/full-specification/readme |
@@ -61,6 +60,7 @@ sidebar_position: 999
 | `charging-station/Y-completed-cases/case-0/readme.md` | Case 0 |
 | `charging-station/Y-completed-cases/readme.md` | Completed cases |
 | `charging-station/inspiration/florida-man/readme.md` | Florida Man |
+| `charging-station/inspiration/outsourcing-engineering-charging-station/readme.md` | Charging Station |
 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |

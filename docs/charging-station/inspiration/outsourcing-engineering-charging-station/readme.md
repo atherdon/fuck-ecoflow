@@ -1,3 +1,8 @@
+---
+title: Charging Station
+sidebar_label: Charging station (outsourcing notes)
+---
+
 # Charging Station
 
 ## Images
