@@ -141,13 +141,8 @@ sidebar_position: 999
 | `glossary.md` | Glossary |
 | `how-to-read-this-site.md` | How to read this site |
 | `intro.md` | Start here |
-| `maintainers/ble-reverse-engineering.md` | BLE reverse engineering (research) |
-| `maintainers/ecoflow-api-credentials.md` | EcoFlow API credentials (local only) |
-| `maintainers/local-modbus-powerocean.md` | Local Modbus / PowerOcean (research) |
 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| `maintainers/mqtt-and-official-api.md` | MQTT and official API (research) |
 | `maintainers/readme.md` | Maintainers |
-| `maintainers/related-ecoflow-projects.md` | Related EcoFlow projects |
 | `maintainers/repository-organization.md` | maintainers/repository-organization |
 | `maintainers/translations.md` | maintainers/translations |
 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
