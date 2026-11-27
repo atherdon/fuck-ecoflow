@@ -42,3 +42,5 @@ Completed case 03, also called Number Three. The original notes list 45000 mAh a
 ![Case 03 — Number Three, photo 9](/img/y-completed-cases/03-number-three/03-number-three-img9.jpg)
 
 ![Case 03 — Number Three, photo 10](/img/y-completed-cases/03-number-three/03-number-three-img10.jpg)
+
+![Case 03 — Number Three, photo 11](/img/y-completed-cases/03-number-three/03-number-three-img11.jpg)
