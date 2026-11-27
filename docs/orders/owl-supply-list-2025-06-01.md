@@ -4,101 +4,53 @@ title: Owl supply list 2025-06-01
 
 # Owl supply list 2025-06-01
 
-## Инструмент
+- [Инструмент](#инструмент)
+- [Расходные материалы](#расходные-материалы)
+- [Прочее](#прочее)
 
-Мультиметр
+## Инструмент {#инструмент}
 
-Измеритель внутреннего сопротивления
+| Название | Ссылка |
+| --- | --- |
+| Мультиметр | — |
+| Измеритель внутреннего сопротивления | — |
+| Зарядное устройство с отображением ёмкости | [AliExpress item 1005006678373921](https://www.aliexpress.com/item/1005006678373921.html) |
+| Аппарат точечной сварки | [AliExpress item 1005007752854563](https://www.aliexpress.com/item/1005007752854563.html) |
+| Зарядное устройство с отображением ёмкости | [AliExpress item 1005006678373921](https://www.aliexpress.com/item/1005006678373921.html) |
+| Кримпер | — |
+| Стрипер | — |
 
-Зарядное устройство с отображением ёмкости 
-[AliExpress item 1005006678373921](https://www.aliexpress.com/item/1005006678373921.html)
+## Расходные материалы {#расходные-материалы}
 
-Аппарат точечной сварки
+| Название | Ссылка |
+| --- | --- |
+| Провод 12AWG | — |
+| Провод монтажный | [AliExpress item 1005005888991575](https://www.aliexpress.com/item/1005005888991575.html) |
+| Никилированная шина 0.25мм | [AliExpress item 1005005228055634](https://www.aliexpress.com/item/1005005228055634.html) |
+| Оконечники кабельные под болт | [AliExpress item 1005005544406683](https://www.aliexpress.com/item/1005005544406683.html) |
+| Термоусадка с клеем | — |
+| Коннектор ХТ 60, ХТ90, QS8-s (in progress) | — |
+| Холдеры для ячеек | — |
+| Изоляционный материал для АКБ | — |
+| Электронные компоненты BMS | — |
+| Зарядное устройство для сборки АКБ | — |
+| Кулера | — |
+| Контроллер температуры | — |
+| i/ термореле | [AliExpress _EIwHtXM](https://a.aliexpress.com/_EIwHtXM) |
+| Платы зарядных устройств или готовые встраиваемые модуля | [AliExpress _EJnOB9C](https://a.aliexpress.com/_EJnOB9C), [AliExpress _Ez2r8Am](https://a.aliexpress.com/_Ez2r8Am) |
+| ВОЗМОЖНО инвертор 12В-220В | — |
 
-[AliExpress item 1005007752854563](https://www.aliexpress.com/item/1005007752854563.html)
+## Прочее {#прочее}
 
-Зарядное устройство с отображением ёмкости 
-[AliExpress item 1005006678373921](https://www.aliexpress.com/item/1005006678373921.html)
-
-Кримпер
-
-Стрипер
-
-## Расходные материалы
-
-Провод 12AWG 
-
-Провод монтажный 
-
-[AliExpress item 1005005888991575](https://www.aliexpress.com/item/1005005888991575.html)
-
-Никилированная шина 0.25мм
-
-[AliExpress item 1005005228055634](https://www.aliexpress.com/item/1005005228055634.html)
-
-Оконечники кабельные под болт
-
-[AliExpress item 1005005544406683](https://www.aliexpress.com/item/1005005544406683.html)
-
-Термоусадка с клеем
-
-Коннектор ХТ 60, ХТ90, QS8-s (in progress)
-
-Холдеры для ячеек
-
-Изоляционный материал для АКБ 
-
-Электронные компоненты BMS 
-
-Зарядное устройство для сборки АКБ
-
-Кулера
-
-Контроллер температуры
-
-i/ термореле
-[AliExpress _EIwHtXM](https://a.aliexpress.com/_EIwHtXM)
-
-Платы зарядных устройств или готовые встраиваемые модуля
-[AliExpress _EJnOB9C](https://a.aliexpress.com/_EJnOB9C)
-[AliExpress _Ez2r8Am](https://a.aliexpress.com/_Ez2r8Am)
-
-ВОЗМОЖНО инвертор 12В-220В
-
-## Прочее
-
-Разъем + сетевой кабель 
-
-[AliExpress item 1005003128724223](https://www.aliexpress.com/item/1005003128724223.html)
-
-Индикатор состояния АКБ / вольтметр
-
-[AliExpress item 1005008165712778](https://www.aliexpress.com/item/1005008165712778.html)
-
-Автомобильная розетка
-
-[AliExpress item 1005007038190615](https://www.aliexpress.com/item/1005007038190615.html)
-
-USB лампа (умно но лишнее)
-
-[AliExpress item 1005003691901306](https://www.aliexpress.com/item/1005003691901306.html)
-
-Реле / мощный переключатель 
-
-Платы повышения/понижения напряжения
-
-Переключатели или кнопки с фиксацией (подсветка)
-
-[AliExpress item 1005008523540488](https://www.aliexpress.com/item/1005008523540488.html)
-
-[AliExpress item 1005005767559220](https://www.aliexpress.com/item/1005005767559220.html)
-
-Компактный держатель для планшета 
-
-[AliExpress item 1005003227666171](https://www.aliexpress.com/item/1005003227666171.html)
-
-USB кабеля для зарядки
-
-Компактные маломощные диодные сборки (минимальная подсветка)
-
-[AliExpress item 1005006904591408](https://www.aliexpress.com/item/1005006904591408.html)
+| Название | Ссылка |
+| --- | --- |
+| Разъем + сетевой кабель | [AliExpress item 1005003128724223](https://www.aliexpress.com/item/1005003128724223.html) |
+| Индикатор состояния АКБ / вольтметр | [AliExpress item 1005008165712778](https://www.aliexpress.com/item/1005008165712778.html) |
+| Автомобильная розетка | [AliExpress item 1005007038190615](https://www.aliexpress.com/item/1005007038190615.html) |
+| USB лампа (умно но лишнее) | [AliExpress item 1005003691901306](https://www.aliexpress.com/item/1005003691901306.html) |
+| Реле / мощный переключатель | — |
+| Платы повышения/понижения напряжения | — |
+| Переключатели или кнопки с фиксацией (подсветка) | [AliExpress item 1005008523540488](https://www.aliexpress.com/item/1005008523540488.html), [AliExpress item 1005005767559220](https://www.aliexpress.com/item/1005005767559220.html) |
+| Компактный держатель для планшета | [AliExpress item 1005003227666171](https://www.aliexpress.com/item/1005003227666171.html) |
+| USB кабеля для зарядки | — |
+| Компактные маломощные диодные сборки (минимальная подсветка) | [AliExpress item 1005006904591408](https://www.aliexpress.com/item/1005006904591408.html) |
