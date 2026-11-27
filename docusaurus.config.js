@@ -219,6 +219,16 @@ const manualRedirects = [
       '/docs/outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua',
     ],
   },
+  {
+    to: '/docs/maintainers',
+    from: [
+      '/docs/maintainers/related-ecoflow-projects',
+      '/docs/maintainers/ecoflow-api-credentials',
+      '/docs/maintainers/ble-reverse-engineering',
+      '/docs/maintainers/mqtt-and-official-api',
+      '/docs/maintainers/local-modbus-powerocean',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
