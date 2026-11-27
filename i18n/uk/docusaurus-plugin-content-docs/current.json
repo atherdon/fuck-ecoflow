@@ -207,13 +207,9 @@
     "message": "Прості вироби",
     "description": "The label for category 'Simple products' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.Frog Version One": {
-    "message": "Жабка, версія 1",
-    "description": "The label for category 'Frog Version One' in sidebar 'tutorialSidebar'"
-  },
-  "sidebar.tutorialSidebar.category.Frog Version Two": {
-    "message": "Жабка, версія 2",
-    "description": "The label for category 'Frog Version Two' in sidebar 'tutorialSidebar'"
+  "sidebar.tutorialSidebar.category.Motorolla Frogs": {
+    "message": "Motorolla Frogs",
+    "description": "The label for category 'Motorolla Frogs' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.One Use Diy Powerbanks": {
     "message": "Одноразові саморобні павербанки",

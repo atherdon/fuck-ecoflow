@@ -197,15 +197,22 @@ const manualRedirects = [
     to: '/docs/outsourcing-engineering/charging-station/physicist',
     from: ['/docs/outsourcing-engineering/charging-station/physicist-ua'],
   },
+  // Frog v1 and Frog 2.0 combined into one Motorolla Frogs page.
   {
-    to: '/docs/outsourcing-engineering/simple-products/frog-version-one/english',
+    to: '/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-v1',
     from: [
+      '/docs/outsourcing-engineering/simple-products/frog-version-one',
+      '/docs/outsourcing-engineering/simple-products/frog-version-one/readme',
+      '/docs/outsourcing-engineering/simple-products/frog-version-one/english',
       '/docs/outsourcing-engineering/simple-products/frog-version-one/frog-v1',
     ],
   },
   {
-    to: '/docs/outsourcing-engineering/simple-products/frog-version-two/english',
+    to: '/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-20',
     from: [
+      '/docs/outsourcing-engineering/simple-products/frog-version-two',
+      '/docs/outsourcing-engineering/simple-products/frog-version-two/readme',
+      '/docs/outsourcing-engineering/simple-products/frog-version-two/english',
       '/docs/outsourcing-engineering/simple-products/frog-version-two/frog-version-two-ua',
     ],
   },

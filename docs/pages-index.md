@@ -26,10 +26,7 @@ sidebar_position: 999
 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
 | `01-outsourcing-engineering/readme.md` | Outsourcing engineering |
 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
-| `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | Frog v1 |
-| `01-outsourcing-engineering/simple-products/frog-version-one/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-one/readme |
-| `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | Frog 2.0 |
-| `01-outsourcing-engineering/simple-products/frog-version-two/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-two/readme |
+| `01-outsourcing-engineering/simple-products/motorolla-frogs/readme.md` | Motorolla Frogs |
 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops |
 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | Power Banks |

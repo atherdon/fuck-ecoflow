@@ -9,10 +9,10 @@ title: Simple Products
 ## Ukrainian
 
 ### 1. Жабка Оригінальна
-- [frog-version-one/frog-v1.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-one/english)
+- [frog-version-one/frog-v1.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-v1)
   
 ### 2. Жабка 2.0
-- [frog-version-two/frog-version-two-ua.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-two/english)
+- [frog-version-two/frog-version-two-ua.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/motorolla-frogs#frog-20)
 
 ### 3. Павербанки
 - [powerbanks/3 Павербанки.md](pathname:///fuck-ecoflow/uk/docs/01-outsourcing-engineering/simple-products/powerbanks/pb2)
@@ -35,10 +35,10 @@ title: Simple Products
 ## English
 
 ### 1. Frog v1
-- [frog-version-one/english.md](frog-version-one/english.md)
+- [frog-version-one/english.md](motorolla-frogs/readme.md#frog-v1)
 
 ### 2. Frog 2.0. TBD
-- [frog-version-two/english.md](frog-version-two/english.md)
+- [frog-version-two/english.md](motorolla-frogs/readme.md#frog-20)
 
 ### 3. Power Banks
 - [powerbanks/english.md](powerbanks/english.md)
