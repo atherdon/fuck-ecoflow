@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: move May 22 specification to the charging-station section [`#179`](https://github.com/atherdon/fuck-ecoflow/pull/179)
 - Rename States-For-Ukraine to potreba [`#174`](https://github.com/atherdon/fuck-ecoflow/pull/174)
 - docs(grants): remove duplicate grant-vadim Grants page [`#177`](https://github.com/atherdon/fuck-ecoflow/pull/177)
 - docs: remove the duplicate Vadim 25.04.25 page [`#175`](https://github.com/atherdon/fuck-ecoflow/pull/175)
@@ -695,6 +696,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`65587f6`](https://github.com/atherdon/fuck-ecoflow/commit/65587f6a0d367baa849d2d5bc9a98ee74ae3648f)
 - Mark tasks as completed in readme.md [`c8a36aa`](https://github.com/atherdon/fuck-ecoflow/commit/c8a36aab3a226735d726953f570d20ac3a1dd717)
 - Update intro.md [`a58f28d`](https://github.com/atherdon/fuck-ecoflow/commit/a58f28dd137f827a8dda6c3fb2894303425e71e1)
+- chore(changelog): regenerate after merged pull request [`0950740`](https://github.com/atherdon/fuck-ecoflow/commit/09507400494cc83c2188412ed33a40fb1b50144b)
 - chore(changelog): regenerate after merged pull request [`2db9579`](https://github.com/atherdon/fuck-ecoflow/commit/2db9579745802f985ecdd231e71e9f05842e4657)
 - chore(changelog): regenerate after merged pull request [`c055dbb`](https://github.com/atherdon/fuck-ecoflow/commit/c055dbb3d5dcbb6a5a736535d204d5f8248fc700)
 - chore(changelog): regenerate after merged pull request [`0a03619`](https://github.com/atherdon/fuck-ecoflow/commit/0a036193f4f6b0176707a3e79d8cdc8c808080b5)
@@ -1174,6 +1176,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
 - Merge origin/main into docs/rename-states-for-ukraine-potreba [`9168619`](https://github.com/atherdon/fuck-ecoflow/commit/916861927bd74d160925b3fbd5683003a1fdb4bc)
+- Merge origin/main into docs/move-may22-specification [`0c4efe2`](https://github.com/atherdon/fuck-ecoflow/commit/0c4efe21c372d30108c4084db34240cfed372d78)
+- Merge origin/main into docs/move-may22-specification [`8db6842`](https://github.com/atherdon/fuck-ecoflow/commit/8db6842da2df409e3b1e2940910b0b47ba05be12)
 - Merge origin/main into docs/remove-duplicate-vadim-25-04-25 [`52f66c5`](https://github.com/atherdon/fuck-ecoflow/commit/52f66c5f62b3ea5d9a2264a6cdf4369c49eb50a1)
 - Merge origin/main into docs/rename-states-for-ukraine-potreba [`4877cbb`](https://github.com/atherdon/fuck-ecoflow/commit/4877cbbfe85511bc2d8d5f932848c7b80bfabb48)
 - fix(docs): add a .txt extension to the potreba news note [`4a0afc5`](https://github.com/atherdon/fuck-ecoflow/commit/4a0afc5205f457dc8eb53b616b2ff28cf1d6285a)
