@@ -1,8 +1,9 @@
 ---
-slug: /charging-station/notes/exportblock/sj-28-03-26
+title: Sj 28.03.26
+sidebar_label: Sj 28.03.26
 ---
 
-# Sjoerd 28.03.26
+# Sj 28.03.26
 
 Created: March 28, 2026 11:14 AM
 

@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Move Sj 28.03.26 under Inspiration and anonymize the name [`#187`](https://github.com/atherdon/fuck-ecoflow/pull/187)
 - docs(our-lab): remove duplicate and unnecessary lab photos [`#186`](https://github.com/atherdon/fuck-ecoflow/pull/186)
 - ci(auto-rebase): resolve docs/pages-index.md conflicts automatically [`#181`](https://github.com/atherdon/fuck-ecoflow/pull/181)
 - chore(docs-index): drop row numbers from the all-pages index [`#180`](https://github.com/atherdon/fuck-ecoflow/pull/180)
@@ -597,6 +598,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add images from docs/images to README for easy viewing [`2091afa`](https://github.com/atherdon/fuck-ecoflow/commit/2091afa942395ad1f853a3a9533118b223e2adcf)
 - Update волонтери.md [`6d439f2`](https://github.com/atherdon/fuck-ecoflow/commit/6d439f24854ba546919e726e49a9283e047d23ef)
 - Add RC Toolkit section to MAVIC BOX order details [`99da15b`](https://github.com/atherdon/fuck-ecoflow/commit/99da15b82d2fe4fd0a08bd6b72f6e98fc809c2c6)
+- docs: move Sj 28.03.26 under inspiration and anonymize the name [`7b48a82`](https://github.com/atherdon/fuck-ecoflow/commit/7b48a82d71e2ebc2e4a87b268cfb1ebdbf54bd7a)
 - Update readme.md [`560b66c`](https://github.com/atherdon/fuck-ecoflow/commit/560b66c337a37af8151fd3b5f96c9dbe65c79e37)
 - Add charging station landing page [`ff52129`](https://github.com/atherdon/fuck-ecoflow/commit/ff52129c6c1db9202bda790c7fe5209ee4d19518)
 - Update readme.md [`5a5eada`](https://github.com/atherdon/fuck-ecoflow/commit/5a5eada3bb8926d2ead46a44f8214154cf8bbda1)
@@ -845,6 +847,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`47b461a`](https://github.com/atherdon/fuck-ecoflow/commit/47b461a8efea2e1b19142e1f48f0f0178eb6f5b3)
 - chore(changelog): regenerate after merged pull request [`5247bce`](https://github.com/atherdon/fuck-ecoflow/commit/5247bcef651cdbc0cc1b4de4c5d74d33871b0ec4)
 - chore(changelog): regenerate after merged pull request [`8681142`](https://github.com/atherdon/fuck-ecoflow/commit/868114237a0de69e374e25c982d81e55f5b613af)
 - chore(changelog): regenerate after merged pull request [`6796a6e`](https://github.com/atherdon/fuck-ecoflow/commit/6796a6e9ca2a40429e540913d0ea59b0c57b19a9)
