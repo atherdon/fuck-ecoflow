@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Rename States-For-Ukraine to potreba [`#174`](https://github.com/atherdon/fuck-ecoflow/pull/174)
 - docs(grants): remove duplicate grant-vadim Grants page [`#177`](https://github.com/atherdon/fuck-ecoflow/pull/177)
 - docs: remove the duplicate Vadim 25.04.25 page [`#175`](https://github.com/atherdon/fuck-ecoflow/pull/175)
 - docs(sidebar): move Team, Communication, Reports and Orders to the bottom [`#176`](https://github.com/atherdon/fuck-ecoflow/pull/176)
@@ -274,7 +275,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 3333 [`d617538`](https://github.com/atherdon/fuck-ecoflow/commit/d617538ad67d3b88318e8595af605a82cb64dee5)
 - 11111 [`f008752`](https://github.com/atherdon/fuck-ecoflow/commit/f008752c2b4ddd2cf82583f60144a7ac8526c905)
 - Add files via upload [`b57796d`](https://github.com/atherdon/fuck-ecoflow/commit/b57796dfc87b6e22c4247daa29d13fdc3d1911ec)
+- chore(docs-index): regenerate all-pages markdown list [`ee317a5`](https://github.com/atherdon/fuck-ecoflow/commit/ee317a5a5e3757c9df28aa5e344af15eadf5c72b)
 - 111 [`1224619`](https://github.com/atherdon/fuck-ecoflow/commit/122461905b9d9489804b2cf807474307794caf71)
+- docs(communication): rename States-For-Ukraine to potreba [`aa275d7`](https://github.com/atherdon/fuck-ecoflow/commit/aa275d73542081e3bf302ac1cb6c25a8e133b159)
 - 1111 [`0b7115f`](https://github.com/atherdon/fuck-ecoflow/commit/0b7115f95d983139769caaefa802597cd75fd54a)
 - 111 [`0d66770`](https://github.com/atherdon/fuck-ecoflow/commit/0d667704b8ca8ce75af82c5908e5f7d022bf4a7b)
 - Add files via upload [`819dc82`](https://github.com/atherdon/fuck-ecoflow/commit/819dc8231dd8c37b37e44e8e31768e6ab5f2482e)
@@ -739,6 +742,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`6856c5c`](https://github.com/atherdon/fuck-ecoflow/commit/6856c5c92cd9a694a7cf130cf7a50e0f4715bf43)
 - Update intro.md [`1e688e6`](https://github.com/atherdon/fuck-ecoflow/commit/1e688e606920f7b6345bd45376b3c573c1dea1b8)
 - Add renovate.json [`9f7af52`](https://github.com/atherdon/fuck-ecoflow/commit/9f7af5226f1e30be09fddeb18627fcc04714b6a7)
+- chore(changelog): regenerate after merged pull request [`af5ef0a`](https://github.com/atherdon/fuck-ecoflow/commit/af5ef0ab3b82ee5e29124120b8ee2f4fc8f7d259)
 - chore(changelog): regenerate after merged pull request [`6cc70dd`](https://github.com/atherdon/fuck-ecoflow/commit/6cc70ddfd1692b013a9b5c1aed77f9ed9c3aa6d7)
 - docs: leave the Case 02 write-up untagged here [`833e940`](https://github.com/atherdon/fuck-ecoflow/commit/833e940338994845d7d9dbd259ffed357cb5ccc0)
 - chore(changelog): regenerate after merged pull request [`be6c777`](https://github.com/atherdon/fuck-ecoflow/commit/be6c7773667187969430f4c1d4178b6860448241)
@@ -1169,7 +1173,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- Merge origin/main into docs/rename-states-for-ukraine-potreba [`9168619`](https://github.com/atherdon/fuck-ecoflow/commit/916861927bd74d160925b3fbd5683003a1fdb4bc)
 - Merge origin/main into docs/remove-duplicate-vadim-25-04-25 [`52f66c5`](https://github.com/atherdon/fuck-ecoflow/commit/52f66c5f62b3ea5d9a2264a6cdf4369c49eb50a1)
+- Merge origin/main into docs/rename-states-for-ukraine-potreba [`4877cbb`](https://github.com/atherdon/fuck-ecoflow/commit/4877cbbfe85511bc2d8d5f932848c7b80bfabb48)
+- fix(docs): add a .txt extension to the potreba news note [`4a0afc5`](https://github.com/atherdon/fuck-ecoflow/commit/4a0afc5205f457dc8eb53b616b2ff28cf1d6285a)
 - Merge main into docs/inspiration-one-page (keep both redirect lists) [`8cee1a0`](https://github.com/atherdon/fuck-ecoflow/commit/8cee1a0d9efb52ebfd5660f5a9eaf220cad4a04c)
 - merge the updated Case 0 branch [`7a02687`](https://github.com/atherdon/fuck-ecoflow/commit/7a0268728208ad835137491fbdcc0a07bb5b6e4d)
 - merge main after the completed-case intros landed [`625e41f`](https://github.com/atherdon/fuck-ecoflow/commit/625e41fe289768c515c485740c8f1643da21e801)
