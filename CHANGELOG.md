@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Combine Case 0 overview, proof of concept, and prototype into one page [`#192`](https://github.com/atherdon/fuck-ecoflow/pull/192)
 - Replace remaining Sjoerd mentions with Sj [`#191`](https://github.com/atherdon/fuck-ecoflow/pull/191)
 - Combine Frog v1 and Frog 2.0 under Motorolla Frogs [`#190`](https://github.com/atherdon/fuck-ecoflow/pull/190)
 - docs(orders): format section pages into tables and consistent headings [`#189`](https://github.com/atherdon/fuck-ecoflow/pull/189)
@@ -302,6 +303,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`80e2a8a`](https://github.com/atherdon/fuck-ecoflow/commit/80e2a8a2baaa4bb0be4bd725d4776818050858c3)
 - 11 [`16441db`](https://github.com/atherdon/fuck-ecoflow/commit/16441db71e35a630d0fe3776e36ab73137a551ca)
 - 3333 [`21d2bdb`](https://github.com/atherdon/fuck-ecoflow/commit/21d2bdb471ed229f7a9d538eeefcbbb1ad018cd7)
+- docs: combine Case 0 overview, proof of concept, and prototype into one page [`492f562`](https://github.com/atherdon/fuck-ecoflow/commit/492f5627458fb99c3001652ca1155ba60fac87c1)
 - docs(i18n): Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`3dbd6b7`](https://github.com/atherdon/fuck-ecoflow/commit/3dbd6b70ca35efdeb180310a6d79322bb1db6f6f)
 - chore: add Prettier config and format scripts [`2728e00`](https://github.com/atherdon/fuck-ecoflow/commit/2728e00c2d9813344d1f2c99902a5f4d578a922f)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/eng.md [`73a2c78`](https://github.com/atherdon/fuck-ecoflow/commit/73a2c7805b636d7722f47990c887526e2f6ec01e)
@@ -710,6 +712,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`65587f6`](https://github.com/atherdon/fuck-ecoflow/commit/65587f6a0d367baa849d2d5bc9a98ee74ae3648f)
 - Mark tasks as completed in readme.md [`c8a36aa`](https://github.com/atherdon/fuck-ecoflow/commit/c8a36aab3a226735d726953f570d20ac3a1dd717)
 - Update intro.md [`a58f28d`](https://github.com/atherdon/fuck-ecoflow/commit/a58f28dd137f827a8dda6c3fb2894303425e71e1)
+- chore(changelog): regenerate after merged pull request [`ea24b62`](https://github.com/atherdon/fuck-ecoflow/commit/ea24b62b84d423a2dd3a6f37610935b26d59eacf)
 - chore(changelog): regenerate after merged pull request [`0950740`](https://github.com/atherdon/fuck-ecoflow/commit/09507400494cc83c2188412ed33a40fb1b50144b)
 - chore(changelog): regenerate after merged pull request [`2db9579`](https://github.com/atherdon/fuck-ecoflow/commit/2db9579745802f985ecdd231e71e9f05842e4657)
 - chore(changelog): regenerate after merged pull request [`c055dbb`](https://github.com/atherdon/fuck-ecoflow/commit/c055dbb3d5dcbb6a5a736535d204d5f8248fc700)
