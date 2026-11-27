@@ -1,6 +1,6 @@
 ---
-sidebar_label: Ящик «Фізика» (українською)
-title: Ящик «Фізика» (українською)
+title: Ящик «Фізика»
+sidebar_label: Ящик «Фізика»
 ---
 
 
@@ -84,11 +84,11 @@ HOTA GaN це сама дорога частина в цьому кейсі. П�
 
 Приклад як мій знайомий з Харкова нам робив кейс під живлення реба
 
-![image.png](./images/charging-station-img3.jpg)
+![image.png](../../../../../../docs/01-outsourcing-engineering/charging-station/images/charging-station-img3.jpg)
 
-![image.png](./images/charging-station-img1.jpg)
+![image.png](../../../../../../docs/01-outsourcing-engineering/charging-station/images/charging-station-img1.jpg)
 
-![image.png](./images/charging-station-img2.jpg)
+![image.png](../../../../../../docs/01-outsourcing-engineering/charging-station/images/charging-station-img2.jpg)
 
 ---
 

@@ -9,13 +9,13 @@ title: Simple Products
 ## Ukrainian
 
 ### 1. Жабка Оригінальна
-- [frog-version-one/frog-v1.md](frog-version-one/frog-v1.md)
+- [frog-version-one/frog-v1.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-one/english)
   
 ### 2. Жабка 2.0
-- [frog-version-two/frog-version-two-ua.md](frog-version-two/frog-version-two-ua.md)
+- [frog-version-two/frog-version-two-ua.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-two/english)
 
 ### 3. Павербанки
-- [powerbanks/3 Павербанки.md](powerbanks/pb.md)
+- [powerbanks/3 Павербанки.md](pathname:///fuck-ecoflow/uk/docs/01-outsourcing-engineering/simple-products/powerbanks/pb2)
 
 ### DIY powerbanks for drops
 - [diy-powerbanks-for-drops/diy-powerbanks-for-drops.md](diy-powerbanks-for-drops/diy-powerbanks-for-drops.md)
@@ -24,10 +24,10 @@ title: Simple Products
 - [usb-to-xt60/usb-to-xt60.md](usb-to-xt60/usb-to-xt60.md)
 
 ### 5. Павук
-- [spider/spider.md](spider/spider.md)
+- [spider/spider.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/spider/english)
 
 ### Подовжувачі для зарядних станцій
-- [wire-extenders/wire-extenders-ua.md](wire-extenders/wire-extenders-ua.md)
+- [wire-extenders/wire-extenders-ua.md](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/wire-extenders/)
 
 
 

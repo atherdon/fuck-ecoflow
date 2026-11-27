@@ -62,6 +62,7 @@ Node.js **>= 26.13.1** (`engines` in `package.json`, pinned in `.nvmrc`; CI jobs
 | `npm run changelog` | Regenerate `CHANGELOG.md` (CI does this on `main`) |
 | `npm run write-translations -- --locale uk` | Add new UI strings to `i18n/uk/*.json` |
 | `npm run i18n:sync-uk` | Copy the Ukrainian pages from `docs/` into the uk locale (`-- --check` reports stale copies) |
+| `npm run check:i18n` | uk copies up to date, no orphan uk files, translations list matches the files (CI: i18n workflow) |
 
 ## Languages
 

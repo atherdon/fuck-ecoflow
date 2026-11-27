@@ -121,7 +121,7 @@ Ready-made ones sell for 200–400 UAH. For example, I could easily hand out 40 
 
 [Frog adapter on Rozetka](https://rozetka.com.ua/ua/522259339/p522259339)
 
-More details: [Frog v1](../simple-products/frog-version-one/frog-v1.md).
+More details: [Frog v1](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-one/english).
 
 ### 2. Frog 2.0 (TBD)
 
@@ -139,7 +139,7 @@ Then, when we take the cells out of the FPV batteries and put them into the case
 
 ![Frog 2.0 adapter with an XT60 connector](image%204.png)
 
-More details: [Frog 2.0](../simple-products/frog-version-two/frog-version-two-ua.md) (Ukrainian).
+More details: [Frog 2.0](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/frog-version-two/english) (Ukrainian).
 
 ### 3. "Power banks"
 
@@ -168,7 +168,7 @@ For them this means:
 
 Yes, these power banks aren't perfect. They break quickly. But the main thing is — they work.
 
-More details: [Power banks](../simple-products/powerbanks/pb.md) (Ukrainian).
+More details: [Power banks](pathname:///fuck-ecoflow/uk/docs/01-outsourcing-engineering/simple-products/powerbanks/pb2) (Ukrainian).
 
 ### 4. "USB to XT60"
 
@@ -237,7 +237,7 @@ _From the Ukrainian product page:_ videos by the Russians:
 - [YouTube video 1](https://www.youtube.com/watch?v=ES4G9ZNl-_M)
 - [YouTube video 2](https://www.youtube.com/watch?v=1AUsnAfmH-E)
 
-More details: [Spider](../simple-products/spider/spider.md) (Ukrainian).
+More details: [Spider](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/simple-products/spider/english) (Ukrainian).
 
 ## The "Physicist" box
 
@@ -408,6 +408,6 @@ All of this would let us start assembling:
 
 ## Related pages
 
-- [Box "Physics" (English)](../charging-station/physicist.md) · [Ящик «Фізика» (українською)](../charging-station/physicist-ua.md)
+- [Box "Physics" (English)](pathname:///fuck-ecoflow/docs/outsourcing-engineering/charging-station/physicist) · [Ящик «Фізика» (українською)](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/charging-station/physicist)
 - [Simple products](../simple-products/readme.md)
 - [Dmytro's notes (English)](../Kyiv-Mohyla-Academy/Dmytro-en.md)

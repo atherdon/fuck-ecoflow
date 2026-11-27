@@ -1,7 +1,7 @@
 ---
-slug: /01-outsourcing-engineering/simple-products/powerbanks/pb
-sidebar_label: Павербанки (українською)
+slug: /01-outsourcing-engineering/simple-products/powerbanks/pb2
 title: 3. Powerbanks
+sidebar_label: Павербанки
 ---
 
 

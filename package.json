@@ -22,7 +22,8 @@
     "test": "npm run check:naming && npm run check:media",
     "generate:docs-index": "node ./scripts/generate-docs-index.mjs",
     "check:images": "node ./scripts/check-missing-images.mjs",
-    "i18n:sync-uk": "node ./scripts/sync-uk-docs.mjs"
+    "i18n:sync-uk": "node ./scripts/sync-uk-docs.mjs",
+    "check:i18n": "npm run i18n:sync-uk -- --check && node ./scripts/check-i18n.mjs"
   },
   "dependencies": {
     "@docusaurus/core": "^3.10.2",

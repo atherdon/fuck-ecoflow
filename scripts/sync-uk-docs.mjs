@@ -7,8 +7,8 @@
  *
  * The text is copied as-is. Only relative image paths are rewritten so they
  * keep pointing at the original files in docs/ (no image is duplicated).
- * Relative links to other .md/.mdx pages stay as they are when that page is
- * also in the list; links to pages that only exist in docs/ are rewritten to
+ * Relative links to other .md/.mdx pages stay as they are when that page has
+ * a uk file (listed copy or translation); links to pages that only exist in docs/ are rewritten to
  * point at the original file, so Docusaurus can still resolve them.
  *
  * Usage:
@@ -32,6 +32,11 @@ const { pages } = JSON.parse(fs.readFileSync(listPath, 'utf8'));
 const IMAGE_RE = /(!\[[^\]]*\]\()(<[^>]+>|[^)\s]+)((?:\s+"[^"]*")?\))/g;
 const LINK_RE = /((?<!!)\[[^\]]*\]\()(<[^>]+>|[^)\s]+)((?:\s+"[^"]*")?\))/g;
 const listed = new Set(pages.map((page) => path.join(docsRoot, page)));
+// A page that already has a uk file (a listed copy or a hand-made
+// translation) keeps its relative link: the uk tree mirrors docs/.
+const hasUkFile = (absolute) =>
+  listed.has(absolute) ||
+  fs.existsSync(path.join(targetRoot, path.relative(docsRoot, absolute)));
 
 function rewriteLinks(text, sourceFile, targetFile) {
   return text.replace(LINK_RE, (match, open, rawUrl, close) => {
@@ -47,7 +52,7 @@ function rewriteLinks(text, sourceFile, targetFile) {
       // keep the raw value
     }
     const absolute = path.resolve(path.dirname(sourceFile), decoded);
-    if (!fs.existsSync(absolute) || listed.has(absolute)) return match;
+    if (!fs.existsSync(absolute) || hasUkFile(absolute)) return match;
     let relative = path
       .relative(path.dirname(targetFile), absolute)
       .split(path.sep)
