@@ -5,7 +5,7 @@ sidebar_label: Dmytro
 
 
 
-[Problem statement](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
+[Problem statement](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement)
 
 [Basic introduction](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en)
 

@@ -17,7 +17,7 @@
   },
   "link.item.label.Problem statement": {
     "message": "Опис проблеми",
-    "description": "The label of footer link with label=Problem statement linking to /docs/00-problem/problem-statement/english-version"
+    "description": "The label of footer link with label=Problem statement linking to /docs/00-problem/problem-statement"
   },
   "link.item.label.GitHub Issues": {
     "message": "Задачі на GitHub",

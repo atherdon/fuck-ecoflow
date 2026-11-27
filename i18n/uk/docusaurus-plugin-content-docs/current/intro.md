@@ -13,7 +13,7 @@ sidebar_label: Почати тут
 
 ## Навіщо це все
 
-- [Проблема](./00-Problem/problem-statement/English-version.md)
+- [Проблема](./00-Problem/problem-statement.md)
 - [Ситуація](./00-Problem/situation/Situation.md)
 
 ## Зарядна станція

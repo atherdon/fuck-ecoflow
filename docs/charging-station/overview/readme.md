@@ -21,7 +21,7 @@ A useful order to read this section:
 
 The design-spec note [AI is stupid](./ai-is-stupid.md) now lives in this section.
 
-The [Problem statement](../../00-Problem/problem-statement/English-version.md) explains why this work exists.
+The [Problem statement](../../00-Problem/problem-statement.md) explains why this work exists.
 
 ## Comment from the May 22 specification
 

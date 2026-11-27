@@ -37,7 +37,7 @@ export default function NotFoundContent({ className }) {
               </Link>
             </li>
             <li>
-              <Link to="/docs/00-problem/problem-statement/english-version">
+              <Link to="/docs/00-problem/problem-statement">
                 <Translate id="notFound.link.problemStatement">
                   Problem statement
                 </Translate>

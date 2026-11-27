@@ -13,7 +13,7 @@ This site is a working notebook for a field charging case, not a polished produc
 ## Where to start
 
 1. [Start here](./intro.md) — what the project is
-2. [Problem statement](./00-Problem/problem-statement/English-version.md) — why it exists
+2. [Problem statement](./00-Problem/problem-statement.md) — why it exists
 3. [Ящик фірми Фізік і друзі](./charging-station/readme.md) — the main charging-station page
 4. [Versions](./charging-station/versions/Versions.md) — how the box is meant to evolve
 5. [Completed cases](./charging-station/Y-completed-cases/readme.md) — builds that already exist
