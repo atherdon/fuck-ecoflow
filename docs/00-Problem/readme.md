@@ -9,6 +9,5 @@ slug: /Problem
 
 Why this charging case exists: field positions need a faster, more protected way to work than a pile of separate devices and an EcoFlow station.
 
-- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
-- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
+- [Problem statement](./problem-statement/English-version.md)
 - [Situation](./situation/Situation.md)

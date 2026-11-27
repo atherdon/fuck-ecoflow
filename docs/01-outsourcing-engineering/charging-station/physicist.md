@@ -1,6 +1,6 @@
 ---
-sidebar_label: "Box \"Physics\" (English)"
-title: "Box \"Physics\" (English)"
+sidebar_label: "Box \"Physics\""
+title: "Box \"Physics\""
 ---
 
 # Box "Physics"

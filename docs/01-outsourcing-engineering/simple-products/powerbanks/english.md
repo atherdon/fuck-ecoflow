@@ -1,6 +1,6 @@
 ---
 slug: /01-outsourcing-engineering/simple-products/powerbanks/pb2
-sidebar_label: Power Banks (English)
+sidebar_label: Power Banks
 ---
 
 

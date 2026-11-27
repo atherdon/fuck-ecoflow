@@ -5,7 +5,7 @@ sidebar_label: Проблема
 sidebar_position: 1
 ---
 
-# Проблема (українською)
+# Проблема
 
 У нас на покровському напрямку ми знову опинилися в мішку. З 3х сторін на нас летить все. Ми як завжди тримаємось, але це все коштує нам багато. І сил і крові і обладнання. 
 
@@ -56,6 +56,5 @@ sidebar_position: 1
 
 ## Інші сторінки
 
-- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
 - [Situation](../situation/Situation.md)
 - [Charging station](../../charging-station/readme.md)

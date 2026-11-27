@@ -13,7 +13,7 @@ This site is a working notebook for a field charging case, not a polished produc
 ## Where to start
 
 1. [Start here](./intro.md) — what the project is
-2. [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version) or [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version) — why it exists
+2. [Problem statement](./00-Problem/problem-statement/English-version.md) — why it exists
 3. [Ящик фірми Фізік і друзі](./charging-station/readme.md) — the main charging-station page
 4. [Versions](./charging-station/versions/Versions.md) — how the box is meant to evolve
 5. [Completed cases](./charging-station/Y-completed-cases/readme.md) — builds that already exist
@@ -22,7 +22,7 @@ Use the search box in the header when you are looking for a person, a part, or a
 
 ## Languages
 
-Some pages are in Ukrainian, some in English, and some mix both. The sidebar label is usually in the same language as the page. Where a document exists in both languages, the two pages sit next to each other.
+Some pages are in Ukrainian, some in English, and some mix both. Use the language switcher in the header to move between English and Ukrainian. Where a translation exists, the same URL is served in the other language; otherwise the original is shown.
 
 ## What the main sections are for
 
