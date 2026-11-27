@@ -2,11 +2,11 @@
 draft: true
 slug: /charging-station/13c82aa9-971d-40a/case-0-proof-of-concept-s-27-05-25
 ---
-# Case #0 - Proof of concept - Sjoerd 27.05.25
+# Case #0 - Proof of concept - Sj 27.05.25
 
 Created: June 6, 2025 8:01 AM
 
-### **Proof of concept - 27.04.25 Артур - Sjoerd**
+### **Proof of concept - 27.04.25 Артур - Sj**
 
 ![photo_2025-04-27_10-38-45.jpg](photo_2025-04-27_10-38-45.jpg)
 
@@ -30,7 +30,7 @@ I did not yet bother about how to charge the battery packs
 <aside>
 💡
 
-Шо з цим типом батарей? Будемо робити розголожувач? Сьоред так зробив свій пруф-оф-консепт.
+Шо з цим типом батарей? Будемо робити розголожувач? Сй так зробив свій пруф-оф-консепт.
 
 </aside>
 
@@ -41,6 +41,6 @@ I did not yet bother about how to charge the battery packs
 
 [https://www.aliexpress.com/item/1005006759391946.html](https://www.aliexpress.com/item/1005006759391946.html)
 
-## Sjoerd`s proof-of-concept May 23th
+## Sj`s proof-of-concept May 23th
 
 `signal-2025-05-23-10-54-15-840.mp4`
