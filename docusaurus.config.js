@@ -94,8 +94,9 @@ const manualRedirects = [
     from: ['/docs/charging-station/Y-completed-cases/number-two/number-two'],
   },
   {
-    to: '/docs/charging-station/Y-completed-cases/number-two/case-01',
+    to: '/docs/charging-station/Y-completed-cases/number-two#case-01',
     from: [
+      '/docs/charging-station/Y-completed-cases/number-two/case-01',
       '/docs/charging-station/Y-completed-cases/01',
       '/docs/charging-station/Y-completed-cases/01/readme',
     ],

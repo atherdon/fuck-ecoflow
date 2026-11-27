@@ -11,12 +11,12 @@ Photos from the 01 / 2 / 3 case set. The Case 0 proof-of-concept write-up now li
 ## Other cases
 
 - [Case 0](../case-0/readme.md)
-- [Case 01](../02-number-two/case-01/readme.md)
+- [Case 01](../02-number-two/readme.md#case-01)
 - [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 02 — Number Two](../02-number-two/readme.md)
 - [Case 03 — Number Three](../03-number-three/readme.md)
 
-The photos and source files that also appear on [Case 01](../02-number-two/case-01/readme.md) are not repeated here. Those matches were 01-2-3-img1.jpg (same as Case 01 photo 9), 01-2-3-img2.jpg (photo 10), 01-2-3-img3.jpg (photo 11), and the three undecoded source files 01-2-3-img4.bin, 01-2-3-img5.bin, and 01-2-3-img6.bin.
+The photos and source files that also appear on [Case 01](../02-number-two/readme.md#case-01) are not repeated here. Those matches were 01-2-3-img1.jpg (same as Case 01 photo 9), 01-2-3-img2.jpg (photo 10), 01-2-3-img3.jpg (photo 11), and the three undecoded source files 01-2-3-img4.bin, 01-2-3-img5.bin, and 01-2-3-img6.bin.
 
 ## Images
 
