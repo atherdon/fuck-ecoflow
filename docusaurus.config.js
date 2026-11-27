@@ -265,6 +265,10 @@ const manualRedirects = [
     from: ['/docs/vadim1/вадим-25-04-25'],
   },
   {
+    to: '/docs/charging-station/specification-only',
+    from: ['/docs/charging-station/notes/may-22th-specification-only'],
+  },
+  {
     to: '/docs/maintainers',
     from: [
       '/docs/maintainers/related-ecoflow-projects',

@@ -27,4 +27,4 @@ The [Problem statement](../../00-Problem/problem-statement/English-version.md) e
 
 According to Arthur’s idea, a commercial prospect exists - mass production of cases for sale
 
-This note comes from [May 22th Specification Only](../notes/May%2022th%20Specification%20Only.md), where the rest of that specification remains.
+This note comes from [May 22th Specification Only](../specification-only.md), where the rest of that specification remains.
