@@ -40,7 +40,7 @@ Background research, component notes, and conversation records for the charging-
 - [Віталій 25/05/2025](./vit-main/vitaliy/vitaliy-2025-05-25.md)
 - [Vitaliy, May 20th](./vit-main/vitaliy-2/vitaliy-may-20th.md)
 - [Filin](./filin/Filin%20.md)
-- [Sjoerd 28.03.26](./SJ/Sj%2028%2003%2026.md)
+- [Sjoerd 28.03.26](../inspiration/sj-28-03-26/readme.md)
 - [Grants](./grants/Grants.md)
 
 ## Other notes
