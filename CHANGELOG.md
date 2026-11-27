@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci(auto-rebase): resolve docs/pages-index.md conflicts automatically [`#181`](https://github.com/atherdon/fuck-ecoflow/pull/181)
 - chore(docs-index): drop row numbers from the all-pages index [`#180`](https://github.com/atherdon/fuck-ecoflow/pull/180)
 - docs: move May 22 specification to the charging-station section [`#179`](https://github.com/atherdon/fuck-ecoflow/pull/179)
 - Rename States-For-Ukraine to potreba [`#174`](https://github.com/atherdon/fuck-ecoflow/pull/174)
@@ -720,6 +721,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`74c22d8`](https://github.com/atherdon/fuck-ecoflow/commit/74c22d886280cf3ccda1d631f3152b0d1a540cfa)
 - Update readme.md [`92b038a`](https://github.com/atherdon/fuck-ecoflow/commit/92b038a8350f569fdb4bd8cab80b18267a2d60a4)
 - Add files via upload [`0f8441a`](https://github.com/atherdon/fuck-ecoflow/commit/0f8441a33686d23f081d437ae55f07130dd43b2e)
+- chore(changelog): regenerate after merged pull request [`c151266`](https://github.com/atherdon/fuck-ecoflow/commit/c151266fa42285573d52931452cd537c25a05854)
 - chore(docs-index): regenerate all-pages markdown list [`5cb8ebd`](https://github.com/atherdon/fuck-ecoflow/commit/5cb8ebda8a108c7120a485e92b6035976d742d53)
 - chore(changelog): regenerate after merged pull request [`cefcbc6`](https://github.com/atherdon/fuck-ecoflow/commit/cefcbc61464507b712592851579f38738f96eb38)
 - docs: leave Case 0 proof-of-concept files untagged here [`763aa16`](https://github.com/atherdon/fuck-ecoflow/commit/763aa16c990c6ee46b9c1db6198e32c25888d282)
