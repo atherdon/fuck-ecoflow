@@ -215,6 +215,40 @@ const manualRedirects = [
       '/docs/outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua',
     ],
   },
+  // States-For-Ukraine renamed to potreba (request list waiting to be fulfilled).
+  // Title/sidebar label can be tweaked later.
+  // Paths are locale-relative: the client-redirects plugin runs once per
+  // locale, so these also cover /uk/docs/... in the Ukrainian build.
+  {
+    to: '/docs/communication/potreba',
+    from: [
+      '/docs/communication/States-For-Ukraine',
+      '/docs/communication/States-For-Ukraine/readme',
+      '/docs/communication/50-States-For-Ukraine',
+      '/docs/communication/50-States-For-Ukraine/readme',
+    ],
+  },
+  {
+    to: '/docs/communication/potreba/1',
+    from: [
+      '/docs/communication/States-For-Ukraine/1',
+      '/docs/communication/50-States-For-Ukraine/1',
+    ],
+  },
+  {
+    to: '/docs/communication/potreba/a',
+    from: [
+      '/docs/communication/States-For-Ukraine/a',
+      '/docs/communication/50-States-For-Ukraine/a',
+    ],
+  },
+  {
+    to: '/docs/communication/potreba/colin',
+    from: [
+      '/docs/communication/States-For-Ukraine/colin',
+      '/docs/communication/50-States-For-Ukraine/colin',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [

@@ -263,6 +263,10 @@
     "message": "Комунікація",
     "description": "The label for category 'Communication' in sidebar 'tutorialSidebar'"
   },
+  "sidebar.tutorialSidebar.category.Potreba": {
+    "message": "Потреба",
+    "description": "The label for category 'Potreba' in sidebar 'tutorialSidebar'"
+  },
   "sidebar.tutorialSidebar.category.readme": {
     "message": "readme",
     "description": "The label for category 'readme' in sidebar 'tutorialSidebar'"

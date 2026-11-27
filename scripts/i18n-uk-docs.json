@@ -19,7 +19,7 @@
     "charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md",
     "charging-station/readme.md",
     "charging-station/versions/Versions.md",
-    "communication/50-States-For-Ukraine/a.md",
+    "communication/potreba/a.md",
     "communication/African-guy/long-intro.md",
     "communication/African-guy/negr.md",
     "communication/African-guy/star.md",
@@ -82,6 +82,10 @@
       "page": "charging-station/overview/readme.md",
       "from": null,
       "status": "draft for review"
+    },
+    {
+      "page": "communication/potreba/readme.md",
+      "from": null
     }
   ]
 }
