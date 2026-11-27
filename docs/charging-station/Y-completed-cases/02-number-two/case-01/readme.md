@@ -14,7 +14,6 @@ Photos from completed case 01. This page now lives under [Case 02 — Number Two
 
 - [Case 0](../../case-0/readme.md)
 - [Case 01](./readme.md)
-- [Case 01 / 2 / 3](../../01-2-3/readme.md)
 - [Case 02 — Number Two](../readme.md)
 - [Case 03 — Number Three](../../03-number-three/readme.md)
 

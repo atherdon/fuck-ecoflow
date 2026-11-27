@@ -72,6 +72,5 @@ I did not yet bother about how to charge the battery packs
 ## Other cases
 
 - [Case 01](../02-number-two/case-01/readme.md)
-- [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 02 — Number Two](../02-number-two/readme.md)
 - [Case 03 — Number Three](../03-number-three/readme.md)

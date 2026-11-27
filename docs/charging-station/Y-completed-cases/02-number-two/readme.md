@@ -18,7 +18,6 @@ Photos from completed case 02, also called Number Two.
 
 - [Case 0](../case-0/readme.md)
 - [Case 01](./case-01/readme.md)
-- [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 02 — Number Two](../02-number-two/readme.md)
 - [Case 03 — Number Three](../03-number-three/readme.md)
 
