@@ -1,5 +1,5 @@
 ---
-slug: /charging-station/notes/sockets/вихідні-розєми
+title: "Вихідні роз'єми"
 ---
 
 # Вихідні роз'єми

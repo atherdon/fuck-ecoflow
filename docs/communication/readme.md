@@ -19,7 +19,7 @@ Outreach notes, copied chats, and letters around the charging-station work, grou
 ## People and groups
 
 - [Christine](./Christine/christine.md)
-- [Кріс](./кріс.md)
+- [Кріс](./chris.md)
 - [Dmytro](./Dmytro/readme.md)
 - [FLMan](./FLMan/readme.md)
 - [Florida Man](../charging-station/inspiration/florida-man/readme.md)
@@ -27,7 +27,7 @@ Outreach notes, copied chats, and letters around the charging-station work, grou
 - [Mr.Owl](./OWL/mr-owl.md)
 - [OWL notes](./OWL/1.md)
 - [WB BeNeLux](./WB%20BeNeLux/readme.md)
-- [Волонтери](./волонтери.md)
+- [Волонтери](./volunteers.md)
 - [Offer to physicist](./Starting-Physicist-to-shine/Offer%20to%20physicist.md)
 - [Lighthouse / delivery notes](./lighthouse/readme.md)
 - [Potreba](./potreba/readme.md)
