@@ -60,61 +60,61 @@ sidebar_position: 999
 | 46 | `charging-station/Y-completed-cases/case-0/prototype.md` | Prototype |
 | 47 | `charging-station/Y-completed-cases/case-0/readme.md` | Case 0 |
 | 48 | `charging-station/Y-completed-cases/readme.md` | Completed cases |
-| 49 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
-| 50 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
-| 51 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
-| 52 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
-| 53 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
-| 54 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
-| 55 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
-| 56 | `charging-station/notes/batteries/readme.md` | Batteries |
-| 57 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
-| 58 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | Зарядний пристрій для АКБ |
-| 59 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
-| 60 | `charging-station/notes/competitors/Competitors .md` | Competitors |
-| 61 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
-| 62 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
-| 63 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
-| 64 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
-| 65 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
-| 66 | `charging-station/notes/filin/Filin .md` | Filin |
-| 67 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
-| 68 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
-| 69 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
-| 70 | `charging-station/notes/grants/readme.md` | Grants |
-| 71 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
-| 72 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
-| 73 | `charging-station/notes/misc/readme.md` | Miscellaneous notes |
-| 74 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
-| 75 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
-| 76 | `charging-station/notes/pros-cons/pros-and-cons.md` | Pros and Cons |
-| 77 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
-| 78 | `charging-station/notes/readme.md` | Information & notes |
-| 79 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
-| 80 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
-| 81 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
-| 82 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
-| 83 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
-| 84 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
-| 85 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
-| 86 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
-| 87 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
-| 88 | `charging-station/overview/ai-is-stupid.md` | AI is stupid |
-| 89 | `charging-station/overview/readme.md` | Overview |
-| 90 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
-| 91 | `charging-station/readme.md` | charging-station/readme |
-| 92 | `charging-station/unfinished.md` | Unfinished notes |
-| 93 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
-| 94 | `charging-station/versions/timeline.md` | Versions timeline |
-| 95 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
-| 96 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
-| 97 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
-| 98 | `communication/African-guy/negr.md` | Situation update |
-| 99 | `communication/African-guy/star.md` | Міністар |
-| 100 | `communication/Christine/christine.md` | Christine |
-| 101 | `communication/Dmytro/readme.md` | Dmytro |
-| 102 | `communication/FLMan/readme.md` | FLMan |
-| 103 | `communication/FLman/Florida Man.md` | communication/FLman/Florida Man |
+| 49 | `charging-station/inspiration/florida-man/readme.md` | Florida Man |
+| 50 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
+| 51 | `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
+| 52 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
+| 53 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
+| 54 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
+| 55 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
+| 56 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
+| 57 | `charging-station/notes/batteries/readme.md` | Batteries |
+| 58 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
+| 59 | `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | Зарядний пристрій для АКБ |
+| 60 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
+| 61 | `charging-station/notes/competitors/Competitors .md` | Competitors |
+| 62 | `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
+| 63 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
+| 64 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
+| 65 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
+| 66 | `charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone.md` | charging-station/notes/field-charging/charging-lipo-batteries-in-the-field-for-fpv-drone |
+| 67 | `charging-station/notes/filin/Filin .md` | Filin |
+| 68 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
+| 69 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
+| 70 | `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
+| 71 | `charging-station/notes/grants/readme.md` | Grants |
+| 72 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
+| 73 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
+| 74 | `charging-station/notes/misc/readme.md` | Miscellaneous notes |
+| 75 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
+| 76 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
+| 77 | `charging-station/notes/pros-cons/pros-and-cons.md` | Pros and Cons |
+| 78 | `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
+| 79 | `charging-station/notes/readme.md` | Information & notes |
+| 80 | `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
+| 81 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
+| 82 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
+| 83 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
+| 84 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
+| 85 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
+| 86 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
+| 87 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
+| 88 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
+| 89 | `charging-station/overview/ai-is-stupid.md` | AI is stupid |
+| 90 | `charging-station/overview/readme.md` | Overview |
+| 91 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
+| 92 | `charging-station/readme.md` | charging-station/readme |
+| 93 | `charging-station/unfinished.md` | Unfinished notes |
+| 94 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
+| 95 | `charging-station/versions/timeline.md` | Versions timeline |
+| 96 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
+| 97 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
+| 98 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
+| 99 | `communication/African-guy/negr.md` | Situation update |
+| 100 | `communication/African-guy/star.md` | Міністар |
+| 101 | `communication/Christine/christine.md` | Christine |
+| 102 | `communication/Dmytro/readme.md` | Dmytro |
+| 103 | `communication/FLMan/readme.md` | FLMan |
 | 104 | `communication/Mr.S.md` | Mr.S — press release |
 | 105 | `communication/OWL/1.md` | OWL notes |
 | 106 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
