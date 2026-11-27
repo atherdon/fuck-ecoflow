@@ -27,8 +27,7 @@
     "communication/Starting-Physicist-to-shine/Offer to physicist.md",
     "communication/master-plan-unfinished.md",
     "communication/shotgun-with-nets.md",
-    "communication/волонтери.md",
-    "orders/tools-for-welding/tools.md"
+    "communication/волонтери.md"
   ],
   "translations": [
     {
@@ -62,6 +61,10 @@
     {
       "page": "01-outsourcing-engineering/simple-products/wire-extenders/readme.md",
       "from": "01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md"
+    },
+    {
+      "page": "orders/tools-for-welding/tools.md",
+      "from": null
     },
     {
       "page": "intro.md",

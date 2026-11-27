@@ -19,4 +19,4 @@ Parts lists, purchase notes, and supplier orders for the cases and related gear.
 - [Провід силікон 20AVG red](./06-June-case.md)
 - [Cool BMS to try](./cool-bms-to-try.md)
 - [Rob is great](./Rob-is-great.md)
-- [Ящік фізика TOOOLS](./tools-for-welding/tools.md)
+- [Box "Physics" tools](./tools-for-welding/tools.md)
