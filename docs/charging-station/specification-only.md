@@ -1,8 +1,11 @@
 ---
-slug: /charging-station/notes/may-22th-specification-only
+title: Specification only (May 22th)
+sidebar_label: Specification only
+sidebar_position: 3.5
+slug: /charging-station/specification-only
 ---
 
-# May 22th Specification Only
+# Specification only (May 22th)
 
 ## **Situation**
 

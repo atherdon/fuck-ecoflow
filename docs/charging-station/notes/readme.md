@@ -15,7 +15,7 @@ Background research, component notes, and conversation records for the charging-
 - [Pros and Cons](./pros-cons/pros-and-cons.md)
 - [Кейс для наш работи](./empty-case/case-for-our-work.md)
 - [Фальш Кришка](./falsh-line/false-lid.md)
-- [May 22th Specification Only](./May%2022th%20Specification%20Only.md)
+- [May 22th Specification Only](../specification-only.md)
 - [Ящік фізика - інструменти](./tool-box/physicist-box-tools.md)
 
 ## Power and charging

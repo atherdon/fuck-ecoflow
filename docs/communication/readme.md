@@ -30,7 +30,7 @@ Outreach notes, copied chats, and letters around the charging-station work, grou
 - [Волонтери](./волонтери.md)
 - [Offer to physicist](./Starting-Physicist-to-shine/Offer%20to%20physicist.md)
 - [Lighthouse / delivery notes](./lighthouse/readme.md)
-- [50 States for Ukraine](./50-States-For-Ukraine/readme.md)
+- [Potreba](./potreba/readme.md)
 
 ## Other notes
 

@@ -62,7 +62,6 @@ sidebar_position: 999
 | `charging-station/Y-completed-cases/readme.md` | Completed cases |
 | `charging-station/inspiration/florida-man/readme.md` | Florida Man |
 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
-| `charging-station/notes/May 22th Specification Only.md` | charging-station/notes/May 22th Specification Only |
 | `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
@@ -102,15 +101,12 @@ sidebar_position: 999
 | `charging-station/overview/readme.md` | Overview |
 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
 | `charging-station/readme.md` | charging-station/readme |
+| `charging-station/specification-only.md` | Specification only (May 22th) |
 | `charging-station/unfinished.md` | Unfinished notes |
 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
 | `charging-station/versions/timeline.md` | Versions timeline |
 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
-| `communication/50-States-For-Ukraine/1.md` | Short version (will expand it later) |
-| `communication/50-States-For-Ukraine/a.md` | Історія по двох поранених |
-| `communication/50-States-For-Ukraine/colin.md` | Colin |
-| `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
 | `communication/African-guy/negr.md` | Situation update |
 | `communication/African-guy/star.md` | Міністар |
@@ -130,6 +126,10 @@ sidebar_position: 999
 | `communication/master-plan-unfinished.md` | Матеріали |
 | `communication/monstrik-not-done.md` | Monstrik |
 | `communication/newsletters/readme.md` | communication/newsletters/readme |
+| `communication/potreba/1.md` | Short version (will expand it later) |
+| `communication/potreba/a.md` | Історія по двох поранених |
+| `communication/potreba/colin.md` | Colin |
+| `communication/potreba/readme.md` | Potreba |
 | `communication/readme.md` | Communication |
 | `communication/shotgun-with-nets.md` | Shotgun with nets |
 | `communication/zombie/questions.md` | Fundraising campaign questions |
