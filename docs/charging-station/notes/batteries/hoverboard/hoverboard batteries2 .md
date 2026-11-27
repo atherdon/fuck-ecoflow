@@ -4,7 +4,7 @@ slug: /charging-station/batteries/exportblock-ea/hoverboard-batteries-1
 
 # hoverboard batteries (1)
 
-## **26.04.25 Артур - Sjoerd**
+## **26.04.25 Артур - Sj**
 
 Приїдуть акумулятори з Hoverboard, потрібно їх протестувати.
 
@@ -12,4 +12,4 @@ slug: /charging-station/batteries/exportblock-ea/hoverboard-batteries-1
 
 ![Screenshot_20250511-232246.jpg](50757349-3381-490c-a111-94e658981d17.png)
 
-I need to get back to Sjoerd about hover batteries. or should IW message Targan dudes about it?
+I need to get back to Sj about hover batteries. or should IW message Targan dudes about it?
