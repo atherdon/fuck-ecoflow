@@ -1,45 +1,50 @@
-# Ящік фізика TOOOLS 
+---
+title: Box "Physics" tools
+sidebar_label: Box "Physics" tools
+---
+
+# Box "Physics" tools
 
 Created: April 28, 2026 7:30 PM
 
-# Инструмент
+# Tools
 
-- Мультиметр
-- Измеритель внутреннего сопротивления
-- [Зарядное устройство с отображением ёмкости](https://a.aliexpress.com/_EINR1Si)
-- [Аппарат точечной сварки](https://a.aliexpress.com/_EwsMdKE)
-- Кримпер
-- Стрипер
+- Multimeter
+- Internal resistance meter
+- [Charger with capacity display](https://a.aliexpress.com/_EINR1Si)
+- [Spot welder](https://a.aliexpress.com/_EwsMdKE)
+- Crimper
+- Stripper
 
-**Расходные материалы**
+**Consumables**
 
-- [Провод 12AWG](https://a.aliexpress.com/_EySMhJG)
-- [Провод монтажный](https://a.aliexpress.com/_EGnzUKW)
-- [Никилированная шина 0.25мм](https://a.aliexpress.com/_EJTmOmA)
-- [Оконечники кабельные под болт](https://a.aliexpress.com/_EHRW0ty)
-- Термоусадка с клеем
-- Коннектор ХТ 60, ХТ90, SQ8
-- Холдеры для ячеек
-- Изоляционный материал для АКБ
+- [12 AWG wire](https://a.aliexpress.com/_EySMhJG)
+- [Hook-up wire](https://a.aliexpress.com/_EGnzUKW)
+- [Nickel-plated bus bar, 0.25 mm](https://a.aliexpress.com/_EJTmOmA)
+- [Bolt-type cable lugs](https://a.aliexpress.com/_EHRW0ty)
+- Adhesive-lined heat-shrink tubing
+- XT60, XT90, SQ8 connectors
+- Cell holders
+- Insulation material for the battery pack
 
-**Электронные компоненты**
+**Electronic components**
 
 - BMS
-- Зарядное устройство для сборки АКБ
-- Кулера
-- Контроллер температуры/ [термореле](https://a.aliexpress.com/_EIwHtXM)
-- [Платы](https://a.aliexpress.com/_EJnOB9C) зарядных устройств или готовые в[страиваемые](https://a.aliexpress.com/_Ez2r8Am) [модуля](https://a.aliexpress.com/_EHFePqw)
-- ВОЗМОЖНО инвертор 12В-220В
+- Charger for battery pack assembly
+- Coolers
+- Temperature controller / [thermal relay](https://a.aliexpress.com/_EIwHtXM)
+- [Boards](https://a.aliexpress.com/_EJnOB9C) for chargers, or ready-made [embedded](https://a.aliexpress.com/_Ez2r8Am) [modules](https://a.aliexpress.com/_EHFePqw)
+- POSSIBLY a 12V–220V inverter
 
-# Прочее
+# Other
 
-- [Разъем](https://a.aliexpress.com/_Ex0XmOW) + сетевой кабель
-- [Индикатор](https://a.aliexpress.com/_EzVNhHC) состояния АКБ / вольтметр
-- [Автомобильная розетка](https://a.aliexpress.com/_EJJxoGK)
-- [USB лампа](https://a.aliexpress.com/_EGie9Hg)
-- Реле / мощный переключатель
-- Платы повышения/понижения напряжения
-- [Переключатели](https://a.aliexpress.com/_EI04kPu) или [кнопки](https://a.aliexpress.com/_EvU6aIm) с фиксацией (подсветка)
-- Компактный [держатель](https://a.aliexpress.com/_EvHrClk) для планшета
-- USB кабеля для зарядки
-- Компактные маломощные [диодные сборки](https://a.aliexpress.com/_EvOGg4S) (минимальная подсветка)
+- [Connector](https://a.aliexpress.com/_Ex0XmOW) + mains cable
+- [Battery status indicator](https://a.aliexpress.com/_EzVNhHC) / voltmeter
+- [Car socket](https://a.aliexpress.com/_EJJxoGK)
+- [USB lamp](https://a.aliexpress.com/_EGie9Hg)
+- Relay / heavy-duty switch
+- Step-up / step-down voltage boards
+- [Switches](https://a.aliexpress.com/_EI04kPu) or latching [buttons](https://a.aliexpress.com/_EvU6aIm) (backlit)
+- Compact tablet [holder](https://a.aliexpress.com/_EvHrClk)
+- USB charging cables
+- Compact low-power [LED assemblies](https://a.aliexpress.com/_EvOGg4S) (minimal lighting)

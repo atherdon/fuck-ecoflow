@@ -3,38 +3,6 @@ sidebar_position: 3
 title: Progress on charging cases
 ---
 
-# Прогрес по ящиках
-
-По ящиках у нас є цікавий прогрес.
-
-Ми ще чекаємо частину проводки з AliExpress, тому поки що працюємо з тим, що маємо на руках.
-
-- Один великий ящик на 1900 Вт вже віддали мавікістам на хату — нехай тестують його на полігонах і в побутових умовах [...].
-
-## Ящики
-1. Ящик №1 — (1900 Вт) — відданий для тестування.
-2. Ящик №2  
-   Документ: [Case #2](../../charging-station/Y-completed-cases/02-number-two/readme.md)
-3. Ящик №3  
-   Документ: [Case #3](../../charging-station/Y-completed-cases/03-number-three/readme.md)
-4. Ящик №4 — у процесі.
-
-## Інвентаризація
-Тут у нас інвентаризація матеріалів для ящиків:  
-[Google Sheet](https://docs.google.com/spreadsheets/d/1qywjPhieRwVEJRc00pxRBZxT32SaJeH4q3cz97q7-Qo/preview?gid=0#gid=0)
-
-Ти казав, що можемо зібрати якісь кошти — інженер може зробити документ з посиланнями та порахувати, скіки чого потрібно [...].
-
-Частина з цього документу вже іде до нас з Бельгії, але постійно треба оновлювати залишки.
-
-## Лабораторія
-А ось наша лабораторія:  
-[Our distributed laboratory](../../team/our-lab/readme.md)
-
----
-
-## English translation
-
 There is some interesting progress with the boxes.
 
 We are still waiting for part of the wiring from AliExpress, so for now we are working with what we have on hand.
