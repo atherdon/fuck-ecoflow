@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore(docs-index): drop row numbers from the all-pages index [`#180`](https://github.com/atherdon/fuck-ecoflow/pull/180)
 - docs: move May 22 specification to the charging-station section [`#179`](https://github.com/atherdon/fuck-ecoflow/pull/179)
 - Rename States-For-Ukraine to potreba [`#174`](https://github.com/atherdon/fuck-ecoflow/pull/174)
 - docs(grants): remove duplicate grant-vadim Grants page [`#177`](https://github.com/atherdon/fuck-ecoflow/pull/177)
@@ -238,6 +239,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - docs(charging-station): physicist page as landing, versions second, inspiration as side projects [`6daaca1`](https://github.com/atherdon/fuck-ecoflow/commit/6daaca106587d71b81a0a1d3e1dd0e6e04512b5f)
 - Add files via upload [`6f9b052`](https://github.com/atherdon/fuck-ecoflow/commit/6f9b052f41ecd2bc5c280f129421e6558e19ddc2)
 - chore(docs-index): regenerate all-pages markdown list [`b4c13e8`](https://github.com/atherdon/fuck-ecoflow/commit/b4c13e8522c77d5b47047c5cb6955d056619636a)
+- chore(docs-index): drop row numbers so PRs stop conflicting on pages-index.md [`8085f81`](https://github.com/atherdon/fuck-ecoflow/commit/8085f81a39c5b03e0ce7df764c93226843b1470b)
 - chore(docs-index): regenerate all-pages markdown list [`433cec2`](https://github.com/atherdon/fuck-ecoflow/commit/433cec2eb6dca3a4ee1d3019b56786cd60801239)
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
@@ -762,6 +764,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`06cebad`](https://github.com/atherdon/fuck-ecoflow/commit/06cebad2a1f295a7d81f59ed01a336089cfe435c)
 - chore(changelog): regenerate after merged pull request [`22aea4b`](https://github.com/atherdon/fuck-ecoflow/commit/22aea4b8ad18cc53218d544cc54fd95a5efcbf63)
 - chore(changelog): regenerate after merged pull request [`2d90e66`](https://github.com/atherdon/fuck-ecoflow/commit/2d90e66d46eb9332d4ad86e03fa5dfe553a14225)
 - chore(docs-index): regenerate all-pages markdown list [`5e1b5a4`](https://github.com/atherdon/fuck-ecoflow/commit/5e1b5a4786836357b4a6501240eab31094f429fa)
@@ -1175,11 +1178,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- Merge origin/main into chore/docs-index-no-row-numbers [`1b1fd45`](https://github.com/atherdon/fuck-ecoflow/commit/1b1fd453fcd59a45e968b4dcd3dfdb0803542edb)
 - Merge origin/main into docs/rename-states-for-ukraine-potreba [`9168619`](https://github.com/atherdon/fuck-ecoflow/commit/916861927bd74d160925b3fbd5683003a1fdb4bc)
 - Merge origin/main into docs/move-may22-specification [`0c4efe2`](https://github.com/atherdon/fuck-ecoflow/commit/0c4efe21c372d30108c4084db34240cfed372d78)
+- Merge origin/main into chore/docs-index-no-row-numbers [`5d46892`](https://github.com/atherdon/fuck-ecoflow/commit/5d46892c1afb4649128c852bea2930596236debc)
 - Merge origin/main into docs/move-may22-specification [`8db6842`](https://github.com/atherdon/fuck-ecoflow/commit/8db6842da2df409e3b1e2940910b0b47ba05be12)
 - Merge origin/main into docs/remove-duplicate-vadim-25-04-25 [`52f66c5`](https://github.com/atherdon/fuck-ecoflow/commit/52f66c5f62b3ea5d9a2264a6cdf4369c49eb50a1)
 - Merge origin/main into docs/rename-states-for-ukraine-potreba [`4877cbb`](https://github.com/atherdon/fuck-ecoflow/commit/4877cbbfe85511bc2d8d5f932848c7b80bfabb48)
+- Merge origin/main into chore/docs-index-no-row-numbers [`73e63b6`](https://github.com/atherdon/fuck-ecoflow/commit/73e63b6fd57e8350a7183026238761cd0810bf4a)
 - fix(docs): add a .txt extension to the potreba news note [`4a0afc5`](https://github.com/atherdon/fuck-ecoflow/commit/4a0afc5205f457dc8eb53b616b2ff28cf1d6285a)
 - Merge main into docs/inspiration-one-page (keep both redirect lists) [`8cee1a0`](https://github.com/atherdon/fuck-ecoflow/commit/8cee1a0d9efb52ebfd5660f5a9eaf220cad4a04c)
 - merge the updated Case 0 branch [`7a02687`](https://github.com/atherdon/fuck-ecoflow/commit/7a0268728208ad835137491fbdcc0a07bb5b6e4d)
