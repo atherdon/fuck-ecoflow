@@ -1,5 +1,5 @@
 ---
-sidebar_label: Frog 2.0 (English)
+sidebar_label: Frog 2.0
 ---
 
 # 2. Frog 2.0. TBD

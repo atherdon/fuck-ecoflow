@@ -26,5 +26,4 @@ sidebar_position: 3
 
 ## Інші сторінки
 
-- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
-- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
+- [Проблема](../problem-statement/English-version.md)

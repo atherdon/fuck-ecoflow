@@ -12,33 +12,33 @@ sidebar_position: 999
 
 | # | Path | Title |
 | --- | --- | --- |
-| 1 | `00-Problem/problem-statement/English-version.md` | Problem statement (English) |
+| 1 | `00-Problem/problem-statement/English-version.md` | Problem statement |
 | 2 | `00-Problem/readme.md` | The problem |
 | 3 | `00-Problem/situation/Situation.md` | Situation |
-| 4 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | Dmytro's notes (English) |
+| 4 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | Dmytro's notes |
 | 5 | `01-outsourcing-engineering/big-powerpunk/readme.md` | 01-outsourcing-engineering/big-powerpunk/readme |
-| 6 | `01-outsourcing-engineering/charging-station/physicist.md` | Box \"Physics\" (English) |
+| 6 | `01-outsourcing-engineering/charging-station/physicist.md` | Box \"Physics\" |
 | 7 | `01-outsourcing-engineering/charging-station/readme.md` | 01-outsourcing-engineering/charging-station/readme |
 | 8 | `01-outsourcing-engineering/drone-net-gun/readme.md` | Drone — Net Launcher |
-| 9 | `01-outsourcing-engineering/full-specification/english-specification.md` | Full specification (English) |
+| 9 | `01-outsourcing-engineering/full-specification/english-specification.md` | Full specification |
 | 10 | `01-outsourcing-engineering/full-specification/readme.md` | 01-outsourcing-engineering/full-specification/readme |
 | 11 | `01-outsourcing-engineering/lesnik/readme.md` | Lesnik |
 | 12 | `01-outsourcing-engineering/powerbank/reamd.md` | 01-outsourcing-engineering/powerbank/reamd |
 | 13 | `01-outsourcing-engineering/readme.md` | Outsourcing engineering |
 | 14 | `01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/diy-powerbanks-for-drops/diy-powerbanks-for-drops |
-| 15 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | Frog v1 (English) |
+| 15 | `01-outsourcing-engineering/simple-products/frog-version-one/english.md` | Frog v1 |
 | 16 | `01-outsourcing-engineering/simple-products/frog-version-one/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-one/readme |
-| 17 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | Frog 2.0 (English) |
+| 17 | `01-outsourcing-engineering/simple-products/frog-version-two/english.md` | Frog 2.0 |
 | 18 | `01-outsourcing-engineering/simple-products/frog-version-two/readme.md` | 01-outsourcing-engineering/simple-products/frog-version-two/readme |
 | 19 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/diy-powerbanks-for-drops |
 | 20 | `01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme.md` | 01-outsourcing-engineering/simple-products/one-use-diy-powerbanks/readme |
-| 21 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | Power Banks (English) |
+| 21 | `01-outsourcing-engineering/simple-products/powerbanks/english.md` | Power Banks |
 | 22 | `01-outsourcing-engineering/simple-products/readme.md` | Simple Products |
-| 23 | `01-outsourcing-engineering/simple-products/spider/english.md` | Spider (English) |
+| 23 | `01-outsourcing-engineering/simple-products/spider/english.md` | Spider |
 | 24 | `01-outsourcing-engineering/simple-products/spider/readme.md` | 01-outsourcing-engineering/simple-products/spider/readme |
 | 25 | `01-outsourcing-engineering/simple-products/usb-to-xt60/readme.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/readme |
 | 26 | `01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60.md` | 01-outsourcing-engineering/simple-products/usb-to-xt60/usb-to-xt60 |
-| 27 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | Wire extenders (English) |
+| 27 | `01-outsourcing-engineering/simple-products/wire-extenders/readme.md` | Wire extenders |
 | 28 | `14-3d-to-print/3d.md` | 3D notes |
 | 29 | `14-3d-to-print/3dmodelsforcorners.md` | 14-3d-to-print/3dmodelsforcorners |
 | 30 | `14-3d-to-print/readme.md` | 3D to print |

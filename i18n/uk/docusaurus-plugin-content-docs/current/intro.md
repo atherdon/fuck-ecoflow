@@ -13,8 +13,7 @@ sidebar_label: Почати тут
 
 ## Навіщо це все
 
-- [Problem statement (English)](pathname:///fuck-ecoflow/docs/00-problem/problem-statement/english-version)
-- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
+- [Проблема](./00-Problem/problem-statement/English-version.md)
 - [Ситуація](./00-Problem/situation/Situation.md)
 
 ## Зарядна станція

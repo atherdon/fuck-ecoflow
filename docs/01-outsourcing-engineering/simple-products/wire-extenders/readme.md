@@ -1,5 +1,5 @@
 ---
-sidebar_label: Wire extenders (English)
+sidebar_label: Wire extenders
 ---
 
 # Extenders for charging stations: 20 extenders + 20 balancers.

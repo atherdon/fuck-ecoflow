@@ -1,11 +1,11 @@
 ---
-title: Full specification (English)
-sidebar_label: Full specification (English)
+title: Full specification
+sidebar_label: Full specification
 sidebar_position: 1
 description: English translation of the Ukrainian specification "For the student guys" (21.05.2026) — tasks, product directions, the "Physicist" charging box, team and startup inventory.
 ---
 
-# Full specification (English)
+# Full specification
 
 **For the student guys — 21.05.2026**
 
@@ -408,6 +408,6 @@ All of this would let us start assembling:
 
 ## Related pages
 
-- [Box "Physics" (English)](pathname:///fuck-ecoflow/docs/outsourcing-engineering/charging-station/physicist) · [Ящик «Фізика» (українською)](pathname:///fuck-ecoflow/uk/docs/outsourcing-engineering/charging-station/physicist)
+- [Box "Physics"](../charging-station/physicist.md)
 - [Simple products](../simple-products/readme.md)
-- [Dmytro's notes (English)](../Kyiv-Mohyla-Academy/Dmytro-en.md)
+- [Dmytro's notes](../Kyiv-Mohyla-Academy/Dmytro-en.md)

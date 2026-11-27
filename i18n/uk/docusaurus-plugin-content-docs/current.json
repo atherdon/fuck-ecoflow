@@ -239,9 +239,9 @@
     "message": "4. «USB to XT60»",
     "description": "The label for category '4. «USB to XT60»' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.Wire extenders (English)": {
-    "message": "Подовжувачі (English)",
-    "description": "The label for category 'Wire extenders (English)' in sidebar 'tutorialSidebar'"
+  "sidebar.tutorialSidebar.category.Wire extenders": {
+    "message": "Подовжувачі",
+    "description": "The label for category 'Wire extenders' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Kyiv-Mohyla Academy": {
     "message": "Києво-Могилянська академія",

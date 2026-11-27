@@ -1,5 +1,5 @@
 ---
-sidebar_label: Spider (English)
+sidebar_label: Spider
 ---
 
 # 5. «Spider»

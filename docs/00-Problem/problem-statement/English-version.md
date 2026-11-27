@@ -1,11 +1,11 @@
 ---
 slug: /00-problem/problem-statement/english-version
-title: Problem statement (English)
-sidebar_label: Problem statement (English)
+title: Problem statement
+sidebar_label: Problem statement
 sidebar_position: 1
 ---
 
-# Problem statement (English)
+# Problem statement
 
 ## Life on the Pokrovsk Direction
 
@@ -72,6 +72,5 @@ I will tell the story of my "Vampire Laboratory" project in a separate document.
 
 ## Related pages
 
-- [Проблема (українською)](pathname:///fuck-ecoflow/uk/docs/00-problem/problem-statement/english-version)
 - [Situation](../situation/Situation.md)
 - [Charging station](../../charging-station/readme.md)
