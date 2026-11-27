@@ -52,8 +52,6 @@ sidebar_position: 999
 | `charging-station/Y-completed-cases/02-number-two/readme.md` | Case 02 — Number Two |
 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | Number Three |
 | `charging-station/Y-completed-cases/03-number-three/readme.md` | Case 03 — Number Three |
-| `charging-station/Y-completed-cases/case-0/case-0-proof-of-concept-mr-s-27-05-25.md` | Case #0 - Proof of concept - Mr.S 27.05.25 |
-| `charging-station/Y-completed-cases/case-0/prototype.md` | Prototype |
 | `charging-station/Y-completed-cases/case-0/readme.md` | Case 0 |
 | `charging-station/Y-completed-cases/readme.md` | Completed cases |
 | `charging-station/inspiration/florida-man/readme.md` | Florida Man |
