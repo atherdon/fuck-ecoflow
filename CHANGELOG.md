@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Combine Frog v1 and Frog 2.0 under Motorolla Frogs [`#190`](https://github.com/atherdon/fuck-ecoflow/pull/190)
 - docs(orders): format section pages into tables and consistent headings [`#189`](https://github.com/atherdon/fuck-ecoflow/pull/189)
 - Move the outsourcing charging-station page under Inspiration [`#188`](https://github.com/atherdon/fuck-ecoflow/pull/188)
 - Move Sj 28.03.26 under Inspiration and anonymize the name [`#187`](https://github.com/atherdon/fuck-ecoflow/pull/187)
@@ -255,6 +256,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - feat(i18n): one page per language for Frog v1/v2, powerbanks, spider and wire extenders [`ef281fb`](https://github.com/atherdon/fuck-ecoflow/commit/ef281fb67ebb7b04c5bf04bc54cbf632db8fa60d)
 - 333 [`d1789c5`](https://github.com/atherdon/fuck-ecoflow/commit/d1789c5556943df7d3bcf0b7d11b43a730132059)
 - 111 [`bc9cd50`](https://github.com/atherdon/fuck-ecoflow/commit/bc9cd50d159a63d6c314d1e7ad5e05ff0a503245)
+- docs: merge Frog v1 and Frog 2.0 into a Motorolla Frogs page [`5de74d8`](https://github.com/atherdon/fuck-ecoflow/commit/5de74d8dbc8fc1baebd842b43caf1154a7373738)
 - chore(docs-index): regenerate all-pages markdown list [`fd057e3`](https://github.com/atherdon/fuck-ecoflow/commit/fd057e37629af41145d98c8b20798200ea39f32c)
 - chore: add generate:docs-index script and pages-index scaffold [`f3a9f39`](https://github.com/atherdon/fuck-ecoflow/commit/f3a9f39e7976300a275019d31512ce5b05da935f)
 - 333 [`34a4007`](https://github.com/atherdon/fuck-ecoflow/commit/34a4007a6b13fc2c28dee12d096face8e5894488)
@@ -852,6 +854,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`77c8c85`](https://github.com/atherdon/fuck-ecoflow/commit/77c8c85bf68d333d72f3bd3c52c6a4284f51e293)
 - chore(changelog): regenerate after merged pull request [`47b461a`](https://github.com/atherdon/fuck-ecoflow/commit/47b461a8efea2e1b19142e1f48f0f0178eb6f5b3)
 - chore(changelog): regenerate after merged pull request [`5247bce`](https://github.com/atherdon/fuck-ecoflow/commit/5247bcef651cdbc0cc1b4de4c5d74d33871b0ec4)
 - chore(changelog): regenerate after merged pull request [`8681142`](https://github.com/atherdon/fuck-ecoflow/commit/868114237a0de69e374e25c982d81e55f5b613af)
@@ -1194,6 +1197,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- Merge origin/main into docs/motorolla-frogs-section [`69192ca`](https://github.com/atherdon/fuck-ecoflow/commit/69192cae1d729690359009a3e59d710dbae91f25)
 - Merge origin/main into chore/docs-index-no-row-numbers [`1b1fd45`](https://github.com/atherdon/fuck-ecoflow/commit/1b1fd453fcd59a45e968b4dcd3dfdb0803542edb)
 - Merge origin/main into docs/rename-states-for-ukraine-potreba [`9168619`](https://github.com/atherdon/fuck-ecoflow/commit/916861927bd74d160925b3fbd5683003a1fdb4bc)
 - Merge origin/main into docs/move-may22-specification [`0c4efe2`](https://github.com/atherdon/fuck-ecoflow/commit/0c4efe21c372d30108c4084db34240cfed372d78)
