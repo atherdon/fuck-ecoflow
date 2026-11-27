@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Move the outsourcing charging-station page under Inspiration [`#188`](https://github.com/atherdon/fuck-ecoflow/pull/188)
 - Move Sj 28.03.26 under Inspiration and anonymize the name [`#187`](https://github.com/atherdon/fuck-ecoflow/pull/187)
 - docs(our-lab): remove duplicate and unnecessary lab photos [`#186`](https://github.com/atherdon/fuck-ecoflow/pull/186)
 - ci(auto-rebase): resolve docs/pages-index.md conflicts automatically [`#181`](https://github.com/atherdon/fuck-ecoflow/pull/181)
@@ -547,6 +548,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update unfinished-unsorted-tasks.md [`936789d`](https://github.com/atherdon/fuck-ecoflow/commit/936789d359e139423429804f540d8ef354be512d)
 - Delete docs/orders/Fine answer to Negr.md [`0f5ad07`](https://github.com/atherdon/fuck-ecoflow/commit/0f5ad075506a6dbf3a1a3f835bb1f23526c7d7a0)
 - 3333 [`8603434`](https://github.com/atherdon/fuck-ecoflow/commit/8603434d1748b816cd115c0fa21a489153c3efc9)
+- docs: move outsourcing charging-station page under inspiration [`a6869eb`](https://github.com/atherdon/fuck-ecoflow/commit/a6869eb8e83a7a3c279d8a7ab77a5918525792f3)
 - Add documentation homepage [`38e8f46`](https://github.com/atherdon/fuck-ecoflow/commit/38e8f46150fdddadf91bb1f2e0cd551176c89a41)
 - Fix remaining broken links [`0eb4fb6`](https://github.com/atherdon/fuck-ecoflow/commit/0eb4fb6f7a234d5101995c236f5e7a0b32886d64)
 - Create long-intro.md [`2ac6372`](https://github.com/atherdon/fuck-ecoflow/commit/2ac6372f65e37065954af14ed9c3a0bd277ba5c2)
@@ -805,6 +807,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`593fce9`](https://github.com/atherdon/fuck-ecoflow/commit/593fce99bca9a1e36c3cae9b14bd38949a89d066)
 - chore(changelog): regenerate after merged pull request [`783594a`](https://github.com/atherdon/fuck-ecoflow/commit/783594a55d5033c4f5ae68e2812ba1a59601da74)
 - chore(changelog): regenerate after merged pull request [`292215a`](https://github.com/atherdon/fuck-ecoflow/commit/292215a28dbb537bd476f2ef498b9c348d25a0ad)
 - chore(changelog): regenerate after merged pull request [`58f9ea9`](https://github.com/atherdon/fuck-ecoflow/commit/58f9ea94e146a41bdffe20ac6624391e5217d15b)
