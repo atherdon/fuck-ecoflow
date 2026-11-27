@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Replace remaining Sjoerd mentions with Sj [`#191`](https://github.com/atherdon/fuck-ecoflow/pull/191)
 - Combine Frog v1 and Frog 2.0 under Motorolla Frogs [`#190`](https://github.com/atherdon/fuck-ecoflow/pull/190)
 - docs(orders): format section pages into tables and consistent headings [`#189`](https://github.com/atherdon/fuck-ecoflow/pull/189)
 - Move the outsourcing charging-station page under Inspiration [`#188`](https://github.com/atherdon/fuck-ecoflow/pull/188)
@@ -499,6 +500,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - chore: point site config at LLazyEmail fork and extend README setup [`496d209`](https://github.com/atherdon/fuck-ecoflow/commit/496d20971d2a4d65e948642325022fc30c9f7c24)
 - 333 [`b218eb1`](https://github.com/atherdon/fuck-ecoflow/commit/b218eb1296b3be2ad0900f7f1fde197315a6ee53)
 - Add communication notes document [`7a68318`](https://github.com/atherdon/fuck-ecoflow/commit/7a683181e139c19dd10c5f4decb7f0def20a10b1)
+- docs: replace remaining Sjoerd mentions with Sj [`d0ea30f`](https://github.com/atherdon/fuck-ecoflow/commit/d0ea30f8cd856e56615eeec24de5ce1fee3badd5)
 - Create colin.md [`5034575`](https://github.com/atherdon/fuck-ecoflow/commit/5034575f437c8215422db7b2207dae8c4671b5d0)
 - Update unfinished.md [`1333e66`](https://github.com/atherdon/fuck-ecoflow/commit/1333e66305267e68d05936f2c4adde43d1ccb0e1)
 - Update readme.md [`fe8742c`](https://github.com/atherdon/fuck-ecoflow/commit/fe8742c6fe30051cce1bc9273ef64fcd2288723d)
@@ -775,6 +777,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`cb77a8a`](https://github.com/atherdon/fuck-ecoflow/commit/cb77a8a7d296ff44cac48e5520c6be7d92ec9906)
 - Update unfinished-unsorted-tasks.md [`5179580`](https://github.com/atherdon/fuck-ecoflow/commit/517958012d9d20a88e3f6e9b818c49a76140ea4d)
 - chore(changelog): regenerate after merged pull request [`06cebad`](https://github.com/atherdon/fuck-ecoflow/commit/06cebad2a1f295a7d81f59ed01a336089cfe435c)
 - chore(changelog): regenerate after merged pull request [`22aea4b`](https://github.com/atherdon/fuck-ecoflow/commit/22aea4b8ad18cc53218d544cc54fd95a5efcbf63)
@@ -901,7 +904,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Rename Competitors .md to Competitors.md [`d7b8e30`](https://github.com/atherdon/fuck-ecoflow/commit/d7b8e3093093836d8931f330168634c993b07156)
 - Rename Florida Man .md to Florida Man.md [`abd16c3`](https://github.com/atherdon/fuck-ecoflow/commit/abd16c3746aeb5eb28f45df1448046fc5a919f65)
 - Rename Versions .md to Versions.md [`4af0fc7`](https://github.com/atherdon/fuck-ecoflow/commit/4af0fc71109e5dc4a6f2c054ac3f148723ee87f6)
-- Rename Sj 28 03 26 .md to Sj 28 03 26.md [`814feea`](https://github.com/atherdon/fuck-ecoflow/commit/814feea2ced7f79735bdab06ae7d4acddd9c7e57)
+- Rename Sjoerd 28 03 26 .md to Sjoerd 28 03 26.md [`814feea`](https://github.com/atherdon/fuck-ecoflow/commit/814feea2ced7f79735bdab06ae7d4acddd9c7e57)
 - Rename GitShop .md to GitShop.md [`26cefd2`](https://github.com/atherdon/fuck-ecoflow/commit/26cefd22ce26ff892bdd9fcde889a964333f0ed3)
 - Rename FPV charger Box Inspiration .md to FPV charger Box Inspiration.md [`271ace8`](https://github.com/atherdon/fuck-ecoflow/commit/271ace867b09c53cc3207a2ab365133620f8fd3a)
 - Rename Вадим 25 04 25 .md to Вадим 25 04 25.md [`6d1ef61`](https://github.com/atherdon/fuck-ecoflow/commit/6d1ef61933ae6c53590d9a3cb89ceeecd5fb3b0a)
@@ -938,7 +941,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`dc27099`](https://github.com/atherdon/fuck-ecoflow/commit/dc270994f277e31bd50b326eec43af5acdc979e0)
 - 111 [`360feb0`](https://github.com/atherdon/fuck-ecoflow/commit/360feb00be7d075aba0cf076c446816adddc94cb)
 - Update title to reflect correct name [`c8b17e4`](https://github.com/atherdon/fuck-ecoflow/commit/c8b17e4905043be4e6d4729dcde629cbf52b87e0)
-- Rename Case #0 - Proof of concept - Sj 27 05 25 20a2d71d8069801aa6c8dd9394e67099.md to Case #0 - Proof of concept-Mr.S-27-05-25.md [`10d1757`](https://github.com/atherdon/fuck-ecoflow/commit/10d1757a6f950d6ac2c95bf0939dfb8c41b5ee0d)
+- Rename Case #0 - Proof of concept - Sjoerd 27 05 25 20a2d71d8069801aa6c8dd9394e67099.md to Case #0 - Proof of concept-Mr.S-27-05-25.md [`10d1757`](https://github.com/atherdon/fuck-ecoflow/commit/10d1757a6f950d6ac2c95bf0939dfb8c41b5ee0d)
 - Rename document and update header [`0d6841e`](https://github.com/atherdon/fuck-ecoflow/commit/0d6841e029d42f98892e3e1dd189b7a57ca9db3f)
 - Rename Fine answer to African Негру 3722d71d8069807598bbf37367c10c41.md to Fine answer to Negr.md [`69e15b2`](https://github.com/atherdon/fuck-ecoflow/commit/69e15b284b3c945f9762b0e526ef77665735311b)
 - Rename Our Distributed Laboratory 3762d71d806980298164c6641d905961.md to Our-Distributed-Laboratory.md [`ce7f12f`](https://github.com/atherdon/fuck-ecoflow/commit/ce7f12fe6320a4089082a26ac95e9318f460e91c)
