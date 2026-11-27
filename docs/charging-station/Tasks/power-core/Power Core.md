@@ -17,9 +17,13 @@ Idea is simple.
 - modularity. instead of collecting batteries in my hands and building a whole box as a standalone product
 - we just building an empty case with a powercore and all the wires
 
+:::info
+
 So imagine this - we want to have a huge charging station that weights 20 kg. But its impossible to deliver via a drone. So with one flight we can drop a case, with all wires inside and separtate deliver will be just batteries, wrapped in some packaging, for preventing them getting damaged.
 
 Having a powercore with 8-10 xt60 ports inside the case will help us to be modular, be expandable, and be able to replace the batteries, when they die off.
+
+:::
 
 ## The rest of the notes
 

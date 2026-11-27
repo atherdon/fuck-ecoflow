@@ -10,6 +10,13 @@ description: A modular charging station that can be dropped from a drone, with a
 
 [Back to Power Core](./Power%20Core.md)
 
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Concept](#concept)
+- [Functional Requirements](#functional-requirements)
+- [Example Deployment Scenario](#example-deployment-scenario)
+- [Design Principles](#design-principles)
+
 ## Overview
 
 The Modular Drone-Deployed Power Station is a lightweight power distribution platform designed for delivery by large logistics drones.
@@ -170,6 +177,8 @@ Instead of delivering a single 20 kg assembly:
 
 ---
 
+:::note
+
 One thing I'd add, because engineers will immediately ask it:
 
 **What is the actual mission?**
@@ -185,6 +194,9 @@ For example:
 
 That mission statement will drive almost every engineering decision (voltage, current, cooling, connector type, wire gauge, converter selection, etc.). The clearer that section is, the better the resulting design will be.
 
+:::
+
+```
 ┌─────────────────────┐
 │   AC/DC Adapter     │
 │  (Laptop PSU / GaN) │
@@ -212,6 +224,7 @@ That mission statement will drive almost every engineering decision (voltage, cu
 └────────┬────────┘
 │
 ▼
+```
 
 ```
   ┌──────────────────┐
@@ -222,6 +235,7 @@ That mission statement will drive almost every engineering decision (voltage, cu
            ▼
 ```
 
+```
 ┌─────────────────────────────┐
 │ HOTA USB-C GaN Hub          │
 │                             │
@@ -235,3 +249,4 @@ That mission statement will drive almost every engineering decision (voltage, cu
 Laptop      Radio
 Tablet      Starlink
 Phone       Drone Gear
+```

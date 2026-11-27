@@ -14,7 +14,18 @@ Instead of trying to write an engineering specification directly, start by creat
 
 A structure like this usually works well:
 
-## 1. Problem Statement
+- [1. Problem Statement](#1-problem-statement)
+- [2. Vision](#2-vision)
+- [3. User Types](#3-user-types)
+- [4. Core Capabilities](#4-core-capabilities)
+- [5. Example Scenarios](#5-example-scenarios)
+- [6. Inputs](#6-inputs)
+- [7. Outputs](#7-outputs)
+- [8. Success Metrics](#8-success-metrics)
+- [9. Constraints](#9-constraints)
+- [10. Future Vision](#10-future-vision)
+
+## 1. Problem Statement {#1-problem-statement}
 
 What problem does the device solve?
 
@@ -25,7 +36,7 @@ Example:
 
 ---
 
-## 2. Vision
+## 2. Vision {#2-vision}
 
 What is the ideal future?
 
@@ -36,7 +47,7 @@ Example:
 
 ---
 
-## 3. User Types
+## 3. User Types {#3-user-types}
 
 Who uses it?
 
@@ -50,7 +61,7 @@ Who uses it?
 
 ---
 
-## 4. Core Capabilities
+## 4. Core Capabilities {#4-core-capabilities}
 
 Describe capabilities, not implementation.
 
@@ -96,7 +107,7 @@ The system should:
 
 ---
 
-## 5. Example Scenarios
+## 5. Example Scenarios {#5-example-scenarios}
 
 These are incredibly valuable.
 
@@ -130,7 +141,7 @@ System provides:
 
 ---
 
-## 6. Inputs
+## 6. Inputs {#6-inputs}
 
 What information can enter the system?
 
@@ -150,7 +161,7 @@ Examples:
 
 ---
 
-## 7. Outputs
+## 7. Outputs {#7-outputs}
 
 What should the system produce?
 
@@ -167,7 +178,7 @@ Examples:
 
 ---
 
-## 8. Success Metrics
+## 8. Success Metrics {#8-success-metrics}
 
 How do we know it works?
 
@@ -180,7 +191,7 @@ Examples:
 
 ---
 
-## 9. Constraints
+## 9. Constraints {#9-constraints}
 
 Examples:
 
@@ -193,7 +204,7 @@ Examples:
 
 ---
 
-## 10. Future Vision
+## 10. Future Vision {#10-future-vision}
 
 What does Version 5 look like?
 
