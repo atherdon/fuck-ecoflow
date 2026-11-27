@@ -62,17 +62,17 @@ const lines = [
   '>',
   '> Paths are listed as code (not links) so incomplete / unlisted docs do not fail `onBrokenLinks`.',
   '',
-  `| # | Path | Title |`,
-  `| --- | --- | --- |`,
+  `| Path | Title |`,
+  `| --- | --- |`,
 ];
 
-let i = 0;
+// No row numbers: a numbered column renumbers every later row whenever a page
+// is added or removed, so any two PRs that touch docs/ conflicted here.
 for (const full of files) {
-  i += 1;
   const rel = path.relative(docsRoot, full).replace(/\\/g, '/');
   const fm = parseFrontmatter(fs.readFileSync(full, 'utf8'));
   const title = (fm.title || fm.sidebar_label || rel.replace(/\.(md|mdx)$/i, '')).replace(/\|/g, '\\|');
-  lines.push(`| ${i} | \`${rel}\` | ${title} |`);
+  lines.push(`| \`${rel}\` | ${title} |`);
 }
 lines.push('');
 fs.writeFileSync(outputPath, lines.join('\n'));
