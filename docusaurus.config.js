@@ -159,6 +159,10 @@ const manualRedirects = [
     from: ['/docs/charging-station/inspiration/FLMan/intro'],
   },
   {
+    to: '/docs/charging-station/inspiration/florida-man',
+    from: ['/docs/flman/florida-man'],
+  },
+  {
     to: '/docs/outsourcing-engineering/drone-net-gun#nets--photo-reference',
     from: [
       '/docs/01-outsourcing-engineering/drone-net-gun/nets-information',
