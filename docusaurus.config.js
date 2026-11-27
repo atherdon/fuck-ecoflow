@@ -163,6 +163,10 @@ const manualRedirects = [
     from: ['/docs/flman/florida-man'],
   },
   {
+    to: '/docs/charging-station/inspiration/sj-28-03-26',
+    from: ['/docs/charging-station/notes/exportblock/sj-28-03-26'],
+  },
+  {
     to: '/docs/outsourcing-engineering/drone-net-gun#nets--photo-reference',
     from: [
       '/docs/01-outsourcing-engineering/drone-net-gun/nets-information',

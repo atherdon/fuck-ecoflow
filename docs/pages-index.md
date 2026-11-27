@@ -59,7 +59,7 @@ sidebar_position: 999
 | `charging-station/Y-completed-cases/readme.md` | Completed cases |
 | `charging-station/inspiration/florida-man/readme.md` | Florida Man |
 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
-| `charging-station/notes/SJ/Sj 28 03 26.md` | charging-station/notes/SJ/Sj 28 03 26 |
+| `charging-station/inspiration/sj-28-03-26/readme.md` | Sj 28.03.26 |
 | `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
