@@ -1,5 +1,6 @@
 ---
-slug: /flman/florida-man
+title: Florida Man
+sidebar_label: Florida Man
 ---
 
 # Florida Man
