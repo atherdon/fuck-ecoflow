@@ -107,29 +107,29 @@ sidebar_position: 999
 | 93 | `charging-station/versions/timeline.md` | Versions timeline |
 | 94 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
 | 95 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
-| 96 | `communication/50-States-For-Ukraine/1.md` | Short version (will expand it later) |
-| 97 | `communication/50-States-For-Ukraine/a.md` | Історія по двох поранених |
-| 98 | `communication/50-States-For-Ukraine/colin.md` | Colin |
-| 99 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
-| 100 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
-| 101 | `communication/African-guy/negr.md` | Situation update |
-| 102 | `communication/African-guy/star.md` | Міністар |
-| 103 | `communication/Christine/christine.md` | Christine |
-| 104 | `communication/Dmytro/readme.md` | Dmytro |
-| 105 | `communication/FLMan/readme.md` | FLMan |
-| 106 | `communication/Mr.S.md` | Mr.S — press release |
-| 107 | `communication/OWL/1.md` | OWL notes |
-| 108 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
-| 109 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
-| 110 | `communication/WB BeNeLux/readme.md` | WB BeNeLux |
-| 111 | `communication/dam.md` | Kakhovka dam |
-| 112 | `communication/em.md` | Platforma FPV |
-| 113 | `communication/intro.md` | Communication links |
-| 114 | `communication/lighthouse/readme.md` | Макс, при відправці батарей, та іншого майна ми не платимо за доставку. |
-| 115 | `communication/list-to-give-away.md` | communication/list-to-give-away |
-| 116 | `communication/master-plan-unfinished.md` | Матеріали |
-| 117 | `communication/monstrik-not-done.md` | Monstrik |
-| 118 | `communication/newsletters/readme.md` | communication/newsletters/readme |
+| 96 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
+| 97 | `communication/African-guy/negr.md` | Situation update |
+| 98 | `communication/African-guy/star.md` | Міністар |
+| 99 | `communication/Christine/christine.md` | Christine |
+| 100 | `communication/Dmytro/readme.md` | Dmytro |
+| 101 | `communication/FLMan/readme.md` | FLMan |
+| 102 | `communication/Mr.S.md` | Mr.S — press release |
+| 103 | `communication/OWL/1.md` | OWL notes |
+| 104 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
+| 105 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
+| 106 | `communication/WB BeNeLux/readme.md` | WB BeNeLux |
+| 107 | `communication/dam.md` | Kakhovka dam |
+| 108 | `communication/em.md` | Platforma FPV |
+| 109 | `communication/intro.md` | Communication links |
+| 110 | `communication/lighthouse/readme.md` | Макс, при відправці батарей, та іншого майна ми не платимо за доставку. |
+| 111 | `communication/list-to-give-away.md` | communication/list-to-give-away |
+| 112 | `communication/master-plan-unfinished.md` | Матеріали |
+| 113 | `communication/monstrik-not-done.md` | Monstrik |
+| 114 | `communication/newsletters/readme.md` | communication/newsletters/readme |
+| 115 | `communication/potreba/1.md` | Short version (will expand it later) |
+| 116 | `communication/potreba/a.md` | Історія по двох поранених |
+| 117 | `communication/potreba/colin.md` | Colin |
+| 118 | `communication/potreba/readme.md` | Potreba |
 | 119 | `communication/readme.md` | Communication |
 | 120 | `communication/shotgun-with-nets.md` | Shotgun with nets |
 | 121 | `communication/zombie/questions.md` | Fundraising campaign questions |
