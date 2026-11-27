@@ -36,16 +36,6 @@ The laboratory photos are kept in the local `images/` folder so the page is easy
 
 ![Main lab 8](./images/our-lab-12.png)
 
-![Main lab 9](./images/our-lab-13.png)
-
-## Teufel's lab
-
-![Teufel's lab](./images/our-lab-14.png)
-
-## Rob's lab
-
-![Rob's lab](./images/our-lab-15.png)
-
 ## Owl lab
 
 ![Owl lab 1](./images/our-lab-16.png)
@@ -64,23 +54,7 @@ The laboratory photos are kept in the local `images/` folder so the page is easy
 
 ![Lab WhatsApp photo 2026-03-31 1](./images/lab-whatsapp-2026-03-31-054053-01.jpg)
 
-![Lab WhatsApp photo 2026-03-31 2](./images/lab-whatsapp-2026-03-31-054053-02.jpg)
-
-![Lab WhatsApp photo 2026-03-31 3](./images/lab-whatsapp-2026-03-31-054053-03.jpg)
-
 ![Lab WhatsApp photo 2026-03-31 4](./images/lab-whatsapp-2026-03-31-054054-01.jpg)
-
-![Lab Signal photo 2026-04-05 002](./images/lab-signal-2026-04-05-103218-002.jpeg)
-
-![Lab Signal photo 2026-04-05 003](./images/lab-signal-2026-04-05-103218-003.jpeg)
-
-![Lab Signal photo 2026-04-05 004](./images/lab-signal-2026-04-05-103218-004.jpeg)
-
-![Lab Signal photo 2026-06-04 143803 002](./images/lab-signal-2026-06-04-143803-002.jpeg)
-
-![Lab Signal photo 2026-06-04 143803 003](./images/lab-signal-2026-06-04-143803-003.jpeg)
-
-![Lab Signal photo 2026-06-04 145724 002](./images/lab-signal-2026-06-04-145724-002.jpeg)
 
 ![Lab Signal photo 2026-06-04 150532 002](./images/lab-signal-2026-06-04-150532-002.jpeg)
 
