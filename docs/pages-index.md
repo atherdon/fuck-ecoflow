@@ -81,7 +81,6 @@ sidebar_position: 999
 | `charging-station/notes/filin/Filin .md` | Filin |
 | `charging-station/notes/gitshop/GitShop.md` | charging-station/notes/gitshop/GitShop |
 | `charging-station/notes/grants/Grants.md` | charging-station/notes/grants/Grants |
-| `charging-station/notes/grants/grant-vadim/Grants.md` | charging-station/notes/grants/grant-vadim/Grants |
 | `charging-station/notes/grants/readme.md` | Grants |
 | `charging-station/notes/inventors/Inventors For Different Use Cases.md` | charging-station/notes/inventors/Inventors For Different Use Cases |
 | `charging-station/notes/main-concept/case-general-concept.md` | charging-station/notes/main-concept/case-general-concept |
@@ -95,7 +94,6 @@ sidebar_position: 999
 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
-| `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
