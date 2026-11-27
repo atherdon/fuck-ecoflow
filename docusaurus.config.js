@@ -226,6 +226,16 @@ const manualRedirects = [
     to: '/docs/charging-station/notes/exportblock-b0d/вадим-25-04-25',
     from: ['/docs/vadim1/вадим-25-04-25'],
   },
+  {
+    to: '/docs/maintainers',
+    from: [
+      '/docs/maintainers/related-ecoflow-projects',
+      '/docs/maintainers/ecoflow-api-credentials',
+      '/docs/maintainers/ble-reverse-engineering',
+      '/docs/maintainers/mqtt-and-official-api',
+      '/docs/maintainers/local-modbus-powerocean',
+    ],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
