@@ -4,196 +4,30 @@ title: Необхідне на закупку
 
 # Необхідне на закупку
 
-## Трубки 30 метрів
-
-[truba krugla 16mm](https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba-alyuminiyeva-kruhla/truba-krugla-16mm/)
-
-53cm=15м * 57грн= 855 грн тонкої 1.5mm
-
-53cm=15м * 105грн= 1575 грн товстої 3m
-
-Ітого 2430 грн + порізка + доставка
-
----
-
-## Батарея 66 для вампіра
-
-[Rozetka product](https://rozetka.com.ua/ua/532058589/p532058589/)
-*[aix.com.ua product](https://aix.com.ua/index.php?route=product/product&product_id=100099)*
-
-30к за одиницю
-
-
----
-
-## Пропи для вампіра
-
-[propelery 3011 dlya hobbywing x8plus](https://fpv-market.com/shop/propelery-3011-dlya-hobbywing-x8plus/)
-
-[3011 dyujmov dlya](https://prom.ua/ua/p2611377226-3011-dyujmov-dlya.html)
-
-[3011 originalni propeleri](https://prom.ua/ua/p2983755433-3011-originalni-propeleri.html)
-
-1200-2500 за пару
-
-Припій  **CYNEL Sn60Pb40-SW26/2.5% Ø1.0, 1kg**
-
-[provolochnyj pripoj 100mm](https://prom.ua/ua/p744370379-provolochnyj-pripoj-100mm.html)
-
-3584
-
-## Болгарка
-
-[rztk ag 850s](https://rozetka.com.ua/ua/rztk_ag_850s/p252140196/)
-
-750
-
-## Шуруповерт 2 шт.
-
-[Rozetka product](https://rozetka.com.ua/ua/429668231/p429668231/)
-
-2000
-
-## Електровикрутка 2 шт.
-
-[akkumulyatornaya otvertka csd 36x](https://dnipro-m.ua/ru/tovar/akkumulyatornaya-otvertka-csd-36x/)
-
-3720
-
-## Компресор ручний (турбовентилятор)
-
-[xoko-fan-cl-02v](https://rozetka.com.ua/ua/xoko-fan-cl-02v/p497641239/)
-
-2700 грн.
-
-## Кутова шліфмашинка мала
-
-[rztk-ag-500li-brushless](https://rozetka.com.ua/ua/rztk-ag-500li-brushless/p548927367/)
-
-1000
-
-## Набір рожкових ключів
-
-[miol 51 710](https://rozetka.com.ua/ua/miol_51_710/p275302/)
-
-[sigma 6010121](https://rozetka.com.ua/ua/sigma_6010121/p12383128/)
-
-502-536
-
-## Набори викруток (шліц, хрест) 3 набори
-
-[wokin-wk200808](https://rozetka.com.ua/ua/wokin-wk200808/p513076139/)
-
-[stark 502505000](https://rozetka.com.ua/ua/stark_502505000/p11884573/)
-
-[stal 58186](https://rozetka.com.ua/ua/stal_58186/p28288529/)
-
-1073
-
-## Свердла 3 набори
-
-[Rozetka product](https://rozetka.com.ua/ua/395472642/p395472642/comments/)
-
-[Rozetka product](https://rozetka.com.ua/ua/222394003/p222394003/)
-
-1403
-
-## Тріскачка мала з набором малих торцевих головок  (потрібні малі розміри від ?)
-
-[Rozetka product](https://rozetka.com.ua/ua/364930797/p364930797/)
-
-1019
-
-## Ключі 6-гранні Г-подібні з кульовим наконечником (5 наборів)
-
-[yato-yt-0506](https://rozetka.com.ua/ua/yato-yt-0506/p425825526/)
-
-300*5=1500 грн.
-
-## Led стрічка 30м
-
-[led lenta oem](https://prom.ua/ua/p46131166-led-lenta-oem.html)
-
-999
-
-## Компресор стаціонарний
-
-[werk 605116](https://rozetka.com.ua/ua/werk_605116/p12739463/)
-
-**4 949**
-
-## Шланг, пістолет продувочний та для накачування шин
-
-[Rozetka product](https://rozetka.com.ua/ua/476650609/p476650609/)
-
-596
-
-## Стабілізатор напруги (1 - 2000VA, 1 - 3000+VA) 
-
-[Rozetka product](https://rozetka.com.ua/ua/458557954/p458557954/)
-
-[ups-kemot-154729289](https://rozetka.com.ua/ua/ups-kemot-154729289/p556519131/)
-
-[Rozetka product](https://rozetka.com.ua/ua/493602909/p493602909/)
-
-[ups-kemot-154729285](https://rozetka.com.ua/ua/ups-kemot-154729285/p556519107/)
-
-3-5 к за один
-
-## Кусачки різні 4 види
-
-[kusachki bokorezy dlya](https://prom.ua/ua/p1442111467-kusachki-bokorezy-dlya.html)
-
-[bokorezy sila standart](https://prom.ua/ua/p2894509614-bokorezy-sila-standart.html)
-
-[bokorezy dlya rukodeliya](https://prom.ua/ua/p3011805161-bokorezy-dlya-rukodeliya.html)
-
-[bokorezy dlya tochnyh](https://prom.ua/ua/p2980008149-bokorezy-dlya-tochnyh.html)
-
-394
-
-## Пасатижі
-
-[pasatizhi dnipro dlya](https://prom.ua/ua/p1270419394-pasatizhi-dnipro-dlya.html)
-
-210
-
-## Тонкогубці 2 види
-
-[tonkogubtsi dnipro dlya](https://prom.ua/ua/p1270419839-tonkogubtsi-dnipro-dlya.html)
-
-[tonkogubtsy vygnutye 160](https://prom.ua/ua/p2037187197-tonkogubtsy-vygnutye-160.html)
-
-362
-
-## Молоток 4 шт
-
-[molotok polax slesarnyj](https://prom.ua/ua/p1236281823-molotok-polax-slesarnyj.html)
-
-[slesarnyj molotok tagred](https://prom.ua/ua/p2389241255-slesarnyj-molotok-tagred.html)
-
-[molotok dvuhstoronnij rezinovyj](https://prom.ua/ua/p1445446194-molotok-dvuhstoronnij-rezinovyj.html)
-
-[molotok stomatologicheskij latunnyj](https://prom.ua/ua/p575212391-molotok-stomatologicheskij-latunnyj.html)
-
-1009
-
-Ножовка по металу 4 шт + полотна
-
-[nozhovka ruchnaya metallu](https://prom.ua/ua/p1336827032-nozhovka-ruchnaya-metallu.html)
-
-
-| Item | Qty / Notes | Links | Price (UAH) | Comments |
-|---|---:|---|---:|---|
-| Трубки 30 метрів — тонкої 1.5mm (15 м) | 15 м | [masters tvk.com.ua](https://www.masters-tvk.com.ua/)... | 855 | part of total 2430 + порізка + доставка |
-| Трубки 30 метрів — товстої 3mm (15 м) | 15 м | [masters tvk.com.ua](https://www.masters-tvk.com.ua/)... | 1575 | part of total 2430 |
-| Трубки 30 метрів — загалом | 30 м | [masters tvk.com.ua](https://www.masters-tvk.com.ua/)... | 2430 | + порізка + доставка |
-| Батарея 66 для вампіра | 1 шт | [Rozetka product](https://rozetka.com.ua/)... , [aix.com.ua](https://aix.com.ua/)... | 30,000 | за одиницю |
-| Пропи для вампіра (пропелери) | пара | [fpv market.com](https://fpv-market.com/)... , [Prom.ua](https://prom.ua/)... | 1,200–2,500 | ціна за пару (діапазон) |
-| Припій CYNEL Sn60Pb40-SW26/2.5% Ø1.0, 1kg | 1 кг | [Prom.ua](https://prom.ua/)... | 3,584 | проволочный припой |
-| Болгарка | 1 шт | [Rozetka product](https://rozetka.com.ua/)... | 750 | |
-| Шуруповерт (2 шт.) | 2 шт | [Rozetka product](https://rozetka.com.ua/)... | 2,000 | (в списку як 2000) |
-| Електровикрутка (2 шт.) | 2 шт | [dnipro m.ua](https://dnipro-m.ua/)... | 3,720 | |
-| Компресор ручний (турбовентилятор) | 1 шт | [Rozetka product](https://rozetka.com.ua/)... | 2,700 | грн. |
-
-756+
+| Назва | Посилання | Ціна | Примітки |
+| --- | --- | --- | --- |
+| Трубки 30 метрів | [truba krugla 16mm](https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba-alyuminiyeva-kruhla/truba-krugla-16mm/) | 855 грн | 53cm=15м * 57грн= 855 грн тонкої 1.5mm |
+| Трубки 30 метрів | [truba krugla 16mm](https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba-alyuminiyeva-kruhla/truba-krugla-16mm/) | 1575 грн | 53cm=15м * 105грн= 1575 грн товстої 3m |
+| Трубки 30 метрів | [truba krugla 16mm](https://www.masters-tvk.com.ua/catalog/profil-aluminium/truba-alyumyniyeva/truba-alyuminiyeva-kruhla/truba-krugla-16mm/) | 2430 грн | Ітого 2430 грн + порізка + доставка |
+| Батарея 66 для вампіра | [Rozetka product](https://rozetka.com.ua/ua/532058589/p532058589/), *[aix.com.ua product](https://aix.com.ua/index.php?route=product/product&product_id=100099)* | 30к за одиницю | — |
+| Пропи для вампіра | [propelery 3011 dlya hobbywing x8plus](https://fpv-market.com/shop/propelery-3011-dlya-hobbywing-x8plus/), [3011 dyujmov dlya](https://prom.ua/ua/p2611377226-3011-dyujmov-dlya.html), [3011 originalni propeleri](https://prom.ua/ua/p2983755433-3011-originalni-propeleri.html) | 1200-2500 за пару | — |
+| Припій CYNEL Sn60Pb40-SW26/2.5% Ø1.0, 1kg | [provolochnyj pripoj 100mm](https://prom.ua/ua/p744370379-provolochnyj-pripoj-100mm.html) | 3584 | — |
+| Болгарка | [rztk ag 850s](https://rozetka.com.ua/ua/rztk_ag_850s/p252140196/) | 750 | — |
+| Шуруповерт 2 шт. | [Rozetka product](https://rozetka.com.ua/ua/429668231/p429668231/) | 2000 | — |
+| Електровикрутка 2 шт. | [akkumulyatornaya otvertka csd 36x](https://dnipro-m.ua/ru/tovar/akkumulyatornaya-otvertka-csd-36x/) | 3720 | — |
+| Компресор ручний (турбовентилятор) | [xoko-fan-cl-02v](https://rozetka.com.ua/ua/xoko-fan-cl-02v/p497641239/) | 2700 грн. | — |
+| Кутова шліфмашинка мала | [rztk-ag-500li-brushless](https://rozetka.com.ua/ua/rztk-ag-500li-brushless/p548927367/) | 1000 | — |
+| Набір рожкових ключів | [miol 51 710](https://rozetka.com.ua/ua/miol_51_710/p275302/), [sigma 6010121](https://rozetka.com.ua/ua/sigma_6010121/p12383128/) | 502-536 | — |
+| Набори викруток (шліц, хрест) 3 набори | [wokin-wk200808](https://rozetka.com.ua/ua/wokin-wk200808/p513076139/), [stark 502505000](https://rozetka.com.ua/ua/stark_502505000/p11884573/), [stal 58186](https://rozetka.com.ua/ua/stal_58186/p28288529/) | 1073 | — |
+| Свердла 3 набори | [Rozetka product](https://rozetka.com.ua/ua/395472642/p395472642/comments/), [Rozetka product](https://rozetka.com.ua/ua/222394003/p222394003/) | 1403 | — |
+| Тріскачка мала з набором малих торцевих головок  (потрібні малі розміри від ?) | [Rozetka product](https://rozetka.com.ua/ua/364930797/p364930797/) | 1019 | — |
+| Ключі 6-гранні Г-подібні з кульовим наконечником (5 наборів) | [yato-yt-0506](https://rozetka.com.ua/ua/yato-yt-0506/p425825526/) | 300*5=1500 грн. | — |
+| Led стрічка 30м | [led lenta oem](https://prom.ua/ua/p46131166-led-lenta-oem.html) | 999 | — |
+| Компресор стаціонарний | [werk 605116](https://rozetka.com.ua/ua/werk_605116/p12739463/) | 4 949 | — |
+| Шланг, пістолет продувочний та для накачування шин | [Rozetka product](https://rozetka.com.ua/ua/476650609/p476650609/) | 596 | — |
+| Стабілізатор напруги (1 - 2000VA, 1 - 3000+VA) | [Rozetka product](https://rozetka.com.ua/ua/458557954/p458557954/), [ups-kemot-154729289](https://rozetka.com.ua/ua/ups-kemot-154729289/p556519131/), [Rozetka product](https://rozetka.com.ua/ua/493602909/p493602909/), [ups-kemot-154729285](https://rozetka.com.ua/ua/ups-kemot-154729285/p556519107/) | 3-5 к за один | — |
+| Кусачки різні 4 види | [kusachki bokorezy dlya](https://prom.ua/ua/p1442111467-kusachki-bokorezy-dlya.html), [bokorezy sila standart](https://prom.ua/ua/p2894509614-bokorezy-sila-standart.html), [bokorezy dlya rukodeliya](https://prom.ua/ua/p3011805161-bokorezy-dlya-rukodeliya.html), [bokorezy dlya tochnyh](https://prom.ua/ua/p2980008149-bokorezy-dlya-tochnyh.html) | 394 | — |
+| Пасатижі | [pasatizhi dnipro dlya](https://prom.ua/ua/p1270419394-pasatizhi-dnipro-dlya.html) | 210 | — |
+| Тонкогубці 2 види | [tonkogubtsi dnipro dlya](https://prom.ua/ua/p1270419839-tonkogubtsi-dnipro-dlya.html), [tonkogubtsy vygnutye 160](https://prom.ua/ua/p2037187197-tonkogubtsy-vygnutye-160.html) | 362 | — |
+| Молоток 4 шт | [molotok polax slesarnyj](https://prom.ua/ua/p1236281823-molotok-polax-slesarnyj.html), [slesarnyj molotok tagred](https://prom.ua/ua/p2389241255-slesarnyj-molotok-tagred.html), [molotok dvuhstoronnij rezinovyj](https://prom.ua/ua/p1445446194-molotok-dvuhstoronnij-rezinovyj.html), [molotok stomatologicheskij latunnyj](https://prom.ua/ua/p575212391-molotok-stomatologicheskij-latunnyj.html) | 1009 | — |
+| Ножовка по металу 4 шт + полотна | [nozhovka ruchnaya metallu](https://prom.ua/ua/p1336827032-nozhovka-ruchnaya-metallu.html) | 756+ | — |
