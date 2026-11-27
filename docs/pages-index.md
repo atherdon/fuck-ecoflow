@@ -149,7 +149,6 @@ sidebar_position: 999
 | `orders/we-need-it.md` | Необхідне на закупку |
 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| `reports/nl-wires/readme.md` | reports/nl-wires/readme |
 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
 | `reports/raw-notes/note-1.md` | Raw note 1 |

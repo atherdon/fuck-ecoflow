@@ -56,6 +56,13 @@ const manualRedirects = [
     ],
   },
   {
+    to: '/docs/reports',
+    from: [
+      '/docs/reports/nl-wires',
+      '/docs/reports/nl-wires/readme',
+    ],
+  },
+  {
     to: '/docs/team/our-lab',
     from: ['/docs/team/our-lab/Our-Distributed-Laboratory'],
   },
