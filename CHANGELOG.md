@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(our-lab): remove duplicate and unnecessary lab photos [`#186`](https://github.com/atherdon/fuck-ecoflow/pull/186)
 - ci(auto-rebase): resolve docs/pages-index.md conflicts automatically [`#181`](https://github.com/atherdon/fuck-ecoflow/pull/181)
 - chore(docs-index): drop row numbers from the all-pages index [`#180`](https://github.com/atherdon/fuck-ecoflow/pull/180)
 - docs: move May 22 specification to the charging-station section [`#179`](https://github.com/atherdon/fuck-ecoflow/pull/179)
@@ -844,6 +845,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`5247bce`](https://github.com/atherdon/fuck-ecoflow/commit/5247bcef651cdbc0cc1b4de4c5d74d33871b0ec4)
 - chore(changelog): regenerate after merged pull request [`8681142`](https://github.com/atherdon/fuck-ecoflow/commit/868114237a0de69e374e25c982d81e55f5b613af)
 - chore(changelog): regenerate after merged pull request [`6796a6e`](https://github.com/atherdon/fuck-ecoflow/commit/6796a6e9ca2a40429e540913d0ea59b0c57b19a9)
 - chore(changelog): regenerate after merged pull request [`0d3b727`](https://github.com/atherdon/fuck-ecoflow/commit/0d3b727e265edf4e3ed8dd489943097b812db5f4)
