@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(tasks): format section pages into tables, admonitions and consistent headings [`#196`](https://github.com/atherdon/fuck-ecoflow/pull/196)
 - docs: move the completed-cases overview photo onto Number Three [`#195`](https://github.com/atherdon/fuck-ecoflow/pull/195)
 - docs: remove the Case 01 / 2 / 3 page [`#194`](https://github.com/atherdon/fuck-ecoflow/pull/194)
 - Combine Case 01 into Case 02 — Number Two and delete duplicate images [`#193`](https://github.com/atherdon/fuck-ecoflow/pull/193)
@@ -867,6 +868,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`3696572`](https://github.com/atherdon/fuck-ecoflow/commit/3696572a7cdf340097db39debc2d59e149513619)
 - chore(changelog): regenerate after merged pull request [`a96da93`](https://github.com/atherdon/fuck-ecoflow/commit/a96da93d0024cbe1b33bb1cbe5d2b23a1b4f060b)
 - chore(changelog): regenerate after merged pull request [`2ac6b92`](https://github.com/atherdon/fuck-ecoflow/commit/2ac6b92e4f9c604a60fb0b6d5432d3ff42c72b6f)
 - chore(changelog): regenerate after merged pull request [`77c8c85`](https://github.com/atherdon/fuck-ecoflow/commit/77c8c85bf68d333d72f3bd3c52c6a4284f51e293)
