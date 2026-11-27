@@ -19,4 +19,9 @@ jobs:
       fail-on-skipped-conflicts: true
       report-failing-checks: true
       failing-checks-label: checks-failing
+      # Conflicts only in the generated all-pages list (rebuilt on main by the
+      # docs-index workflow) are resolved with main's copy and a normal merge
+      # (no force-push), then the list is regenerated in the PR (DA v2.18.0+).
+      generated-paths: docs/pages-index.md
+      regenerate-command: node ./scripts/generate-docs-index.mjs
     secrets: inherit
