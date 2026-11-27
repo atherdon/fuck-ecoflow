@@ -30,7 +30,7 @@
   ],
   "translations": [
     {
-      "page": "00-Problem/problem-statement/English-version.md",
+      "page": "00-Problem/problem-statement.md",
       "from": "00-Problem/problem-statement/UA-version.md"
     },
     {

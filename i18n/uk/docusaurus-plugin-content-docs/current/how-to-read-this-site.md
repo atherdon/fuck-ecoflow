@@ -13,7 +13,7 @@ description: Коротко про те, як упорядкована ця до
 ## З чого почати
 
 1. [Почати тут](./intro.md) — що це за проєкт
-2. [Проблема](./00-Problem/problem-statement/English-version.md) — навіщо це все
+2. [Проблема](./00-Problem/problem-statement.md) — навіщо це все
 3. [Ящик фірми Фізік і друзі](./charging-station/readme.md) — головна сторінка зарядної станції
 4. [Версії](./charging-station/versions/Versions.md) — як має розвиватися ящик
 5. [Завершені кейси](../../../../docs/charging-station/Y-completed-cases/readme.md) — збірки, які вже існують

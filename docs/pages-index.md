@@ -12,7 +12,7 @@ sidebar_position: 999
 
 | Path | Title |
 | --- | --- |
-| `00-Problem/problem-statement/English-version.md` | Problem statement |
+| `00-Problem/problem-statement.md` | Problem statement |
 | `00-Problem/readme.md` | The problem |
 | `00-Problem/situation/Situation.md` | Situation |
 | `01-outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en.md` | Dmytro's notes |

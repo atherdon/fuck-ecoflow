@@ -21,7 +21,7 @@ sidebar_label: Огляд
 
 Нотатка зі специфікацією дизайну [AI is stupid](../../../../../../docs/charging-station/overview/ai-is-stupid.md) тепер міститься в цьому розділі.
 
-[Опис проблеми](../../00-Problem/problem-statement/English-version.md) пояснює, навіщо ця робота.
+[Опис проблеми](../../00-Problem/problem-statement.md) пояснює, навіщо ця робота.
 
 ## Коментар зі специфікації від 22 травня
 

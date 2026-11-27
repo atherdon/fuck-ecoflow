@@ -13,7 +13,7 @@ The published documentation is at [atherdon.github.io/fuck-ecoflow](https://athe
 
 ## Why it exists
 
-- [Problem statement](./00-Problem/problem-statement/English-version.md)
+- [Problem statement](./00-Problem/problem-statement.md)
 - [Situation](./00-Problem/situation/Situation.md)
 
 ## Charging station

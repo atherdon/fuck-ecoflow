@@ -39,7 +39,7 @@ export default function Home() {
           </Link>{' '}
           <Link
             className="button button--secondary button--lg"
-            to="/docs/00-problem/problem-statement/english-version"
+            to="/docs/00-problem/problem-statement"
           >
             <Translate id="homepage.button.whyThisExists">
               Why this exists

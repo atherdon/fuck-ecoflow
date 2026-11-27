@@ -209,8 +209,11 @@ const manualRedirects = [
   // Separate Ukrainian pages merged into their English page as its uk
   // translation (switch language to read them). See scripts/i18n-uk-docs.json.
   {
-    to: '/docs/00-problem/problem-statement/english-version',
-    from: ['/docs/00-problem/problem-statement/ua-version'],
+    to: '/docs/00-problem/problem-statement',
+    from: [
+      '/docs/00-problem/problem-statement/english-version',
+      '/docs/00-problem/problem-statement/ua-version',
+    ],
   },
   {
     to: '/docs/outsourcing-engineering/Kyiv-Mohyla-Academy/Dmytro-en',
@@ -466,7 +469,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/00-problem/problem-statement/english-version',
+            to: '/docs/00-problem/problem-statement',
             label: 'Problem',
             position: 'left',
           },
@@ -497,7 +500,7 @@ const config = {
               },
               {
                 label: 'Problem statement',
-                to: '/docs/00-problem/problem-statement/english-version',
+                to: '/docs/00-problem/problem-statement',
               },
             ],
           },

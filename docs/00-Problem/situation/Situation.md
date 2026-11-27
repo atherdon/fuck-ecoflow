@@ -26,4 +26,4 @@ sidebar_position: 3
 
 ## Інші сторінки
 
-- [Проблема](../problem-statement/English-version.md)
+- [Проблема](../problem-statement.md)
