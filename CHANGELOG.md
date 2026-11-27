@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): remove empty notes headings [`#168`](https://github.com/atherdon/fuck-ecoflow/pull/168)
 - chore: move root images into static/zombie [`#167`](https://github.com/atherdon/fuck-ecoflow/pull/167)
 - docs: drop language markers from bilingual page titles [`#165`](https://github.com/atherdon/fuck-ecoflow/pull/165)
 - i18n: Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`#164`](https://github.com/atherdon/fuck-ecoflow/pull/164)
@@ -371,6 +372,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 3333 [`82a4189`](https://github.com/atherdon/fuck-ecoflow/commit/82a41898a22d204f15f1ebfee23bdbda84144067)
 - 123 [`acf519d`](https://github.com/atherdon/fuck-ecoflow/commit/acf519daa7b517b5b72f312f7fca529e723017fb)
 - 111 [`511be20`](https://github.com/atherdon/fuck-ecoflow/commit/511be20fc3d6e6d31a6c51215120870d9c751b5a)
+- docs(charging-station): remove empty notes headings from the main page [`e11e5ef`](https://github.com/atherdon/fuck-ecoflow/commit/e11e5efba384aeab9230571b49fcab4ab38e9af4)
 - 9999 [`a826a25`](https://github.com/atherdon/fuck-ecoflow/commit/a826a2504d783fe4a16d30f2e48f989e6053f45e)
 - Document plastic corner protection implementation task [`3ebc201`](https://github.com/atherdon/fuck-ecoflow/commit/3ebc201f77ecf871107ebee01cee65da6f9cc881)
 - 111 [`6539344`](https://github.com/atherdon/fuck-ecoflow/commit/65393441816e1dc2ee4c73441f756cb19df6ddcb)
@@ -813,6 +815,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`a8a0998`](https://github.com/atherdon/fuck-ecoflow/commit/a8a099852e945c2ca60455e535c2c8cd386f76dc)
 - chore(changelog): regenerate after merged pull request [`14c3387`](https://github.com/atherdon/fuck-ecoflow/commit/14c338755b78d0bde0d7ccc48f7529a1ae7a7806)
 - docs(maintainers): mention the uk link plugin in the translations guide [`5635447`](https://github.com/atherdon/fuck-ecoflow/commit/56354478f55233807e5bd0b3f14f9bb528eb3c39)
 - chore(changelog): regenerate after merged pull request [`ae6ad36`](https://github.com/atherdon/fuck-ecoflow/commit/ae6ad364edf9d6b4ef178d464748cf71c655f3f5)
