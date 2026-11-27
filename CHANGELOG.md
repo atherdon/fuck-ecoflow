@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: remove the Case 01 / 2 / 3 page [`#194`](https://github.com/atherdon/fuck-ecoflow/pull/194)
 - Combine Case 01 into Case 02 — Number Two and delete duplicate images [`#193`](https://github.com/atherdon/fuck-ecoflow/pull/193)
 - Combine Case 0 overview, proof of concept, and prototype into one page [`#192`](https://github.com/atherdon/fuck-ecoflow/pull/192)
 - Replace remaining Sjoerd mentions with Sj [`#191`](https://github.com/atherdon/fuck-ecoflow/pull/191)
@@ -818,6 +819,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`a40f5bf`](https://github.com/atherdon/fuck-ecoflow/commit/a40f5bf3eef9b9156eef60415eebe9078f17b40e)
 - chore(changelog): regenerate after merged pull request [`86409c2`](https://github.com/atherdon/fuck-ecoflow/commit/86409c2e085b0c315f80548765b23643da401117)
 - chore(changelog): regenerate after merged pull request [`b3b10c6`](https://github.com/atherdon/fuck-ecoflow/commit/b3b10c6c14271b3ff1d31c872a5cca62143e6053)
 - chore(changelog): regenerate after merged pull request [`593fce9`](https://github.com/atherdon/fuck-ecoflow/commit/593fce99bca9a1e36c3cae9b14bd38949a89d066)
