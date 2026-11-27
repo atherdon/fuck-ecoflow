@@ -83,10 +83,6 @@
     "message": "Гранти",
     "description": "The label for category 'Grants' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.grant-vadim": {
-    "message": "Грант (Вадим)",
-    "description": "The label for category 'grant-vadim' in sidebar 'tutorialSidebar'"
-  },
   "sidebar.tutorialSidebar.category.Miscellaneous notes": {
     "message": "Різні нотатки",
     "description": "The label for category 'Miscellaneous notes' in sidebar 'tutorialSidebar'"
