@@ -39,7 +39,10 @@ The engineer then decides whether the answer is a copper ring, PCB, busbar assem
 
 For example, if your vision is related to this power board, your specification should look more like:
 
----
+- [Purpose](#purpose)
+- [Problem](#problem)
+- [Functional Requirements](#functional-requirements)
+- [Success Criteria](#success-criteria)
 
 ## Purpose
 
@@ -109,9 +112,3 @@ The device is considered successful when:
 - assembly time is reduced by 75%
 - field failures are reduced by 50%
 - average repair time is less than 10 minutes
-
----
-
----
-
-

@@ -39,7 +39,7 @@ sidebar_position: 999
 | `14-3d-to-print/3dmodelsforcorners.md` | 14-3d-to-print/3dmodelsforcorners |
 | `14-3d-to-print/readme.md` | 3D to print |
 | `14-3d-to-print/stltoprint/STLstoprint.md` | 14-3d-to-print/stltoprint/STLstoprint |
-| `charging-station/Tasks/Plastic-Corners/cut-the-corners.md` | charging-station/Tasks/Plastic-Corners/cut-the-corners |
+| `charging-station/Tasks/Plastic-Corners/cut-the-corners.md` | Plastic Corner Protection - Implementation Task |
 | `charging-station/Tasks/matrice4-bypassing the HOTA/readme.md` | Matrice 4 — bypassing the HOTA |
 | `charging-station/Tasks/power-core/Power Core.md` | Power Core |
 | `charging-station/Tasks/power-core/modular-drone-deployed-power-station.md` | Modular Drone-Deployed Power Station |
