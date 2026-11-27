@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- chore: move root images into static/zombie [`#167`](https://github.com/atherdon/fuck-ecoflow/pull/167)
 - docs: drop language markers from bilingual page titles [`#165`](https://github.com/atherdon/fuck-ecoflow/pull/165)
 - i18n: Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`#164`](https://github.com/atherdon/fuck-ecoflow/pull/164)
 - Land #159–#162 (i18n pairs, language notice, i18n CI) on main [`#163`](https://github.com/atherdon/fuck-ecoflow/pull/163)
@@ -812,6 +813,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`14c3387`](https://github.com/atherdon/fuck-ecoflow/commit/14c338755b78d0bde0d7ccc48f7529a1ae7a7806)
 - docs(maintainers): mention the uk link plugin in the translations guide [`5635447`](https://github.com/atherdon/fuck-ecoflow/commit/56354478f55233807e5bd0b3f14f9bb528eb3c39)
 - chore(changelog): regenerate after merged pull request [`ae6ad36`](https://github.com/atherdon/fuck-ecoflow/commit/ae6ad364edf9d6b4ef178d464748cf71c655f3f5)
 - chore(docs-index): regenerate all-pages markdown list [`e906a34`](https://github.com/atherdon/fuck-ecoflow/commit/e906a345631151c78a452b91ae7738fce01244da)
