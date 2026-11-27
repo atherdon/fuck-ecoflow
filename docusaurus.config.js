@@ -13,6 +13,10 @@ import { i18nStatusPlugin } from './plugins/i18n-status.mjs';
 
 const manualRedirects = [
   {
+    to: '/docs/charging-station/notes/grants',
+    from: ['/docs/charging-station/notes/grants/grant-vadim/Grants'],
+  },
+  {
     to: '/docs/reports/status/current-status',
     from: ['/docs/reports/unfinished-report-current-status'],
   },
@@ -252,6 +256,13 @@ const manualRedirects = [
       '/docs/communication/States-For-Ukraine/colin',
       '/docs/communication/50-States-For-Ukraine/colin',
     ],
+  },
+  // Duplicate of /docs/charging-station/notes/exportblock-b0d/вадим-25-04-25
+  // (docs/charging-station/notes/vadim/). Same paths work for the uk locale
+  // build, which writes /uk/docs/... redirects automatically.
+  {
+    to: '/docs/charging-station/notes/exportblock-b0d/вадим-25-04-25',
+    from: ['/docs/vadim1/вадим-25-04-25'],
   },
   {
     to: '/docs/maintainers',

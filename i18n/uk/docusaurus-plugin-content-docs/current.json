@@ -83,10 +83,6 @@
     "message": "Гранти",
     "description": "The label for category 'Grants' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.grant-vadim": {
-    "message": "Грант (Вадим)",
-    "description": "The label for category 'grant-vadim' in sidebar 'tutorialSidebar'"
-  },
   "sidebar.tutorialSidebar.category.Miscellaneous notes": {
     "message": "Різні нотатки",
     "description": "The label for category 'Miscellaneous notes' in sidebar 'tutorialSidebar'"
@@ -190,10 +186,6 @@
   "sidebar.tutorialSidebar.category.vadim": {
     "message": "Вадим",
     "description": "The label for category 'vadim' in sidebar 'tutorialSidebar'"
-  },
-  "sidebar.tutorialSidebar.category.vadim1": {
-    "message": "Вадим 1",
-    "description": "The label for category 'vadim1' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.White box vs EcoFlow": {
     "message": "Білий ящик проти EcoFlow",

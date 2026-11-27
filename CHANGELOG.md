@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(grants): remove duplicate grant-vadim Grants page [`#177`](https://github.com/atherdon/fuck-ecoflow/pull/177)
+- docs: remove the duplicate Vadim 25.04.25 page [`#175`](https://github.com/atherdon/fuck-ecoflow/pull/175)
+- docs(sidebar): move Team, Communication, Reports and Orders to the bottom [`#176`](https://github.com/atherdon/fuck-ecoflow/pull/176)
 - docs: remove five EcoFlow maintainer research pages [`#171`](https://github.com/atherdon/fuck-ecoflow/pull/171)
 - docs(charging-station): turn physicist toolbox page into three tables [`#172`](https://github.com/atherdon/fuck-ecoflow/pull/172)
 - Move Florida Man under Inspiration as a separate page [`#173`](https://github.com/atherdon/fuck-ecoflow/pull/173)
@@ -488,6 +491,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add README gallery for docs/01-outsourcing-engineering/AssemBLYA/dissasembling/04 [`50d0e19`](https://github.com/atherdon/fuck-ecoflow/commit/50d0e193f5499bf37724e6f73be2cacd816c9f79)
 - Update readme.md [`ac054da`](https://github.com/atherdon/fuck-ecoflow/commit/ac054da4dfd07602884271fe1ea4ce15c317e070)
 - Add files via upload [`c4bc9d3`](https://github.com/atherdon/fuck-ecoflow/commit/c4bc9d39c2bffbe2594daa33d2fe1af87ef220d1)
+- docs(grants): remove duplicate grant-vadim Grants page and redirect it [`cf1b7fe`](https://github.com/atherdon/fuck-ecoflow/commit/cf1b7fe7d22e0196120eba7feae84a0c19a66568)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/nazarium/readme.md [`9ba4d74`](https://github.com/atherdon/fuck-ecoflow/commit/9ba4d74d0762cb0003edcd4493241ef4c337aa1d)
 - 111 [`1ba4238`](https://github.com/atherdon/fuck-ecoflow/commit/1ba423854345d2a996b6e017d4587749ae90f104)
 - Fix broken routes and stale doc links [`0e4b303`](https://github.com/atherdon/fuck-ecoflow/commit/0e4b303314f968b17b084bcf30113f41a9ae6b87)
@@ -827,6 +831,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`0d3b727`](https://github.com/atherdon/fuck-ecoflow/commit/0d3b727e265edf4e3ed8dd489943097b812db5f4)
+- chore(changelog): regenerate after merged pull request [`9bfffa8`](https://github.com/atherdon/fuck-ecoflow/commit/9bfffa8b514fc9c23902ec5ba92d7c36b909c976)
 - chore(changelog): regenerate after merged pull request [`5b8d72d`](https://github.com/atherdon/fuck-ecoflow/commit/5b8d72dcfa2b6ce6407704015a9511e6722c6e65)
 - chore(changelog): regenerate after merged pull request [`a8a0998`](https://github.com/atherdon/fuck-ecoflow/commit/a8a099852e945c2ca60455e535c2c8cd386f76dc)
 - chore(changelog): regenerate after merged pull request [`14c3387`](https://github.com/atherdon/fuck-ecoflow/commit/14c338755b78d0bde0d7ccc48f7529a1ae7a7806)
@@ -1163,6 +1169,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create readme.me [`f1d2d6e`](https://github.com/atherdon/fuck-ecoflow/commit/f1d2d6ec08e02288cfdc5c9b2c949dd5102d26ab)
 - Create readme.md [`a80e29b`](https://github.com/atherdon/fuck-ecoflow/commit/a80e29bfc32634ac32f47da0640f9382c82697a0)
 - Initial commit [`602dfa9`](https://github.com/atherdon/fuck-ecoflow/commit/602dfa95b82633bbde024d0007c009eb124631e2)
+- Merge origin/main into docs/remove-duplicate-vadim-25-04-25 [`52f66c5`](https://github.com/atherdon/fuck-ecoflow/commit/52f66c5f62b3ea5d9a2264a6cdf4369c49eb50a1)
 - Merge main into docs/inspiration-one-page (keep both redirect lists) [`8cee1a0`](https://github.com/atherdon/fuck-ecoflow/commit/8cee1a0d9efb52ebfd5660f5a9eaf220cad4a04c)
 - merge the updated Case 0 branch [`7a02687`](https://github.com/atherdon/fuck-ecoflow/commit/7a0268728208ad835137491fbdcc0a07bb5b6e4d)
 - merge main after the completed-case intros landed [`625e41f`](https://github.com/atherdon/fuck-ecoflow/commit/625e41fe289768c515c485740c8f1643da21e801)
