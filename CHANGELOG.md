@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- i18n: Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`#164`](https://github.com/atherdon/fuck-ecoflow/pull/164)
 - Land #159–#162 (i18n pairs, language notice, i18n CI) on main [`#163`](https://github.com/atherdon/fuck-ecoflow/pull/163)
 - ci(i18n): multi-language checks (uk copies, orphans, uk build) [`#162`](https://github.com/atherdon/fuck-ecoflow/pull/162)
 - i18n: language notice above docs pages (also in Ukrainian / English) [`#161`](https://github.com/atherdon/fuck-ecoflow/pull/161)
@@ -224,6 +225,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - docs(charging-station): physicist page as landing, versions second, inspiration as side projects [`6daaca1`](https://github.com/atherdon/fuck-ecoflow/commit/6daaca106587d71b81a0a1d3e1dd0e6e04512b5f)
 - Add files via upload [`6f9b052`](https://github.com/atherdon/fuck-ecoflow/commit/6f9b052f41ecd2bc5c280f129421e6558e19ddc2)
 - chore(docs-index): regenerate all-pages markdown list [`b4c13e8`](https://github.com/atherdon/fuck-ecoflow/commit/b4c13e8522c77d5b47047c5cb6955d056619636a)
+- chore(docs-index): regenerate all-pages markdown list [`433cec2`](https://github.com/atherdon/fuck-ecoflow/commit/433cec2eb6dca3a4ee1d3019b56786cd60801239)
 - 111 [`838648b`](https://github.com/atherdon/fuck-ecoflow/commit/838648bf6d65f96a31c6899fcd86e54ff9ad6f0e)
 - 111 [`2d9dd9f`](https://github.com/atherdon/fuck-ecoflow/commit/2d9dd9ffe6cdf36bee915dbbbbfb8f6a65addffe)
 - 3333 [`8ff3eeb`](https://github.com/atherdon/fuck-ecoflow/commit/8ff3eeba5384209024424be231a2903b457aa174)
@@ -275,6 +277,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 111 [`80e2a8a`](https://github.com/atherdon/fuck-ecoflow/commit/80e2a8a2baaa4bb0be4bd725d4776818050858c3)
 - 11 [`16441db`](https://github.com/atherdon/fuck-ecoflow/commit/16441db71e35a630d0fe3776e36ab73137a551ca)
 - 3333 [`21d2bdb`](https://github.com/atherdon/fuck-ecoflow/commit/21d2bdb471ed229f7a9d538eeefcbbb1ad018cd7)
+- docs(i18n): Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`3dbd6b7`](https://github.com/atherdon/fuck-ecoflow/commit/3dbd6b70ca35efdeb180310a6d79322bb1db6f6f)
 - chore: add Prettier config and format scripts [`2728e00`](https://github.com/atherdon/fuck-ecoflow/commit/2728e00c2d9813344d1f2c99902a5f4d578a922f)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/eng.md [`73a2c78`](https://github.com/atherdon/fuck-ecoflow/commit/73a2c7805b636d7722f47990c887526e2f6ec01e)
 - Update readme.md [`22d0e4e`](https://github.com/atherdon/fuck-ecoflow/commit/22d0e4e00456b208cc4e32244f32c9007004a9a7)
@@ -594,6 +597,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update and rename ххх to master-plan-unfinished.md [`fdf62a1`](https://github.com/atherdon/fuck-ecoflow/commit/fdf62a1d9cc5b38a46ac40a80c2eb49d6b7ae59d)
 - 111 [`5548803`](https://github.com/atherdon/fuck-ecoflow/commit/5548803bded3eb8ef74cc94f1dc85925d938061c)
 - Add files via upload [`0afaa19`](https://github.com/atherdon/fuck-ecoflow/commit/0afaa19299dab5e201f50bfdffb854b0092870d3)
+- chore(changelog): regenerate after merged pull request [`3b4998d`](https://github.com/atherdon/fuck-ecoflow/commit/3b4998dde5c2ee7036c6416207790851af19363b)
 - fix: align all @docusaurus/* deps to ^3.10.2 [`4b14308`](https://github.com/atherdon/fuck-ecoflow/commit/4b14308a1d5886627972de27ce35b1e42e70ca68)
 - Update 1.md [`9994ed9`](https://github.com/atherdon/fuck-ecoflow/commit/9994ed995d4227d5c3227958c16cf4a771623b80)
 - 222 [`122efc9`](https://github.com/atherdon/fuck-ecoflow/commit/122efc98fd036195f116946abdecd3c18888a1fe)
