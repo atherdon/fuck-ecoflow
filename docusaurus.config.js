@@ -163,6 +163,13 @@ const manualRedirects = [
     from: ['/docs/flman/florida-man'],
   },
   {
+    to: '/docs/charging-station/inspiration/outsourcing-engineering-charging-station',
+    from: [
+      '/docs/outsourcing-engineering/charging-station',
+      '/docs/01-outsourcing-engineering/charging-station',
+    ],
+  },
+  {
     to: '/docs/charging-station/inspiration/sj-28-03-26',
     from: ['/docs/charging-station/notes/exportblock/sj-28-03-26'],
   },
