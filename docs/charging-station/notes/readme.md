@@ -43,7 +43,6 @@ Background research, component notes, and conversation records for the charging-
 - [Filin](./filin/Filin%20.md)
 - [Sjoerd 28.03.26](./SJ/Sj%2028%2003%2026.md)
 - [Grants](./grants/Grants.md)
-- [Grants (Vadim folder)](./grants/grant-vadim/Grants.md)
 
 ## Other notes
 

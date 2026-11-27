@@ -13,6 +13,10 @@ import { i18nStatusPlugin } from './plugins/i18n-status.mjs';
 
 const manualRedirects = [
   {
+    to: '/docs/charging-station/notes/grants',
+    from: ['/docs/charging-station/notes/grants/grant-vadim/Grants'],
+  },
+  {
     to: '/docs/reports/status/current-status',
     from: ['/docs/reports/unfinished-report-current-status'],
   },
