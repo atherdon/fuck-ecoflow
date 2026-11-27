@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: give Cyrillic note pages English URLs [`#199`](https://github.com/atherdon/fuck-ecoflow/pull/199)
 - docs: make the problem statement a standalone sidebar page [`#198`](https://github.com/atherdon/fuck-ecoflow/pull/198)
 - docs: remove the nl-wires reports page [`#197`](https://github.com/atherdon/fuck-ecoflow/pull/197)
 - docs(tasks): format section pages into tables, admonitions and consistent headings [`#196`](https://github.com/atherdon/fuck-ecoflow/pull/196)
@@ -870,6 +871,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`b8a9961`](https://github.com/atherdon/fuck-ecoflow/commit/b8a99612aeff17f641e485a56c407ee10e1bb9d2)
 - Update README.md [`249a897`](https://github.com/atherdon/fuck-ecoflow/commit/249a897ef13234850ecbe6f22996ad1048c244f6)
 - Update intro.md [`bdc734f`](https://github.com/atherdon/fuck-ecoflow/commit/bdc734fb9fad340d3f00e2adc5ad757cfd517764)
+- chore(changelog): regenerate after merged pull request [`bcb263f`](https://github.com/atherdon/fuck-ecoflow/commit/bcb263f1374bb4599ecb829c64f4332f7f9e5124)
 - chore(changelog): regenerate after merged pull request [`d5d2b8c`](https://github.com/atherdon/fuck-ecoflow/commit/d5d2b8cc7672ddfd9e7400eeb211ebf3eb3fb2df)
 - chore(changelog): regenerate after merged pull request [`cd235ca`](https://github.com/atherdon/fuck-ecoflow/commit/cd235ca76f2073d5acb7f4a36c70c397fa745035)
 - chore(changelog): regenerate after merged pull request [`3696572`](https://github.com/atherdon/fuck-ecoflow/commit/3696572a7cdf340097db39debc2d59e149513619)
