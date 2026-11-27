@@ -105,36 +105,6 @@ slug: /charging-station
 
 ---
 
----
-
-## Vadim 22/05/2025
-
----
-
----
-
-## **Віталій 25/05/2025**
-
----
-
-## Documents for sharing - LISTS
-
-## **Awesome YT tutorial**
-
----
-
-# 3D things
-
-### STLs to print
-
-### 3d model for corners
-
----
-
-### EVERYTHING ELSE
-
----
-
 хаб для планшета
 
 ниже пока что мусорник
