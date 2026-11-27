@@ -22,7 +22,7 @@ Outreach notes, copied chats, and letters around the charging-station work, grou
 - [Кріс](./кріс.md)
 - [Dmytro](./Dmytro/readme.md)
 - [FLMan](./FLMan/readme.md)
-- [Florida Man](./FLman/Florida%20Man.md)
+- [Florida Man](../charging-station/inspiration/florida-man/readme.md)
 - [Mr.S — press release](./Mr.S.md)
 - [Mr.Owl](./OWL/mr-owl.md)
 - [OWL notes](./OWL/1.md)

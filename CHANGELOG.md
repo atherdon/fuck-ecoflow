@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- Move Florida Man under Inspiration as a separate page [`#173`](https://github.com/atherdon/fuck-ecoflow/pull/173)
+- feat(i18n): English version of the welding tools page [`#170`](https://github.com/atherdon/fuck-ecoflow/pull/170)
+- docs(reports): split progress-cases into EN and UK pages [`#169`](https://github.com/atherdon/fuck-ecoflow/pull/169)
 - docs(charging-station): remove empty notes headings [`#168`](https://github.com/atherdon/fuck-ecoflow/pull/168)
 - chore: move root images into static/zombie [`#167`](https://github.com/atherdon/fuck-ecoflow/pull/167)
 - docs: drop language markers from bilingual page titles [`#165`](https://github.com/atherdon/fuck-ecoflow/pull/165)
@@ -306,6 +309,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update readme.md [`1a63ab2`](https://github.com/atherdon/fuck-ecoflow/commit/1a63ab2774ae143f67e877c8057d7d21d7c91b8c)
 - Format readme.md with improved markdown structure and readability [`a171b14`](https://github.com/atherdon/fuck-ecoflow/commit/a171b1476af5e4e557220fbeb1a6589607ee6ca4)
 - feat(i18n): show a language notice above docs pages [`fceec09`](https://github.com/atherdon/fuck-ecoflow/commit/fceec097960b80e5a00bb84f60ab3b5d01aa6ee4)
+- docs: move Florida Man to a sibling page under inspiration [`ad650c1`](https://github.com/atherdon/fuck-ecoflow/commit/ad650c176f09e2ea6bdfc18f4937bfa7010349fb)
 - Update readme.md [`13accff`](https://github.com/atherdon/fuck-ecoflow/commit/13accff8d130ffd5d86708d4db9144bf41697840)
 - Remove detailed sections from GarryHudini readme [`a8b2d65`](https://github.com/atherdon/fuck-ecoflow/commit/a8b2d65bd20b1f8ae1044361f1ee7ea6f22b03ae)
 - ci(i18n): add multi-language checks [`6eb9031`](https://github.com/atherdon/fuck-ecoflow/commit/6eb9031c5327679bf5782c9d5bd6f8fa28bbfeb6)
@@ -329,6 +333,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Dmytro.md [`49fd332`](https://github.com/atherdon/fuck-ecoflow/commit/49fd33217642f022a8fda50ec4bedb377079a80f)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/ua.md [`7c78f21`](https://github.com/atherdon/fuck-ecoflow/commit/7c78f2108e892aa492319ecda9c86c29b44dd962)
 - 111 [`ef50d0a`](https://github.com/atherdon/fuck-ecoflow/commit/ef50d0aa5f8f6211aa2ff69349e7a5b25f2d5286)
+- feat(i18n): add English version of the welding tools page [`11cd545`](https://github.com/atherdon/fuck-ecoflow/commit/11cd545f945deb5d11084a11c3e0e3d5fa60f93f)
 - 3333 [`750a64f`](https://github.com/atherdon/fuck-ecoflow/commit/750a64f0c466b01f6eba21a5401d597f97e6fb50)
 - Update readme with extenders information and tasks [`07e4c1d`](https://github.com/atherdon/fuck-ecoflow/commit/07e4c1dfd2e645c64968b16200651d0886d17032)
 - 111 [`682f118`](https://github.com/atherdon/fuck-ecoflow/commit/682f1186df2e38c58608a97c113c8858b120b151)
@@ -357,6 +362,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ;;; [`5208382`](https://github.com/atherdon/fuck-ecoflow/commit/520838221f918689eee243b123fb4b49e3318ade)
 - 111 [`3bd121a`](https://github.com/atherdon/fuck-ecoflow/commit/3bd121ad5b51861a51add16017a2e1c60cfa5037)
 - Add files via upload [`8f502a0`](https://github.com/atherdon/fuck-ecoflow/commit/8f502a0b386d0c55482a6465840b4ac9d111eb85)
+- docs(reports): split progress-cases into English and Ukrainian pages [`007406a`](https://github.com/atherdon/fuck-ecoflow/commit/007406a4a8940ae4d876991cb5ed87b4534ea9ff)
 - Add repository organization guide [`11f3b63`](https://github.com/atherdon/fuck-ecoflow/commit/11f3b63b7fc85260d0733e463b306ee3bb8ced0f)
 - Create readme.md [`29bce11`](https://github.com/atherdon/fuck-ecoflow/commit/29bce118368a1d11095e0818d6c19249889fdd4b)
 - 111 [`8fbbec3`](https://github.com/atherdon/fuck-ecoflow/commit/8fbbec310a637ae65a7d49716b04913d4ed25068)
@@ -777,6 +783,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`292215a`](https://github.com/atherdon/fuck-ecoflow/commit/292215a28dbb537bd476f2ef498b9c348d25a0ad)
+- chore(changelog): regenerate after merged pull request [`58f9ea9`](https://github.com/atherdon/fuck-ecoflow/commit/58f9ea94e146a41bdffe20ac6624391e5217d15b)
+- chore(changelog): regenerate after merged pull request [`cec549d`](https://github.com/atherdon/fuck-ecoflow/commit/cec549deb51d8f7d3d322363c76e62bd0dbb928b)
 - chore(changelog): regenerate after merged pull request [`f97d830`](https://github.com/atherdon/fuck-ecoflow/commit/f97d830dd39944ce4f770bac518f14e083a3f9aa)
 - chore(changelog): regenerate after merged pull request [`050be73`](https://github.com/atherdon/fuck-ecoflow/commit/050be73b84c4520204ea25c6b388f44513fc2314)
 - chore(changelog): regenerate after merged pull request [`dc8de95`](https://github.com/atherdon/fuck-ecoflow/commit/dc8de95680752ada8319ad06dbfc4b01fdc9785a)
