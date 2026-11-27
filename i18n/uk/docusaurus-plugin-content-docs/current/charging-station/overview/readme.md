@@ -27,4 +27,4 @@ sidebar_label: Огляд
 
 За ідеєю Артура, є комерційна перспектива — масове виробництво кейсів на продаж
 
-Ця нотатка взята зі сторінки [May 22th Specification Only](../../../../../../docs/charging-station/notes/May%2022th%20Specification%20Only.md), де лишилася решта цієї специфікації.
+Ця нотатка взята зі сторінки [May 22th Specification Only](../../../../../../docs/charging-station/specification-only.md), де лишилася решта цієї специфікації.

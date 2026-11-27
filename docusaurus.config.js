@@ -219,6 +219,10 @@ const manualRedirects = [
       '/docs/outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua',
     ],
   },
+  {
+    to: '/docs/charging-station/specification-only',
+    from: ['/docs/charging-station/notes/may-22th-specification-only'],
+  },
 ];
 
 const assemblyaRedirectPrefixes = [
