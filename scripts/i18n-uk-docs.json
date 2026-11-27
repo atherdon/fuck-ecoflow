@@ -82,6 +82,10 @@
       "page": "charging-station/overview/readme.md",
       "from": null,
       "status": "draft for review"
+    },
+    {
+      "page": "reports/status/progress-cases.md",
+      "from": null
     }
   ]
 }
