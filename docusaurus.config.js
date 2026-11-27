@@ -102,6 +102,13 @@ const manualRedirects = [
     ],
   },
   {
+    to: '/docs/charging-station/Y-completed-cases',
+    from: [
+      '/docs/charging-station/Y-completed-cases/01-2-3',
+      '/docs/charging-station/Y-completed-cases/01-2-3/readme',
+    ],
+  },
+  {
     to: '/docs/charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people',
     from: [
       '/docs/charging-station/wb-vs-ecoflow/\u0441hat-with-great-and-smart-people',

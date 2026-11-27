@@ -73,5 +73,4 @@ The following 3 source file(s) were moved and renamed, but could not be decoded 
 ## Other cases
 
 - [Case 0](../case-0/readme.md)
-- [Case 01 / 2 / 3](../01-2-3/readme.md)
 - [Case 03 — Number Three](../03-number-three/readme.md)

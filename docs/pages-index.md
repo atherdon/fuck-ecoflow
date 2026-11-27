@@ -47,7 +47,6 @@ sidebar_position: 999
 | `charging-station/Tasks/power-core/smart-power-distribution-module.md` | Smart Power Distribution Module |
 | `charging-station/Tasks/readme.md` | Tasks |
 | `charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25.md` | charging-station/Y-completed-cases/00/case-0-proof-of-concept-mr-s-27-05-25 |
-| `charging-station/Y-completed-cases/01-2-3/readme.md` | Case 01 / 2 / 3 |
 | `charging-station/Y-completed-cases/02-number-two/readme.md` | Case 02 — Number Two |
 | `charging-station/Y-completed-cases/03-number-three/number-three.md` | Number Three |
 | `charging-station/Y-completed-cases/03-number-three/readme.md` | Case 03 — Number Three |
