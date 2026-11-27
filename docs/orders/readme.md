@@ -14,7 +14,7 @@ Parts lists, purchase notes, and supplier orders for the cases and related gear.
 - [Arthur wiring parts list](./arthur-wiring-parts-list.md)
 - [Owl supply list 2025-06-01](./owl-supply-list-2025-06-01.md)
 - [Zamovlennya MAVIC BOX April 10th](./MAVIC-BOX-April-10th.md)
-- [Devices to purchase from Alibaba](./ордер1/Devices%20to%20purchase%20fromlibaba.md)
+- [Devices to purchase from Alibaba](./order-1/devices-to-purchase-from-alibaba.md)
 - [Замовлення / Примітки](./something.md)
 - [Провід силікон 20AVG red](./06-June-case.md)
 - [Cool BMS to try](./cool-bms-to-try.md)

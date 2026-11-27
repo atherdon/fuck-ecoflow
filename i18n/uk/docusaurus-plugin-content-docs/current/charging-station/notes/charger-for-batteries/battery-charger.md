@@ -1,5 +1,4 @@
 ---
-slug: /charging-station/notes/exportbloc/зарядний-пристрій-для-акб
 title: Зарядний пристрій для АКБ
 ---
 
@@ -11,7 +10,7 @@ title: Зарядний пристрій для АКБ
 
 - Вихід живлення ( як у комп’ютерного БП ) [gnezdo setevoe na korpus s zaglushkoj s14](https://relcoma.com.ua/ru/gnezdo-setevoe-na-korpus-s-zaglushkoj-s14)
 
-![image.png](image.png)
+![image.png](../../../../../../../docs/charging-station/notes/charger-for-batteries/image.png)
 
 - Кабель 220V для зарядки батарейки
 

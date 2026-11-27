@@ -11,5 +11,5 @@ Notes about packs and cells for the charging case. Some pages overlap; both copi
 
 - [SJ workflow batteries](./batteries/MrS-workflow-batteries.md)
 - [Batteries](./batteries2/Batteries.md)
-- [Акумулятори lifepo4 замість li ion](./akb/Акумулятори%20lifepo4%20замість%20li%20ion.md)
+- [Акумулятори lifepo4 замість li ion](./akb/lifepo4-instead-of-li-ion.md)
 - [hoverboard batteries](./hoverboard/hoverboard%20batteries2%20.md)

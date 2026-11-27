@@ -56,16 +56,16 @@ sidebar_position: 999
 | `charging-station/inspiration/outsourcing-engineering-charging-station/readme.md` | Charging Station |
 | `charging-station/inspiration/readme.md` | Inspiration & side projects |
 | `charging-station/inspiration/sj-28-03-26/readme.md` | Sj 28.03.26 |
-| `charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md` | charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion |
+| `charging-station/notes/batteries/akb/lifepo4-instead-of-li-ion.md` | Акумулятори lifepo4 замість li ion (1) |
 | `charging-station/notes/batteries/batteries/MrS-workflow-batteries.md` | charging-station/notes/batteries/batteries/MrS-workflow-batteries |
 | `charging-station/notes/batteries/batteries2/Batteries.md` | charging-station/notes/batteries/batteries2/Batteries |
 | `charging-station/notes/batteries/hoverboard/hoverboard batteries2 .md` | charging-station/notes/batteries/hoverboard/hoverboard batteries2  |
 | `charging-station/notes/batteries/readme.md` | Batteries |
 | `charging-station/notes/charge-control/charge-discharge-control.md` | charging-station/notes/charge-control/charge-discharge-control |
-| `charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md` | Зарядний пристрій для АКБ |
+| `charging-station/notes/charger-for-batteries/battery-charger.md` | Зарядний пристрій для АКБ |
 | `charging-station/notes/charger/Charger for the Box.md` | charging-station/notes/charger/Charger for the Box |
 | `charging-station/notes/competitors/Competitors .md` | Competitors |
-| `charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md` | charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e |
+| `charging-station/notes/cooling/cooling.md` | Охолодження (чого?) |
 | `charging-station/notes/dc-car-inventor/DC-Car-Invertor.md` | charging-station/notes/dc-car-inventor/DC-Car-Invertor |
 | `charging-station/notes/empty-case/case-for-our-work.md` | charging-station/notes/empty-case/case-for-our-work |
 | `charging-station/notes/falsh-line/false-lid.md` | charging-station/notes/falsh-line/false-lid |
@@ -80,12 +80,12 @@ sidebar_position: 999
 | `charging-station/notes/misc/trash-can/videos-old-something-else-page.md` | charging-station/notes/misc/trash-can/videos-old-something-else-page |
 | `charging-station/notes/misc/tsikavo.md` | charging-station/notes/misc/tsikavo |
 | `charging-station/notes/pros-cons/pros-and-cons.md` | Pros and Cons |
-| `charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md` | charging-station/notes/quick-charge-boards/Плати зарядки QC 3 |
+| `charging-station/notes/quick-charge-boards/qc3-charging-boards.md` | Плати зарядки QC 3 |
 | `charging-station/notes/readme.md` | Information & notes |
-| `charging-station/notes/sockets/Вихідні роз'єми.md` | charging-station/notes/sockets/Вихідні роз'єми |
+| `charging-station/notes/sockets/output-sockets.md` | Вихідні роз'єми |
 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
-| `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
+| `charging-station/notes/vadim/vadim-25-04-25.md` | Вадим 25.04.25 |
 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
@@ -111,6 +111,7 @@ sidebar_position: 999
 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
 | `communication/WB BeNeLux/readme.md` | WB BeNeLux |
+| `communication/chris.md` | Кріс |
 | `communication/dam.md` | Kakhovka dam |
 | `communication/em.md` | Platforma FPV |
 | `communication/intro.md` | Communication links |
@@ -125,9 +126,8 @@ sidebar_position: 999
 | `communication/potreba/readme.md` | Potreba |
 | `communication/readme.md` | Communication |
 | `communication/shotgun-with-nets.md` | Shotgun with nets |
+| `communication/volunteers.md` | Волонтери |
 | `communication/zombie/questions.md` | Fundraising campaign questions |
-| `communication/волонтери.md` | Волонтери |
-| `communication/кріс.md` | Кріс |
 | `feedback.md` | Feedback |
 | `glossary.md` | Glossary |
 | `how-to-read-this-site.md` | How to read this site |
@@ -142,12 +142,12 @@ sidebar_position: 999
 | `orders/Rob-is-great.md` | Rob is great |
 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
 | `orders/cool-bms-to-try.md` | Cool BMS to try |
+| `orders/order-1/devices-to-purchase-from-alibaba.md` | Devices to purchase from Alibaba |
 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
 | `orders/readme.md` | Orders |
 | `orders/something.md` | Замовлення / Примітки |
 | `orders/tools-for-welding/tools.md` | Box "Physics" tools |
 | `orders/we-need-it.md` | Необхідне на закупку |
-| `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |

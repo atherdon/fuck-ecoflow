@@ -3,17 +3,17 @@
   "pages": [
     "00-Problem/situation/Situation.md",
     "01-outsourcing-engineering/lesnik/readme.md",
-    "charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion.md",
+    "charging-station/notes/batteries/akb/lifepo4-instead-of-li-ion.md",
     "charging-station/notes/batteries/batteries2/Batteries.md",
     "charging-station/notes/charge-control/charge-discharge-control.md",
-    "charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ.md",
-    "charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e.md",
+    "charging-station/notes/charger-for-batteries/battery-charger.md",
+    "charging-station/notes/cooling/cooling.md",
     "charging-station/notes/falsh-line/false-lid.md",
     "charging-station/notes/main-concept/case-general-concept.md",
-    "charging-station/notes/quick-charge-boards/Плати зарядки QC 3.md",
-    "charging-station/notes/sockets/Вихідні роз'єми.md",
+    "charging-station/notes/quick-charge-boards/qc3-charging-boards.md",
+    "charging-station/notes/sockets/output-sockets.md",
     "charging-station/notes/tool-box/physicist-box-tools.md",
-    "charging-station/notes/vadim/Вадим 25 04 25 .md",
+    "charging-station/notes/vadim/vadim-25-04-25.md",
     "charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md",
     "charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md",
     "charging-station/readme.md",
@@ -26,7 +26,7 @@
     "communication/Starting-Physicist-to-shine/Offer to physicist.md",
     "communication/master-plan-unfinished.md",
     "communication/shotgun-with-nets.md",
-    "communication/волонтери.md"
+    "communication/volunteers.md"
   ],
   "translations": [
     {

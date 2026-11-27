@@ -287,12 +287,69 @@ const manualRedirects = [
       '/docs/communication/50-States-For-Ukraine/colin',
     ],
   },
-  // Duplicate of /docs/charging-station/notes/exportblock-b0d/вадим-25-04-25
-  // (docs/charging-station/notes/vadim/). Same paths work for the uk locale
-  // build, which writes /uk/docs/... redirects automatically.
+  // English URLs for pages that used to have Cyrillic filenames or Notion
+  // exportblock slugs. The client-redirects plugin runs once per locale, so
+  // these also cover /uk/docs/... in the Ukrainian build.
   {
-    to: '/docs/charging-station/notes/exportblock-b0d/вадим-25-04-25',
-    from: ['/docs/vadim1/вадим-25-04-25'],
+    to: '/docs/charging-station/notes/batteries/akb/lifepo4-instead-of-li-ion',
+    from: [
+      '/docs/charging-station/batteries/exportblock-8e/акумулятори-lifepo4-замість-li-ion',
+      '/docs/charging-station/notes/batteries/akb/Акумулятори lifepo4 замість li ion',
+    ],
+  },
+  {
+    to: '/docs/charging-station/notes/charger-for-batteries/battery-charger',
+    from: [
+      '/docs/charging-station/notes/exportbloc/зарядний-пристрій-для-акб',
+      '/docs/charging-station/notes/charger-for-batteries/Зарядний пристрій для АКБ',
+    ],
+  },
+  {
+    to: '/docs/charging-station/notes/cooling/',
+    from: [
+      '/docs/charging-station/notes/32b9a4eb-7538-4c85-bec3-797aff6/exportblock-fccbacc5-d2d8-4301-9219-96d8b945301f-part-1/охолодження-чого-2132d71d806980e99c1ecb600902434e',
+      '/docs/charging-station/notes/cooling/Охолодження (чого ) 2132d71d806980e99c1ecb600902434e',
+    ],
+  },
+  {
+    to: '/docs/charging-station/notes/quick-charge-boards/qc3-charging-boards',
+    from: [
+      '/docs/charging-station/notes/exportblock-98043/плати-зарядки-qc-3',
+      '/docs/charging-station/notes/quick-charge-boards/Плати зарядки QC 3',
+    ],
+  },
+  {
+    to: '/docs/charging-station/notes/sockets/output-sockets',
+    from: [
+      '/docs/charging-station/notes/sockets/вихідні-розєми',
+      "/docs/charging-station/notes/sockets/Вихідні роз'єми",
+    ],
+  },
+  {
+    to: '/docs/charging-station/notes/vadim/vadim-25-04-25',
+    from: [
+      '/docs/charging-station/notes/exportblock-b0d/вадим-25-04-25',
+      '/docs/vadim1/вадим-25-04-25',
+      // The old filename ended with a trailing space (…/Вадим 25 04 25%20).
+      // plugin-client-redirects rejects pathnames with a trailing space, so
+      // that exact URL cannot be registered. This is the same path without it.
+      '/docs/charging-station/notes/vadim/Вадим 25 04 25',
+    ],
+  },
+  {
+    to: '/docs/communication/volunteers',
+    from: ['/docs/communication/волонтери'],
+  },
+  {
+    to: '/docs/communication/chris',
+    from: ['/docs/communication/кріс'],
+  },
+  {
+    to: '/docs/orders/order-1/devices-to-purchase-from-alibaba',
+    from: [
+      '/docs/orders/ордер1/Devices to purchase fromlibaba',
+      '/docs/orders/ордер1',
+    ],
   },
   {
     to: '/docs/charging-station/specification-only',
