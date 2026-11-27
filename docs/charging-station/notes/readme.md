@@ -37,7 +37,6 @@ Background research, component notes, and conversation records for the charging-
 ## People and conversations
 
 - [Вадим 25.04.25](./vadim/Вадим%2025%2004%2025%20.md)
-- [Вадим 25.04.25 (copy)](./vadim1/Вадим%2025%2004%2025.md)
 - [Віталій 25/05/2025](./vit-main/vitaliy/vitaliy-2025-05-25.md)
 - [Vitaliy, May 20th](./vit-main/vitaliy-2/vitaliy-may-20th.md)
 - [Filin](./filin/Filin%20.md)

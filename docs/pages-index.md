@@ -95,82 +95,81 @@ sidebar_position: 999
 | 81 | `charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e.md` | charging-station/notes/solar-addon/ExportBlock-29eb8653-2184-4544-a8cd-9937f68f2b95-Part-1/Solar addon - Low Level 2282d71d80698035a13cc489b5f9d43e |
 | 82 | `charging-station/notes/tool-box/physicist-box-tools.md` | charging-station/notes/tool-box/physicist-box-tools |
 | 83 | `charging-station/notes/vadim/Вадим 25 04 25 .md` | charging-station/notes/vadim/Вадим 25 04 25  |
-| 84 | `charging-station/notes/vadim1/Вадим 25 04 25.md` | charging-station/notes/vadim1/Вадим 25 04 25 |
-| 85 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
-| 86 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
-| 87 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
-| 88 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
-| 89 | `charging-station/overview/ai-is-stupid.md` | AI is stupid |
-| 90 | `charging-station/overview/readme.md` | Overview |
-| 91 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
-| 92 | `charging-station/readme.md` | charging-station/readme |
-| 93 | `charging-station/unfinished.md` | Unfinished notes |
-| 94 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
-| 95 | `charging-station/versions/timeline.md` | Versions timeline |
-| 96 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
-| 97 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
-| 98 | `communication/50-States-For-Ukraine/1.md` | Short version (will expand it later) |
-| 99 | `communication/50-States-For-Ukraine/a.md` | Історія по двох поранених |
-| 100 | `communication/50-States-For-Ukraine/colin.md` | Colin |
-| 101 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
-| 102 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
-| 103 | `communication/African-guy/negr.md` | Situation update |
-| 104 | `communication/African-guy/star.md` | Міністар |
-| 105 | `communication/Christine/christine.md` | Christine |
-| 106 | `communication/Dmytro/readme.md` | Dmytro |
-| 107 | `communication/FLMan/readme.md` | FLMan |
-| 108 | `communication/Mr.S.md` | Mr.S — press release |
-| 109 | `communication/OWL/1.md` | OWL notes |
-| 110 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
-| 111 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
-| 112 | `communication/WB BeNeLux/readme.md` | WB BeNeLux |
-| 113 | `communication/dam.md` | Kakhovka dam |
-| 114 | `communication/em.md` | Platforma FPV |
-| 115 | `communication/intro.md` | Communication links |
-| 116 | `communication/lighthouse/readme.md` | Макс, при відправці батарей, та іншого майна ми не платимо за доставку. |
-| 117 | `communication/list-to-give-away.md` | communication/list-to-give-away |
-| 118 | `communication/master-plan-unfinished.md` | Матеріали |
-| 119 | `communication/monstrik-not-done.md` | Monstrik |
-| 120 | `communication/newsletters/readme.md` | communication/newsletters/readme |
-| 121 | `communication/readme.md` | Communication |
-| 122 | `communication/shotgun-with-nets.md` | Shotgun with nets |
-| 123 | `communication/zombie/questions.md` | Fundraising campaign questions |
-| 124 | `communication/волонтери.md` | Волонтери |
-| 125 | `communication/кріс.md` | Кріс |
-| 126 | `feedback.md` | Feedback |
-| 127 | `glossary.md` | Glossary |
-| 128 | `how-to-read-this-site.md` | How to read this site |
-| 129 | `intro.md` | Start here |
-| 130 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
-| 131 | `maintainers/readme.md` | Maintainers |
-| 132 | `maintainers/repository-organization.md` | maintainers/repository-organization |
-| 133 | `maintainers/translations.md` | maintainers/translations |
-| 134 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
-| 135 | `orders/06-June-case.md` | June case |
-| 136 | `orders/MAVIC-BOX-April-10th.md` | Zamovlennya MAVIC BOX April 10th |
-| 137 | `orders/Rob-is-great.md` | Rob is great |
-| 138 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
-| 139 | `orders/cool-bms-to-try.md` | Cool BMS to try |
-| 140 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
-| 141 | `orders/readme.md` | Orders |
-| 142 | `orders/something.md` | Замовлення / Примітки |
-| 143 | `orders/tools-for-welding/tools.md` | Box "Physics" tools |
-| 144 | `orders/we-need-it.md` | Необхідне на закупку |
-| 145 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
-| 146 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
-| 147 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
-| 148 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
-| 149 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
-| 150 | `reports/raw-notes/note-1.md` | Raw note 1 |
-| 151 | `reports/raw-notes/note-2.md` | Raw note 2 |
-| 152 | `reports/raw-notes/note-3.md` | Raw note 3 |
-| 153 | `reports/readme.md` | reports/readme |
-| 154 | `reports/status/current-status.md` | reports/status/current-status |
-| 155 | `reports/status/june-2026.md` | June 2026 report |
-| 156 | `reports/status/progress-cases.md` | Progress on charging cases |
-| 157 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
-| 158 | `reports/wires/r.md` | reports/wires/r |
-| 159 | `team/our-lab/readme.md` | team/our-lab/readme |
-| 160 | `team/partners-and-members.md` | Partners and members |
-| 161 | `team/readme.md` | team/readme |
-| 162 | `team/veteran-business.md` | Veteran business concept |
+| 84 | `charging-station/notes/vit-main/readme.md` | Vitaliy notes |
+| 85 | `charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th.md` | charging-station/notes/vit-main/vitaliy-2/vitaliy-may-20th |
+| 86 | `charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy-3/vitaliy-2025-05-25 |
+| 87 | `charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25.md` | charging-station/notes/vit-main/vitaliy/vitaliy-2025-05-25 |
+| 88 | `charging-station/overview/ai-is-stupid.md` | AI is stupid |
+| 89 | `charging-station/overview/readme.md` | Overview |
+| 90 | `charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25.md` | charging-station/proof-of-concept/Case 0 - Proof of concept - S 27 05 25 |
+| 91 | `charging-station/readme.md` | charging-station/readme |
+| 92 | `charging-station/unfinished.md` | Unfinished notes |
+| 93 | `charging-station/versions/Versions.md` | charging-station/versions/Versions |
+| 94 | `charging-station/versions/timeline.md` | Versions timeline |
+| 95 | `charging-station/wb-vs-ecoflow/chat-with-great-and-smart-people.md` | Chat with great and smart people |
+| 96 | `charging-station/wb-vs-ecoflow/readme.md` | White box vs EcoFlow |
+| 97 | `communication/50-States-For-Ukraine/1.md` | Short version (will expand it later) |
+| 98 | `communication/50-States-For-Ukraine/a.md` | Історія по двох поранених |
+| 99 | `communication/50-States-For-Ukraine/colin.md` | Colin |
+| 100 | `communication/50-States-For-Ukraine/readme.md` | communication/50-States-For-Ukraine/readme |
+| 101 | `communication/African-guy/long-intro.md` | communication/African-guy/long-intro |
+| 102 | `communication/African-guy/negr.md` | Situation update |
+| 103 | `communication/African-guy/star.md` | Міністар |
+| 104 | `communication/Christine/christine.md` | Christine |
+| 105 | `communication/Dmytro/readme.md` | Dmytro |
+| 106 | `communication/FLMan/readme.md` | FLMan |
+| 107 | `communication/Mr.S.md` | Mr.S — press release |
+| 108 | `communication/OWL/1.md` | OWL notes |
+| 109 | `communication/OWL/mr-owl.md` | communication/OWL/mr-owl |
+| 110 | `communication/Starting-Physicist-to-shine/Offer to physicist.md` | communication/Starting-Physicist-to-shine/Offer to physicist |
+| 111 | `communication/WB BeNeLux/readme.md` | WB BeNeLux |
+| 112 | `communication/dam.md` | Kakhovka dam |
+| 113 | `communication/em.md` | Platforma FPV |
+| 114 | `communication/intro.md` | Communication links |
+| 115 | `communication/lighthouse/readme.md` | Макс, при відправці батарей, та іншого майна ми не платимо за доставку. |
+| 116 | `communication/list-to-give-away.md` | communication/list-to-give-away |
+| 117 | `communication/master-plan-unfinished.md` | Матеріали |
+| 118 | `communication/monstrik-not-done.md` | Monstrik |
+| 119 | `communication/newsletters/readme.md` | communication/newsletters/readme |
+| 120 | `communication/readme.md` | Communication |
+| 121 | `communication/shotgun-with-nets.md` | Shotgun with nets |
+| 122 | `communication/zombie/questions.md` | Fundraising campaign questions |
+| 123 | `communication/волонтери.md` | Волонтери |
+| 124 | `communication/кріс.md` | Кріс |
+| 125 | `feedback.md` | Feedback |
+| 126 | `glossary.md` | Glossary |
+| 127 | `how-to-read-this-site.md` | How to read this site |
+| 128 | `intro.md` | Start here |
+| 129 | `maintainers/mp4-media-manifest.md` | maintainers/mp4-media-manifest |
+| 130 | `maintainers/readme.md` | Maintainers |
+| 131 | `maintainers/repository-organization.md` | maintainers/repository-organization |
+| 132 | `maintainers/translations.md` | maintainers/translations |
+| 133 | `maintainers/unreferenced-media-audit.md` | maintainers/unreferenced-media-audit |
+| 134 | `orders/06-June-case.md` | June case |
+| 135 | `orders/MAVIC-BOX-April-10th.md` | Zamovlennya MAVIC BOX April 10th |
+| 136 | `orders/Rob-is-great.md` | Rob is great |
+| 137 | `orders/arthur-wiring-parts-list.md` | Arthur wiring parts list |
+| 138 | `orders/cool-bms-to-try.md` | Cool BMS to try |
+| 139 | `orders/owl-supply-list-2025-06-01.md` | Owl supply list 2025-06-01 |
+| 140 | `orders/readme.md` | Orders |
+| 141 | `orders/something.md` | Замовлення / Примітки |
+| 142 | `orders/tools-for-welding/tools.md` | Box "Physics" tools |
+| 143 | `orders/we-need-it.md` | Необхідне на закупку |
+| 144 | `orders/ордер1/Devices to purchase fromlibaba.md` | orders/ордер1/Devices to purchase fromlibaba |
+| 145 | `reports/contributors/mr-s/2026-05.md` | May 2026 |
+| 146 | `reports/nl-wires/readme.md` | reports/nl-wires/readme |
+| 147 | `reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a.md` | reports/powerbanks/Powerbanks 37d2d71d80698070833efd29538d7e5a |
+| 148 | `reports/projects/plastic-fantastic/2026-06-22/readme.md` | reports/projects/plastic-fantastic/2026-06-22/readme |
+| 149 | `reports/raw-notes/note-1.md` | Raw note 1 |
+| 150 | `reports/raw-notes/note-2.md` | Raw note 2 |
+| 151 | `reports/raw-notes/note-3.md` | Raw note 3 |
+| 152 | `reports/readme.md` | reports/readme |
+| 153 | `reports/status/current-status.md` | reports/status/current-status |
+| 154 | `reports/status/june-2026.md` | June 2026 report |
+| 155 | `reports/status/progress-cases.md` | Progress on charging cases |
+| 156 | `reports/tasks/unfinished-unsorted-tasks.md` | Unfinished unsorted tasks |
+| 157 | `reports/wires/r.md` | reports/wires/r |
+| 158 | `team/our-lab/readme.md` | team/our-lab/readme |
+| 159 | `team/partners-and-members.md` | Partners and members |
+| 160 | `team/readme.md` | team/readme |
+| 161 | `team/veteran-business.md` | Veteran business concept |

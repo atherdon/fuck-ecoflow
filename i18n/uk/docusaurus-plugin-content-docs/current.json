@@ -191,10 +191,6 @@
     "message": "Вадим",
     "description": "The label for category 'vadim' in sidebar 'tutorialSidebar'"
   },
-  "sidebar.tutorialSidebar.category.vadim1": {
-    "message": "Вадим 1",
-    "description": "The label for category 'vadim1' in sidebar 'tutorialSidebar'"
-  },
   "sidebar.tutorialSidebar.category.White box vs EcoFlow": {
     "message": "Білий ящик проти EcoFlow",
     "description": "The label for category 'White box vs EcoFlow' in sidebar 'tutorialSidebar'"
