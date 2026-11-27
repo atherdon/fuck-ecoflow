@@ -75,15 +75,19 @@ const manualRedirects = [
     ],
   },
   {
-    to: '/docs/charging-station/Y-completed-cases/case-0/prototype',
+    to: '/docs/charging-station/Y-completed-cases/case-0#prototype',
     from: [
+      '/docs/charging-station/Y-completed-cases/case-0/prototype',
       '/docs/charging-station/Y-completed-cases/prototype',
       '/docs/charging-station/Y-completed-cases/prototype/prototype',
     ],
   },
   {
-    to: '/docs/charging-station/Y-completed-cases/case-0/proof-of-concept',
-    from: ['/docs/charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25'],
+    to: '/docs/charging-station/Y-completed-cases/case-0#proof-of-concept',
+    from: [
+      '/docs/charging-station/Y-completed-cases/case-0/proof-of-concept',
+      '/docs/charging-station/01-2/case-0-proof-of-concept-mr-s-27-05-25',
+    ],
   },
   {
     to: '/docs/charging-station/Y-completed-cases/number-two',
