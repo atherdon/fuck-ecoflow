@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs: drop language markers from bilingual page titles [`#165`](https://github.com/atherdon/fuck-ecoflow/pull/165)
 - i18n: Ukrainian drafts of intro, how-to-read, glossary and charging-station overview [`#164`](https://github.com/atherdon/fuck-ecoflow/pull/164)
 - Land #159–#162 (i18n pairs, language notice, i18n CI) on main [`#163`](https://github.com/atherdon/fuck-ecoflow/pull/163)
 - ci(i18n): multi-language checks (uk copies, orphans, uk build) [`#162`](https://github.com/atherdon/fuck-ecoflow/pull/162)
@@ -740,6 +741,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create star.md [`d9dc0d8`](https://github.com/atherdon/fuck-ecoflow/commit/d9dc0d885c679827c1d7d9993dce608933b129a0)
 - Update cut-the-corners.md [`877af62`](https://github.com/atherdon/fuck-ecoflow/commit/877af6245be957b0122753f052890498aa431b42)
 - Update ai-is-stupid.md [`5046fae`](https://github.com/atherdon/fuck-ecoflow/commit/5046faeb98f64ac041ec2574035fb553ce045669)
+- chore(changelog): regenerate after merged pull request [`22aea4b`](https://github.com/atherdon/fuck-ecoflow/commit/22aea4b8ad18cc53218d544cc54fd95a5efcbf63)
 - chore(changelog): regenerate after merged pull request [`2d90e66`](https://github.com/atherdon/fuck-ecoflow/commit/2d90e66d46eb9332d4ad86e03fa5dfe553a14225)
 - chore(docs-index): regenerate all-pages markdown list [`5e1b5a4`](https://github.com/atherdon/fuck-ecoflow/commit/5e1b5a4786836357b4a6501240eab31094f429fa)
 - chore(changelog): regenerate after merged pull request [`57c7f71`](https://github.com/atherdon/fuck-ecoflow/commit/57c7f712c51aa605031e6843b9eb2f0a4d31fd9e)
