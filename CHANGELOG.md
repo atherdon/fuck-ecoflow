@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- feat(i18n): English version of the welding tools page [`#170`](https://github.com/atherdon/fuck-ecoflow/pull/170)
 - docs(reports): split progress-cases into EN and UK pages [`#169`](https://github.com/atherdon/fuck-ecoflow/pull/169)
 - docs(charging-station): remove empty notes headings [`#168`](https://github.com/atherdon/fuck-ecoflow/pull/168)
 - chore: move root images into static/zombie [`#167`](https://github.com/atherdon/fuck-ecoflow/pull/167)
@@ -330,6 +331,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Dmytro.md [`49fd332`](https://github.com/atherdon/fuck-ecoflow/commit/49fd33217642f022a8fda50ec4bedb377079a80f)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/ua.md [`7c78f21`](https://github.com/atherdon/fuck-ecoflow/commit/7c78f2108e892aa492319ecda9c86c29b44dd962)
 - 111 [`ef50d0a`](https://github.com/atherdon/fuck-ecoflow/commit/ef50d0aa5f8f6211aa2ff69349e7a5b25f2d5286)
+- feat(i18n): add English version of the welding tools page [`11cd545`](https://github.com/atherdon/fuck-ecoflow/commit/11cd545f945deb5d11084a11c3e0e3d5fa60f93f)
 - 3333 [`750a64f`](https://github.com/atherdon/fuck-ecoflow/commit/750a64f0c466b01f6eba21a5401d597f97e6fb50)
 - Update readme with extenders information and tasks [`07e4c1d`](https://github.com/atherdon/fuck-ecoflow/commit/07e4c1dfd2e645c64968b16200651d0886d17032)
 - 111 [`682f118`](https://github.com/atherdon/fuck-ecoflow/commit/682f1186df2e38c58608a97c113c8858b120b151)
@@ -779,6 +781,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`58f9ea9`](https://github.com/atherdon/fuck-ecoflow/commit/58f9ea94e146a41bdffe20ac6624391e5217d15b)
 - chore(changelog): regenerate after merged pull request [`cec549d`](https://github.com/atherdon/fuck-ecoflow/commit/cec549deb51d8f7d3d322363c76e62bd0dbb928b)
 - chore(changelog): regenerate after merged pull request [`f97d830`](https://github.com/atherdon/fuck-ecoflow/commit/f97d830dd39944ce4f770bac518f14e083a3f9aa)
 - chore(changelog): regenerate after merged pull request [`050be73`](https://github.com/atherdon/fuck-ecoflow/commit/050be73b84c4520204ea25c6b388f44513fc2314)
