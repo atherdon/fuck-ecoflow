@@ -62,6 +62,26 @@
     {
       "page": "01-outsourcing-engineering/simple-products/wire-extenders/readme.md",
       "from": "01-outsourcing-engineering/simple-products/wire-extenders/wire-extenders-ua.md"
+    },
+    {
+      "page": "intro.md",
+      "from": null,
+      "status": "draft for review"
+    },
+    {
+      "page": "how-to-read-this-site.md",
+      "from": null,
+      "status": "draft for review"
+    },
+    {
+      "page": "glossary.md",
+      "from": null,
+      "status": "draft for review"
+    },
+    {
+      "page": "charging-station/overview/readme.md",
+      "from": null,
+      "status": "draft for review"
     }
   ]
 }
