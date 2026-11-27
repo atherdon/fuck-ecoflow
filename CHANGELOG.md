@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- docs(charging-station): turn physicist toolbox page into three tables [`#172`](https://github.com/atherdon/fuck-ecoflow/pull/172)
 - Move Florida Man under Inspiration as a separate page [`#173`](https://github.com/atherdon/fuck-ecoflow/pull/173)
 - feat(i18n): English version of the welding tools page [`#170`](https://github.com/atherdon/fuck-ecoflow/pull/170)
 - docs(reports): split progress-cases into EN and UK pages [`#169`](https://github.com/atherdon/fuck-ecoflow/pull/169)
@@ -783,6 +784,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/atherdon/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/atherdon/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/atherdon/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`783594a`](https://github.com/atherdon/fuck-ecoflow/commit/783594a55d5033c4f5ae68e2812ba1a59601da74)
 - chore(changelog): regenerate after merged pull request [`292215a`](https://github.com/atherdon/fuck-ecoflow/commit/292215a28dbb537bd476f2ef498b9c348d25a0ad)
 - chore(changelog): regenerate after merged pull request [`58f9ea9`](https://github.com/atherdon/fuck-ecoflow/commit/58f9ea94e146a41bdffe20ac6624391e5217d15b)
 - chore(changelog): regenerate after merged pull request [`cec549d`](https://github.com/atherdon/fuck-ecoflow/commit/cec549deb51d8f7d3d322363c76e62bd0dbb928b)
